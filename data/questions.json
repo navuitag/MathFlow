@@ -1,0 +1,3226 @@
+[
+  {
+    "id": "q_nat_set_1",
+    "skill": "nat_set",
+    "type": "multiple_choice",
+    "question": "Tập A = {1; 3; 5; 7}. Phần tử nào thuộc A?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "3",
+    "hint": "Kiểm tra số có xuất hiện trong danh sách phần tử không."
+  },
+  {
+    "id": "q_nat_set_2",
+    "skill": "nat_set",
+    "type": "input",
+    "question": "Viết số phần tử của tập {a; b; c; d}.",
+    "answer": "4",
+    "hint": "Đếm từng phần tử khác nhau."
+  },
+  {
+    "id": "q_nat_notation_1",
+    "skill": "nat_notation",
+    "type": "multiple_choice",
+    "question": "Trong số 5 204, chữ số 2 có giá trị là bao nhiêu?",
+    "choices": [
+      "200",
+      "20",
+      "2",
+      "2 000"
+    ],
+    "answer": "200",
+    "hint": "Chữ số 2 ở hàng trăm."
+  },
+  {
+    "id": "q_nat_notation_2",
+    "skill": "nat_notation",
+    "type": "input",
+    "question": "Số gồm 3 nghìn, 0 trăm, 4 chục, 7 đơn vị là số nào?",
+    "answer": "3047",
+    "hint": "Ghép theo thứ tự nghìn, trăm, chục, đơn vị."
+  },
+  {
+    "id": "q_nat_order_1",
+    "skill": "nat_order",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "409",
+      "490",
+      "904",
+      "940"
+    ],
+    "answer": "940",
+    "hint": "So sánh từ hàng trăm rồi đến hàng chục."
+  },
+  {
+    "id": "q_nat_order_2",
+    "skill": "nat_order",
+    "type": "input",
+    "question": "Điền dấu >, < hoặc =: 356 ___ 365",
+    "answer": "<",
+    "hint": "Cùng hàng trăm, so sánh hàng chục."
+  },
+  {
+    "id": "q_nat_add_sub_1",
+    "skill": "nat_add_sub",
+    "type": "input",
+    "question": "Tính 438 + 127.",
+    "answer": "565",
+    "hint": "Cộng từ hàng đơn vị và nhớ nếu cần."
+  },
+  {
+    "id": "q_nat_add_sub_2",
+    "skill": "nat_add_sub",
+    "type": "multiple_choice",
+    "question": "765 - 240 bằng bao nhiêu?",
+    "choices": [
+      "525",
+      "535",
+      "505",
+      "625"
+    ],
+    "answer": "525",
+    "hint": "Trừ từng hàng."
+  },
+  {
+    "id": "q_nat_mul_div_1",
+    "skill": "nat_mul_div",
+    "type": "input",
+    "question": "Tính 24 · 6.",
+    "answer": "144",
+    "hint": "24 nhân 6 là 20·6 + 4·6."
+  },
+  {
+    "id": "q_nat_mul_div_2",
+    "skill": "nat_mul_div",
+    "type": "multiple_choice",
+    "question": "37 chia cho 5 có số dư là bao nhiêu?",
+    "choices": [
+      "2",
+      "5",
+      "7",
+      "1"
+    ],
+    "answer": "2",
+    "hint": "37 = 5 · 7 + 2."
+  },
+  {
+    "id": "q_nat_power_1",
+    "skill": "nat_power",
+    "type": "multiple_choice",
+    "question": "3^4 có nghĩa là gì?",
+    "choices": [
+      "3·3·3·3",
+      "3+4",
+      "4·4·4",
+      "12"
+    ],
+    "answer": "3·3·3·3",
+    "hint": "Số mũ cho biết số lần nhân cơ số."
+  },
+  {
+    "id": "q_nat_power_2",
+    "skill": "nat_power",
+    "type": "input",
+    "question": "Tính 2^5.",
+    "answer": "32",
+    "hint": "2 nhân với chính nó 5 lần."
+  },
+  {
+    "id": "q_nat_order_ops_1",
+    "skill": "nat_order_ops",
+    "type": "input",
+    "question": "Tính 6 + 4 · 3.",
+    "answer": "18",
+    "hint": "Nhân trước, cộng sau."
+  },
+  {
+    "id": "q_nat_order_ops_2",
+    "skill": "nat_order_ops",
+    "type": "multiple_choice",
+    "question": "(8 + 2)^2 bằng bao nhiêu?",
+    "choices": [
+      "100",
+      "68",
+      "20",
+      "12"
+    ],
+    "answer": "100",
+    "hint": "Tính trong ngoặc trước."
+  },
+  {
+    "id": "q_div_relation_1",
+    "skill": "div_relation",
+    "type": "multiple_choice",
+    "question": "Số nào chia hết cho 7?",
+    "choices": [
+      "42",
+      "44",
+      "45",
+      "46"
+    ],
+    "answer": "42",
+    "hint": "42 = 7 · 6."
+  },
+  {
+    "id": "q_div_relation_2",
+    "skill": "div_relation",
+    "type": "input",
+    "question": "Điền số q: 56 = 8 · q.",
+    "answer": "7",
+    "hint": "Tìm thương nguyên."
+  },
+  {
+    "id": "q_div_signs_1",
+    "skill": "div_signs",
+    "type": "multiple_choice",
+    "question": "Số nào chia hết cho cả 2 và 5?",
+    "choices": [
+      "140",
+      "135",
+      "222",
+      "351"
+    ],
+    "answer": "140",
+    "hint": "Chia hết cho 10 thì chia hết cho cả 2 và 5."
+  },
+  {
+    "id": "q_div_signs_2",
+    "skill": "div_signs",
+    "type": "input",
+    "question": "Tổng chữ số của 729 là bao nhiêu?",
+    "answer": "18",
+    "hint": "Cộng 7 + 2 + 9."
+  },
+  {
+    "id": "q_prime_numbers_1",
+    "skill": "prime_numbers",
+    "type": "multiple_choice",
+    "question": "Số nào là số nguyên tố?",
+    "choices": [
+      "29",
+      "1",
+      "21",
+      "35"
+    ],
+    "answer": "29",
+    "hint": "Số nguyên tố có đúng hai ước dương."
+  },
+  {
+    "id": "q_prime_numbers_2",
+    "skill": "prime_numbers",
+    "type": "input",
+    "question": "Phân tích 18 thành thừa số nguyên tố dạng 2*3^a. a bằng bao nhiêu?",
+    "answer": "2",
+    "hint": "18 = 2 · 3 · 3."
+  },
+  {
+    "id": "q_gcd_1",
+    "skill": "gcd",
+    "type": "input",
+    "question": "ƯCLN(12, 18) bằng bao nhiêu?",
+    "answer": "6",
+    "hint": "Liệt kê ước chung rồi chọn số lớn nhất."
+  },
+  {
+    "id": "q_gcd_2",
+    "skill": "gcd",
+    "type": "multiple_choice",
+    "question": "Ước chung của 8 và 20 là số nào?",
+    "choices": [
+      "4",
+      "6",
+      "10",
+      "12"
+    ],
+    "answer": "4",
+    "hint": "4 chia hết cả 8 và 20."
+  },
+  {
+    "id": "q_lcm_1",
+    "skill": "lcm",
+    "type": "input",
+    "question": "BCNN(4, 6) bằng bao nhiêu?",
+    "answer": "12",
+    "hint": "Tìm bội chung dương nhỏ nhất."
+  },
+  {
+    "id": "q_lcm_2",
+    "skill": "lcm",
+    "type": "multiple_choice",
+    "question": "Bội chung của 5 và 8 là số nào?",
+    "choices": [
+      "40",
+      "20",
+      "25",
+      "18"
+    ],
+    "answer": "40",
+    "hint": "40 chia hết cho cả 5 và 8."
+  },
+  {
+    "id": "q_int_set_1",
+    "skill": "int_set",
+    "type": "multiple_choice",
+    "question": "Nhiệt độ thấp hơn 0 độ C ba độ được viết là gì?",
+    "choices": [
+      "-3",
+      "3",
+      "0",
+      "1/3"
+    ],
+    "answer": "-3",
+    "hint": "Thấp hơn mốc 0 dùng số âm."
+  },
+  {
+    "id": "q_int_set_2",
+    "skill": "int_set",
+    "type": "input",
+    "question": "Số đối của 7 là gì?",
+    "answer": "-7",
+    "hint": "Hai số đối nhau nằm hai phía của 0."
+  },
+  {
+    "id": "q_int_order_1",
+    "skill": "int_order",
+    "type": "multiple_choice",
+    "question": "Số nào lớn hơn?",
+    "choices": [
+      "-2",
+      "-5"
+    ],
+    "answer": "-2",
+    "hint": "Trên trục số, -2 nằm bên phải -5."
+  },
+  {
+    "id": "q_int_order_2",
+    "skill": "int_order",
+    "type": "input",
+    "question": "Điền dấu >, < hoặc =: -8 ___ -3",
+    "answer": "<",
+    "hint": "-8 nằm bên trái -3."
+  },
+  {
+    "id": "q_int_add_sub_1",
+    "skill": "int_add_sub",
+    "type": "input",
+    "question": "Tính -4 + 9.",
+    "answer": "5",
+    "hint": "Từ -4 đi sang phải 9 bước."
+  },
+  {
+    "id": "q_int_add_sub_2",
+    "skill": "int_add_sub",
+    "type": "multiple_choice",
+    "question": "7 - 10 bằng bao nhiêu?",
+    "choices": [
+      "-3",
+      "3",
+      "17",
+      "-17"
+    ],
+    "answer": "-3",
+    "hint": "Trừ 10 nghĩa là đi sang trái 10 bước."
+  },
+  {
+    "id": "q_int_mul_div_1",
+    "skill": "int_mul_div",
+    "type": "input",
+    "question": "Tính (-6) · 4.",
+    "answer": "-24",
+    "hint": "Khác dấu thì kết quả âm."
+  },
+  {
+    "id": "q_int_mul_div_2",
+    "skill": "int_mul_div",
+    "type": "multiple_choice",
+    "question": "(-18) : (-3) bằng bao nhiêu?",
+    "choices": [
+      "6",
+      "-6",
+      "15",
+      "-15"
+    ],
+    "answer": "6",
+    "hint": "Cùng dấu thì kết quả dương."
+  },
+  {
+    "id": "q_int_divisibility_1",
+    "skill": "int_divisibility",
+    "type": "multiple_choice",
+    "question": "-15 chia hết cho số nào?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "5",
+    "hint": "-15 = 5 · (-3)."
+  },
+  {
+    "id": "q_int_divisibility_2",
+    "skill": "int_divisibility",
+    "type": "input",
+    "question": "Một bội của -4 gần 0 nhất nhưng khác 0 là số âm nào?",
+    "answer": "-4",
+    "hint": "Bội của -4 có dạng -4 · k."
+  },
+  {
+    "id": "q_shape_regular_1",
+    "skill": "shape_regular",
+    "type": "multiple_choice",
+    "question": "Hình nào có 6 cạnh bằng nhau và 6 góc bằng nhau?",
+    "choices": [
+      "Lục giác đều",
+      "Tam giác đều",
+      "Hình thoi",
+      "Hình thang"
+    ],
+    "answer": "Lục giác đều",
+    "hint": "Tên hình cho biết số cạnh."
+  },
+  {
+    "id": "q_shape_regular_2",
+    "skill": "shape_regular",
+    "type": "input",
+    "question": "Tam giác đều có bao nhiêu cạnh bằng nhau?",
+    "answer": "3",
+    "hint": "Tam giác có 3 cạnh."
+  },
+  {
+    "id": "q_shape_quads_1",
+    "skill": "shape_quads",
+    "type": "multiple_choice",
+    "question": "Hình chữ nhật có đặc điểm nào?",
+    "choices": [
+      "Bốn góc vuông",
+      "Chỉ một cặp cạnh song song",
+      "Ba cạnh bằng nhau",
+      "Không có góc vuông"
+    ],
+    "answer": "Bốn góc vuông",
+    "hint": "Hình chữ nhật có 4 góc vuông."
+  },
+  {
+    "id": "q_shape_quads_2",
+    "skill": "shape_quads",
+    "type": "input",
+    "question": "Hình bình hành có mấy cặp cạnh đối song song?",
+    "answer": "2",
+    "hint": "Hai cặp cạnh đối song song."
+  },
+  {
+    "id": "q_shape_perimeter_area_1",
+    "skill": "shape_perimeter_area",
+    "type": "input",
+    "question": "Chu vi hình vuông cạnh 6 cm là bao nhiêu cm?",
+    "answer": "24",
+    "hint": "Chu vi hình vuông bằng 4 lần cạnh."
+  },
+  {
+    "id": "q_shape_perimeter_area_2",
+    "skill": "shape_perimeter_area",
+    "type": "multiple_choice",
+    "question": "Diện tích hình chữ nhật dài 8 cm, rộng 5 cm là bao nhiêu?",
+    "choices": [
+      "40 cm2",
+      "26 cm2",
+      "13 cm2",
+      "80 cm2"
+    ],
+    "answer": "40 cm2",
+    "hint": "Diện tích bằng dài nhân rộng."
+  },
+  {
+    "id": "q_sym_axis_1",
+    "skill": "sym_axis",
+    "type": "multiple_choice",
+    "question": "Hình nào có trục đối xứng?",
+    "choices": [
+      "Hình vuông",
+      "Tam giác thường",
+      "Hình bình hành thường",
+      "Mũi tên lệch"
+    ],
+    "answer": "Hình vuông",
+    "hint": "Gấp theo đường giữa, hai nửa hình vuông chồng khít."
+  },
+  {
+    "id": "q_sym_axis_2",
+    "skill": "sym_axis",
+    "type": "input",
+    "question": "Hình chữ nhật có bao nhiêu trục đối xứng?",
+    "answer": "2",
+    "hint": "Có trục ngang và trục dọc đi qua tâm."
+  },
+  {
+    "id": "q_sym_center_1",
+    "skill": "sym_center",
+    "type": "multiple_choice",
+    "question": "Tâm đối xứng của hình bình hành là gì?",
+    "choices": [
+      "Giao điểm hai đường chéo",
+      "Một đỉnh bất kì",
+      "Trung điểm một cạnh",
+      "Bên ngoài hình"
+    ],
+    "answer": "Giao điểm hai đường chéo",
+    "hint": "Quay nửa vòng quanh điểm đó hình trùng lại."
+  },
+  {
+    "id": "q_sym_center_2",
+    "skill": "sym_center",
+    "type": "input",
+    "question": "Quay 180 độ còn gọi là quay nửa vòng. Điền số độ: ___",
+    "answer": "180",
+    "hint": "Một vòng là 360 độ."
+  },
+  {
+    "id": "q_fraction_equal_1",
+    "skill": "fraction_equal",
+    "type": "multiple_choice",
+    "question": "Phân số nào bằng 1/2?",
+    "choices": [
+      "2/4",
+      "2/3",
+      "3/5",
+      "4/6"
+    ],
+    "answer": "2/4",
+    "hint": "Nhân cả tử và mẫu của 1/2 với 2."
+  },
+  {
+    "id": "q_fraction_equal_2",
+    "skill": "fraction_equal",
+    "type": "input",
+    "question": "Rút gọn 6/9.",
+    "answer": "2/3",
+    "hint": "Chia cả tử và mẫu cho 3."
+  },
+  {
+    "id": "q_fraction_compare_1",
+    "skill": "fraction_compare",
+    "type": "multiple_choice",
+    "question": "Phân số nào lớn hơn?",
+    "choices": [
+      "2/3",
+      "1/2"
+    ],
+    "answer": "2/3",
+    "hint": "Quy đồng: 4/6 > 3/6."
+  },
+  {
+    "id": "q_fraction_compare_2",
+    "skill": "fraction_compare",
+    "type": "input",
+    "question": "Điền dấu >, < hoặc =: 3/5 ___ 4/5",
+    "answer": "<",
+    "hint": "Cùng mẫu 5, so sánh tử."
+  },
+  {
+    "id": "q_fraction_add_sub_1",
+    "skill": "fraction_add_sub",
+    "type": "input",
+    "question": "Tính 1/4 + 2/4.",
+    "answer": "3/4",
+    "hint": "Cùng mẫu thì cộng tử số."
+  },
+  {
+    "id": "q_fraction_add_sub_2",
+    "skill": "fraction_add_sub",
+    "type": "multiple_choice",
+    "question": "1/2 + 1/3 bằng bao nhiêu?",
+    "choices": [
+      "5/6",
+      "2/5",
+      "1/5",
+      "2/6"
+    ],
+    "answer": "5/6",
+    "hint": "Quy đồng mẫu 6."
+  },
+  {
+    "id": "q_fraction_mul_div_1",
+    "skill": "fraction_mul_div",
+    "type": "input",
+    "question": "Tính 2/3 * 3/4 rồi rút gọn.",
+    "answer": "1/2",
+    "hint": "Nhân tử với tử, mẫu với mẫu rồi rút gọn."
+  },
+  {
+    "id": "q_fraction_mul_div_2",
+    "skill": "fraction_mul_div",
+    "type": "multiple_choice",
+    "question": "1/2 : 1/4 bằng bao nhiêu?",
+    "choices": [
+      "2",
+      "1/8",
+      "1/2",
+      "4"
+    ],
+    "answer": "2",
+    "hint": "Chia cho 1/4 là nhân với 4."
+  },
+  {
+    "id": "q_fraction_two_problems_1",
+    "skill": "fraction_two_problems",
+    "type": "input",
+    "question": "3/4 của 20 là bao nhiêu?",
+    "answer": "15",
+    "hint": "Tính 20 · 3/4."
+  },
+  {
+    "id": "q_fraction_two_problems_2",
+    "skill": "fraction_two_problems",
+    "type": "multiple_choice",
+    "question": "Biết 1/3 của một số là 9. Số đó là?",
+    "choices": [
+      "27",
+      "3",
+      "12",
+      "18"
+    ],
+    "answer": "27",
+    "hint": "Số cần tìm bằng 9 : 1/3."
+  },
+  {
+    "id": "q_decimal_intro_1",
+    "skill": "decimal_intro",
+    "type": "multiple_choice",
+    "question": "0,75 bằng phân số nào?",
+    "choices": [
+      "75/100",
+      "75/10",
+      "7/5",
+      "3/10"
+    ],
+    "answer": "75/100",
+    "hint": "Hai chữ số sau dấu phẩy là phần trăm."
+  },
+  {
+    "id": "q_decimal_intro_2",
+    "skill": "decimal_intro",
+    "type": "input",
+    "question": "Viết 3/10 dưới dạng số thập phân dùng dấu phẩy.",
+    "answer": "0,3",
+    "hint": "3 phần mười là 0,3."
+  },
+  {
+    "id": "q_decimal_ops_1",
+    "skill": "decimal_ops",
+    "type": "input",
+    "question": "Tính 2,5 + 0,75.",
+    "answer": "3,25",
+    "hint": "Đặt thẳng hàng dấu phẩy."
+  },
+  {
+    "id": "q_decimal_ops_2",
+    "skill": "decimal_ops",
+    "type": "multiple_choice",
+    "question": "1,2 · 3 bằng bao nhiêu?",
+    "choices": [
+      "3,6",
+      "36",
+      "0,36",
+      "4,2"
+    ],
+    "answer": "3,6",
+    "hint": "12 phần mười nhân 3 là 36 phần mười."
+  },
+  {
+    "id": "q_decimal_round_1",
+    "skill": "decimal_round",
+    "type": "input",
+    "question": "Làm tròn 3,76 đến hàng phần mười.",
+    "answer": "3,8",
+    "hint": "Nhìn chữ số hàng phần trăm là 6 nên tăng."
+  },
+  {
+    "id": "q_decimal_round_2",
+    "skill": "decimal_round",
+    "type": "multiple_choice",
+    "question": "Ước lượng 49,8 + 20,1 gần bằng bao nhiêu?",
+    "choices": [
+      "70",
+      "60",
+      "80",
+      "50"
+    ],
+    "answer": "70",
+    "hint": "49,8 gần 50; 20,1 gần 20."
+  },
+  {
+    "id": "q_ratio_percent_1",
+    "skill": "ratio_percent",
+    "type": "input",
+    "question": "25% của 80 là bao nhiêu?",
+    "answer": "20",
+    "hint": "25% = 1/4."
+  },
+  {
+    "id": "q_ratio_percent_2",
+    "skill": "ratio_percent",
+    "type": "multiple_choice",
+    "question": "Tỉ số của 3 và 12 là gì?",
+    "choices": [
+      "1/4",
+      "4",
+      "9",
+      "12/3"
+    ],
+    "answer": "1/4",
+    "hint": "3/12 rút gọn bằng 1/4."
+  },
+  {
+    "id": "q_point_line_1",
+    "skill": "point_line",
+    "type": "multiple_choice",
+    "question": "Kí hiệu nào thường dùng cho điểm?",
+    "choices": [
+      "A",
+      "d",
+      "m",
+      "xy"
+    ],
+    "answer": "A",
+    "hint": "Điểm thường kí hiệu bằng chữ in hoa."
+  },
+  {
+    "id": "q_point_line_2",
+    "skill": "point_line",
+    "type": "input",
+    "question": "Có bao nhiêu đường thẳng đi qua hai điểm phân biệt?",
+    "answer": "1",
+    "hint": "Qua hai điểm phân biệt chỉ có một đường thẳng."
+  },
+  {
+    "id": "q_three_points_1",
+    "skill": "three_points",
+    "type": "multiple_choice",
+    "question": "Nếu B nằm giữa A và C thì ba điểm A, B, C phải như thế nào?",
+    "choices": [
+      "Thẳng hàng",
+      "Tạo tam giác",
+      "Trùng nhau",
+      "Không thẳng hàng"
+    ],
+    "answer": "Thẳng hàng",
+    "hint": "Điểm nằm giữa chỉ xét khi thẳng hàng."
+  },
+  {
+    "id": "q_three_points_2",
+    "skill": "three_points",
+    "type": "input",
+    "question": "Hai tia đối nhau có chung mấy gốc?",
+    "answer": "1",
+    "hint": "Hai tia đối nhau chung gốc và tạo thành đường thẳng."
+  },
+  {
+    "id": "q_segment_length_1",
+    "skill": "segment_length",
+    "type": "input",
+    "question": "Đoạn AB dài 7 cm, đoạn BC dài 5 cm. Nếu B nằm giữa A và C thì AC dài bao nhiêu cm?",
+    "answer": "12",
+    "hint": "Cộng hai đoạn liên tiếp."
+  },
+  {
+    "id": "q_segment_length_2",
+    "skill": "segment_length",
+    "type": "multiple_choice",
+    "question": "Đoạn thẳng có bao nhiêu đầu mút?",
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "2",
+    "hint": "Đoạn thẳng được giới hạn bởi hai điểm."
+  },
+  {
+    "id": "q_midpoint_1",
+    "skill": "midpoint",
+    "type": "multiple_choice",
+    "question": "M là trung điểm AB khi nào?",
+    "choices": [
+      "M nằm giữa A, B và MA = MB",
+      "MA > MB",
+      "M không thuộc AB",
+      "A nằm giữa M và B"
+    ],
+    "answer": "M nằm giữa A, B và MA = MB",
+    "hint": "Cần đủ hai điều kiện."
+  },
+  {
+    "id": "q_midpoint_2",
+    "skill": "midpoint",
+    "type": "input",
+    "question": "AB = 10 cm, M là trung điểm AB. AM bằng bao nhiêu cm?",
+    "answer": "5",
+    "hint": "Trung điểm chia đoạn thành hai phần bằng nhau."
+  },
+  {
+    "id": "q_data_collect_1",
+    "skill": "data_collect",
+    "type": "multiple_choice",
+    "question": "Bảng dữ liệu dùng để làm gì?",
+    "choices": [
+      "Tổ chức thông tin",
+      "Vẽ đường thẳng",
+      "Tính lũy thừa",
+      "Đo góc"
+    ],
+    "answer": "Tổ chức thông tin",
+    "hint": "Dữ liệu cần được sắp xếp để đọc dễ hơn."
+  },
+  {
+    "id": "q_data_collect_2",
+    "skill": "data_collect",
+    "type": "input",
+    "question": "Có 5 bạn chọn bóng đá, 3 bạn chọn cầu lông. Tổng số bạn được hỏi là bao nhiêu?",
+    "answer": "8",
+    "hint": "Cộng số bạn ở hai nhóm."
+  },
+  {
+    "id": "q_data_chart_1",
+    "skill": "data_chart",
+    "type": "multiple_choice",
+    "question": "Biểu đồ cột phù hợp nhất để làm gì?",
+    "choices": [
+      "So sánh số lượng giữa các nhóm",
+      "Tính ƯCLN",
+      "Đo đoạn thẳng",
+      "Rút gọn phân số"
+    ],
+    "answer": "So sánh số lượng giữa các nhóm",
+    "hint": "Chiều cao cột biểu diễn số lượng."
+  },
+  {
+    "id": "q_data_chart_2",
+    "skill": "data_chart",
+    "type": "input",
+    "question": "Một cột cao đến vạch 12 học sinh. Giá trị của cột là bao nhiêu?",
+    "answer": "12",
+    "hint": "Đọc theo trục số lượng."
+  },
+  {
+    "id": "q_data_analysis_1",
+    "skill": "data_analysis",
+    "type": "input",
+    "question": "Tháng 5 bán 120 quyển, tháng 6 bán 150 quyển. Tăng bao nhiêu quyển?",
+    "answer": "30",
+    "hint": "Lấy 150 - 120."
+  },
+  {
+    "id": "q_data_analysis_2",
+    "skill": "data_analysis",
+    "type": "multiple_choice",
+    "question": "Nhận xét nào cần có bằng chứng?",
+    "choices": [
+      "Tháng 6 bán nhiều hơn tháng 5 30 quyển",
+      "Dữ liệu không cần đọc",
+      "Cột cao hơn thì ít hơn",
+      "Không cần đơn vị"
+    ],
+    "answer": "Tháng 6 bán nhiều hơn tháng 5 30 quyển",
+    "hint": "Nhận xét tốt kèm số liệu."
+  },
+  {
+    "id": "q_probability_exp_1",
+    "skill": "probability_exp",
+    "type": "input",
+    "question": "Tung xu 20 lần, mặt sấp xuất hiện 9 lần. Xác suất thực nghiệm của mặt sấp là gì?",
+    "answer": "9/20",
+    "hint": "Số lần xảy ra chia tổng số lần thử."
+  },
+  {
+    "id": "q_probability_exp_2",
+    "skill": "probability_exp",
+    "type": "multiple_choice",
+    "question": "Gieo xúc xắc 30 lần, ra số 6 được 5 lần. Xác suất thực nghiệm là?",
+    "choices": [
+      "5/30",
+      "6/30",
+      "30/5",
+      "1/30"
+    ],
+    "answer": "5/30",
+    "hint": "Lấy số lần ra 6 chia tổng số lần gieo."
+  },
+  {
+    "id": "q_g7_rational_set_1",
+    "skill": "g7_rational_set",
+    "type": "multiple_choice",
+    "question": "Số nào là số hữu tỉ?",
+    "choices": [
+      "-3/5",
+      "sqrt(2)",
+      "pi",
+      "sqrt(3)"
+    ],
+    "answer": "-3/5",
+    "hint": "Số hữu tỉ viết được dạng a/b với b khác 0."
+  },
+  {
+    "id": "q_g7_rational_set_2",
+    "skill": "g7_rational_set",
+    "type": "input",
+    "question": "Số đối của -7/4 là gì?",
+    "answer": "7/4",
+    "hint": "Hai số đối nhau có tổng bằng 0."
+  },
+  {
+    "id": "q_g7_rational_ops_1",
+    "skill": "g7_rational_ops",
+    "type": "input",
+    "question": "Tính -1/2 + 3/4.",
+    "answer": "1/4",
+    "hint": "Quy đồng mẫu 4."
+  },
+  {
+    "id": "q_g7_rational_ops_2",
+    "skill": "g7_rational_ops",
+    "type": "multiple_choice",
+    "question": "(-2/3) · (9/4) bằng bao nhiêu?",
+    "choices": [
+      "-3/2",
+      "3/2",
+      "-18/7",
+      "2/3"
+    ],
+    "answer": "-3/2",
+    "hint": "Rút gọn 9 với 3, rồi nhân."
+  },
+  {
+    "id": "q_g7_rational_power_1",
+    "skill": "g7_rational_power",
+    "type": "input",
+    "question": "Tính (-2/3)^2.",
+    "answer": "4/9",
+    "hint": "Số mũ chẵn cho kết quả dương."
+  },
+  {
+    "id": "q_g7_rational_power_2",
+    "skill": "g7_rational_power",
+    "type": "multiple_choice",
+    "question": "(1/2)^3 bằng bao nhiêu?",
+    "choices": [
+      "1/8",
+      "3/2",
+      "1/6",
+      "8"
+    ],
+    "answer": "1/8",
+    "hint": "Nhân 1/2 ba lần."
+  },
+  {
+    "id": "q_g7_ops_transfer_1",
+    "skill": "g7_ops_transfer",
+    "type": "input",
+    "question": "Giải x + 5 = 12. x = ?",
+    "answer": "7",
+    "hint": "Chuyển 5 sang vế phải thành -5."
+  },
+  {
+    "id": "q_g7_ops_transfer_2",
+    "skill": "g7_ops_transfer",
+    "type": "multiple_choice",
+    "question": "Trong 3x = 15, x bằng bao nhiêu?",
+    "choices": [
+      "5",
+      "12",
+      "18",
+      "45"
+    ],
+    "answer": "5",
+    "hint": "Chia hai vế cho 3."
+  },
+  {
+    "id": "q_g7_repeating_decimal_1",
+    "skill": "g7_repeating_decimal",
+    "type": "multiple_choice",
+    "question": "0,333... có chu kì là gì?",
+    "choices": [
+      "3",
+      "33",
+      "0",
+      "3333"
+    ],
+    "answer": "3",
+    "hint": "Nhóm chữ số lặp lại là 3."
+  },
+  {
+    "id": "q_g7_repeating_decimal_2",
+    "skill": "g7_repeating_decimal",
+    "type": "input",
+    "question": "1/3 viết dưới dạng thập phân tuần hoàn là 0,... Điền chu kì.",
+    "answer": "3",
+    "hint": "1 chia 3 được 0,333..."
+  },
+  {
+    "id": "q_g7_irrational_sqrt_1",
+    "skill": "g7_irrational_sqrt",
+    "type": "input",
+    "question": "Căn bậc hai số học của 49 là bao nhiêu?",
+    "answer": "7",
+    "hint": "7^2 = 49 và 7 không âm."
+  },
+  {
+    "id": "q_g7_irrational_sqrt_2",
+    "skill": "g7_irrational_sqrt",
+    "type": "multiple_choice",
+    "question": "Số nào là số vô tỉ?",
+    "choices": [
+      "sqrt(2)",
+      "1/2",
+      "-3",
+      "0,75"
+    ],
+    "answer": "sqrt(2)",
+    "hint": "sqrt(2) không viết được dưới dạng phân số."
+  },
+  {
+    "id": "q_g7_real_set_1",
+    "skill": "g7_real_set",
+    "type": "multiple_choice",
+    "question": "Tập số thực gồm những số nào?",
+    "choices": [
+      "Số hữu tỉ và số vô tỉ",
+      "Chỉ số tự nhiên",
+      "Chỉ số nguyên",
+      "Chỉ phân số"
+    ],
+    "answer": "Số hữu tỉ và số vô tỉ",
+    "hint": "Số thực là bức tranh rộng hơn."
+  },
+  {
+    "id": "q_g7_real_set_2",
+    "skill": "g7_real_set",
+    "type": "input",
+    "question": "Làm tròn 3,141 đến hàng phần trăm.",
+    "answer": "3,14",
+    "hint": "Nhìn chữ số hàng phần nghìn là 1."
+  },
+  {
+    "id": "q_g7_angles_1",
+    "skill": "g7_angles",
+    "type": "input",
+    "question": "Hai góc kề bù, một góc 65 độ. Góc còn lại bao nhiêu độ?",
+    "answer": "115",
+    "hint": "Tổng hai góc kề bù là 180 độ."
+  },
+  {
+    "id": "q_g7_angles_2",
+    "skill": "g7_angles",
+    "type": "multiple_choice",
+    "question": "Tia phân giác của góc 80 độ tạo hai góc bao nhiêu độ?",
+    "choices": [
+      "40 và 40",
+      "30 và 50",
+      "80 và 80",
+      "20 và 60"
+    ],
+    "answer": "40 và 40",
+    "hint": "Phân giác chia góc thành hai phần bằng nhau."
+  },
+  {
+    "id": "q_g7_parallel_signs_1",
+    "skill": "g7_parallel_signs",
+    "type": "multiple_choice",
+    "question": "Nếu hai góc so le trong bằng nhau thì hai đường thẳng đó như thế nào?",
+    "choices": [
+      "Song song",
+      "Vuông góc",
+      "Cắt nhau tại trung điểm",
+      "Trùng điểm"
+    ],
+    "answer": "Song song",
+    "hint": "Đây là dấu hiệu nhận biết song song."
+  },
+  {
+    "id": "q_g7_parallel_signs_2",
+    "skill": "g7_parallel_signs",
+    "type": "input",
+    "question": "Hai góc đồng vị bằng nhau: kết luận hai đường thẳng là gì?",
+    "answer": "song song",
+    "hint": "Góc đồng vị bằng nhau là dấu hiệu song song."
+  },
+  {
+    "id": "q_g7_euclid_parallel_1",
+    "skill": "g7_euclid_parallel",
+    "type": "multiple_choice",
+    "question": "Qua một điểm nằm ngoài một đường thẳng, có bao nhiêu đường thẳng song song với đường thẳng đó?",
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "Vô số"
+    ],
+    "answer": "1",
+    "hint": "Đây là nội dung tiên đề Euclid."
+  },
+  {
+    "id": "q_g7_euclid_parallel_2",
+    "skill": "g7_euclid_parallel",
+    "type": "input",
+    "question": "Nếu a song song b và một góc đồng vị bằng 70 độ, góc đồng vị còn lại bằng bao nhiêu độ?",
+    "answer": "70",
+    "hint": "Góc đồng vị bằng nhau."
+  },
+  {
+    "id": "q_g7_theorem_proof_1",
+    "skill": "g7_theorem_proof",
+    "type": "multiple_choice",
+    "question": "Trong định lí, phần đã cho gọi là gì?",
+    "choices": [
+      "Giả thiết",
+      "Kết luận",
+      "Ví dụ",
+      "Hình vẽ"
+    ],
+    "answer": "Giả thiết",
+    "hint": "Giả thiết là điều được biết."
+  },
+  {
+    "id": "q_g7_theorem_proof_2",
+    "skill": "g7_theorem_proof",
+    "type": "input",
+    "question": "Viết tắt thường dùng của kết luận là gì?",
+    "answer": "KL",
+    "hint": "Trong hình học hay ghi GT và KL."
+  },
+  {
+    "id": "q_g7_triangle_sum_1",
+    "skill": "g7_triangle_sum",
+    "type": "input",
+    "question": "Tam giác có hai góc 50 và 60 độ. Góc còn lại là bao nhiêu độ?",
+    "answer": "70",
+    "hint": "Lấy 180 - 50 - 60."
+  },
+  {
+    "id": "q_g7_triangle_sum_2",
+    "skill": "g7_triangle_sum",
+    "type": "multiple_choice",
+    "question": "Tổng ba góc trong tam giác bằng bao nhiêu?",
+    "choices": [
+      "180 độ",
+      "90 độ",
+      "360 độ",
+      "120 độ"
+    ],
+    "answer": "180 độ",
+    "hint": "Định lí tổng ba góc tam giác."
+  },
+  {
+    "id": "q_g7_triangle_sss_1",
+    "skill": "g7_triangle_sss",
+    "type": "multiple_choice",
+    "question": "Ba cạnh tương ứng bằng nhau là trường hợp nào?",
+    "choices": [
+      "c.c.c",
+      "g.g.g",
+      "c.g.g",
+      "g.c"
+    ],
+    "answer": "c.c.c",
+    "hint": "Cạnh-cạnh-cạnh."
+  },
+  {
+    "id": "q_g7_triangle_sss_2",
+    "skill": "g7_triangle_sss",
+    "type": "input",
+    "question": "Nếu AB=DE, BC=EF, CA=FD thì tam giác ABC bằng tam giác nào?",
+    "answer": "DEF",
+    "hint": "Ghép đúng thứ tự đỉnh tương ứng."
+  },
+  {
+    "id": "q_g7_triangle_sas_asa_1",
+    "skill": "g7_triangle_sas_asa",
+    "type": "multiple_choice",
+    "question": "Cạnh-góc-cạnh yêu cầu góc nằm ở đâu?",
+    "choices": [
+      "Xen giữa hai cạnh",
+      "Ngoài tam giác",
+      "Bất kì",
+      "Đối diện cạnh nhỏ"
+    ],
+    "answer": "Xen giữa hai cạnh",
+    "hint": "Góc phải là góc tạo bởi hai cạnh đã biết."
+  },
+  {
+    "id": "q_g7_triangle_sas_asa_2",
+    "skill": "g7_triangle_sas_asa",
+    "type": "input",
+    "question": "Viết tắt trường hợp góc-cạnh-góc bằng chữ cái.",
+    "answer": "g.c.g",
+    "hint": "Góc-cạnh-góc."
+  },
+  {
+    "id": "q_g7_right_triangle_1",
+    "skill": "g7_right_triangle",
+    "type": "multiple_choice",
+    "question": "Tam giác vuông có cạnh đối diện góc vuông gọi là gì?",
+    "choices": [
+      "Cạnh huyền",
+      "Cạnh đáy",
+      "Trung tuyến",
+      "Đường cao"
+    ],
+    "answer": "Cạnh huyền",
+    "hint": "Cạnh huyền là cạnh dài nhất của tam giác vuông."
+  },
+  {
+    "id": "q_g7_right_triangle_2",
+    "skill": "g7_right_triangle",
+    "type": "input",
+    "question": "Hai tam giác vuông có hai cạnh góc vuông tương ứng bằng nhau thì chúng có bằng nhau không? Trả lời có/không.",
+    "answer": "có",
+    "hint": "Đó là một trường hợp bằng nhau của tam giác vuông."
+  },
+  {
+    "id": "q_g7_isosceles_bisector_1",
+    "skill": "g7_isosceles_bisector",
+    "type": "input",
+    "question": "Tam giác cân có hai góc ở đáy 50 độ. Góc ở đỉnh bằng bao nhiêu độ?",
+    "answer": "80",
+    "hint": "180 - 50 - 50."
+  },
+  {
+    "id": "q_g7_isosceles_bisector_2",
+    "skill": "g7_isosceles_bisector",
+    "type": "multiple_choice",
+    "question": "Điểm nằm trên đường trung trực của AB thì có tính chất gì?",
+    "choices": [
+      "Cách đều A và B",
+      "Nằm giữa A và B",
+      "Trùng A",
+      "Luôn ở ngoài tam giác"
+    ],
+    "answer": "Cách đều A và B",
+    "hint": "Đường trung trực là tập hợp điểm cách đều hai đầu đoạn thẳng."
+  },
+  {
+    "id": "q_g7_data_classify_1",
+    "skill": "g7_data_classify",
+    "type": "multiple_choice",
+    "question": "Chiều cao học sinh là loại dữ liệu nào?",
+    "choices": [
+      "Định lượng",
+      "Định tính",
+      "Không phải dữ liệu",
+      "Biến cố"
+    ],
+    "answer": "Định lượng",
+    "hint": "Chiều cao là số đo."
+  },
+  {
+    "id": "q_g7_data_classify_2",
+    "skill": "g7_data_classify",
+    "type": "input",
+    "question": "Dữ liệu màu sắc yêu thích là định tính hay định lượng?",
+    "answer": "định tính",
+    "hint": "Màu sắc là nhóm mô tả."
+  },
+  {
+    "id": "q_g7_pie_chart_1",
+    "skill": "g7_pie_chart",
+    "type": "input",
+    "question": "25% của hình tròn tương ứng bao nhiêu độ?",
+    "answer": "90",
+    "hint": "25% của 360 là 90."
+  },
+  {
+    "id": "q_g7_pie_chart_2",
+    "skill": "g7_pie_chart",
+    "type": "multiple_choice",
+    "question": "Biểu đồ quạt tròn phù hợp để biểu diễn gì?",
+    "choices": [
+      "Cơ cấu phần trăm",
+      "Đường thẳng song song",
+      "Thể tích hộp",
+      "Tam giác cân"
+    ],
+    "answer": "Cơ cấu phần trăm",
+    "hint": "Mỗi quạt là một phần của tổng thể."
+  },
+  {
+    "id": "q_g7_line_chart_1",
+    "skill": "g7_line_chart",
+    "type": "multiple_choice",
+    "question": "Biểu đồ đoạn thẳng thường dùng để biểu diễn gì?",
+    "choices": [
+      "Xu hướng theo thời gian",
+      "Tỉ lệ thức",
+      "Cạnh tam giác",
+      "Góc đối đỉnh"
+    ],
+    "answer": "Xu hướng theo thời gian",
+    "hint": "Các điểm dữ liệu được nối theo thứ tự thời gian."
+  },
+  {
+    "id": "q_g7_line_chart_2",
+    "skill": "g7_line_chart",
+    "type": "input",
+    "question": "Tháng 1 có 20, tháng 2 có 35. Mức tăng là bao nhiêu?",
+    "answer": "15",
+    "hint": "35 - 20."
+  },
+  {
+    "id": "q_g7_proportion_1",
+    "skill": "g7_proportion",
+    "type": "multiple_choice",
+    "question": "2/3 = 4/6 có phải tỉ lệ thức không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "answer": "Có",
+    "hint": "Hai tỉ số bằng nhau."
+  },
+  {
+    "id": "q_g7_proportion_2",
+    "skill": "g7_proportion",
+    "type": "input",
+    "question": "Trong tỉ lệ thức 2/5 = x/10, x bằng bao nhiêu?",
+    "answer": "4",
+    "hint": "Nhân chéo hoặc nhận ra mẫu gấp đôi."
+  },
+  {
+    "id": "q_g7_equal_ratios_1",
+    "skill": "g7_equal_ratios",
+    "type": "input",
+    "question": "x/2 = 6/3 thì x bằng bao nhiêu?",
+    "answer": "4",
+    "hint": "6/3 = 2 nên x/2 = 2."
+  },
+  {
+    "id": "q_g7_equal_ratios_2",
+    "skill": "g7_equal_ratios",
+    "type": "multiple_choice",
+    "question": "Nếu x:y = 2:3 và x+y=10 thì x bằng?",
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "2"
+    ],
+    "answer": "4",
+    "hint": "Tổng phần là 5, mỗi phần là 2."
+  },
+  {
+    "id": "q_g7_direct_variation_1",
+    "skill": "g7_direct_variation",
+    "type": "input",
+    "question": "Nếu y tỉ lệ thuận với x, y=12 khi x=3. Hệ số tỉ lệ là bao nhiêu?",
+    "answer": "4",
+    "hint": "k = y/x."
+  },
+  {
+    "id": "q_g7_direct_variation_2",
+    "skill": "g7_direct_variation",
+    "type": "multiple_choice",
+    "question": "Mua 2 kg hết 30 nghìn, 4 kg hết bao nhiêu nếu tỉ lệ thuận?",
+    "choices": [
+      "60 nghìn",
+      "15 nghìn",
+      "34 nghìn",
+      "120 nghìn"
+    ],
+    "answer": "60 nghìn",
+    "hint": "Gấp đôi số kg thì gấp đôi tiền."
+  },
+  {
+    "id": "q_g7_inverse_variation_1",
+    "skill": "g7_inverse_variation",
+    "type": "input",
+    "question": "x và y tỉ lệ nghịch, x=4, y=6. Tích không đổi bằng bao nhiêu?",
+    "answer": "24",
+    "hint": "Tỉ lệ nghịch có x·y không đổi."
+  },
+  {
+    "id": "q_g7_inverse_variation_2",
+    "skill": "g7_inverse_variation",
+    "type": "multiple_choice",
+    "question": "Cùng công việc, số người tăng thì thời gian thường thế nào?",
+    "choices": [
+      "Giảm",
+      "Tăng",
+      "Không đổi luôn",
+      "Không xác định"
+    ],
+    "answer": "Giảm",
+    "hint": "Đây là tình huống tỉ lệ nghịch thường gặp."
+  },
+  {
+    "id": "q_g7_algebra_expr_1",
+    "skill": "g7_algebra_expr",
+    "type": "input",
+    "question": "Với x=3, tính 2x+5.",
+    "answer": "11",
+    "hint": "Thay x=3 rồi tính."
+  },
+  {
+    "id": "q_g7_algebra_expr_2",
+    "skill": "g7_algebra_expr",
+    "type": "multiple_choice",
+    "question": "Biểu thức nào là biểu thức đại số?",
+    "choices": [
+      "3x + 2",
+      "Hôm nay",
+      "Tam giác",
+      "Đường thẳng d"
+    ],
+    "answer": "3x + 2",
+    "hint": "Có số, chữ và phép toán."
+  },
+  {
+    "id": "q_g7_polynomial_one_var_1",
+    "skill": "g7_polynomial_one_var",
+    "type": "input",
+    "question": "Bậc của P(x)=3x^2-2x+1 là bao nhiêu?",
+    "answer": "2",
+    "hint": "Số mũ lớn nhất là 2."
+  },
+  {
+    "id": "q_g7_polynomial_one_var_2",
+    "skill": "g7_polynomial_one_var",
+    "type": "multiple_choice",
+    "question": "Hệ số tự do của x^3 - 4x + 7 là gì?",
+    "choices": [
+      "7",
+      "1",
+      "-4",
+      "3"
+    ],
+    "answer": "7",
+    "hint": "Hệ số tự do không chứa x."
+  },
+  {
+    "id": "q_g7_poly_add_sub_1",
+    "skill": "g7_poly_add_sub",
+    "type": "input",
+    "question": "Thu gọn: (2x + 3x).",
+    "answer": "5x",
+    "hint": "Cộng hệ số của hạng tử đồng dạng."
+  },
+  {
+    "id": "q_g7_poly_add_sub_2",
+    "skill": "g7_poly_add_sub",
+    "type": "multiple_choice",
+    "question": "(x^2+2x) + (3x^2-x) bằng?",
+    "choices": [
+      "4x^2+x",
+      "4x^2+3x",
+      "3x^4+x",
+      "x^2+x"
+    ],
+    "answer": "4x^2+x",
+    "hint": "Gộp x^2 với x^2, x với x."
+  },
+  {
+    "id": "q_g7_poly_multiply_1",
+    "skill": "g7_poly_multiply",
+    "type": "input",
+    "question": "Khai triển x(x+3).",
+    "answer": "x^2+3x",
+    "hint": "Nhân x với từng hạng tử."
+  },
+  {
+    "id": "q_g7_poly_multiply_2",
+    "skill": "g7_poly_multiply",
+    "type": "multiple_choice",
+    "question": "2x · 3x bằng?",
+    "choices": [
+      "6x^2",
+      "5x",
+      "6x",
+      "5x^2"
+    ],
+    "answer": "6x^2",
+    "hint": "Nhân hệ số và nhân phần biến."
+  },
+  {
+    "id": "q_g7_poly_divide_1",
+    "skill": "g7_poly_divide",
+    "type": "input",
+    "question": "Chia 6x^2 cho 3x được gì?",
+    "answer": "2x",
+    "hint": "6/3=2 và x^2/x=x."
+  },
+  {
+    "id": "q_g7_poly_divide_2",
+    "skill": "g7_poly_divide",
+    "type": "multiple_choice",
+    "question": "(x^2+3x) : x bằng?",
+    "choices": [
+      "x+3",
+      "x^2+3",
+      "3x",
+      "x-3"
+    ],
+    "answer": "x+3",
+    "hint": "Chia từng hạng tử cho x."
+  },
+  {
+    "id": "q_g7_event_intro_1",
+    "skill": "g7_event_intro",
+    "type": "multiple_choice",
+    "question": "Tung xúc xắc ra số 7 là biến cố gì?",
+    "choices": [
+      "Không thể",
+      "Chắc chắn",
+      "Ngẫu nhiên",
+      "Đồng khả năng"
+    ],
+    "answer": "Không thể",
+    "hint": "Xúc xắc thường chỉ có 1 đến 6."
+  },
+  {
+    "id": "q_g7_event_intro_2",
+    "skill": "g7_event_intro",
+    "type": "input",
+    "question": "Tung đồng xu ra mặt sấp là biến cố chắc chắn, không thể hay ngẫu nhiên?",
+    "answer": "ngẫu nhiên",
+    "hint": "Có thể xảy ra hoặc không xảy ra."
+  },
+  {
+    "id": "q_g7_probability_intro_1",
+    "skill": "g7_probability_intro",
+    "type": "input",
+    "question": "Tung xúc xắc, xác suất ra số chẵn là bao nhiêu?",
+    "answer": "1/2",
+    "hint": "Có 3 số chẵn trong 6 kết quả."
+  },
+  {
+    "id": "q_g7_probability_intro_2",
+    "skill": "g7_probability_intro",
+    "type": "multiple_choice",
+    "question": "Xác suất biến cố chắc chắn bằng bao nhiêu?",
+    "choices": [
+      "1",
+      "0",
+      "1/2",
+      "2"
+    ],
+    "answer": "1",
+    "hint": "Chắc chắn xảy ra có xác suất 1."
+  },
+  {
+    "id": "q_g7_triangle_angle_side_1",
+    "skill": "g7_triangle_angle_side",
+    "type": "multiple_choice",
+    "question": "Trong tam giác, góc lớn hơn đối diện với cạnh thế nào?",
+    "choices": [
+      "Dài hơn",
+      "Ngắn hơn",
+      "Bằng 0",
+      "Không liên quan"
+    ],
+    "answer": "Dài hơn",
+    "hint": "Góc lớn đối diện cạnh lớn."
+  },
+  {
+    "id": "q_g7_triangle_angle_side_2",
+    "skill": "g7_triangle_angle_side",
+    "type": "input",
+    "question": "Nếu góc A lớn nhất thì cạnh đối diện góc A là cạnh nào trong tam giác ABC?",
+    "answer": "BC",
+    "hint": "Cạnh đối diện A là BC."
+  },
+  {
+    "id": "q_g7_perp_oblique_1",
+    "skill": "g7_perp_oblique",
+    "type": "multiple_choice",
+    "question": "Từ một điểm đến một đường thẳng, đoạn nào ngắn nhất?",
+    "choices": [
+      "Đường vuông góc",
+      "Đường xiên bất kì",
+      "Đường cong",
+      "Cạnh đáy"
+    ],
+    "answer": "Đường vuông góc",
+    "hint": "Khoảng cách là đoạn vuông góc."
+  },
+  {
+    "id": "q_g7_perp_oblique_2",
+    "skill": "g7_perp_oblique",
+    "type": "input",
+    "question": "Đường vuông góc tạo với đường thẳng một góc bao nhiêu độ?",
+    "answer": "90",
+    "hint": "Vuông góc nghĩa là 90 độ."
+  },
+  {
+    "id": "q_g7_triangle_inequality_1",
+    "skill": "g7_triangle_inequality",
+    "type": "multiple_choice",
+    "question": "Ba độ dài nào lập thành tam giác?",
+    "choices": [
+      "3,4,5",
+      "1,2,3",
+      "2,2,5",
+      "1,1,3"
+    ],
+    "answer": "3,4,5",
+    "hint": "Tổng hai cạnh nhỏ hơn phải lớn hơn cạnh lớn nhất."
+  },
+  {
+    "id": "q_g7_triangle_inequality_2",
+    "skill": "g7_triangle_inequality",
+    "type": "input",
+    "question": "Với tam giác có hai cạnh 4 và 7, cạnh thứ ba x phải nhỏ hơn bao nhiêu?",
+    "answer": "11",
+    "hint": "x < 4 + 7."
+  },
+  {
+    "id": "q_g7_centroid_incenter_1",
+    "skill": "g7_centroid_incenter",
+    "type": "multiple_choice",
+    "question": "Ba đường trung tuyến đồng quy tại đâu?",
+    "choices": [
+      "Trọng tâm",
+      "Trực tâm",
+      "Tâm ngoại tiếp",
+      "Một đỉnh"
+    ],
+    "answer": "Trọng tâm",
+    "hint": "Trọng tâm là giao điểm ba trung tuyến."
+  },
+  {
+    "id": "q_g7_centroid_incenter_2",
+    "skill": "g7_centroid_incenter",
+    "type": "input",
+    "question": "Đường trung tuyến đi từ đỉnh đến điểm nào của cạnh đối diện?",
+    "answer": "trung điểm",
+    "hint": "Trung tuyến nối đỉnh với trung điểm cạnh đối diện."
+  },
+  {
+    "id": "q_g7_circumcenter_orthocenter_1",
+    "skill": "g7_circumcenter_orthocenter",
+    "type": "multiple_choice",
+    "question": "Ba đường cao đồng quy tại đâu?",
+    "choices": [
+      "Trực tâm",
+      "Trọng tâm",
+      "Tâm nội tiếp",
+      "Một cạnh"
+    ],
+    "answer": "Trực tâm",
+    "hint": "Trực tâm là giao điểm ba đường cao."
+  },
+  {
+    "id": "q_g7_circumcenter_orthocenter_2",
+    "skill": "g7_circumcenter_orthocenter",
+    "type": "input",
+    "question": "Tâm ngoại tiếp cách đều mấy đỉnh của tam giác?",
+    "answer": "3",
+    "hint": "Nó cách đều cả ba đỉnh."
+  },
+  {
+    "id": "q_g7_box_cube_1",
+    "skill": "g7_box_cube",
+    "type": "input",
+    "question": "Thể tích hình hộp chữ nhật dài 4, rộng 3, cao 2 là bao nhiêu?",
+    "answer": "24",
+    "hint": "V = dài · rộng · cao."
+  },
+  {
+    "id": "q_g7_box_cube_2",
+    "skill": "g7_box_cube",
+    "type": "multiple_choice",
+    "question": "Hình lập phương có bao nhiêu mặt?",
+    "choices": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "answer": "6",
+    "hint": "Có 6 mặt đều là hình vuông."
+  },
+  {
+    "id": "q_g7_prism_1",
+    "skill": "g7_prism",
+    "type": "multiple_choice",
+    "question": "Thể tích lăng trụ đứng bằng gì?",
+    "choices": [
+      "Diện tích đáy nhân chiều cao",
+      "Chu vi đáy nhân chiều cao",
+      "Cạnh nhân 4",
+      "Tổng hai đáy"
+    ],
+    "answer": "Diện tích đáy nhân chiều cao",
+    "hint": "V = S đáy · h."
+  },
+  {
+    "id": "q_g7_prism_2",
+    "skill": "g7_prism",
+    "type": "input",
+    "question": "Lăng trụ đứng có hai đáy song song và như thế nào với nhau?",
+    "answer": "bằng nhau",
+    "hint": "Hai đáy là hai đa giác bằng nhau."
+  },
+  {
+    "id": "q_g8_monomial_1",
+    "skill": "g8_monomial",
+    "type": "multiple_choice",
+    "question": "Đơn thức nào đồng dạng với 3x^2y?",
+    "choices": [
+      "-5x^2y",
+      "3xy^2",
+      "x^3",
+      "3x^2"
+    ],
+    "answer": "-5x^2y",
+    "hint": "Đồng dạng nghĩa là cùng phần biến."
+  },
+  {
+    "id": "q_g8_monomial_2",
+    "skill": "g8_monomial",
+    "type": "input",
+    "question": "Hệ số của đơn thức -7x^3y là bao nhiêu?",
+    "answer": "-7",
+    "hint": "Hệ số là phần số đứng trước phần biến."
+  },
+  {
+    "id": "q_g8_polynomial_1",
+    "skill": "g8_polynomial",
+    "type": "input",
+    "question": "Bậc của đa thức 2x^3 - x + 5 là bao nhiêu?",
+    "answer": "3",
+    "hint": "Bậc là số mũ lớn nhất."
+  },
+  {
+    "id": "q_g8_polynomial_2",
+    "skill": "g8_polynomial",
+    "type": "multiple_choice",
+    "question": "Đa thức 4x^2+3x-1 có mấy hạng tử?",
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "3",
+    "hint": "Mỗi phần được nối bằng dấu cộng/trừ là một hạng tử."
+  },
+  {
+    "id": "q_g8_poly_add_sub_1",
+    "skill": "g8_poly_add_sub",
+    "type": "input",
+    "question": "Thu gọn: 2x + 5x - 3.",
+    "answer": "7x-3",
+    "hint": "Gộp 2x và 5x."
+  },
+  {
+    "id": "q_g8_poly_add_sub_2",
+    "skill": "g8_poly_add_sub",
+    "type": "multiple_choice",
+    "question": "(x^2+2x) - (3x^2-x) bằng?",
+    "choices": [
+      "-2x^2+3x",
+      "4x^2+x",
+      "-2x^2+x",
+      "2x^2+3x"
+    ],
+    "answer": "-2x^2+3x",
+    "hint": "Đổi dấu đa thức sau dấu trừ."
+  },
+  {
+    "id": "q_g8_poly_multiply_1",
+    "skill": "g8_poly_multiply",
+    "type": "input",
+    "question": "Khai triển (x+2)(x+3).",
+    "answer": "x^2+5x+6",
+    "hint": "Nhân từng hạng tử rồi thu gọn."
+  },
+  {
+    "id": "q_g8_poly_multiply_2",
+    "skill": "g8_poly_multiply",
+    "type": "multiple_choice",
+    "question": "x(2x-5) bằng?",
+    "choices": [
+      "2x^2-5x",
+      "2x-5",
+      "2x^2-5",
+      "3x-5"
+    ],
+    "answer": "2x^2-5x",
+    "hint": "x nhân với cả 2x và -5."
+  },
+  {
+    "id": "q_g8_poly_div_monomial_1",
+    "skill": "g8_poly_div_monomial",
+    "type": "input",
+    "question": "(6x^2+3x):3x bằng gì?",
+    "answer": "2x+1",
+    "hint": "Chia từng hạng tử cho 3x."
+  },
+  {
+    "id": "q_g8_poly_div_monomial_2",
+    "skill": "g8_poly_div_monomial",
+    "type": "multiple_choice",
+    "question": "10x^3 : 5x bằng?",
+    "choices": [
+      "2x^2",
+      "2x^3",
+      "5x^2",
+      "15x"
+    ],
+    "answer": "2x^2",
+    "hint": "Chia hệ số và trừ số mũ của x."
+  },
+  {
+    "id": "q_g8_identity_square_1",
+    "skill": "g8_identity_square",
+    "type": "multiple_choice",
+    "question": "x^2 - 9 phân tích thành gì?",
+    "choices": [
+      "(x-3)(x+3)",
+      "(x-9)(x+1)",
+      "(x-3)^2",
+      "x(x-9)"
+    ],
+    "answer": "(x-3)(x+3)",
+    "hint": "Đây là hiệu hai bình phương."
+  },
+  {
+    "id": "q_g8_identity_square_2",
+    "skill": "g8_identity_square",
+    "type": "input",
+    "question": "Khai triển (x+2)^2.",
+    "answer": "x^2+4x+4",
+    "hint": "Dùng a^2+2ab+b^2."
+  },
+  {
+    "id": "q_g8_identity_cube_1",
+    "skill": "g8_identity_cube",
+    "type": "input",
+    "question": "Hệ số của x^2 trong (x+2)^3 là bao nhiêu?",
+    "answer": "6",
+    "hint": "(x+2)^3=x^3+6x^2+12x+8."
+  },
+  {
+    "id": "q_g8_identity_cube_2",
+    "skill": "g8_identity_cube",
+    "type": "multiple_choice",
+    "question": "(a-b)^3 có hạng tử thứ hai là gì?",
+    "choices": [
+      "-3a^2b",
+      "3a^2b",
+      "-ab^2",
+      "b^3"
+    ],
+    "answer": "-3a^2b",
+    "hint": "Dấu xen kẽ trong lập phương hiệu."
+  },
+  {
+    "id": "q_g8_identity_sum_diff_cubes_1",
+    "skill": "g8_identity_sum_diff_cubes",
+    "type": "multiple_choice",
+    "question": "x^3 - 8 bằng?",
+    "choices": [
+      "(x-2)(x^2+2x+4)",
+      "(x-2)(x^2-2x+4)",
+      "(x+2)(x^2-2x+4)",
+      "(x-2)^3"
+    ],
+    "answer": "(x-2)(x^2+2x+4)",
+    "hint": "Dùng hiệu hai lập phương."
+  },
+  {
+    "id": "q_g8_identity_sum_diff_cubes_2",
+    "skill": "g8_identity_sum_diff_cubes",
+    "type": "input",
+    "question": "8 + 27 bằng a^3 + b^3 với a=2, b bằng bao nhiêu?",
+    "answer": "3",
+    "hint": "27=3^3."
+  },
+  {
+    "id": "q_g8_factorization_1",
+    "skill": "g8_factorization",
+    "type": "input",
+    "question": "Phân tích x^2 - 16 thành nhân tử.",
+    "answer": "(x-4)(x+4)",
+    "hint": "Hiệu hai bình phương."
+  },
+  {
+    "id": "q_g8_factorization_2",
+    "skill": "g8_factorization",
+    "type": "multiple_choice",
+    "question": "Nhân tử chung của 6x^2 và 9x là gì?",
+    "choices": [
+      "3x",
+      "6x",
+      "9x",
+      "x^2"
+    ],
+    "answer": "3x",
+    "hint": "Ước chung lớn nhất của hệ số là 3, phần biến chung là x."
+  },
+  {
+    "id": "q_g8_quadrilateral_1",
+    "skill": "g8_quadrilateral",
+    "type": "input",
+    "question": "Tổng các góc trong một tứ giác bằng bao nhiêu độ?",
+    "answer": "360",
+    "hint": "Tứ giác chia được thành hai tam giác."
+  },
+  {
+    "id": "q_g8_quadrilateral_2",
+    "skill": "g8_quadrilateral",
+    "type": "multiple_choice",
+    "question": "Ba góc tứ giác là 80, 90, 100 độ. Góc còn lại là?",
+    "choices": [
+      "90",
+      "100",
+      "80",
+      "110"
+    ],
+    "answer": "90",
+    "hint": "360 - 80 - 90 - 100."
+  },
+  {
+    "id": "q_g8_isosceles_trapezoid_1",
+    "skill": "g8_isosceles_trapezoid",
+    "type": "multiple_choice",
+    "question": "Hình thang cân có hai đường chéo như thế nào?",
+    "choices": [
+      "Bằng nhau",
+      "Vuông góc luôn",
+      "Song song",
+      "Không liên quan"
+    ],
+    "answer": "Bằng nhau",
+    "hint": "Đó là tính chất hình thang cân."
+  },
+  {
+    "id": "q_g8_isosceles_trapezoid_2",
+    "skill": "g8_isosceles_trapezoid",
+    "type": "input",
+    "question": "Hình thang cân có mấy cạnh đáy song song?",
+    "answer": "2",
+    "hint": "Hai đáy là một cặp cạnh đối song song."
+  },
+  {
+    "id": "q_g8_parallelogram_1",
+    "skill": "g8_parallelogram",
+    "type": "multiple_choice",
+    "question": "Hình bình hành có các cạnh đối như thế nào?",
+    "choices": [
+      "Song song và bằng nhau",
+      "Vuông góc",
+      "Luôn bằng 0",
+      "Không song song"
+    ],
+    "answer": "Song song và bằng nhau",
+    "hint": "Đây là tính chất cơ bản."
+  },
+  {
+    "id": "q_g8_parallelogram_2",
+    "skill": "g8_parallelogram",
+    "type": "input",
+    "question": "Đường chéo hình bình hành cắt nhau tại gì của mỗi đường?",
+    "answer": "trung điểm",
+    "hint": "Hai đường chéo cắt nhau tại trung điểm mỗi đường."
+  },
+  {
+    "id": "q_g8_rectangle_1",
+    "skill": "g8_rectangle",
+    "type": "input",
+    "question": "Hình chữ nhật có bao nhiêu góc vuông?",
+    "answer": "4",
+    "hint": "Hình chữ nhật có bốn góc vuông."
+  },
+  {
+    "id": "q_g8_rectangle_2",
+    "skill": "g8_rectangle",
+    "type": "multiple_choice",
+    "question": "Hình bình hành có một góc vuông là hình gì?",
+    "choices": [
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Tam giác",
+      "Lục giác"
+    ],
+    "answer": "Hình chữ nhật",
+    "hint": "Một dấu hiệu nhận biết hình chữ nhật."
+  },
+  {
+    "id": "q_g8_rhombus_square_1",
+    "skill": "g8_rhombus_square",
+    "type": "multiple_choice",
+    "question": "Hình thoi có đặc điểm nào?",
+    "choices": [
+      "Bốn cạnh bằng nhau",
+      "Chỉ một góc vuông",
+      "Không có cạnh bằng nhau",
+      "Năm cạnh"
+    ],
+    "answer": "Bốn cạnh bằng nhau",
+    "hint": "Đây là định nghĩa hình thoi."
+  },
+  {
+    "id": "q_g8_rhombus_square_2",
+    "skill": "g8_rhombus_square",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có bốn cạnh bằng nhau."
+  },
+  {
+    "id": "q_g8_thales_1",
+    "skill": "g8_thales",
+    "type": "multiple_choice",
+    "question": "Trong tam giác ABC, DE song song BC thì tỉ số nào đúng?",
+    "choices": [
+      "AD/AB = AE/AC",
+      "AD/DB = AB/BC",
+      "DE/AB = AC/BC",
+      "AD/AC = AE/AB"
+    ],
+    "answer": "AD/AB = AE/AC",
+    "hint": "Định lí Thalès cho các đoạn tương ứng."
+  },
+  {
+    "id": "q_g8_thales_2",
+    "skill": "g8_thales",
+    "type": "input",
+    "question": "Nếu AD/AB = 1/2 và AB=10 thì AD bằng bao nhiêu?",
+    "answer": "5",
+    "hint": "AD = 10 · 1/2."
+  },
+  {
+    "id": "q_g8_midline_triangle_1",
+    "skill": "g8_midline_triangle",
+    "type": "input",
+    "question": "Đường trung bình tam giác song song cạnh thứ ba và bằng mấy phần cạnh đó?",
+    "answer": "1/2",
+    "hint": "Độ dài bằng nửa cạnh thứ ba."
+  },
+  {
+    "id": "q_g8_midline_triangle_2",
+    "skill": "g8_midline_triangle",
+    "type": "multiple_choice",
+    "question": "Đường trung bình nối hai điểm nào?",
+    "choices": [
+      "Trung điểm hai cạnh",
+      "Hai đỉnh bất kì",
+      "Trọng tâm và đỉnh",
+      "Hai điểm ngoài tam giác"
+    ],
+    "answer": "Trung điểm hai cạnh",
+    "hint": "Cần hai trung điểm."
+  },
+  {
+    "id": "q_g8_angle_bisector_1",
+    "skill": "g8_angle_bisector",
+    "type": "multiple_choice",
+    "question": "AD là phân giác góc A của tam giác ABC. Tỉ số nào đúng?",
+    "choices": [
+      "BD/DC = AB/AC",
+      "BD/AB = DC/AC",
+      "AB/BC = AC/DC",
+      "BD/DC = AC/AB"
+    ],
+    "answer": "BD/DC = AB/AC",
+    "hint": "Tính chất đường phân giác."
+  },
+  {
+    "id": "q_g8_angle_bisector_2",
+    "skill": "g8_angle_bisector",
+    "type": "input",
+    "question": "Nếu AB=6, AC=9, BD/DC bằng phân số nào?",
+    "answer": "2/3",
+    "hint": "BD/DC = 6/9 = 2/3."
+  },
+  {
+    "id": "q_g8_data_collect_1",
+    "skill": "g8_data_collect",
+    "type": "multiple_choice",
+    "question": "Màu áo yêu thích là dữ liệu gì?",
+    "choices": [
+      "Định tính",
+      "Định lượng",
+      "Phương trình",
+      "Đa thức"
+    ],
+    "answer": "Định tính",
+    "hint": "Màu áo là mô tả nhóm."
+  },
+  {
+    "id": "q_g8_data_collect_2",
+    "skill": "g8_data_collect",
+    "type": "input",
+    "question": "Khảo sát 12 bạn nam và 15 bạn nữ. Tổng số bạn là bao nhiêu?",
+    "answer": "27",
+    "hint": "Cộng hai nhóm."
+  },
+  {
+    "id": "q_g8_data_display_1",
+    "skill": "g8_data_display",
+    "type": "multiple_choice",
+    "question": "Dữ liệu theo tháng nên biểu diễn bằng biểu đồ nào để thấy xu hướng?",
+    "choices": [
+      "Biểu đồ đoạn thẳng",
+      "Hình thoi",
+      "Tia phân giác",
+      "Phân thức"
+    ],
+    "answer": "Biểu đồ đoạn thẳng",
+    "hint": "Đoạn thẳng cho thấy tăng giảm theo thời gian."
+  },
+  {
+    "id": "q_g8_data_display_2",
+    "skill": "g8_data_display",
+    "type": "input",
+    "question": "40% của hình tròn tương ứng bao nhiêu độ?",
+    "answer": "144",
+    "hint": "0,4 · 360 = 144."
+  },
+  {
+    "id": "q_g8_data_analysis_chart_1",
+    "skill": "g8_data_analysis_chart",
+    "type": "input",
+    "question": "Số liệu tăng từ 45 lên 60. Mức tăng là bao nhiêu?",
+    "answer": "15",
+    "hint": "60 - 45."
+  },
+  {
+    "id": "q_g8_data_analysis_chart_2",
+    "skill": "g8_data_analysis_chart",
+    "type": "multiple_choice",
+    "question": "Khi phân tích biểu đồ, cần đọc gì trước?",
+    "choices": [
+      "Tên biểu đồ, trục và đơn vị",
+      "Chỉ màu đẹp",
+      "Số lớn nhất thôi",
+      "Bỏ qua chú giải"
+    ],
+    "answer": "Tên biểu đồ, trục và đơn vị",
+    "hint": "Đọc ngữ cảnh trước khi kết luận."
+  },
+  {
+    "id": "q_g8_rational_expr_1",
+    "skill": "g8_rational_expr",
+    "type": "multiple_choice",
+    "question": "Phân thức 1/(x-2) xác định khi nào?",
+    "choices": [
+      "x khác 2",
+      "x bằng 2",
+      "x bằng 0",
+      "mọi x"
+    ],
+    "answer": "x khác 2",
+    "hint": "Mẫu phải khác 0."
+  },
+  {
+    "id": "q_g8_rational_expr_2",
+    "skill": "g8_rational_expr",
+    "type": "input",
+    "question": "Mẫu của phân thức (x+1)/(x-3) bằng gì?",
+    "answer": "x-3",
+    "hint": "Mẫu là đa thức ở dưới dấu gạch phân số."
+  },
+  {
+    "id": "q_g8_rational_expr_property_1",
+    "skill": "g8_rational_expr_property",
+    "type": "input",
+    "question": "Rút gọn 2x/4x với x khác 0.",
+    "answer": "1/2",
+    "hint": "Chia tử và mẫu cho 2x."
+  },
+  {
+    "id": "q_g8_rational_expr_property_2",
+    "skill": "g8_rational_expr_property",
+    "type": "multiple_choice",
+    "question": "Có được rút gọn (x+1)/(x+2) thành 1/2 không?",
+    "choices": [
+      "Không",
+      "Có"
+    ],
+    "answer": "Không",
+    "hint": "Không được xóa hạng tử trong tổng."
+  },
+  {
+    "id": "q_g8_rational_expr_add_sub_1",
+    "skill": "g8_rational_expr_add_sub",
+    "type": "input",
+    "question": "Tính 1/x + 1/x.",
+    "answer": "2/x",
+    "hint": "Cùng mẫu thì cộng tử."
+  },
+  {
+    "id": "q_g8_rational_expr_add_sub_2",
+    "skill": "g8_rational_expr_add_sub",
+    "type": "multiple_choice",
+    "question": "1/x + 1/2x bằng?",
+    "choices": [
+      "3/2x",
+      "2/3x",
+      "2/x",
+      "1/3x"
+    ],
+    "answer": "3/2x",
+    "hint": "Quy đồng mẫu 2x."
+  },
+  {
+    "id": "q_g8_rational_expr_mul_div_1",
+    "skill": "g8_rational_expr_mul_div",
+    "type": "multiple_choice",
+    "question": "(x/2):(x/4) với x khác 0 bằng?",
+    "choices": [
+      "2",
+      "1/2",
+      "x/8",
+      "x^2/8"
+    ],
+    "answer": "2",
+    "hint": "Nhân với phân thức nghịch đảo 4/x."
+  },
+  {
+    "id": "q_g8_rational_expr_mul_div_2",
+    "skill": "g8_rational_expr_mul_div",
+    "type": "input",
+    "question": "Tính (2/x)*(x/3) với x khác 0.",
+    "answer": "2/3",
+    "hint": "Rút gọn x."
+  },
+  {
+    "id": "q_g8_linear_equation_1",
+    "skill": "g8_linear_equation",
+    "type": "input",
+    "question": "Giải 3x - 6 = 0. x = ?",
+    "answer": "2",
+    "hint": "3x=6 nên x=2."
+  },
+  {
+    "id": "q_g8_linear_equation_2",
+    "skill": "g8_linear_equation",
+    "type": "multiple_choice",
+    "question": "2x+4=10 thì x bằng?",
+    "choices": [
+      "3",
+      "7",
+      "5",
+      "12"
+    ],
+    "answer": "3",
+    "hint": "2x=6."
+  },
+  {
+    "id": "q_g8_word_equation_1",
+    "skill": "g8_word_equation",
+    "type": "input",
+    "question": "Một số cộng 5 bằng 12. Số đó là?",
+    "answer": "7",
+    "hint": "Gọi số đó là x, x+5=12."
+  },
+  {
+    "id": "q_g8_word_equation_2",
+    "skill": "g8_word_equation",
+    "type": "multiple_choice",
+    "question": "Bước đầu khi giải bài toán bằng lập phương trình là gì?",
+    "choices": [
+      "Chọn ẩn",
+      "Vẽ biểu đồ",
+      "Tính xác suất",
+      "Rút gọn phân thức"
+    ],
+    "answer": "Chọn ẩn",
+    "hint": "Cần xác định đại lượng chưa biết."
+  },
+  {
+    "id": "q_g8_function_graph_intro_1",
+    "skill": "g8_function_graph_intro",
+    "type": "input",
+    "question": "Với y=2x+1, khi x=3 thì y bằng bao nhiêu?",
+    "answer": "7",
+    "hint": "2·3+1=7."
+  },
+  {
+    "id": "q_g8_function_graph_intro_2",
+    "skill": "g8_function_graph_intro",
+    "type": "multiple_choice",
+    "question": "Điểm (1;3) có thuộc đồ thị y=2x+1 không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "answer": "Có",
+    "hint": "Thay x=1 được y=3."
+  },
+  {
+    "id": "q_g8_linear_function_1",
+    "skill": "g8_linear_function",
+    "type": "multiple_choice",
+    "question": "Đồ thị của hàm số bậc nhất y=ax+b là gì?",
+    "choices": [
+      "Đường thẳng",
+      "Đường tròn",
+      "Tam giác",
+      "Hình hộp"
+    ],
+    "answer": "Đường thẳng",
+    "hint": "Hàm bậc nhất có đồ thị là đường thẳng."
+  },
+  {
+    "id": "q_g8_linear_function_2",
+    "skill": "g8_linear_function",
+    "type": "input",
+    "question": "Hàm y=2x+1 cắt trục Oy tại tung độ bao nhiêu?",
+    "answer": "1",
+    "hint": "b là tung độ gốc."
+  },
+  {
+    "id": "q_g8_slope_1",
+    "skill": "g8_slope",
+    "type": "multiple_choice",
+    "question": "Trong y=3x+2, hệ số góc là gì?",
+    "choices": [
+      "3",
+      "2",
+      "x",
+      "5"
+    ],
+    "answer": "3",
+    "hint": "Hệ số góc là hệ số của x."
+  },
+  {
+    "id": "q_g8_slope_2",
+    "skill": "g8_slope",
+    "type": "input",
+    "question": "Đường thẳng y=-2x+1 đi lên hay đi xuống khi nhìn từ trái sang phải?",
+    "answer": "đi xuống",
+    "hint": "Hệ số góc âm."
+  },
+  {
+    "id": "q_g8_outcomes_1",
+    "skill": "g8_outcomes",
+    "type": "multiple_choice",
+    "question": "Gieo xúc xắc, kết quả thuận lợi cho biến cố ra số chẵn là gì?",
+    "choices": [
+      "2,4,6",
+      "1,3,5",
+      "1,2,3",
+      "6"
+    ],
+    "answer": "2,4,6",
+    "hint": "Các số chẵn trên xúc xắc."
+  },
+  {
+    "id": "q_g8_outcomes_2",
+    "skill": "g8_outcomes",
+    "type": "input",
+    "question": "Gieo xúc xắc thường có bao nhiêu kết quả có thể?",
+    "answer": "6",
+    "hint": "Các mặt 1 đến 6."
+  },
+  {
+    "id": "q_g8_probability_ratio_1",
+    "skill": "g8_probability_ratio",
+    "type": "input",
+    "question": "Xác suất gieo xúc xắc ra số chẵn là bao nhiêu?",
+    "answer": "1/2",
+    "hint": "Có 3 kết quả thuận lợi trên 6."
+  },
+  {
+    "id": "q_g8_probability_ratio_2",
+    "skill": "g8_probability_ratio",
+    "type": "multiple_choice",
+    "question": "Túi có 2 bi đỏ, 3 bi xanh. Xác suất lấy bi đỏ là?",
+    "choices": [
+      "2/5",
+      "3/5",
+      "2/3",
+      "1/2"
+    ],
+    "answer": "2/5",
+    "hint": "Có 2 thuận lợi trên 5 viên."
+  },
+  {
+    "id": "q_g8_experimental_probability_1",
+    "skill": "g8_experimental_probability",
+    "type": "input",
+    "question": "Tung xu 100 lần, mặt sấp 48 lần. Xác suất thực nghiệm là gì?",
+    "answer": "48/100",
+    "hint": "Số lần xảy ra chia tổng số lần thử."
+  },
+  {
+    "id": "q_g8_experimental_probability_2",
+    "skill": "g8_experimental_probability",
+    "type": "multiple_choice",
+    "question": "Khi số lần thử tăng, xác suất thực nghiệm thường thế nào?",
+    "choices": [
+      "Gần xác suất lí thuyết hơn",
+      "Luôn bằng 0",
+      "Luôn bằng 1",
+      "Không cần dữ liệu"
+    ],
+    "answer": "Gần xác suất lí thuyết hơn",
+    "hint": "Luật số lớn ở mức trực quan."
+  },
+  {
+    "id": "q_g8_similar_triangles_1",
+    "skill": "g8_similar_triangles",
+    "type": "multiple_choice",
+    "question": "Hai tam giác đồng dạng có các góc tương ứng như thế nào?",
+    "choices": [
+      "Bằng nhau",
+      "Bù nhau",
+      "Vuông góc",
+      "Không liên quan"
+    ],
+    "answer": "Bằng nhau",
+    "hint": "Đây là dấu hiệu cơ bản."
+  },
+  {
+    "id": "q_g8_similar_triangles_2",
+    "skill": "g8_similar_triangles",
+    "type": "input",
+    "question": "Nếu tỉ số đồng dạng là 2 và cạnh nhỏ là 5 thì cạnh tương ứng lớn là bao nhiêu?",
+    "answer": "10",
+    "hint": "Nhân với tỉ số 2."
+  },
+  {
+    "id": "q_g8_similarity_cases_1",
+    "skill": "g8_similarity_cases",
+    "type": "multiple_choice",
+    "question": "Hai góc tương ứng bằng nhau là trường hợp đồng dạng nào?",
+    "choices": [
+      "g.g",
+      "c.c.c bằng nhau",
+      "cạnh huyền",
+      "trung tuyến"
+    ],
+    "answer": "g.g",
+    "hint": "Góc-góc."
+  },
+  {
+    "id": "q_g8_similarity_cases_2",
+    "skill": "g8_similarity_cases",
+    "type": "input",
+    "question": "Viết tắt cạnh-góc-cạnh đồng dạng.",
+    "answer": "c.g.c",
+    "hint": "Hai cạnh tỉ lệ và góc xen giữa bằng nhau."
+  },
+  {
+    "id": "q_g8_pythagore_1",
+    "skill": "g8_pythagore",
+    "type": "input",
+    "question": "Tam giác vuông có hai cạnh góc vuông 3 và 4. Cạnh huyền là?",
+    "answer": "5",
+    "hint": "3^2+4^2=25."
+  },
+  {
+    "id": "q_g8_pythagore_2",
+    "skill": "g8_pythagore",
+    "type": "multiple_choice",
+    "question": "Định lí Pythagore áp dụng cho tam giác nào?",
+    "choices": [
+      "Tam giác vuông",
+      "Mọi tứ giác",
+      "Hình thoi",
+      "Biểu đồ"
+    ],
+    "answer": "Tam giác vuông",
+    "hint": "Cần có góc vuông."
+  },
+  {
+    "id": "q_g8_right_triangle_similarity_1",
+    "skill": "g8_right_triangle_similarity",
+    "type": "multiple_choice",
+    "question": "Hai tam giác vuông có một góc nhọn bằng nhau thì chúng thế nào?",
+    "choices": [
+      "Đồng dạng",
+      "Bằng nhau luôn",
+      "Vuông góc",
+      "Không liên quan"
+    ],
+    "answer": "Đồng dạng",
+    "hint": "Có góc vuông và một góc nhọn bằng nhau."
+  },
+  {
+    "id": "q_g8_right_triangle_similarity_2",
+    "skill": "g8_right_triangle_similarity",
+    "type": "input",
+    "question": "Tam giác vuông đã có sẵn một góc bao nhiêu độ?",
+    "answer": "90",
+    "hint": "Đó là góc vuông."
+  },
+  {
+    "id": "q_g8_similar_figures_1",
+    "skill": "g8_similar_figures",
+    "type": "multiple_choice",
+    "question": "Bản đồ tỉ lệ và vùng đất thật là hai hình gì?",
+    "choices": [
+      "Đồng dạng",
+      "Đối đỉnh",
+      "Không gian mẫu",
+      "Phân thức"
+    ],
+    "answer": "Đồng dạng",
+    "hint": "Cùng hình dạng, khác kích thước."
+  },
+  {
+    "id": "q_g8_similar_figures_2",
+    "skill": "g8_similar_figures",
+    "type": "input",
+    "question": "Nếu tỉ lệ là 1:100, độ dài 2 cm trên bản vẽ tương ứng bao nhiêu cm thật?",
+    "answer": "200",
+    "hint": "2 nhân 100."
+  },
+  {
+    "id": "q_g8_triangular_pyramid_1",
+    "skill": "g8_triangular_pyramid",
+    "type": "multiple_choice",
+    "question": "Đáy của hình chóp tam giác đều là hình gì?",
+    "choices": [
+      "Tam giác đều",
+      "Hình vuông",
+      "Hình tròn",
+      "Hình thoi"
+    ],
+    "answer": "Tam giác đều",
+    "hint": "Tên hình cho biết đáy."
+  },
+  {
+    "id": "q_g8_triangular_pyramid_2",
+    "skill": "g8_triangular_pyramid",
+    "type": "input",
+    "question": "Hình chóp tam giác đều có bao nhiêu mặt bên?",
+    "answer": "3",
+    "hint": "Mỗi cạnh đáy tạo một mặt bên."
+  },
+  {
+    "id": "q_g8_square_pyramid_1",
+    "skill": "g8_square_pyramid",
+    "type": "input",
+    "question": "Thể tích chóp có S đáy = 12, chiều cao = 9 là bao nhiêu?",
+    "answer": "36",
+    "hint": "V = 1/3 · 12 · 9."
+  },
+  {
+    "id": "q_g8_square_pyramid_2",
+    "skill": "g8_square_pyramid",
+    "type": "multiple_choice",
+    "question": "Đáy hình chóp tứ giác đều là hình gì?",
+    "choices": [
+      "Hình vuông",
+      "Tam giác đều",
+      "Hình tròn",
+      "Đoạn thẳng"
+    ],
+    "answer": "Hình vuông",
+    "hint": "Tứ giác đều là hình vuông trong chương trình này."
+  },
+  {
+    "id": "q_g9_linear_system_intro_1",
+    "skill": "g9_linear_system_intro",
+    "type": "multiple_choice",
+    "question": "Cặp số nào là nghiệm của x+y=5?",
+    "choices": [
+      "(2;3)",
+      "(5;5)",
+      "(1;1)",
+      "(0;0)"
+    ],
+    "answer": "(2;3)",
+    "hint": "Thay x=2, y=3 được 5."
+  },
+  {
+    "id": "q_g9_linear_system_intro_2",
+    "skill": "g9_linear_system_intro",
+    "type": "input",
+    "question": "Phương trình 2x+y=7 với x=3 thì y bằng bao nhiêu?",
+    "answer": "1",
+    "hint": "6+y=7."
+  },
+  {
+    "id": "q_g9_solve_linear_system_1",
+    "skill": "g9_solve_linear_system",
+    "type": "input",
+    "question": "Giải hệ x+y=5, x-y=1. x bằng bao nhiêu?",
+    "answer": "3",
+    "hint": "Cộng hai phương trình được 2x=6."
+  },
+  {
+    "id": "q_g9_solve_linear_system_2",
+    "skill": "g9_solve_linear_system",
+    "type": "multiple_choice",
+    "question": "Hệ x+y=4, x=1 có y bằng?",
+    "choices": [
+      "3",
+      "4",
+      "1",
+      "5"
+    ],
+    "answer": "3",
+    "hint": "Thay x=1 vào x+y=4."
+  },
+  {
+    "id": "q_g9_word_system_1",
+    "skill": "g9_word_system",
+    "type": "input",
+    "question": "Tổng hai số là 10, hiệu là 2. Số lớn là?",
+    "answer": "6",
+    "hint": "Giải hệ a+b=10, a-b=2."
+  },
+  {
+    "id": "q_g9_word_system_2",
+    "skill": "g9_word_system",
+    "type": "multiple_choice",
+    "question": "Lập hệ thường cần mấy ẩn?",
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "4"
+    ],
+    "answer": "2",
+    "hint": "Hệ hai phương trình bậc nhất hai ẩn thường dùng hai ẩn."
+  },
+  {
+    "id": "q_g9_equation_transform_1",
+    "skill": "g9_equation_transform",
+    "type": "input",
+    "question": "Giải 2(x+1)=10. x = ?",
+    "answer": "4",
+    "hint": "Chia 2 rồi trừ 1."
+  },
+  {
+    "id": "q_g9_equation_transform_2",
+    "skill": "g9_equation_transform",
+    "type": "multiple_choice",
+    "question": "3x-6=0 có nghiệm?",
+    "choices": [
+      "2",
+      "-2",
+      "6",
+      "3"
+    ],
+    "answer": "2",
+    "hint": "3x=6."
+  },
+  {
+    "id": "q_g9_inequality_properties_1",
+    "skill": "g9_inequality_properties",
+    "type": "multiple_choice",
+    "question": "Nhân hai vế bất đẳng thức với -2 thì chiều thế nào?",
+    "choices": [
+      "Đổi chiều",
+      "Giữ nguyên",
+      "Mất nghiệm",
+      "Luôn bằng nhau"
+    ],
+    "answer": "Đổi chiều",
+    "hint": "Nhân với số âm phải đổi chiều."
+  },
+  {
+    "id": "q_g9_inequality_properties_2",
+    "skill": "g9_inequality_properties",
+    "type": "input",
+    "question": "Điền dấu: nếu 3<5 thì -3 ___ -5",
+    "answer": ">",
+    "hint": "Đổi dấu hai số làm đảo thứ tự."
+  },
+  {
+    "id": "q_g9_linear_inequality_1",
+    "skill": "g9_linear_inequality",
+    "type": "input",
+    "question": "Giải -2x < 6. Điền nghiệm dạng x>-3 hay x<-3.",
+    "answer": "x>-3",
+    "hint": "Chia cho -2 phải đổi chiều."
+  },
+  {
+    "id": "q_g9_linear_inequality_2",
+    "skill": "g9_linear_inequality",
+    "type": "multiple_choice",
+    "question": "x+4>7 tương đương?",
+    "choices": [
+      "x>3",
+      "x<3",
+      "x>11",
+      "x<-3"
+    ],
+    "answer": "x>3",
+    "hint": "Trừ 4 hai vế."
+  },
+  {
+    "id": "q_g9_square_root_expr_1",
+    "skill": "g9_square_root_expr",
+    "type": "input",
+    "question": "sqrt(81) bằng bao nhiêu?",
+    "answer": "9",
+    "hint": "Căn bậc hai số học không âm."
+  },
+  {
+    "id": "q_g9_square_root_expr_2",
+    "skill": "g9_square_root_expr",
+    "type": "multiple_choice",
+    "question": "sqrt(x-2) xác định khi nào?",
+    "choices": [
+      "x>=2",
+      "x<2",
+      "x=0",
+      "mọi x"
+    ],
+    "answer": "x>=2",
+    "hint": "Biểu thức dưới căn phải không âm."
+  },
+  {
+    "id": "q_g9_sqrt_product_quotient_1",
+    "skill": "g9_sqrt_product_quotient",
+    "type": "input",
+    "question": "sqrt(4*9) bằng bao nhiêu?",
+    "answer": "6",
+    "hint": "sqrt(36)=6."
+  },
+  {
+    "id": "q_g9_sqrt_product_quotient_2",
+    "skill": "g9_sqrt_product_quotient",
+    "type": "multiple_choice",
+    "question": "sqrt(25/9) bằng?",
+    "choices": [
+      "5/3",
+      "25/3",
+      "3/5",
+      "5/9"
+    ],
+    "answer": "5/3",
+    "hint": "Khai căn tử và mẫu."
+  },
+  {
+    "id": "q_g9_sqrt_simplify_1",
+    "skill": "g9_sqrt_simplify",
+    "type": "input",
+    "question": "Rút gọn sqrt(12).",
+    "answer": "2sqrt(3)",
+    "hint": "12=4*3."
+  },
+  {
+    "id": "q_g9_sqrt_simplify_2",
+    "skill": "g9_sqrt_simplify",
+    "type": "multiple_choice",
+    "question": "sqrt(50) bằng?",
+    "choices": [
+      "5sqrt(2)",
+      "25sqrt(2)",
+      "2sqrt(5)",
+      "10"
+    ],
+    "answer": "5sqrt(2)",
+    "hint": "50=25*2."
+  },
+  {
+    "id": "q_g9_cube_root_expr_1",
+    "skill": "g9_cube_root_expr",
+    "type": "input",
+    "question": "Căn bậc ba của -8 là?",
+    "answer": "-2",
+    "hint": "(-2)^3=-8."
+  },
+  {
+    "id": "q_g9_cube_root_expr_2",
+    "skill": "g9_cube_root_expr",
+    "type": "multiple_choice",
+    "question": "cuberoot(27) bằng?",
+    "choices": [
+      "3",
+      "-3",
+      "9",
+      "1/3"
+    ],
+    "answer": "3",
+    "hint": "3^3=27."
+  },
+  {
+    "id": "q_g9_trig_ratios_1",
+    "skill": "g9_trig_ratios",
+    "type": "multiple_choice",
+    "question": "Trong tam giác vuông, sin góc nhọn bằng?",
+    "choices": [
+      "cạnh đối/cạnh huyền",
+      "cạnh kề/cạnh huyền",
+      "cạnh đối/cạnh kề",
+      "cạnh huyền/cạnh đối"
+    ],
+    "answer": "cạnh đối/cạnh huyền",
+    "hint": "Định nghĩa sin."
+  },
+  {
+    "id": "q_g9_trig_ratios_2",
+    "skill": "g9_trig_ratios",
+    "type": "input",
+    "question": "Tam giác vuông có cạnh đối góc A là 3, huyền 5. sin A bằng?",
+    "answer": "3/5",
+    "hint": "sin = đối/huyền."
+  },
+  {
+    "id": "q_g9_right_triangle_relations_1",
+    "skill": "g9_right_triangle_relations",
+    "type": "input",
+    "question": "Cạnh huyền 10, sin A=3/5. Cạnh đối A bằng?",
+    "answer": "6",
+    "hint": "Đối = 10*3/5."
+  },
+  {
+    "id": "q_g9_right_triangle_relations_2",
+    "skill": "g9_right_triangle_relations",
+    "type": "multiple_choice",
+    "question": "tan A bằng?",
+    "choices": [
+      "đối/kề",
+      "kề/đối",
+      "đối/huyền",
+      "kề/huyền"
+    ],
+    "answer": "đối/kề",
+    "hint": "Định nghĩa tan."
+  },
+  {
+    "id": "q_g9_circle_intro_1",
+    "skill": "g9_circle_intro",
+    "type": "input",
+    "question": "Đường kính bằng 10 thì bán kính bằng?",
+    "answer": "5",
+    "hint": "Bán kính bằng nửa đường kính."
+  },
+  {
+    "id": "q_g9_circle_intro_2",
+    "skill": "g9_circle_intro",
+    "type": "multiple_choice",
+    "question": "Điểm cách tâm O đúng R thì nằm ở đâu?",
+    "choices": [
+      "Trên đường tròn",
+      "Trong đường tròn",
+      "Ngoài đường tròn",
+      "Tại tâm"
+    ],
+    "answer": "Trên đường tròn",
+    "hint": "Định nghĩa đường tròn."
+  },
+  {
+    "id": "q_g9_arc_chord_1",
+    "skill": "g9_arc_chord",
+    "type": "multiple_choice",
+    "question": "Trong một đường tròn, hai dây bằng nhau chắn các cung thế nào?",
+    "choices": [
+      "Bằng nhau",
+      "Bù nhau",
+      "Vuông góc",
+      "Không liên quan"
+    ],
+    "answer": "Bằng nhau",
+    "hint": "Dây bằng nhau chắn cung bằng nhau."
+  },
+  {
+    "id": "q_g9_arc_chord_2",
+    "skill": "g9_arc_chord",
+    "type": "input",
+    "question": "Đường kính có phải là dây không? trả lời có/không.",
+    "answer": "có",
+    "hint": "Đường kính là dây đi qua tâm."
+  },
+  {
+    "id": "q_g9_arc_sector_area_1",
+    "skill": "g9_arc_sector_area",
+    "type": "input",
+    "question": "Độ dài cung 180 độ bán kính 2 là bao nhiêu theo pi?",
+    "answer": "2pi",
+    "hint": "Nửa chu vi: pi*r = 2pi."
+  },
+  {
+    "id": "q_g9_arc_sector_area_2",
+    "skill": "g9_arc_sector_area",
+    "type": "multiple_choice",
+    "question": "Diện tích hình quạt 90 độ bằng mấy phần diện tích hình tròn?",
+    "choices": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "1/8"
+    ],
+    "answer": "1/4",
+    "hint": "90/360=1/4."
+  },
+  {
+    "id": "q_g9_line_circle_position_1",
+    "skill": "g9_line_circle_position",
+    "type": "multiple_choice",
+    "question": "Khoảng cách từ tâm đến đường thẳng bằng bán kính thì đường thẳng là?",
+    "choices": [
+      "Tiếp tuyến",
+      "Cát tuyến",
+      "Không cắt",
+      "Đường kính"
+    ],
+    "answer": "Tiếp tuyến",
+    "hint": "d=R."
+  },
+  {
+    "id": "q_g9_line_circle_position_2",
+    "skill": "g9_line_circle_position",
+    "type": "input",
+    "question": "Nếu d<R thì đường thẳng và đường tròn có mấy điểm chung?",
+    "answer": "2",
+    "hint": "Đó là cát tuyến."
+  },
+  {
+    "id": "q_g9_two_circles_position_1",
+    "skill": "g9_two_circles_position",
+    "type": "input",
+    "question": "Hai đường tròn tiếp xúc ngoài có số điểm chung là?",
+    "answer": "1",
+    "hint": "Tiếp xúc nghĩa là có một điểm chung."
+  },
+  {
+    "id": "q_g9_two_circles_position_2",
+    "skill": "g9_two_circles_position",
+    "type": "multiple_choice",
+    "question": "Nếu khoảng cách hai tâm lớn hơn tổng hai bán kính thì hai đường tròn?",
+    "choices": [
+      "Không giao nhau",
+      "Cắt nhau",
+      "Tiếp xúc trong",
+      "Trùng nhau"
+    ],
+    "answer": "Không giao nhau",
+    "hint": "Hai đường tròn ở ngoài nhau."
+  },
+  {
+    "id": "q_g9_quadratic_function_1",
+    "skill": "g9_quadratic_function",
+    "type": "input",
+    "question": "Với y=2x^2, khi x=3 thì y bằng?",
+    "answer": "18",
+    "hint": "2*9=18."
+  },
+  {
+    "id": "q_g9_quadratic_function_2",
+    "skill": "g9_quadratic_function",
+    "type": "multiple_choice",
+    "question": "Đồ thị y=ax^2 là hình gì?",
+    "choices": [
+      "Parabol",
+      "Đường thẳng",
+      "Đường tròn",
+      "Hình nón"
+    ],
+    "answer": "Parabol",
+    "hint": "Hàm bậc hai dạng này có đồ thị parabol."
+  },
+  {
+    "id": "q_g9_quadratic_equation_1",
+    "skill": "g9_quadratic_equation",
+    "type": "input",
+    "question": "Giải x^2-9=0. Nghiệm dương là?",
+    "answer": "3",
+    "hint": "x=3 hoặc x=-3."
+  },
+  {
+    "id": "q_g9_quadratic_equation_2",
+    "skill": "g9_quadratic_equation",
+    "type": "multiple_choice",
+    "question": "x^2-5x+6=0 có nghiệm?",
+    "choices": [
+      "2 và 3",
+      "1 và 6",
+      "-2 và -3",
+      "0 và 6"
+    ],
+    "answer": "2 và 3",
+    "hint": "Phân tích (x-2)(x-3)=0."
+  },
+  {
+    "id": "q_g9_viete_1",
+    "skill": "g9_viete",
+    "type": "input",
+    "question": "Với x^2-5x+6=0, tổng hai nghiệm bằng?",
+    "answer": "5",
+    "hint": "Theo Vi-ét, S=-b/a=5."
+  },
+  {
+    "id": "q_g9_viete_2",
+    "skill": "g9_viete",
+    "type": "multiple_choice",
+    "question": "Tích hai nghiệm của x^2-5x+6=0 là?",
+    "choices": [
+      "6",
+      "5",
+      "-5",
+      "-6"
+    ],
+    "answer": "6",
+    "hint": "P=c/a=6."
+  },
+  {
+    "id": "q_g9_word_quadratic_1",
+    "skill": "g9_word_quadratic",
+    "type": "input",
+    "question": "Tích hai số tự nhiên liên tiếp là 30. Số nhỏ là?",
+    "answer": "5",
+    "hint": "5*6=30."
+  },
+  {
+    "id": "q_g9_word_quadratic_2",
+    "skill": "g9_word_quadratic",
+    "type": "multiple_choice",
+    "question": "Khi lập phương trình thực tế, bước cuối cần làm gì?",
+    "choices": [
+      "Kiểm tra điều kiện nghiệm",
+      "Bỏ đơn vị",
+      "Luôn chọn nghiệm âm",
+      "Không cần kết luận"
+    ],
+    "answer": "Kiểm tra điều kiện nghiệm",
+    "hint": "Nghiệm phải phù hợp bối cảnh."
+  },
+  {
+    "id": "q_g9_frequency_table_1",
+    "skill": "g9_frequency_table",
+    "type": "input",
+    "question": "Dữ liệu có số 4 xuất hiện 7 lần. Tần số của 4 là?",
+    "answer": "7",
+    "hint": "Tần số là số lần xuất hiện."
+  },
+  {
+    "id": "q_g9_frequency_table_2",
+    "skill": "g9_frequency_table",
+    "type": "multiple_choice",
+    "question": "Bảng tần số dùng để?",
+    "choices": [
+      "Đếm số lần xuất hiện",
+      "Giải hệ",
+      "Vẽ đường tròn",
+      "Tính căn"
+    ],
+    "answer": "Đếm số lần xuất hiện",
+    "hint": "Mỗi giá trị đi với tần số."
+  },
+  {
+    "id": "q_g9_relative_frequency_1",
+    "skill": "g9_relative_frequency",
+    "type": "input",
+    "question": "4 lần trên 20 quan sát là bao nhiêu phần trăm?",
+    "answer": "20%",
+    "hint": "4/20=0,2=20%."
+  },
+  {
+    "id": "q_g9_relative_frequency_2",
+    "skill": "g9_relative_frequency",
+    "type": "multiple_choice",
+    "question": "Tần số tương đối bằng?",
+    "choices": [
+      "tần số/tổng số",
+      "tổng số/tần số",
+      "tần số+ tổng",
+      "tần số^2"
+    ],
+    "answer": "tần số/tổng số",
+    "hint": "Định nghĩa tần số tương đối."
+  },
+  {
+    "id": "q_g9_grouped_frequency_1",
+    "skill": "g9_grouped_frequency",
+    "type": "multiple_choice",
+    "question": "Dữ liệu chiều cao nhiều giá trị nên làm gì để dễ đọc?",
+    "choices": [
+      "Ghép nhóm",
+      "Bỏ dữ liệu",
+      "Lấy căn",
+      "Lập hệ"
+    ],
+    "answer": "Ghép nhóm",
+    "hint": "Ghép khoảng giúp bảng gọn hơn."
+  },
+  {
+    "id": "q_g9_grouped_frequency_2",
+    "skill": "g9_grouped_frequency",
+    "type": "input",
+    "question": "Nhóm [150;160) có 8 bạn. Tần số nhóm là?",
+    "answer": "8",
+    "hint": "Tần số nhóm là số dữ liệu trong khoảng đó."
+  },
+  {
+    "id": "q_g9_sample_space_1",
+    "skill": "g9_sample_space",
+    "type": "input",
+    "question": "Tung một đồng xu, không gian mẫu có mấy kết quả?",
+    "answer": "2",
+    "hint": "Sấp hoặc ngửa."
+  },
+  {
+    "id": "q_g9_sample_space_2",
+    "skill": "g9_sample_space",
+    "type": "multiple_choice",
+    "question": "Gieo xúc xắc, biến cố ra số chẵn gồm?",
+    "choices": [
+      "2,4,6",
+      "1,3,5",
+      "1,2",
+      "6"
+    ],
+    "answer": "2,4,6",
+    "hint": "Các số chẵn trên xúc xắc."
+  },
+  {
+    "id": "q_g9_probability_models_1",
+    "skill": "g9_probability_models",
+    "type": "input",
+    "question": "Gieo xúc xắc, xác suất ra số nguyên tố là?",
+    "answer": "1/2",
+    "hint": "Số nguyên tố: 2,3,5 nên 3/6."
+  },
+  {
+    "id": "q_g9_probability_models_2",
+    "skill": "g9_probability_models",
+    "type": "multiple_choice",
+    "question": "Túi có 3 đỏ, 2 xanh. Xác suất lấy đỏ là?",
+    "choices": [
+      "3/5",
+      "2/5",
+      "3/2",
+      "1/5"
+    ],
+    "answer": "3/5",
+    "hint": "3 thuận lợi trên 5."
+  },
+  {
+    "id": "q_g9_inscribed_angle_1",
+    "skill": "g9_inscribed_angle",
+    "type": "multiple_choice",
+    "question": "Góc nội tiếp bằng mấy phần số đo cung bị chắn?",
+    "choices": [
+      "1/2",
+      "2",
+      "1/3",
+      "bằng nhau"
+    ],
+    "answer": "1/2",
+    "hint": "Định lí góc nội tiếp."
+  },
+  {
+    "id": "q_g9_inscribed_angle_2",
+    "skill": "g9_inscribed_angle",
+    "type": "input",
+    "question": "Cung bị chắn 100 độ thì góc nội tiếp bằng bao nhiêu độ?",
+    "answer": "50",
+    "hint": "Lấy một nửa cung."
+  },
+  {
+    "id": "q_g9_circum_incircle_triangle_1",
+    "skill": "g9_circum_incircle_triangle",
+    "type": "multiple_choice",
+    "question": "Tâm ngoại tiếp tam giác là giao điểm của?",
+    "choices": [
+      "Ba đường trung trực",
+      "Ba đường cao",
+      "Ba trung tuyến",
+      "Ba cạnh"
+    ],
+    "answer": "Ba đường trung trực",
+    "hint": "Tâm ngoại tiếp cách đều ba đỉnh."
+  },
+  {
+    "id": "q_g9_circum_incircle_triangle_2",
+    "skill": "g9_circum_incircle_triangle",
+    "type": "input",
+    "question": "Tâm nội tiếp cách đều mấy cạnh tam giác?",
+    "answer": "3",
+    "hint": "Tâm nội tiếp cách đều ba cạnh."
+  },
+  {
+    "id": "q_g9_cyclic_quadrilateral_1",
+    "skill": "g9_cyclic_quadrilateral",
+    "type": "input",
+    "question": "Tứ giác nội tiếp có hai góc đối tổng bằng bao nhiêu độ?",
+    "answer": "180",
+    "hint": "Hai góc đối bù nhau."
+  },
+  {
+    "id": "q_g9_cyclic_quadrilateral_2",
+    "skill": "g9_cyclic_quadrilateral",
+    "type": "multiple_choice",
+    "question": "Nếu A+C=180 độ thì tứ giác có thể là?",
+    "choices": [
+      "Tứ giác nội tiếp",
+      "Hình nón",
+      "Phân thức",
+      "Không gian mẫu"
+    ],
+    "answer": "Tứ giác nội tiếp",
+    "hint": "Đây là dấu hiệu quan trọng."
+  },
+  {
+    "id": "q_g9_regular_polygon_1",
+    "skill": "g9_regular_polygon",
+    "type": "input",
+    "question": "Góc ở tâm của lục giác đều bằng bao nhiêu độ?",
+    "answer": "60",
+    "hint": "360/6=60."
+  },
+  {
+    "id": "q_g9_regular_polygon_2",
+    "skill": "g9_regular_polygon",
+    "type": "multiple_choice",
+    "question": "Đa giác đều có các cạnh thế nào?",
+    "choices": [
+      "Bằng nhau",
+      "Tất cả khác nhau",
+      "Luôn cong",
+      "Không có góc"
+    ],
+    "answer": "Bằng nhau",
+    "hint": "Đa giác đều có cạnh và góc bằng nhau."
+  },
+  {
+    "id": "q_g9_cylinder_cone_1",
+    "skill": "g9_cylinder_cone",
+    "type": "input",
+    "question": "Thể tích hình trụ bán kính 2, cao 5 bằng bao nhiêu theo pi?",
+    "answer": "20pi",
+    "hint": "V=pi*r^2*h=pi*4*5."
+  },
+  {
+    "id": "q_g9_cylinder_cone_2",
+    "skill": "g9_cylinder_cone",
+    "type": "multiple_choice",
+    "question": "Thể tích hình nón có hệ số nào?",
+    "choices": [
+      "1/3",
+      "1/2",
+      "2",
+      "4/3"
+    ],
+    "answer": "1/3",
+    "hint": "V nón = 1/3*pi*r^2*h."
+  },
+  {
+    "id": "q_g9_sphere_1",
+    "skill": "g9_sphere",
+    "type": "multiple_choice",
+    "question": "Thể tích hình cầu bán kính r là?",
+    "choices": [
+      "4/3*pi*r^3",
+      "pi*r^2*h",
+      "1/3*pi*r^2*h",
+      "2*pi*r"
+    ],
+    "answer": "4/3*pi*r^3",
+    "hint": "Công thức thể tích hình cầu."
+  },
+  {
+    "id": "q_g9_sphere_2",
+    "skill": "g9_sphere",
+    "type": "input",
+    "question": "Mặt cầu bán kính 3 có diện tích bao nhiêu theo pi?",
+    "answer": "36pi",
+    "hint": "S=4*pi*r^2=36pi."
+  }
+]

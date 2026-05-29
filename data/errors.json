@@ -1,0 +1,461 @@
+[
+  {
+    "pattern": "25",
+    "skill": "nat_order_ops",
+    "errorType": "order_error",
+    "title": "Sai thứ tự phép tính",
+    "message": "Bạn đang cộng trước khi nhân.",
+    "hint": "Hãy thực hiện nhân chia trước cộng trừ nếu không có ngoặc.",
+    "recommendation": "nat_order_ops"
+  },
+  {
+    "pattern": "135",
+    "skill": "div_signs",
+    "errorType": "divisibility_error",
+    "title": "Nhầm dấu hiệu chia hết",
+    "message": "Số tận cùng 5 chia hết cho 5 nhưng không nhất thiết chia hết cho 2.",
+    "hint": "Kiểm tra từng dấu hiệu riêng.",
+    "recommendation": "div_signs"
+  },
+  {
+    "pattern": "1",
+    "skill": "prime_numbers",
+    "errorType": "prime_error",
+    "title": "Nhầm số 1 là số nguyên tố",
+    "message": "Số 1 chỉ có một ước dương nên không phải số nguyên tố.",
+    "hint": "Số nguyên tố cần đúng hai ước dương.",
+    "recommendation": "prime_numbers"
+  },
+  {
+    "pattern": ">",
+    "skill": "int_order",
+    "errorType": "sign_error",
+    "title": "So sánh số âm ngược chiều",
+    "message": "Với số âm, số xa 0 hơn lại nhỏ hơn.",
+    "hint": "Đặt hai số lên trục số.",
+    "recommendation": "int_order"
+  },
+  {
+    "pattern": "24",
+    "skill": "int_mul_div",
+    "errorType": "sign_error",
+    "title": "Sai dấu khi nhân chia số nguyên",
+    "message": "Hai số khác dấu cho kết quả âm.",
+    "hint": "Xác định dấu trước khi tính độ lớn.",
+    "recommendation": "int_mul_div"
+  },
+  {
+    "pattern": "13",
+    "skill": "shape_perimeter_area",
+    "errorType": "formula_error",
+    "title": "Nhầm chu vi và diện tích",
+    "message": "Bạn đang cộng hai kích thước thay vì nhân để tính diện tích.",
+    "hint": "Diện tích hình chữ nhật bằng dài nhân rộng.",
+    "recommendation": "shape_perimeter_area"
+  },
+  {
+    "pattern": "3/9",
+    "skill": "fraction_equal",
+    "errorType": "fraction_reduce_error",
+    "title": "Rút gọn chưa hết",
+    "message": "Bạn mới chia tử hoặc mẫu chưa đúng cách.",
+    "hint": "Chia cả tử và mẫu cho cùng một ước chung.",
+    "recommendation": "fraction_equal"
+  },
+  {
+    "pattern": "2/7",
+    "skill": "fraction_add_sub",
+    "errorType": "denominator_error",
+    "title": "Cộng cả mẫu số",
+    "message": "Khi cộng phân số, không cộng hai mẫu số với nhau.",
+    "hint": "Quy đồng mẫu rồi cộng tử số.",
+    "recommendation": "fraction_add_sub"
+  },
+  {
+    "pattern": "2/12",
+    "skill": "fraction_mul_div",
+    "errorType": "fraction_reduce_error",
+    "title": "Chưa rút gọn kết quả",
+    "message": "Kết quả đúng về phép nhân nhưng chưa tối giản.",
+    "hint": "Tìm ước chung để rút gọn.",
+    "recommendation": "fraction_mul_div"
+  },
+  {
+    "pattern": "36",
+    "skill": "decimal_ops",
+    "errorType": "decimal_point_error",
+    "title": "Quên dấu phẩy thập phân",
+    "message": "Bạn tính đúng phần số nhưng đặt sai dấu phẩy.",
+    "hint": "Ước lượng để thấy 1,2 · 3 phải gần 3,6.",
+    "recommendation": "decimal_ops"
+  },
+  {
+    "pattern": "25",
+    "skill": "ratio_percent",
+    "errorType": "percent_error",
+    "title": "Nhầm phần trăm với số tự nhiên",
+    "message": "25% không phải là 25 lần mà là 25/100.",
+    "hint": "Đổi phần trăm về phân số hoặc số thập phân.",
+    "recommendation": "ratio_percent"
+  },
+  {
+    "pattern": "10",
+    "skill": "midpoint",
+    "errorType": "midpoint_error",
+    "title": "Chưa chia đôi đoạn thẳng",
+    "message": "Trung điểm chia đoạn thành hai đoạn bằng nhau.",
+    "hint": "Lấy độ dài cả đoạn chia 2.",
+    "recommendation": "midpoint"
+  },
+  {
+    "pattern": "9",
+    "skill": "probability_exp",
+    "errorType": "probability_error",
+    "title": "Thiếu tổng số lần thử",
+    "message": "Xác suất thực nghiệm là một tỉ số, không chỉ là số lần xảy ra.",
+    "hint": "Viết số lần xảy ra trên tổng số lần thử.",
+    "recommendation": "probability_exp"
+  },
+  {
+    "pattern": "-5/4",
+    "skill": "g7_rational_ops",
+    "errorType": "sign_error",
+    "title": "Sai dấu khi cộng số hữu tỉ",
+    "message": "Bạn đang cộng độ lớn mà chưa xét dấu.",
+    "hint": "Quy đồng rồi cộng các tử có dấu.",
+    "recommendation": "g7_rational_ops"
+  },
+  {
+    "pattern": "17",
+    "skill": "g7_ops_transfer",
+    "errorType": "transfer_error",
+    "title": "Chuyển vế chưa đổi dấu",
+    "message": "Khi chuyển +5 sang vế kia phải thành -5.",
+    "hint": "x + 5 = 12 nên x = 12 - 5.",
+    "recommendation": "g7_ops_transfer"
+  },
+  {
+    "pattern": "-7",
+    "skill": "g7_irrational_sqrt",
+    "errorType": "sqrt_error",
+    "title": "Căn bậc hai số học không âm",
+    "message": "Căn bậc hai số học luôn là số không âm.",
+    "hint": "sqrt(49) = 7.",
+    "recommendation": "g7_irrational_sqrt"
+  },
+  {
+    "pattern": "125",
+    "skill": "g7_angles",
+    "errorType": "angle_sum_error",
+    "title": "Nhầm tổng góc kề bù",
+    "message": "Hai góc kề bù có tổng 180 độ.",
+    "hint": "Lấy 180 trừ góc đã biết.",
+    "recommendation": "g7_angles"
+  },
+  {
+    "pattern": "110",
+    "skill": "g7_triangle_sum",
+    "errorType": "triangle_angle_error",
+    "title": "Quên tổng ba góc tam giác",
+    "message": "Ba góc trong tam giác có tổng 180 độ.",
+    "hint": "Cộng hai góc đã biết rồi trừ khỏi 180.",
+    "recommendation": "g7_triangle_sum"
+  },
+  {
+    "pattern": "25",
+    "skill": "g7_pie_chart",
+    "errorType": "percent_angle_error",
+    "title": "Nhầm phần trăm với số đo góc",
+    "message": "25% của hình tròn không phải 25 độ.",
+    "hint": "Tính 25% của 360 độ.",
+    "recommendation": "g7_pie_chart"
+  },
+  {
+    "pattern": "5",
+    "skill": "g7_proportion",
+    "errorType": "proportion_error",
+    "title": "Nhân chéo chưa đúng",
+    "message": "Tỉ lệ thức cần giữ hai tích chéo bằng nhau.",
+    "hint": "2/5 = x/10 nên 5x = 20.",
+    "recommendation": "g7_proportion"
+  },
+  {
+    "pattern": "8",
+    "skill": "g7_algebra_expr",
+    "errorType": "substitution_error",
+    "title": "Thay giá trị nhưng tính thiếu bước",
+    "message": "Với x=3, 2x là 6, rồi cộng 5.",
+    "hint": "Thay chữ bằng số trong ngoặc nếu cần.",
+    "recommendation": "g7_algebra_expr"
+  },
+  {
+    "pattern": "x^2+3",
+    "skill": "g7_poly_multiply",
+    "errorType": "distribution_error",
+    "title": "Quên phân phối với biến",
+    "message": "x nhân với 3 tạo thành 3x, không phải 3.",
+    "hint": "Nhân x với từng hạng tử trong ngoặc.",
+    "recommendation": "g7_poly_multiply"
+  },
+  {
+    "pattern": "3/6",
+    "skill": "g7_probability_intro",
+    "errorType": "not_simplified",
+    "title": "Có thể rút gọn xác suất",
+    "message": "3/6 đúng về đếm nhưng nên rút gọn thành 1/2.",
+    "hint": "Chia cả tử và mẫu cho 3.",
+    "recommendation": "g7_probability_intro"
+  },
+  {
+    "pattern": "11",
+    "skill": "g7_triangle_inequality",
+    "errorType": "triangle_inequality_error",
+    "title": "Điều kiện phải là nhỏ hơn, không bằng",
+    "message": "Tổng hai cạnh phải lớn hơn cạnh còn lại.",
+    "hint": "Nếu x = 11 thì ba đoạn thẳng nằm thẳng hàng, không tạo tam giác.",
+    "recommendation": "g7_triangle_inequality"
+  },
+  {
+    "pattern": "9",
+    "skill": "g7_box_cube",
+    "errorType": "volume_formula_error",
+    "title": "Nhầm diện tích đáy với thể tích",
+    "message": "Thể tích hình hộp cần nhân thêm chiều cao.",
+    "hint": "V = dài · rộng · cao.",
+    "recommendation": "g7_box_cube"
+  },
+  {
+    "pattern": "x^2+6",
+    "skill": "g8_poly_multiply",
+    "errorType": "distribution_error",
+    "title": "Bỏ sót tích chéo",
+    "message": "Khi nhân hai nhị thức, cần nhân tất cả cặp hạng tử.",
+    "hint": "Với (x+2)(x+3), hạng tử giữa là 3x+2x.",
+    "recommendation": "g8_poly_multiply"
+  },
+  {
+    "pattern": "2x",
+    "skill": "g8_poly_div_monomial",
+    "errorType": "division_error",
+    "title": "Chia thiếu hạng tử",
+    "message": "Mỗi hạng tử của đa thức đều phải chia cho đơn thức.",
+    "hint": "3x : 3x = 1 nên kết quả có thêm +1.",
+    "recommendation": "g8_poly_div_monomial"
+  },
+  {
+    "pattern": "x^2+4",
+    "skill": "g8_identity_square",
+    "errorType": "identity_error",
+    "title": "Thiếu hạng tử 2ab",
+    "message": "(x+2)^2 không chỉ là x^2+4.",
+    "hint": "Bình phương tổng có hạng tử giữa 2·x·2.",
+    "recommendation": "g8_identity_square"
+  },
+  {
+    "pattern": "(x-4)^2",
+    "skill": "g8_factorization",
+    "errorType": "factorization_error",
+    "title": "Nhầm hiệu hai bình phương",
+    "message": "x^2-16 là hiệu hai bình phương, không phải bình phương một hiệu.",
+    "hint": "a^2-b^2=(a-b)(a+b).",
+    "recommendation": "g8_factorization"
+  },
+  {
+    "pattern": "180",
+    "skill": "g8_quadrilateral",
+    "errorType": "angle_sum_error",
+    "title": "Nhầm tổng góc tứ giác với tam giác",
+    "message": "Tứ giác có tổng góc 360 độ.",
+    "hint": "Có thể chia tứ giác thành hai tam giác.",
+    "recommendation": "g8_quadrilateral"
+  },
+  {
+    "pattern": "AD/AC",
+    "skill": "g8_thales",
+    "errorType": "ratio_error",
+    "title": "Ghép sai đoạn tương ứng",
+    "message": "Định lí Thalès yêu cầu ghép các đoạn cùng nằm trên hai cạnh tương ứng.",
+    "hint": "Vẽ lại hình và đánh dấu các đoạn tương ứng.",
+    "recommendation": "g8_thales"
+  },
+  {
+    "pattern": "1/2",
+    "skill": "g8_rational_expr_property",
+    "errorType": "invalid_cancel_error",
+    "title": "Rút gọn sai kiểu xóa hạng tử",
+    "message": "Không được rút gọn từng hạng tử trong tổng nếu không có nhân tử chung.",
+    "hint": "Hãy phân tích tử, mẫu thành tích trước khi rút gọn.",
+    "recommendation": "g8_rational_expr_property"
+  },
+  {
+    "pattern": "2/3x",
+    "skill": "g8_rational_expr_add_sub",
+    "errorType": "denominator_error",
+    "title": "Cộng mẫu phân thức",
+    "message": "Khi cộng phân thức, không cộng hai mẫu với nhau.",
+    "hint": "Quy đồng mẫu rồi cộng tử.",
+    "recommendation": "g8_rational_expr_add_sub"
+  },
+  {
+    "pattern": "3",
+    "skill": "g8_linear_equation",
+    "errorType": "equation_error",
+    "title": "Chia hoặc chuyển vế chưa đúng",
+    "message": "Với 3x-6=0, cần chuyển -6 sang vế phải rồi chia 3.",
+    "hint": "3x=6 nên x=2.",
+    "recommendation": "g8_linear_equation"
+  },
+  {
+    "pattern": "2",
+    "skill": "g8_slope",
+    "errorType": "slope_error",
+    "title": "Nhầm hệ số góc với tung độ gốc",
+    "message": "Trong y=ax+b, hệ số góc là a.",
+    "hint": "Số đứng trước x mới là hệ số góc.",
+    "recommendation": "g8_slope"
+  },
+  {
+    "pattern": "3/6",
+    "skill": "g8_probability_ratio",
+    "errorType": "not_simplified",
+    "title": "Có thể rút gọn xác suất",
+    "message": "3/6 đúng về đếm nhưng nên rút gọn thành 1/2.",
+    "hint": "Chia cả tử và mẫu cho 3.",
+    "recommendation": "g8_probability_ratio"
+  },
+  {
+    "pattern": "7",
+    "skill": "g8_pythagore",
+    "errorType": "pythagore_error",
+    "title": "Cộng cạnh thay vì cộng bình phương",
+    "message": "Định lí Pythagore dùng bình phương độ dài, không cộng trực tiếp hai cạnh.",
+    "hint": "3^2+4^2=25 nên cạnh huyền là 5.",
+    "recommendation": "g8_pythagore"
+  },
+  {
+    "pattern": "108",
+    "skill": "g8_square_pyramid",
+    "errorType": "pyramid_volume_error",
+    "title": "Thiếu hệ số 1/3",
+    "message": "Thể tích hình chóp bằng một phần ba diện tích đáy nhân chiều cao.",
+    "hint": "V = 1/3 · Sđáy · h.",
+    "recommendation": "g8_square_pyramid"
+  },
+  {
+    "pattern": "2",
+    "skill": "g9_solve_linear_system",
+    "errorType": "system_error",
+    "title": "Giải hệ mới tìm một ẩn",
+    "message": "Bạn cần tìm đủ cả x và y, rồi kiểm tra cả hai phương trình.",
+    "hint": "Sau khi tìm x, thay lại để tìm y.",
+    "recommendation": "g9_solve_linear_system"
+  },
+  {
+    "pattern": "x<-3",
+    "skill": "g9_linear_inequality",
+    "errorType": "inequality_sign_error",
+    "title": "Quên đổi chiều bất phương trình",
+    "message": "Khi chia cho số âm phải đổi chiều.",
+    "hint": "-2x<6 nên x>-3.",
+    "recommendation": "g9_linear_inequality"
+  },
+  {
+    "pattern": "-9",
+    "skill": "g9_square_root_expr",
+    "errorType": "sqrt_domain_error",
+    "title": "Căn bậc hai số học không âm",
+    "message": "sqrt(81) bằng 9, không phải -9.",
+    "hint": "Căn bậc hai số học luôn không âm.",
+    "recommendation": "g9_square_root_expr"
+  },
+  {
+    "pattern": "sqrt(12)",
+    "skill": "g9_sqrt_simplify",
+    "errorType": "radical_simplify_error",
+    "title": "Chưa đưa thừa số ra ngoài căn",
+    "message": "12 có thừa số chính phương là 4.",
+    "hint": "sqrt(12)=2sqrt(3).",
+    "recommendation": "g9_sqrt_simplify"
+  },
+  {
+    "pattern": "3/4",
+    "skill": "g9_trig_ratios",
+    "errorType": "trig_ratio_error",
+    "title": "Chọn nhầm cạnh trong tỉ số lượng giác",
+    "message": "sin dùng cạnh đối trên cạnh huyền.",
+    "hint": "Xác định góc đang xét trước.",
+    "recommendation": "g9_trig_ratios"
+  },
+  {
+    "pattern": "4pi",
+    "skill": "g9_arc_sector_area",
+    "errorType": "arc_length_error",
+    "title": "Nhầm cung 180 độ với cả đường tròn",
+    "message": "Cung 180 độ chỉ là nửa chu vi.",
+    "hint": "Độ dài bằng pi*r.",
+    "recommendation": "g9_arc_sector_area"
+  },
+  {
+    "pattern": "3",
+    "skill": "g9_quadratic_equation",
+    "errorType": "missing_root_error",
+    "title": "Thiếu nghiệm còn lại",
+    "message": "x^2-9=0 có hai nghiệm đối nhau.",
+    "hint": "x=3 hoặc x=-3.",
+    "recommendation": "g9_quadratic_equation"
+  },
+  {
+    "pattern": "-5",
+    "skill": "g9_viete",
+    "errorType": "viete_sign_error",
+    "title": "Sai dấu tổng nghiệm Vi-ét",
+    "message": "Tổng nghiệm bằng -b/a.",
+    "hint": "Với x^2-5x+6=0, tổng là 5.",
+    "recommendation": "g9_viete"
+  },
+  {
+    "pattern": "4%",
+    "skill": "g9_relative_frequency",
+    "errorType": "relative_frequency_error",
+    "title": "Tính phần trăm chưa đúng",
+    "message": "4/20 bằng 20%, không phải 4%.",
+    "hint": "Chia trước rồi đổi sang phần trăm.",
+    "recommendation": "g9_relative_frequency"
+  },
+  {
+    "pattern": "100",
+    "skill": "g9_inscribed_angle",
+    "errorType": "inscribed_angle_error",
+    "title": "Nhầm góc nội tiếp với cung",
+    "message": "Góc nội tiếp bằng một nửa cung bị chắn.",
+    "hint": "100 độ cung cho góc 50 độ.",
+    "recommendation": "g9_inscribed_angle"
+  },
+  {
+    "pattern": "360",
+    "skill": "g9_cyclic_quadrilateral",
+    "errorType": "cyclic_quad_error",
+    "title": "Nhầm tổng hai góc đối",
+    "message": "Trong tứ giác nội tiếp, hai góc đối bù nhau.",
+    "hint": "Tổng hai góc đối là 180 độ.",
+    "recommendation": "g9_cyclic_quadrilateral"
+  },
+  {
+    "pattern": "60pi",
+    "skill": "g9_cylinder_cone",
+    "errorType": "cone_cylinder_error",
+    "title": "Nhầm công thức trụ và nón",
+    "message": "Hình nón có thêm hệ số 1/3.",
+    "hint": "V nón = 1/3*pi*r^2*h.",
+    "recommendation": "g9_cylinder_cone"
+  },
+  {
+    "pattern": "9pi",
+    "skill": "g9_sphere",
+    "errorType": "sphere_area_error",
+    "title": "Thiếu hệ số 4 trong diện tích mặt cầu",
+    "message": "Diện tích mặt cầu là 4*pi*r^2.",
+    "hint": "Với r=3, S=36pi.",
+    "recommendation": "g9_sphere"
+  }
+]

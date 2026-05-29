@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "nat_set",
+    "title": "Bài 1. Tập hợp",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Nhận biết tập hợp, phần tử và cách mô tả bằng liệt kê hoặc tính chất.",
+    "visualization": "set"
+  },
+  {
+    "id": "nat_notation",
+    "title": "Bài 2. Cách ghi số tự nhiên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_set"
+    ],
+    "description": "Đọc, viết số tự nhiên theo hàng, lớp và hệ thập phân.",
+    "visualization": "place"
+  },
+  {
+    "id": "nat_order",
+    "title": "Bài 3. Thứ tự trong tập hợp các số tự nhiên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_notation"
+    ],
+    "description": "So sánh, sắp xếp và dùng tia số cho số tự nhiên.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "nat_add_sub",
+    "title": "Bài 4. Phép cộng và phép trừ số tự nhiên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_order"
+    ],
+    "description": "Tính tổng, hiệu và kiểm tra kết quả bằng quan hệ ngược.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "nat_mul_div",
+    "title": "Bài 5. Phép nhân và phép chia số tự nhiên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_add_sub"
+    ],
+    "description": "Tính tích, thương, số dư và chọn phép tính phù hợp.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "nat_power",
+    "title": "Bài 6. Lũy thừa với số mũ tự nhiên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_mul_div"
+    ],
+    "description": "Hiểu lũy thừa là phép nhân lặp và tính giá trị đơn giản.",
+    "visualization": "power"
+  },
+  {
+    "id": "nat_order_ops",
+    "title": "Bài 7. Thứ tự thực hiện các phép tính",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tập hợp các số tự nhiên",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "domain": "Tập hợp các số tự nhiên",
+    "level": 1,
+    "prerequisite": [
+      "nat_power"
+    ],
+    "description": "Thực hiện phép tính theo đúng thứ tự: ngoặc, lũy thừa, nhân chia, cộng trừ.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "div_relation",
+    "title": "Bài 8. Quan hệ chia hết và tính chất",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính chia hết",
+    "chapterIndex": 2,
+    "lessonNo": 8,
+    "domain": "Tính chia hết",
+    "level": 1,
+    "prerequisite": [
+      "nat_order_ops"
+    ],
+    "description": "Nhận biết a chia hết cho b và vận dụng tính chất chia hết của tổng, hiệu.",
+    "visualization": "divisibility"
+  },
+  {
+    "id": "div_signs",
+    "title": "Bài 9. Dấu hiệu chia hết",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính chia hết",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Tính chia hết",
+    "level": 1,
+    "prerequisite": [
+      "div_relation"
+    ],
+    "description": "Dùng dấu hiệu chia hết cho 2, 3, 5, 9 để kiểm tra nhanh.",
+    "visualization": "divisibility"
+  },
+  {
+    "id": "prime_numbers",
+    "title": "Bài 10. Số nguyên tố",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính chia hết",
+    "chapterIndex": 2,
+    "lessonNo": 10,
+    "domain": "Tính chia hết",
+    "level": 1,
+    "prerequisite": [
+      "div_signs"
+    ],
+    "description": "Phân biệt số nguyên tố, hợp số và phân tích số ra thừa số nguyên tố.",
+    "visualization": "factor"
+  },
+  {
+    "id": "gcd",
+    "title": "Bài 11. Ước chung. Ước chung lớn nhất",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính chia hết",
+    "chapterIndex": 2,
+    "lessonNo": 11,
+    "domain": "Tính chia hết",
+    "level": 1,
+    "prerequisite": [
+      "prime_numbers"
+    ],
+    "description": "Tìm ước chung, ước chung lớn nhất bằng liệt kê hoặc phân tích thừa số.",
+    "visualization": "factor"
+  },
+  {
+    "id": "lcm",
+    "title": "Bài 12. Bội chung. Bội chung nhỏ nhất",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính chia hết",
+    "chapterIndex": 2,
+    "lessonNo": 12,
+    "domain": "Tính chia hết",
+    "level": 1,
+    "prerequisite": [
+      "gcd"
+    ],
+    "description": "Tìm bội chung, bội chung nhỏ nhất và ứng dụng vào bài toán chu kì.",
+    "visualization": "factor"
+  },
+  {
+    "id": "int_set",
+    "title": "Bài 13. Tập hợp các số nguyên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Số nguyên",
+    "chapterIndex": 3,
+    "lessonNo": 13,
+    "domain": "Số nguyên",
+    "level": 2,
+    "prerequisite": [
+      "lcm"
+    ],
+    "description": "Hiểu số nguyên âm, số 0, số nguyên dương trong các tình huống thực tế.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "int_order",
+    "title": "Bài 14. So sánh số nguyên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Số nguyên",
+    "chapterIndex": 3,
+    "lessonNo": 14,
+    "domain": "Số nguyên",
+    "level": 2,
+    "prerequisite": [
+      "int_set"
+    ],
+    "description": "So sánh số nguyên bằng trục số và giá trị tuyệt đối.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "int_add_sub",
+    "title": "Bài 15. Phép cộng và phép trừ số nguyên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Số nguyên",
+    "chapterIndex": 3,
+    "lessonNo": 15,
+    "domain": "Số nguyên",
+    "level": 2,
+    "prerequisite": [
+      "int_order"
+    ],
+    "description": "Cộng, trừ số nguyên bằng quy tắc dấu và mô hình dịch chuyển.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "int_mul_div",
+    "title": "Bài 16. Phép nhân và phép chia số nguyên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Số nguyên",
+    "chapterIndex": 3,
+    "lessonNo": 16,
+    "domain": "Số nguyên",
+    "level": 2,
+    "prerequisite": [
+      "int_add_sub"
+    ],
+    "description": "Nhân, chia số nguyên và xác định dấu của kết quả.",
+    "visualization": "integerOps"
+  },
+  {
+    "id": "int_divisibility",
+    "title": "Bài 17. Phép chia hết. Ước và bội của một số nguyên",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Số nguyên",
+    "chapterIndex": 3,
+    "lessonNo": 17,
+    "domain": "Số nguyên",
+    "level": 2,
+    "prerequisite": [
+      "int_mul_div"
+    ],
+    "description": "Mở rộng khái niệm ước, bội và chia hết sang số nguyên.",
+    "visualization": "integerOps"
+  },
+  {
+    "id": "shape_regular",
+    "title": "Bài 18. Tam giác đều, hình vuông, lục giác đều",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "chapterIndex": 4,
+    "lessonNo": 18,
+    "domain": "Một số hình phẳng trong thực tiễn",
+    "level": 2,
+    "prerequisite": [
+      "int_divisibility"
+    ],
+    "description": "Nhận biết cạnh, góc và tính chất đều của các hình quen thuộc.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "shape_quads",
+    "title": "Bài 19. Hình chữ nhật, hình thoi, hình bình hành, hình thang cân",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "chapterIndex": 4,
+    "lessonNo": 19,
+    "domain": "Một số hình phẳng trong thực tiễn",
+    "level": 2,
+    "prerequisite": [
+      "shape_regular"
+    ],
+    "description": "Phân biệt các tứ giác đặc biệt qua cạnh, góc và đường chéo.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "shape_perimeter_area",
+    "title": "Bài 20. Chu vi và diện tích của một số tứ giác đã học",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "chapterIndex": 4,
+    "lessonNo": 20,
+    "domain": "Một số hình phẳng trong thực tiễn",
+    "level": 2,
+    "prerequisite": [
+      "shape_quads"
+    ],
+    "description": "Tính chu vi, diện tích hình chữ nhật, hình vuông, hình thoi, hình bình hành và hình thang.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "sym_axis",
+    "title": "Bài 21. Hình có trục đối xứng",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính đối xứng của hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 21,
+    "domain": "Tính đối xứng của hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "shape_perimeter_area"
+    ],
+    "description": "Nhận ra trục đối xứng và kiểm tra hai nửa hình có chồng khít không.",
+    "visualization": "symmetry"
+  },
+  {
+    "id": "sym_center",
+    "title": "Bài 22. Hình có tâm đối xứng",
+    "grade": 6,
+    "book": "Tập 1",
+    "chapter": "Tính đối xứng của hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 22,
+    "domain": "Tính đối xứng của hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "sym_axis"
+    ],
+    "description": "Nhận ra tâm đối xứng qua phép quay nửa vòng.",
+    "visualization": "symmetry"
+  },
+  {
+    "id": "fraction_equal",
+    "title": "Bài 23. Mở rộng phân số. Phân số bằng nhau",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 6,
+    "lessonNo": 23,
+    "domain": "Phân số",
+    "level": 2,
+    "prerequisite": [
+      "sym_center"
+    ],
+    "description": "Mở rộng phân số, nhận biết phân số bằng nhau qua nhân hoặc chia cùng một số.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "fraction_compare",
+    "title": "Bài 24. So sánh phân số. Hỗn số dương",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 6,
+    "lessonNo": 24,
+    "domain": "Phân số",
+    "level": 2,
+    "prerequisite": [
+      "fraction_equal"
+    ],
+    "description": "So sánh phân số, đọc hiểu hỗn số dương và đặt trên trục số.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "fraction_add_sub",
+    "title": "Bài 25. Phép cộng và phép trừ phân số",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 6,
+    "lessonNo": 25,
+    "domain": "Phân số",
+    "level": 2,
+    "prerequisite": [
+      "fraction_compare"
+    ],
+    "description": "Cộng, trừ phân số cùng mẫu hoặc khác mẫu bằng quy đồng.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "fraction_mul_div",
+    "title": "Bài 26. Phép nhân và phép chia phân số",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 6,
+    "lessonNo": 26,
+    "domain": "Phân số",
+    "level": 2,
+    "prerequisite": [
+      "fraction_add_sub"
+    ],
+    "description": "Nhân, chia phân số và rút gọn kết quả.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "fraction_two_problems",
+    "title": "Bài 27. Hai bài toán về phân số",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 6,
+    "lessonNo": 27,
+    "domain": "Phân số",
+    "level": 2,
+    "prerequisite": [
+      "fraction_mul_div"
+    ],
+    "description": "Tìm giá trị phân số của một số và tìm một số khi biết giá trị phân số của nó.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "decimal_intro",
+    "title": "Bài 28. Số thập phân",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Số thập phân",
+    "chapterIndex": 7,
+    "lessonNo": 28,
+    "domain": "Số thập phân",
+    "level": 3,
+    "prerequisite": [
+      "fraction_two_problems"
+    ],
+    "description": "Đọc, viết, so sánh số thập phân và liên hệ với phân số thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "decimal_ops",
+    "title": "Bài 29. Tính toán với số thập phân",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Số thập phân",
+    "chapterIndex": 7,
+    "lessonNo": 29,
+    "domain": "Số thập phân",
+    "level": 3,
+    "prerequisite": [
+      "decimal_intro"
+    ],
+    "description": "Cộng, trừ, nhân, chia số thập phân trong các tình huống đo lường.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "decimal_round",
+    "title": "Bài 30. Làm tròn và ước lượng",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Số thập phân",
+    "chapterIndex": 7,
+    "lessonNo": 30,
+    "domain": "Số thập phân",
+    "level": 3,
+    "prerequisite": [
+      "decimal_ops"
+    ],
+    "description": "Làm tròn số và ước lượng kết quả để kiểm tra tính hợp lí.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "ratio_percent",
+    "title": "Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Số thập phân",
+    "chapterIndex": 7,
+    "lessonNo": 31,
+    "domain": "Số thập phân",
+    "level": 3,
+    "prerequisite": [
+      "decimal_round"
+    ],
+    "description": "Tính tỉ số, phần trăm và vận dụng vào giảm giá, lãi suất, dữ liệu.",
+    "visualization": "percent"
+  },
+  {
+    "id": "point_line",
+    "title": "Bài 32. Điểm và đường thẳng",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Hình học cơ bản",
+    "chapterIndex": 8,
+    "lessonNo": 32,
+    "domain": "Hình học cơ bản",
+    "level": 3,
+    "prerequisite": [
+      "ratio_percent"
+    ],
+    "description": "Nhận biết điểm thuộc đường thẳng, ba điểm thẳng hàng và cách kí hiệu.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "three_points",
+    "title": "Bài 33. Điểm nằm giữa hai điểm. Tia",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Hình học cơ bản",
+    "chapterIndex": 8,
+    "lessonNo": 33,
+    "domain": "Hình học cơ bản",
+    "level": 3,
+    "prerequisite": [
+      "point_line"
+    ],
+    "description": "Mô tả điểm nằm giữa, tia gốc và hai tia đối nhau.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "segment_length",
+    "title": "Bài 34. Đoạn thẳng. Độ dài đoạn thẳng",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Hình học cơ bản",
+    "chapterIndex": 8,
+    "lessonNo": 34,
+    "domain": "Hình học cơ bản",
+    "level": 3,
+    "prerequisite": [
+      "three_points"
+    ],
+    "description": "Đo, so sánh độ dài đoạn thẳng và dùng đơn vị phù hợp.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "midpoint",
+    "title": "Bài 35. Trung điểm của đoạn thẳng",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Hình học cơ bản",
+    "chapterIndex": 8,
+    "lessonNo": 35,
+    "domain": "Hình học cơ bản",
+    "level": 3,
+    "prerequisite": [
+      "segment_length"
+    ],
+    "description": "Xác định trung điểm bằng điều kiện nằm giữa và hai đoạn bằng nhau.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "data_collect",
+    "title": "Bài 36. Thu thập và tổ chức dữ liệu",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "chapterIndex": 9,
+    "lessonNo": 36,
+    "domain": "Dữ liệu và xác suất thực nghiệm",
+    "level": 3,
+    "prerequisite": [
+      "midpoint"
+    ],
+    "description": "Thu thập, phân loại dữ liệu và trình bày bằng bảng.",
+    "visualization": "data"
+  },
+  {
+    "id": "data_chart",
+    "title": "Bài 37. Biểu diễn dữ liệu bằng bảng và biểu đồ",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "chapterIndex": 9,
+    "lessonNo": 37,
+    "domain": "Dữ liệu và xác suất thực nghiệm",
+    "level": 3,
+    "prerequisite": [
+      "data_collect"
+    ],
+    "description": "Đọc, vẽ và nhận xét biểu đồ tranh, cột, cột kép.",
+    "visualization": "chart"
+  },
+  {
+    "id": "data_analysis",
+    "title": "Bài 38. Mô tả và so sánh dữ liệu",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "chapterIndex": 9,
+    "lessonNo": 38,
+    "domain": "Dữ liệu và xác suất thực nghiệm",
+    "level": 3,
+    "prerequisite": [
+      "data_chart"
+    ],
+    "description": "Tính toán, so sánh và rút ra nhận xét từ dữ liệu.",
+    "visualization": "chart"
+  },
+  {
+    "id": "probability_exp",
+    "title": "Bài 39. Xác suất thực nghiệm trong một số trò chơi và thí nghiệm đơn giản",
+    "grade": 6,
+    "book": "Tập 2",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "chapterIndex": 9,
+    "lessonNo": 39,
+    "domain": "Dữ liệu và xác suất thực nghiệm",
+    "level": 3,
+    "prerequisite": [
+      "data_analysis"
+    ],
+    "description": "Tính xác suất thực nghiệm bằng tỉ số số lần xảy ra trên tổng số lần thử.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g7_rational_set",
+    "title": "Bài 1. Tập hợp các số hữu tỉ",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số hữu tỉ",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Số hữu tỉ",
+    "level": 2,
+    "prerequisite": [],
+    "description": "Nhận biết số hữu tỉ, biểu diễn trên trục số và so sánh các số hữu tỉ.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g7_rational_ops",
+    "title": "Bài 2. Cộng, trừ, nhân, chia số hữu tỉ",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số hữu tỉ",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Số hữu tỉ",
+    "level": 2,
+    "prerequisite": [
+      "g7_rational_set"
+    ],
+    "description": "Thực hiện bốn phép tính với số hữu tỉ, chú ý quy tắc dấu và quy đồng.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g7_rational_power",
+    "title": "Bài 3. Lũy thừa với số mũ tự nhiên của một số hữu tỉ",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số hữu tỉ",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Số hữu tỉ",
+    "level": 2,
+    "prerequisite": [
+      "g7_rational_ops"
+    ],
+    "description": "Tính lũy thừa của số hữu tỉ và vận dụng các quy tắc nhân, chia lũy thừa.",
+    "visualization": "power"
+  },
+  {
+    "id": "g7_ops_transfer",
+    "title": "Bài 4. Thứ tự thực hiện các phép tính. Quy tắc chuyển vế",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số hữu tỉ",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Số hữu tỉ",
+    "level": 2,
+    "prerequisite": [
+      "g7_rational_power"
+    ],
+    "description": "Tính biểu thức nhiều bước và giải bài toán tìm x bằng quy tắc chuyển vế.",
+    "visualization": "equationBalance"
+  },
+  {
+    "id": "g7_repeating_decimal",
+    "title": "Bài 5. Làm quen với số thập phân vô hạn tuần hoàn",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số thực",
+    "chapterIndex": 2,
+    "lessonNo": 5,
+    "domain": "Số thực",
+    "level": 2,
+    "prerequisite": [
+      "g7_ops_transfer"
+    ],
+    "description": "Nhận biết số thập phân hữu hạn, vô hạn tuần hoàn và cách viết chu kì.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g7_irrational_sqrt",
+    "title": "Bài 6. Số vô tỉ. Căn bậc hai số học",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số thực",
+    "chapterIndex": 2,
+    "lessonNo": 6,
+    "domain": "Số thực",
+    "level": 2,
+    "prerequisite": [
+      "g7_repeating_decimal"
+    ],
+    "description": "Làm quen số vô tỉ và căn bậc hai số học của số không âm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g7_real_set",
+    "title": "Bài 7. Tập hợp các số thực",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Số thực",
+    "chapterIndex": 2,
+    "lessonNo": 7,
+    "domain": "Số thực",
+    "level": 2,
+    "prerequisite": [
+      "g7_irrational_sqrt"
+    ],
+    "description": "Hiểu quan hệ giữa số hữu tỉ, số vô tỉ và số thực; so sánh, làm tròn số thực.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g7_angles",
+    "title": "Bài 8. Góc ở vị trí đặc biệt. Tia phân giác của một góc",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Góc và đường thẳng song song",
+    "chapterIndex": 3,
+    "lessonNo": 8,
+    "domain": "Góc và đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g7_real_set"
+    ],
+    "description": "Nhận biết góc kề bù, đối đỉnh và tia phân giác.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g7_parallel_signs",
+    "title": "Bài 9. Hai đường thẳng song song và dấu hiệu nhận biết",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Góc và đường thẳng song song",
+    "chapterIndex": 3,
+    "lessonNo": 9,
+    "domain": "Góc và đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g7_angles"
+    ],
+    "description": "Dùng các cặp góc so le trong, đồng vị để nhận biết hai đường thẳng song song.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g7_euclid_parallel",
+    "title": "Bài 10. Tiên đề Euclid. Tính chất hai đường thẳng song song",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Góc và đường thẳng song song",
+    "chapterIndex": 3,
+    "lessonNo": 10,
+    "domain": "Góc và đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g7_parallel_signs"
+    ],
+    "description": "Vận dụng tiên đề Euclid và tính chất góc khi hai đường thẳng song song.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g7_theorem_proof",
+    "title": "Bài 11. Định lí và chứng minh định lí",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Góc và đường thẳng song song",
+    "chapterIndex": 3,
+    "lessonNo": 11,
+    "domain": "Góc và đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g7_euclid_parallel"
+    ],
+    "description": "Phân biệt giả thiết, kết luận và trình bày chứng minh ngắn gọn.",
+    "visualization": "logic"
+  },
+  {
+    "id": "g7_triangle_sum",
+    "title": "Bài 12. Tổng các góc trong một tam giác",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Tam giác bằng nhau",
+    "chapterIndex": 4,
+    "lessonNo": 12,
+    "domain": "Tam giác bằng nhau",
+    "level": 3,
+    "prerequisite": [
+      "g7_theorem_proof"
+    ],
+    "description": "Vận dụng tổng ba góc của tam giác bằng 180 độ.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_triangle_sss",
+    "title": "Bài 13. Hai tam giác bằng nhau. Trường hợp bằng nhau thứ nhất",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Tam giác bằng nhau",
+    "chapterIndex": 4,
+    "lessonNo": 13,
+    "domain": "Tam giác bằng nhau",
+    "level": 3,
+    "prerequisite": [
+      "g7_triangle_sum"
+    ],
+    "description": "Nhận biết hai tam giác bằng nhau theo trường hợp cạnh-cạnh-cạnh.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_triangle_sas_asa",
+    "title": "Bài 14. Trường hợp bằng nhau thứ hai và thứ ba của tam giác",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Tam giác bằng nhau",
+    "chapterIndex": 4,
+    "lessonNo": 14,
+    "domain": "Tam giác bằng nhau",
+    "level": 3,
+    "prerequisite": [
+      "g7_triangle_sss"
+    ],
+    "description": "Sử dụng cạnh-góc-cạnh và góc-cạnh-góc để chứng minh hai tam giác bằng nhau.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_right_triangle",
+    "title": "Bài 15. Các trường hợp bằng nhau của tam giác vuông",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Tam giác bằng nhau",
+    "chapterIndex": 4,
+    "lessonNo": 15,
+    "domain": "Tam giác bằng nhau",
+    "level": 3,
+    "prerequisite": [
+      "g7_triangle_sas_asa"
+    ],
+    "description": "Nhận biết các trường hợp bằng nhau đặc biệt của tam giác vuông.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_isosceles_bisector",
+    "title": "Bài 16. Tam giác cân. Đường trung trực của đoạn thẳng",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Tam giác bằng nhau",
+    "chapterIndex": 4,
+    "lessonNo": 16,
+    "domain": "Tam giác bằng nhau",
+    "level": 3,
+    "prerequisite": [
+      "g7_right_triangle"
+    ],
+    "description": "Vận dụng tính chất tam giác cân và đường trung trực.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_data_classify",
+    "title": "Bài 17. Thu thập và phân loại dữ liệu",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "chapterIndex": 5,
+    "lessonNo": 17,
+    "domain": "Thu thập và biểu diễn dữ liệu",
+    "level": 3,
+    "prerequisite": [
+      "g7_isosceles_bisector"
+    ],
+    "description": "Xác định loại dữ liệu, thu thập và phân loại dữ liệu đúng mục đích.",
+    "visualization": "data"
+  },
+  {
+    "id": "g7_pie_chart",
+    "title": "Bài 18. Biểu đồ hình quạt tròn",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "chapterIndex": 5,
+    "lessonNo": 18,
+    "domain": "Thu thập và biểu diễn dữ liệu",
+    "level": 3,
+    "prerequisite": [
+      "g7_data_classify"
+    ],
+    "description": "Đọc và biểu diễn cơ cấu phần trăm bằng biểu đồ hình quạt tròn.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g7_line_chart",
+    "title": "Bài 19. Biểu đồ đoạn thẳng",
+    "grade": 7,
+    "book": "Tập 1",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "chapterIndex": 5,
+    "lessonNo": 19,
+    "domain": "Thu thập và biểu diễn dữ liệu",
+    "level": 3,
+    "prerequisite": [
+      "g7_pie_chart"
+    ],
+    "description": "Đọc xu hướng tăng giảm của dữ liệu theo thời gian bằng biểu đồ đoạn thẳng.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g7_proportion",
+    "title": "Bài 20. Tỉ lệ thức",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "chapterIndex": 6,
+    "lessonNo": 20,
+    "domain": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "level": 3,
+    "prerequisite": [
+      "g7_line_chart"
+    ],
+    "description": "Nhận biết tỉ lệ thức và vận dụng tính chất tích chéo.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g7_equal_ratios",
+    "title": "Bài 21. Tính chất của dãy tỉ số bằng nhau",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "chapterIndex": 6,
+    "lessonNo": 21,
+    "domain": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "level": 3,
+    "prerequisite": [
+      "g7_proportion"
+    ],
+    "description": "Vận dụng dãy tỉ số bằng nhau để tìm các đại lượng chưa biết.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g7_direct_variation",
+    "title": "Bài 22. Đại lượng tỉ lệ thuận",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "chapterIndex": 6,
+    "lessonNo": 22,
+    "domain": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "level": 3,
+    "prerequisite": [
+      "g7_equal_ratios"
+    ],
+    "description": "Nhận biết và giải bài toán hai đại lượng tỉ lệ thuận.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g7_inverse_variation",
+    "title": "Bài 23. Đại lượng tỉ lệ nghịch",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "chapterIndex": 6,
+    "lessonNo": 23,
+    "domain": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "level": 3,
+    "prerequisite": [
+      "g7_direct_variation"
+    ],
+    "description": "Nhận biết và giải bài toán hai đại lượng tỉ lệ nghịch.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g7_algebra_expr",
+    "title": "Bài 24. Biểu thức đại số",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "chapterIndex": 7,
+    "lessonNo": 24,
+    "domain": "Biểu thức đại số và đa thức một biến",
+    "level": 4,
+    "prerequisite": [
+      "g7_inverse_variation"
+    ],
+    "description": "Viết, đọc và tính giá trị biểu thức đại số.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g7_polynomial_one_var",
+    "title": "Bài 25. Đa thức một biến",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "chapterIndex": 7,
+    "lessonNo": 25,
+    "domain": "Biểu thức đại số và đa thức một biến",
+    "level": 4,
+    "prerequisite": [
+      "g7_algebra_expr"
+    ],
+    "description": "Nhận biết hệ số, bậc, hệ số cao nhất và hệ số tự do của đa thức một biến.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g7_poly_add_sub",
+    "title": "Bài 26. Phép cộng và phép trừ đa thức một biến",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "chapterIndex": 7,
+    "lessonNo": 26,
+    "domain": "Biểu thức đại số và đa thức một biến",
+    "level": 4,
+    "prerequisite": [
+      "g7_polynomial_one_var"
+    ],
+    "description": "Thu gọn, sắp xếp và cộng trừ đa thức một biến.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g7_poly_multiply",
+    "title": "Bài 27. Phép nhân đa thức một biến",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "chapterIndex": 7,
+    "lessonNo": 27,
+    "domain": "Biểu thức đại số và đa thức một biến",
+    "level": 4,
+    "prerequisite": [
+      "g7_poly_add_sub"
+    ],
+    "description": "Nhân đơn thức với đa thức và nhân hai đa thức một biến.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g7_poly_divide",
+    "title": "Bài 28. Phép chia đa thức một biến",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "chapterIndex": 7,
+    "lessonNo": 28,
+    "domain": "Biểu thức đại số và đa thức một biến",
+    "level": 4,
+    "prerequisite": [
+      "g7_poly_multiply"
+    ],
+    "description": "Chia đa thức một biến trong các trường hợp đơn giản.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g7_event_intro",
+    "title": "Bài 29. Làm quen với biến cố",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Làm quen với biến cố và xác suất",
+    "chapterIndex": 8,
+    "lessonNo": 29,
+    "domain": "Làm quen với biến cố và xác suất",
+    "level": 4,
+    "prerequisite": [
+      "g7_poly_divide"
+    ],
+    "description": "Phân biệt biến cố chắc chắn, không thể và ngẫu nhiên.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g7_probability_intro",
+    "title": "Bài 30. Làm quen với xác suất của biến cố",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Làm quen với biến cố và xác suất",
+    "chapterIndex": 8,
+    "lessonNo": 30,
+    "domain": "Làm quen với biến cố và xác suất",
+    "level": 4,
+    "prerequisite": [
+      "g7_event_intro"
+    ],
+    "description": "Tính xác suất trong các tình huống đơn giản có các kết quả đồng khả năng.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g7_triangle_angle_side",
+    "title": "Bài 31. Quan hệ giữa góc và cạnh đối diện trong tam giác",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "chapterIndex": 9,
+    "lessonNo": 31,
+    "domain": "Quan hệ giữa các yếu tố trong tam giác",
+    "level": 4,
+    "prerequisite": [
+      "g7_probability_intro"
+    ],
+    "description": "Dùng quan hệ góc lớn đối diện cạnh lớn để so sánh cạnh, góc.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_perp_oblique",
+    "title": "Bài 32. Quan hệ giữa đường vuông góc và đường xiên",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "chapterIndex": 9,
+    "lessonNo": 32,
+    "domain": "Quan hệ giữa các yếu tố trong tam giác",
+    "level": 4,
+    "prerequisite": [
+      "g7_triangle_angle_side"
+    ],
+    "description": "So sánh đường vuông góc, đường xiên và hình chiếu.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_triangle_inequality",
+    "title": "Bài 33. Quan hệ giữa ba cạnh của một tam giác",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "chapterIndex": 9,
+    "lessonNo": 33,
+    "domain": "Quan hệ giữa các yếu tố trong tam giác",
+    "level": 4,
+    "prerequisite": [
+      "g7_perp_oblique"
+    ],
+    "description": "Kiểm tra ba độ dài có lập thành tam giác bằng bất đẳng thức tam giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_centroid_incenter",
+    "title": "Bài 34. Sự đồng quy của ba đường trung tuyến, ba đường phân giác",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "chapterIndex": 9,
+    "lessonNo": 34,
+    "domain": "Quan hệ giữa các yếu tố trong tam giác",
+    "level": 4,
+    "prerequisite": [
+      "g7_triangle_inequality"
+    ],
+    "description": "Nhận biết trọng tâm và giao điểm ba đường phân giác trong tam giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_circumcenter_orthocenter",
+    "title": "Bài 35. Sự đồng quy của ba đường trung trực, ba đường cao",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "chapterIndex": 9,
+    "lessonNo": 35,
+    "domain": "Quan hệ giữa các yếu tố trong tam giác",
+    "level": 4,
+    "prerequisite": [
+      "g7_centroid_incenter"
+    ],
+    "description": "Nhận biết tâm đường tròn ngoại tiếp và trực tâm của tam giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g7_box_cube",
+    "title": "Bài 36. Hình hộp chữ nhật và hình lập phương",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 36,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 4,
+    "prerequisite": [
+      "g7_circumcenter_orthocenter"
+    ],
+    "description": "Nhận biết, tính diện tích xung quanh và thể tích hình hộp chữ nhật, hình lập phương.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g7_prism",
+    "title": "Bài 37. Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác",
+    "grade": 7,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 37,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 4,
+    "prerequisite": [
+      "g7_box_cube"
+    ],
+    "description": "Nhận biết và tính thể tích, diện tích xung quanh của lăng trụ đứng.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g8_monomial",
+    "title": "Bài 1. Đơn thức",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Đa thức",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Đa thức",
+    "level": 3,
+    "prerequisite": [],
+    "description": "Nhận biết đơn thức, đơn thức thu gọn, hệ số, phần biến và đơn thức đồng dạng.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_polynomial",
+    "title": "Bài 2. Đa thức",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Đa thức",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Đa thức",
+    "level": 3,
+    "prerequisite": [
+      "g8_monomial"
+    ],
+    "description": "Nhận biết đa thức, hạng tử, đa thức thu gọn và bậc của đa thức.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_poly_add_sub",
+    "title": "Bài 3. Phép cộng và phép trừ đa thức",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Đa thức",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Đa thức",
+    "level": 3,
+    "prerequisite": [
+      "g8_polynomial"
+    ],
+    "description": "Cộng, trừ đa thức bằng cách nhóm các hạng tử đồng dạng.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_poly_multiply",
+    "title": "Bài 4. Phép nhân đa thức",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Đa thức",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Đa thức",
+    "level": 3,
+    "prerequisite": [
+      "g8_poly_add_sub"
+    ],
+    "description": "Nhân đơn thức với đa thức và nhân đa thức với đa thức bằng phân phối.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_poly_div_monomial",
+    "title": "Bài 5. Phép chia đa thức cho đơn thức",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Đa thức",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Đa thức",
+    "level": 3,
+    "prerequisite": [
+      "g8_poly_multiply"
+    ],
+    "description": "Chia từng hạng tử của đa thức cho đơn thức khi phép chia thực hiện được.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_identity_square",
+    "title": "Bài 6. Hiệu hai bình phương. Bình phương của một tổng hay một hiệu",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "chapterIndex": 2,
+    "lessonNo": 6,
+    "domain": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "level": 3,
+    "prerequisite": [
+      "g8_poly_div_monomial"
+    ],
+    "description": "Nhận biết và vận dụng a^2-b^2, (a+b)^2, (a-b)^2.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_identity_cube",
+    "title": "Bài 7. Lập phương của một tổng. Lập phương của một hiệu",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "chapterIndex": 2,
+    "lessonNo": 7,
+    "domain": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "level": 3,
+    "prerequisite": [
+      "g8_identity_square"
+    ],
+    "description": "Khai triển và rút gọn biểu thức bằng hằng đẳng thức lập phương.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_identity_sum_diff_cubes",
+    "title": "Bài 8. Tổng và hiệu hai lập phương",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "chapterIndex": 2,
+    "lessonNo": 8,
+    "domain": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "level": 3,
+    "prerequisite": [
+      "g8_identity_cube"
+    ],
+    "description": "Vận dụng a^3+b^3 và a^3-b^3 để phân tích hoặc tính nhanh.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_factorization",
+    "title": "Bài 9. Phân tích đa thức thành nhân tử",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "level": 3,
+    "prerequisite": [
+      "g8_identity_sum_diff_cubes"
+    ],
+    "description": "Phân tích đa thức bằng đặt nhân tử chung, hằng đẳng thức và nhóm hạng tử.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_quadrilateral",
+    "title": "Bài 10. Tứ giác",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Tứ giác",
+    "chapterIndex": 3,
+    "lessonNo": 10,
+    "domain": "Tứ giác",
+    "level": 3,
+    "prerequisite": [
+      "g8_factorization"
+    ],
+    "description": "Nhận biết tứ giác, tổng các góc trong tứ giác và các yếu tố cơ bản.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_isosceles_trapezoid",
+    "title": "Bài 11. Hình thang cân",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Tứ giác",
+    "chapterIndex": 3,
+    "lessonNo": 11,
+    "domain": "Tứ giác",
+    "level": 3,
+    "prerequisite": [
+      "g8_quadrilateral"
+    ],
+    "description": "Nhận biết tính chất cạnh, góc và đường chéo của hình thang cân.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_parallelogram",
+    "title": "Bài 12. Hình bình hành",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Tứ giác",
+    "chapterIndex": 3,
+    "lessonNo": 12,
+    "domain": "Tứ giác",
+    "level": 3,
+    "prerequisite": [
+      "g8_isosceles_trapezoid"
+    ],
+    "description": "Nhận biết và vận dụng tính chất, dấu hiệu hình bình hành.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_rectangle",
+    "title": "Bài 13. Hình chữ nhật",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Tứ giác",
+    "chapterIndex": 3,
+    "lessonNo": 13,
+    "domain": "Tứ giác",
+    "level": 3,
+    "prerequisite": [
+      "g8_parallelogram"
+    ],
+    "description": "Nhận biết tính chất và dấu hiệu hình chữ nhật.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_rhombus_square",
+    "title": "Bài 14. Hình thoi và hình vuông",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Tứ giác",
+    "chapterIndex": 3,
+    "lessonNo": 14,
+    "domain": "Tứ giác",
+    "level": 3,
+    "prerequisite": [
+      "g8_rectangle"
+    ],
+    "description": "Nhận biết tính chất, dấu hiệu hình thoi và hình vuông.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_thales",
+    "title": "Bài 15. Định lí Thalès trong tam giác",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Định lí Thalès",
+    "chapterIndex": 4,
+    "lessonNo": 15,
+    "domain": "Định lí Thalès",
+    "level": 4,
+    "prerequisite": [
+      "g8_rhombus_square"
+    ],
+    "description": "Vận dụng định lí Thalès và định lí đảo để tính tỉ số đoạn thẳng.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g8_midline_triangle",
+    "title": "Bài 16. Đường trung bình của tam giác",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Định lí Thalès",
+    "chapterIndex": 4,
+    "lessonNo": 16,
+    "domain": "Định lí Thalès",
+    "level": 4,
+    "prerequisite": [
+      "g8_thales"
+    ],
+    "description": "Nhận biết đường trung bình của tam giác và tính độ dài đoạn song song.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_angle_bisector",
+    "title": "Bài 17. Tính chất đường phân giác của tam giác",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Định lí Thalès",
+    "chapterIndex": 4,
+    "lessonNo": 17,
+    "domain": "Định lí Thalès",
+    "level": 4,
+    "prerequisite": [
+      "g8_midline_triangle"
+    ],
+    "description": "Vận dụng tỉ số hai cạnh kề theo đường phân giác trong tam giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_data_collect",
+    "title": "Bài 18. Thu thập và phân loại dữ liệu",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Dữ liệu và biểu đồ",
+    "chapterIndex": 5,
+    "lessonNo": 18,
+    "domain": "Dữ liệu và biểu đồ",
+    "level": 4,
+    "prerequisite": [
+      "g8_angle_bisector"
+    ],
+    "description": "Thu thập dữ liệu phù hợp, phân loại dữ liệu định tính và định lượng.",
+    "visualization": "data"
+  },
+  {
+    "id": "g8_data_display",
+    "title": "Bài 19. Biểu diễn dữ liệu bằng bảng, biểu đồ",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Dữ liệu và biểu đồ",
+    "chapterIndex": 5,
+    "lessonNo": 19,
+    "domain": "Dữ liệu và biểu đồ",
+    "level": 4,
+    "prerequisite": [
+      "g8_data_collect"
+    ],
+    "description": "Chọn bảng, biểu đồ cột, quạt tròn hoặc đoạn thẳng phù hợp để biểu diễn dữ liệu.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g8_data_analysis_chart",
+    "title": "Bài 20. Phân tích số liệu thống kê dựa vào biểu đồ",
+    "grade": 8,
+    "book": "Tập 1",
+    "chapter": "Dữ liệu và biểu đồ",
+    "chapterIndex": 5,
+    "lessonNo": 20,
+    "domain": "Dữ liệu và biểu đồ",
+    "level": 4,
+    "prerequisite": [
+      "g8_data_display"
+    ],
+    "description": "Đọc biểu đồ, so sánh, nhận xét xu hướng và rút kết luận từ số liệu.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g8_rational_expr",
+    "title": "Bài 21. Phân thức đại số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phân thức đại số",
+    "chapterIndex": 6,
+    "lessonNo": 21,
+    "domain": "Phân thức đại số",
+    "level": 4,
+    "prerequisite": [
+      "g8_data_analysis_chart"
+    ],
+    "description": "Nhận biết phân thức đại số, điều kiện xác định và giá trị của phân thức.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_rational_expr_property",
+    "title": "Bài 22. Tính chất cơ bản của phân thức đại số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phân thức đại số",
+    "chapterIndex": 6,
+    "lessonNo": 22,
+    "domain": "Phân thức đại số",
+    "level": 4,
+    "prerequisite": [
+      "g8_rational_expr"
+    ],
+    "description": "Rút gọn và biến đổi phân thức bằng nhân, chia tử mẫu với cùng một nhân tử khác 0.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_rational_expr_add_sub",
+    "title": "Bài 23. Phép cộng và phép trừ phân thức đại số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phân thức đại số",
+    "chapterIndex": 6,
+    "lessonNo": 23,
+    "domain": "Phân thức đại số",
+    "level": 4,
+    "prerequisite": [
+      "g8_rational_expr_property"
+    ],
+    "description": "Cộng, trừ phân thức cùng mẫu hoặc khác mẫu bằng quy đồng.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_rational_expr_mul_div",
+    "title": "Bài 24. Phép nhân và phép chia phân thức đại số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phân thức đại số",
+    "chapterIndex": 6,
+    "lessonNo": 24,
+    "domain": "Phân thức đại số",
+    "level": 4,
+    "prerequisite": [
+      "g8_rational_expr_add_sub"
+    ],
+    "description": "Nhân, chia phân thức và rút gọn kết quả.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g8_linear_equation",
+    "title": "Bài 25. Phương trình bậc nhất một ẩn",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "chapterIndex": 7,
+    "lessonNo": 25,
+    "domain": "Phương trình bậc nhất và hàm số bậc nhất",
+    "level": 4,
+    "prerequisite": [
+      "g8_rational_expr_mul_div"
+    ],
+    "description": "Giải phương trình dạng ax+b=0 với a khác 0.",
+    "visualization": "equationBalance"
+  },
+  {
+    "id": "g8_word_equation",
+    "title": "Bài 26. Giải bài toán bằng cách lập phương trình",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "chapterIndex": 7,
+    "lessonNo": 26,
+    "domain": "Phương trình bậc nhất và hàm số bậc nhất",
+    "level": 4,
+    "prerequisite": [
+      "g8_linear_equation"
+    ],
+    "description": "Chọn ẩn, lập phương trình và giải bài toán thực tế đơn giản.",
+    "visualization": "equationBalance"
+  },
+  {
+    "id": "g8_function_graph_intro",
+    "title": "Bài 27. Khái niệm hàm số và đồ thị của hàm số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "chapterIndex": 7,
+    "lessonNo": 27,
+    "domain": "Phương trình bậc nhất và hàm số bậc nhất",
+    "level": 4,
+    "prerequisite": [
+      "g8_word_equation"
+    ],
+    "description": "Nhận biết hàm số, giá trị của hàm số và điểm thuộc đồ thị.",
+    "visualization": "graph"
+  },
+  {
+    "id": "g8_linear_function",
+    "title": "Bài 28. Hàm số bậc nhất và đồ thị của hàm số bậc nhất",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "chapterIndex": 7,
+    "lessonNo": 28,
+    "domain": "Phương trình bậc nhất và hàm số bậc nhất",
+    "level": 4,
+    "prerequisite": [
+      "g8_function_graph_intro"
+    ],
+    "description": "Vẽ và đọc đồ thị hàm số y=ax+b với a khác 0.",
+    "visualization": "graph"
+  },
+  {
+    "id": "g8_slope",
+    "title": "Bài 29. Hệ số góc của đường thẳng",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "chapterIndex": 7,
+    "lessonNo": 29,
+    "domain": "Phương trình bậc nhất và hàm số bậc nhất",
+    "level": 4,
+    "prerequisite": [
+      "g8_linear_function"
+    ],
+    "description": "Hiểu hệ số góc a trong y=ax+b và so sánh độ dốc của đường thẳng.",
+    "visualization": "graph"
+  },
+  {
+    "id": "g8_outcomes",
+    "title": "Bài 30. Kết quả có thể và kết quả thuận lợi",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "chapterIndex": 8,
+    "lessonNo": 30,
+    "domain": "Mở đầu về tính xác suất của biến cố",
+    "level": 5,
+    "prerequisite": [
+      "g8_slope"
+    ],
+    "description": "Xác định không gian mẫu và các kết quả thuận lợi cho một biến cố.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g8_probability_ratio",
+    "title": "Bài 31. Cách tính xác suất của biến cố bằng tỉ số",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "chapterIndex": 8,
+    "lessonNo": 31,
+    "domain": "Mở đầu về tính xác suất của biến cố",
+    "level": 5,
+    "prerequisite": [
+      "g8_outcomes"
+    ],
+    "description": "Tính xác suất bằng tỉ số số kết quả thuận lợi trên số kết quả có thể.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g8_experimental_probability",
+    "title": "Bài 32. Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "chapterIndex": 8,
+    "lessonNo": 32,
+    "domain": "Mở đầu về tính xác suất của biến cố",
+    "level": 5,
+    "prerequisite": [
+      "g8_probability_ratio"
+    ],
+    "description": "So sánh xác suất thực nghiệm với xác suất lí thuyết trong tình huống đơn giản.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g8_similar_triangles",
+    "title": "Bài 33. Hai tam giác đồng dạng",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Tam giác đồng dạng",
+    "chapterIndex": 9,
+    "lessonNo": 33,
+    "domain": "Tam giác đồng dạng",
+    "level": 5,
+    "prerequisite": [
+      "g8_experimental_probability"
+    ],
+    "description": "Nhận biết hai tam giác đồng dạng và tỉ số đồng dạng.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_similarity_cases",
+    "title": "Bài 34. Ba trường hợp đồng dạng của hai tam giác",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Tam giác đồng dạng",
+    "chapterIndex": 9,
+    "lessonNo": 34,
+    "domain": "Tam giác đồng dạng",
+    "level": 5,
+    "prerequisite": [
+      "g8_similar_triangles"
+    ],
+    "description": "Vận dụng các trường hợp cạnh-cạnh-cạnh, cạnh-góc-cạnh, góc-góc để chứng minh đồng dạng.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_pythagore",
+    "title": "Bài 35. Định lí Pythagore và ứng dụng",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Tam giác đồng dạng",
+    "chapterIndex": 9,
+    "lessonNo": 35,
+    "domain": "Tam giác đồng dạng",
+    "level": 5,
+    "prerequisite": [
+      "g8_similarity_cases"
+    ],
+    "description": "Vận dụng định lí Pythagore để tính cạnh trong tam giác vuông.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_right_triangle_similarity",
+    "title": "Bài 36. Các trường hợp đồng dạng của hai tam giác vuông",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Tam giác đồng dạng",
+    "chapterIndex": 9,
+    "lessonNo": 36,
+    "domain": "Tam giác đồng dạng",
+    "level": 5,
+    "prerequisite": [
+      "g8_pythagore"
+    ],
+    "description": "Nhận biết các trường hợp đồng dạng đặc biệt của tam giác vuông.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g8_similar_figures",
+    "title": "Bài 37. Hình đồng dạng",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Tam giác đồng dạng",
+    "chapterIndex": 9,
+    "lessonNo": 37,
+    "domain": "Tam giác đồng dạng",
+    "level": 5,
+    "prerequisite": [
+      "g8_right_triangle_similarity"
+    ],
+    "description": "Nhận biết hình đồng dạng và tỉ số giữa các kích thước tương ứng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g8_triangular_pyramid",
+    "title": "Bài 38. Hình chóp tam giác đều",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 38,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 5,
+    "prerequisite": [
+      "g8_similar_figures"
+    ],
+    "description": "Nhận biết hình chóp tam giác đều và tính diện tích xung quanh, thể tích đơn giản.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g8_square_pyramid",
+    "title": "Bài 39. Hình chóp tứ giác đều",
+    "grade": 8,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 39,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 5,
+    "prerequisite": [
+      "g8_triangular_pyramid"
+    ],
+    "description": "Nhận biết hình chóp tứ giác đều và vận dụng công thức diện tích, thể tích.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g9_linear_system_intro",
+    "title": "Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "level": 4,
+    "prerequisite": [],
+    "description": "Nhận biết phương trình bậc nhất hai ẩn, nghiệm và hệ hai phương trình bậc nhất hai ẩn.",
+    "visualization": "system"
+  },
+  {
+    "id": "g9_solve_linear_system",
+    "title": "Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "level": 4,
+    "prerequisite": [
+      "g9_linear_system_intro"
+    ],
+    "description": "Giải hệ bằng phương pháp thế, cộng đại số và kiểm tra nghiệm.",
+    "visualization": "system"
+  },
+  {
+    "id": "g9_word_system",
+    "title": "Bài 3. Giải bài toán bằng cách lập hệ phương trình",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "level": 4,
+    "prerequisite": [
+      "g9_solve_linear_system"
+    ],
+    "description": "Chọn hai ẩn, lập hệ phương trình và giải bài toán thực tế.",
+    "visualization": "system"
+  },
+  {
+    "id": "g9_equation_transform",
+    "title": "Bài 4. Phương trình quy về phương trình bậc nhất một ẩn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "chapterIndex": 2,
+    "lessonNo": 4,
+    "domain": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "level": 4,
+    "prerequisite": [
+      "g9_word_system"
+    ],
+    "description": "Biến đổi phương trình chứa ngoặc, mẫu hoặc tích về phương trình bậc nhất.",
+    "visualization": "equationBalance"
+  },
+  {
+    "id": "g9_inequality_properties",
+    "title": "Bài 5. Bất đẳng thức và tính chất",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "chapterIndex": 2,
+    "lessonNo": 5,
+    "domain": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "level": 4,
+    "prerequisite": [
+      "g9_equation_transform"
+    ],
+    "description": "Vận dụng tính chất cộng, nhân hai vế của bất đẳng thức.",
+    "visualization": "inequality"
+  },
+  {
+    "id": "g9_linear_inequality",
+    "title": "Bài 6. Bất phương trình bậc nhất một ẩn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "chapterIndex": 2,
+    "lessonNo": 6,
+    "domain": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "level": 4,
+    "prerequisite": [
+      "g9_inequality_properties"
+    ],
+    "description": "Giải bất phương trình bậc nhất một ẩn và biểu diễn nghiệm.",
+    "visualization": "inequality"
+  },
+  {
+    "id": "g9_square_root_expr",
+    "title": "Bài 7. Căn bậc hai và căn thức bậc hai",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "chapterIndex": 3,
+    "lessonNo": 7,
+    "domain": "Căn bậc hai và căn bậc ba",
+    "level": 4,
+    "prerequisite": [
+      "g9_linear_inequality"
+    ],
+    "description": "Nhận biết căn bậc hai, căn thức bậc hai và điều kiện xác định.",
+    "visualization": "radical"
+  },
+  {
+    "id": "g9_sqrt_product_quotient",
+    "title": "Bài 8. Khai căn bậc hai với phép nhân và phép chia",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "chapterIndex": 3,
+    "lessonNo": 8,
+    "domain": "Căn bậc hai và căn bậc ba",
+    "level": 4,
+    "prerequisite": [
+      "g9_square_root_expr"
+    ],
+    "description": "Vận dụng quy tắc khai căn của tích và thương.",
+    "visualization": "radical"
+  },
+  {
+    "id": "g9_sqrt_simplify",
+    "title": "Bài 9. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "chapterIndex": 3,
+    "lessonNo": 9,
+    "domain": "Căn bậc hai và căn bậc ba",
+    "level": 4,
+    "prerequisite": [
+      "g9_sqrt_product_quotient"
+    ],
+    "description": "Đưa thừa số ra ngoài dấu căn, khử mẫu và rút gọn biểu thức chứa căn.",
+    "visualization": "radical"
+  },
+  {
+    "id": "g9_cube_root_expr",
+    "title": "Bài 10. Căn bậc ba và căn thức bậc ba",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "chapterIndex": 3,
+    "lessonNo": 10,
+    "domain": "Căn bậc hai và căn bậc ba",
+    "level": 4,
+    "prerequisite": [
+      "g9_sqrt_simplify"
+    ],
+    "description": "Nhận biết căn bậc ba, căn thức bậc ba và tính giá trị căn bậc ba.",
+    "visualization": "radical"
+  },
+  {
+    "id": "g9_trig_ratios",
+    "title": "Bài 11. Tỉ số lượng giác của góc nhọn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Hệ thức lượng trong tam giác vuông",
+    "chapterIndex": 4,
+    "lessonNo": 11,
+    "domain": "Hệ thức lượng trong tam giác vuông",
+    "level": 5,
+    "prerequisite": [
+      "g9_cube_root_expr"
+    ],
+    "description": "Hiểu sin, cos, tan, cot của góc nhọn trong tam giác vuông.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g9_right_triangle_relations",
+    "title": "Bài 12. Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Hệ thức lượng trong tam giác vuông",
+    "chapterIndex": 4,
+    "lessonNo": 12,
+    "domain": "Hệ thức lượng trong tam giác vuông",
+    "level": 5,
+    "prerequisite": [
+      "g9_trig_ratios"
+    ],
+    "description": "Tính cạnh, góc trong tam giác vuông bằng tỉ số lượng giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g9_circle_intro",
+    "title": "Bài 13. Mở đầu về đường tròn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Đường tròn",
+    "chapterIndex": 5,
+    "lessonNo": 13,
+    "domain": "Đường tròn",
+    "level": 5,
+    "prerequisite": [
+      "g9_right_triangle_relations"
+    ],
+    "description": "Nhận biết tâm, bán kính, đường kính, dây và quan hệ điểm với đường tròn.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_arc_chord",
+    "title": "Bài 14. Cung và dây của một đường tròn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Đường tròn",
+    "chapterIndex": 5,
+    "lessonNo": 14,
+    "domain": "Đường tròn",
+    "level": 5,
+    "prerequisite": [
+      "g9_circle_intro"
+    ],
+    "description": "Hiểu quan hệ giữa cung, dây và khoảng cách từ tâm đến dây.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_arc_sector_area",
+    "title": "Bài 15. Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Đường tròn",
+    "chapterIndex": 5,
+    "lessonNo": 15,
+    "domain": "Đường tròn",
+    "level": 5,
+    "prerequisite": [
+      "g9_arc_chord"
+    ],
+    "description": "Tính độ dài cung, diện tích quạt tròn và vành khuyên.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_line_circle_position",
+    "title": "Bài 16. Vị trí tương đối của đường thẳng và đường tròn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Đường tròn",
+    "chapterIndex": 5,
+    "lessonNo": 16,
+    "domain": "Đường tròn",
+    "level": 5,
+    "prerequisite": [
+      "g9_arc_sector_area"
+    ],
+    "description": "Phân biệt cát tuyến, tiếp tuyến và đường thẳng không cắt đường tròn.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_two_circles_position",
+    "title": "Bài 17. Vị trí tương đối của hai đường tròn",
+    "grade": 9,
+    "book": "Tập 1",
+    "chapter": "Đường tròn",
+    "chapterIndex": 5,
+    "lessonNo": 17,
+    "domain": "Đường tròn",
+    "level": 5,
+    "prerequisite": [
+      "g9_line_circle_position"
+    ],
+    "description": "Nhận biết hai đường tròn cắt nhau, tiếp xúc hoặc không giao nhau qua khoảng cách tâm.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_quadratic_function",
+    "title": "Bài 18. Hàm số y = ax^2 (a khác 0)",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "chapterIndex": 6,
+    "lessonNo": 18,
+    "domain": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "level": 5,
+    "prerequisite": [
+      "g9_two_circles_position"
+    ],
+    "description": "Nhận biết đồ thị parabol và tính giá trị hàm số y=ax^2.",
+    "visualization": "parabola"
+  },
+  {
+    "id": "g9_quadratic_equation",
+    "title": "Bài 19. Phương trình bậc hai một ẩn",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "chapterIndex": 6,
+    "lessonNo": 19,
+    "domain": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "level": 5,
+    "prerequisite": [
+      "g9_quadratic_function"
+    ],
+    "description": "Giải phương trình bậc hai bằng phân tích, căn bậc hai hoặc công thức nghiệm.",
+    "visualization": "parabola"
+  },
+  {
+    "id": "g9_viete",
+    "title": "Bài 20. Định lí Vi-ét và ứng dụng",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "chapterIndex": 6,
+    "lessonNo": 20,
+    "domain": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "level": 5,
+    "prerequisite": [
+      "g9_quadratic_equation"
+    ],
+    "description": "Vận dụng hệ thức Vi-ét để tính tổng, tích nghiệm và nhẩm nghiệm.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g9_word_quadratic",
+    "title": "Bài 21. Giải bài toán bằng cách lập phương trình",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "chapterIndex": 6,
+    "lessonNo": 21,
+    "domain": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "level": 5,
+    "prerequisite": [
+      "g9_viete"
+    ],
+    "description": "Lập phương trình bậc hai từ bài toán thực tế và chọn nghiệm phù hợp.",
+    "visualization": "equationBalance"
+  },
+  {
+    "id": "g9_frequency_table",
+    "title": "Bài 22. Bảng tần số và biểu đồ tần số",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Tần số và tần số tương đối",
+    "chapterIndex": 7,
+    "lessonNo": 22,
+    "domain": "Tần số và tần số tương đối",
+    "level": 5,
+    "prerequisite": [
+      "g9_word_quadratic"
+    ],
+    "description": "Lập bảng tần số và đọc biểu đồ tần số.",
+    "visualization": "frequency"
+  },
+  {
+    "id": "g9_relative_frequency",
+    "title": "Bài 23. Bảng tần số tương đối và biểu đồ tần số tương đối",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Tần số và tần số tương đối",
+    "chapterIndex": 7,
+    "lessonNo": 23,
+    "domain": "Tần số và tần số tương đối",
+    "level": 5,
+    "prerequisite": [
+      "g9_frequency_table"
+    ],
+    "description": "Tính tần số tương đối và biểu diễn dưới dạng phần trăm.",
+    "visualization": "frequency"
+  },
+  {
+    "id": "g9_grouped_frequency",
+    "title": "Bài 24. Bảng tần số, tần số tương đối ghép nhóm và biểu đồ",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Tần số và tần số tương đối",
+    "chapterIndex": 7,
+    "lessonNo": 24,
+    "domain": "Tần số và tần số tương đối",
+    "level": 5,
+    "prerequisite": [
+      "g9_relative_frequency"
+    ],
+    "description": "Ghép nhóm dữ liệu, lập bảng tần số và đọc biểu đồ ghép nhóm.",
+    "visualization": "frequency"
+  },
+  {
+    "id": "g9_sample_space",
+    "title": "Bài 25. Phép thử ngẫu nhiên và không gian mẫu",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "chapterIndex": 8,
+    "lessonNo": 25,
+    "domain": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "level": 5,
+    "prerequisite": [
+      "g9_grouped_frequency"
+    ],
+    "description": "Liệt kê không gian mẫu và xác định biến cố.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g9_probability_models",
+    "title": "Bài 26. Xác suất của biến cố liên quan đến phép thử",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "chapterIndex": 8,
+    "lessonNo": 26,
+    "domain": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "level": 5,
+    "prerequisite": [
+      "g9_sample_space"
+    ],
+    "description": "Tính xác suất trong mô hình đồng khả năng đơn giản.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g9_inscribed_angle",
+    "title": "Bài 27. Góc nội tiếp",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "chapterIndex": 9,
+    "lessonNo": 27,
+    "domain": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "level": 5,
+    "prerequisite": [
+      "g9_probability_models"
+    ],
+    "description": "Nhận biết góc nội tiếp và quan hệ với cung bị chắn.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_circum_incircle_triangle",
+    "title": "Bài 28. Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "chapterIndex": 9,
+    "lessonNo": 28,
+    "domain": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "level": 5,
+    "prerequisite": [
+      "g9_inscribed_angle"
+    ],
+    "description": "Xác định tâm ngoại tiếp, tâm nội tiếp và bán kính liên quan.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_cyclic_quadrilateral",
+    "title": "Bài 29. Tứ giác nội tiếp",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "chapterIndex": 9,
+    "lessonNo": 29,
+    "domain": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "level": 5,
+    "prerequisite": [
+      "g9_circum_incircle_triangle"
+    ],
+    "description": "Nhận biết tứ giác nội tiếp và tính chất hai góc đối bù nhau.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g9_regular_polygon",
+    "title": "Bài 30. Đa giác đều",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "chapterIndex": 9,
+    "lessonNo": 30,
+    "domain": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "level": 5,
+    "prerequisite": [
+      "g9_cyclic_quadrilateral"
+    ],
+    "description": "Nhận biết đa giác đều, góc ở tâm và liên hệ với đường tròn.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g9_cylinder_cone",
+    "title": "Bài 31. Hình trụ và hình nón",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 31,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 5,
+    "prerequisite": [
+      "g9_regular_polygon"
+    ],
+    "description": "Nhận biết và tính diện tích, thể tích hình trụ, hình nón.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g9_sphere",
+    "title": "Bài 32. Hình cầu",
+    "grade": 9,
+    "book": "Tập 2",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "chapterIndex": 10,
+    "lessonNo": 32,
+    "domain": "Một số hình khối trong thực tiễn",
+    "level": 5,
+    "prerequisite": [
+      "g9_cylinder_cone"
+    ],
+    "description": "Nhận biết hình cầu, mặt cầu và tính diện tích, thể tích hình cầu.",
+    "visualization": "solid"
+  }
+]

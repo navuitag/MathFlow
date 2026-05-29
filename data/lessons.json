@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "nat_set",
+    "title": "Bài 1. Tập hợp",
+    "skill": "nat_set",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tập hợp, phần tử và cách mô tả bằng liệt kê hoặc tính chất."
+      },
+      {
+        "type": "visualization",
+        "title": "Gom nhóm phần tử",
+        "content": "Một tập hợp có thể mô tả bằng danh sách phần tử hoặc một tính chất chung.",
+        "visualization": "set",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tập A gồm các số tự nhiên nhỏ hơn 4 có thể viết A = {0; 1; 2; 3}."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hỏi một đối tượng có thuộc tập hợp hay không trước khi tính toán."
+      }
+    ]
+  },
+  {
+    "id": "nat_notation",
+    "title": "Bài 2. Cách ghi số tự nhiên",
+    "skill": "nat_notation",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc, viết số tự nhiên theo hàng, lớp và hệ thập phân."
+      },
+      {
+        "type": "visualization",
+        "title": "Tách hàng và lớp",
+        "content": "Giá trị của chữ số phụ thuộc vào vị trí của nó trong số.",
+        "visualization": "place",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Trong 3 405, chữ số 4 ở hàng trăm nên có giá trị 400."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đọc số từ trái sang phải theo lớp triệu, nghìn, đơn vị."
+      }
+    ]
+  },
+  {
+    "id": "nat_order",
+    "title": "Bài 3. Thứ tự trong tập hợp các số tự nhiên",
+    "skill": "nat_order",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "So sánh, sắp xếp và dùng tia số cho số tự nhiên."
+      },
+      {
+        "type": "visualization",
+        "title": "Đặt số lên tia số",
+        "content": "Số ở bên phải lớn hơn số ở bên trái.",
+        "visualization": "numberLine",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "357 < 375 vì cùng hàng trăm, nhưng 5 chục nhỏ hơn 7 chục."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh lần lượt từ hàng cao nhất."
+      }
+    ]
+  },
+  {
+    "id": "nat_add_sub",
+    "title": "Bài 4. Phép cộng và phép trừ số tự nhiên",
+    "skill": "nat_add_sub",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính tổng, hiệu và kiểm tra kết quả bằng quan hệ ngược."
+      },
+      {
+        "type": "visualization",
+        "title": "Tổng và hiệu",
+        "content": "Cộng là gộp thêm, trừ là bớt đi hoặc tìm phần còn thiếu.",
+        "visualization": "arithmetic",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu có 48 quyển vở và mua thêm 27 quyển thì có 75 quyển."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dùng phép tính ngược để kiểm tra."
+      }
+    ]
+  },
+  {
+    "id": "nat_mul_div",
+    "title": "Bài 5. Phép nhân và phép chia số tự nhiên",
+    "skill": "nat_mul_div",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính tích, thương, số dư và chọn phép tính phù hợp."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhóm đều",
+        "content": "Nhân là cộng các nhóm bằng nhau; chia là tách thành các nhóm đều hoặc tìm số nhóm.",
+        "visualization": "arithmetic",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "6 hộp, mỗi hộp 12 bút có 72 bút."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Khi chia có dư, số dư luôn nhỏ hơn số chia."
+      }
+    ]
+  },
+  {
+    "id": "nat_power",
+    "title": "Bài 6. Lũy thừa với số mũ tự nhiên",
+    "skill": "nat_power",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu lũy thừa là phép nhân lặp và tính giá trị đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhân lặp",
+        "content": "Lũy thừa giúp viết gọn nhiều thừa số bằng nhau.",
+        "visualization": "power",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2^4 = 2 · 2 · 2 · 2 = 16."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cơ số là số được nhân lặp, số mũ là số lần nhân."
+      }
+    ]
+  },
+  {
+    "id": "nat_order_ops",
+    "title": "Bài 7. Thứ tự thực hiện các phép tính",
+    "skill": "nat_order_ops",
+    "chapter": "Tập hợp các số tự nhiên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thực hiện phép tính theo đúng thứ tự: ngoặc, lũy thừa, nhân chia, cộng trừ."
+      },
+      {
+        "type": "visualization",
+        "title": "Thứ tự ưu tiên",
+        "content": "Ngoặc và lũy thừa được xử lí trước cộng trừ.",
+        "visualization": "pemdas",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3 + 2 · 5 = 13, không phải 25."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Làm từ trong ngoặc ra ngoài."
+      }
+    ]
+  },
+  {
+    "id": "div_relation",
+    "title": "Bài 8. Quan hệ chia hết và tính chất",
+    "skill": "div_relation",
+    "chapter": "Tính chia hết",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết a chia hết cho b và vận dụng tính chất chia hết của tổng, hiệu."
+      },
+      {
+        "type": "visualization",
+        "title": "Chia hết",
+        "content": "a chia hết cho b khi a = b · q với q là số tự nhiên.",
+        "visualization": "divisibility",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "24 chia hết cho 6 vì 24 = 6 · 4."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Muốn chứng minh chia hết, hãy tìm thương nguyên."
+      }
+    ]
+  },
+  {
+    "id": "div_signs",
+    "title": "Bài 9. Dấu hiệu chia hết",
+    "skill": "div_signs",
+    "chapter": "Tính chia hết",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Dùng dấu hiệu chia hết cho 2, 3, 5, 9 để kiểm tra nhanh."
+      },
+      {
+        "type": "visualization",
+        "title": "Dấu hiệu nhanh",
+        "content": "Một số dấu hiệu chia hết dựa vào chữ số tận cùng hoặc tổng chữ số.",
+        "visualization": "divisibility",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "735 chia hết cho 5 vì tận cùng là 5; chia hết cho 3 vì 7+3+5=15."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm tra đúng dấu hiệu trước khi chia dài."
+      }
+    ]
+  },
+  {
+    "id": "prime_numbers",
+    "title": "Bài 10. Số nguyên tố",
+    "skill": "prime_numbers",
+    "chapter": "Tính chia hết",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt số nguyên tố, hợp số và phân tích số ra thừa số nguyên tố."
+      },
+      {
+        "type": "visualization",
+        "title": "Khối xây số học",
+        "content": "Số nguyên tố chỉ có hai ước dương là 1 và chính nó.",
+        "visualization": "factor",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "29 là số nguyên tố; 1 không phải số nguyên tố."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thử chia cho các số nguyên tố nhỏ trước."
+      }
+    ]
+  },
+  {
+    "id": "gcd",
+    "title": "Bài 11. Ước chung. Ước chung lớn nhất",
+    "skill": "gcd",
+    "chapter": "Tính chia hết",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tìm ước chung, ước chung lớn nhất bằng liệt kê hoặc phân tích thừa số."
+      },
+      {
+        "type": "visualization",
+        "title": "Phần chia chung lớn nhất",
+        "content": "ƯCLN là ước chung lớn nhất của các số.",
+        "visualization": "factor",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Ư(12) và Ư(18) có ước chung lớn nhất là 6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phân tích thừa số rồi lấy phần chung với số mũ nhỏ nhất."
+      }
+    ]
+  },
+  {
+    "id": "lcm",
+    "title": "Bài 12. Bội chung. Bội chung nhỏ nhất",
+    "skill": "lcm",
+    "chapter": "Tính chia hết",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tìm bội chung, bội chung nhỏ nhất và ứng dụng vào bài toán chu kì."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhịp gặp lại",
+        "content": "BCNN là bội chung dương nhỏ nhất.",
+        "visualization": "factor",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "BCNN(4, 6) = 12 nên hai chu kì 4 và 6 gặp lại sau 12 đơn vị."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Lấy đủ các thừa số nguyên tố với số mũ lớn nhất."
+      }
+    ]
+  },
+  {
+    "id": "int_set",
+    "title": "Bài 13. Tập hợp các số nguyên",
+    "skill": "int_set",
+    "chapter": "Số nguyên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu số nguyên âm, số 0, số nguyên dương trong các tình huống thực tế."
+      },
+      {
+        "type": "visualization",
+        "title": "Trục số hai phía",
+        "content": "Số nguyên âm biểu diễn các đại lượng dưới mốc 0.",
+        "visualization": "numberLine",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nhiệt độ -3 độ C thấp hơn 0 độ C ba đơn vị."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dấu âm cho biết vị trí bên trái 0 trên trục số."
+      }
+    ]
+  },
+  {
+    "id": "int_order",
+    "title": "Bài 14. So sánh số nguyên",
+    "skill": "int_order",
+    "chapter": "Số nguyên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "So sánh số nguyên bằng trục số và giá trị tuyệt đối."
+      },
+      {
+        "type": "visualization",
+        "title": "Bên phải lớn hơn",
+        "content": "Trên trục số, số nằm bên phải luôn lớn hơn.",
+        "visualization": "numberLine",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-2 > -5 vì -2 gần 0 hơn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Với hai số âm, số có giá trị tuyệt đối nhỏ hơn thì lớn hơn."
+      }
+    ]
+  },
+  {
+    "id": "int_add_sub",
+    "title": "Bài 15. Phép cộng và phép trừ số nguyên",
+    "skill": "int_add_sub",
+    "chapter": "Số nguyên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cộng, trừ số nguyên bằng quy tắc dấu và mô hình dịch chuyển."
+      },
+      {
+        "type": "visualization",
+        "title": "Di chuyển trên trục số",
+        "content": "Cộng số dương đi sang phải, cộng số âm đi sang trái.",
+        "visualization": "numberLine",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-3 + 5 = 2 vì từ -3 đi sang phải 5 bước."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Trừ một số là cộng với số đối của nó."
+      }
+    ]
+  },
+  {
+    "id": "int_mul_div",
+    "title": "Bài 16. Phép nhân và phép chia số nguyên",
+    "skill": "int_mul_div",
+    "chapter": "Số nguyên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân, chia số nguyên và xác định dấu của kết quả."
+      },
+      {
+        "type": "visualization",
+        "title": "Quy tắc dấu",
+        "content": "Hai số cùng dấu cho kết quả dương, khác dấu cho kết quả âm.",
+        "visualization": "integerOps",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(-4) · 3 = -12; (-12) : (-3) = 4."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định dấu trước, tính giá trị tuyệt đối sau."
+      }
+    ]
+  },
+  {
+    "id": "int_divisibility",
+    "title": "Bài 17. Phép chia hết. Ước và bội của một số nguyên",
+    "skill": "int_divisibility",
+    "chapter": "Số nguyên",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Mở rộng khái niệm ước, bội và chia hết sang số nguyên."
+      },
+      {
+        "type": "visualization",
+        "title": "Ước bội với số âm",
+        "content": "Trong số nguyên, ước và bội có thể mang dấu âm.",
+        "visualization": "integerOps",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-12 chia hết cho 3 vì -12 = 3 · (-4)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Quan hệ chia hết phụ thuộc vào thương nguyên."
+      }
+    ]
+  },
+  {
+    "id": "shape_regular",
+    "title": "Bài 18. Tam giác đều, hình vuông, lục giác đều",
+    "skill": "shape_regular",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết cạnh, góc và tính chất đều của các hình quen thuộc."
+      },
+      {
+        "type": "visualization",
+        "title": "Hình đều",
+        "content": "Hình đều có các cạnh bằng nhau và các góc bằng nhau.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Lục giác đều có 6 cạnh bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đếm cạnh, góc và kiểm tra tính bằng nhau."
+      }
+    ]
+  },
+  {
+    "id": "shape_quads",
+    "title": "Bài 19. Hình chữ nhật, hình thoi, hình bình hành, hình thang cân",
+    "skill": "shape_quads",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt các tứ giác đặc biệt qua cạnh, góc và đường chéo."
+      },
+      {
+        "type": "visualization",
+        "title": "Tứ giác đặc biệt",
+        "content": "Mỗi tứ giác đặc biệt có dấu hiệu nhận dạng riêng.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hình bình hành có hai cặp cạnh đối song song."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Quan sát cạnh đối, góc vuông và độ dài cạnh."
+      }
+    ]
+  },
+  {
+    "id": "shape_perimeter_area",
+    "title": "Bài 20. Chu vi và diện tích của một số tứ giác đã học",
+    "skill": "shape_perimeter_area",
+    "chapter": "Một số hình phẳng trong thực tiễn",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính chu vi, diện tích hình chữ nhật, hình vuông, hình thoi, hình bình hành và hình thang."
+      },
+      {
+        "type": "visualization",
+        "title": "Đo quanh và đo phần mặt",
+        "content": "Chu vi đo đường bao quanh, diện tích đo phần mặt phẳng bên trong.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hình chữ nhật dài 8 cm, rộng 5 cm có diện tích 40 cm2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn đúng công thức theo đúng loại hình."
+      }
+    ]
+  },
+  {
+    "id": "sym_axis",
+    "title": "Bài 21. Hình có trục đối xứng",
+    "skill": "sym_axis",
+    "chapter": "Tính đối xứng của hình phẳng",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận ra trục đối xứng và kiểm tra hai nửa hình có chồng khít không."
+      },
+      {
+        "type": "visualization",
+        "title": "Gấp đôi hình",
+        "content": "Trục đối xứng là đường gấp làm hai nửa chồng khít.",
+        "visualization": "symmetry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hình vuông có 4 trục đối xứng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tưởng tượng gấp hình theo đường đó."
+      }
+    ]
+  },
+  {
+    "id": "sym_center",
+    "title": "Bài 22. Hình có tâm đối xứng",
+    "skill": "sym_center",
+    "chapter": "Tính đối xứng của hình phẳng",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận ra tâm đối xứng qua phép quay nửa vòng."
+      },
+      {
+        "type": "visualization",
+        "title": "Quay nửa vòng",
+        "content": "Tâm đối xứng giữ hình trùng lại sau khi quay 180 độ.",
+        "visualization": "symmetry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hình bình hành có tâm đối xứng là giao điểm hai đường chéo."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghép mỗi điểm với điểm đối qua tâm."
+      }
+    ]
+  },
+  {
+    "id": "fraction_equal",
+    "title": "Bài 23. Mở rộng phân số. Phân số bằng nhau",
+    "skill": "fraction_equal",
+    "chapter": "Phân số",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Mở rộng phân số, nhận biết phân số bằng nhau qua nhân hoặc chia cùng một số."
+      },
+      {
+        "type": "visualization",
+        "title": "Cùng phần được tô",
+        "content": "Nhân hoặc chia cả tử và mẫu với cùng một số khác 0 tạo phân số bằng nhau.",
+        "visualization": "fractionCompare",
+        "numerator": 2,
+        "denominator": 3
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "1/2 = 2/4 = 4/8."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không được chỉ nhân tử hoặc chỉ nhân mẫu."
+      }
+    ]
+  },
+  {
+    "id": "fraction_compare",
+    "title": "Bài 24. So sánh phân số. Hỗn số dương",
+    "skill": "fraction_compare",
+    "chapter": "Phân số",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "So sánh phân số, đọc hiểu hỗn số dương và đặt trên trục số."
+      },
+      {
+        "type": "visualization",
+        "title": "So sánh cùng chuẩn",
+        "content": "Có thể quy đồng mẫu hoặc đặt phân số lên trục số.",
+        "visualization": "numberLine",
+        "numerator": 2,
+        "denominator": 3
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2/3 > 1/2 vì 4/6 > 3/6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đưa hai phân số về cùng mẫu để so sánh tử."
+      }
+    ]
+  },
+  {
+    "id": "fraction_add_sub",
+    "title": "Bài 25. Phép cộng và phép trừ phân số",
+    "skill": "fraction_add_sub",
+    "chapter": "Phân số",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cộng, trừ phân số cùng mẫu hoặc khác mẫu bằng quy đồng."
+      },
+      {
+        "type": "visualization",
+        "title": "Quy đồng rồi cộng trừ",
+        "content": "Chỉ cộng trừ tử số khi các mẫu đã bằng nhau.",
+        "visualization": "fractionBar",
+        "numerator": 2,
+        "denominator": 3
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "1/3 + 1/6 = 2/6 + 1/6 = 1/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mẫu chung giúp các phần có cùng kích thước."
+      }
+    ]
+  },
+  {
+    "id": "fraction_mul_div",
+    "title": "Bài 26. Phép nhân và phép chia phân số",
+    "skill": "fraction_mul_div",
+    "chapter": "Phân số",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân, chia phân số và rút gọn kết quả."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhân thẳng, chia đảo",
+        "content": "Nhân tử với tử, mẫu với mẫu; chia cho phân số là nhân với nghịch đảo.",
+        "visualization": "fractionBar",
+        "numerator": 2,
+        "denominator": 3
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2/3 · 3/5 = 2/5."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rút gọn trước hoặc sau để kết quả gọn."
+      }
+    ]
+  },
+  {
+    "id": "fraction_two_problems",
+    "title": "Bài 27. Hai bài toán về phân số",
+    "skill": "fraction_two_problems",
+    "chapter": "Phân số",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tìm giá trị phân số của một số và tìm một số khi biết giá trị phân số của nó."
+      },
+      {
+        "type": "visualization",
+        "title": "Phần của số",
+        "content": "Tìm m/n của a bằng a · m/n; biết m/n của số là b thì số đó là b : m/n.",
+        "visualization": "fractionBar",
+        "numerator": 2,
+        "denominator": 3
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3/4 của 20 là 15."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định bài toán hỏi phần của số hay hỏi số ban đầu."
+      }
+    ]
+  },
+  {
+    "id": "decimal_intro",
+    "title": "Bài 28. Số thập phân",
+    "skill": "decimal_intro",
+    "chapter": "Số thập phân",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc, viết, so sánh số thập phân và liên hệ với phân số thập phân."
+      },
+      {
+        "type": "visualization",
+        "title": "Dấu phẩy thập phân",
+        "content": "Số thập phân biểu diễn phần mười, phần trăm, phần nghìn.",
+        "visualization": "numberLine",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "0,75 = 75/100 = 3/4."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh từng hàng từ trái sang phải."
+      }
+    ]
+  },
+  {
+    "id": "decimal_ops",
+    "title": "Bài 29. Tính toán với số thập phân",
+    "skill": "decimal_ops",
+    "chapter": "Số thập phân",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cộng, trừ, nhân, chia số thập phân trong các tình huống đo lường."
+      },
+      {
+        "type": "visualization",
+        "title": "Tính với dấu phẩy",
+        "content": "Cộng trừ đặt thẳng hàng dấu phẩy; nhân chia theo quy tắc số thập phân.",
+        "visualization": "arithmetic",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2,5 + 0,75 = 3,25."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ước lượng trước để phát hiện đặt sai dấu phẩy."
+      }
+    ]
+  },
+  {
+    "id": "decimal_round",
+    "title": "Bài 30. Làm tròn và ước lượng",
+    "skill": "decimal_round",
+    "chapter": "Số thập phân",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Làm tròn số và ước lượng kết quả để kiểm tra tính hợp lí."
+      },
+      {
+        "type": "visualization",
+        "title": "Gần đúng hợp lí",
+        "content": "Làm tròn giúp tính nhanh và dự đoán kết quả.",
+        "visualization": "estimate",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3,76 làm tròn đến hàng phần mười là 3,8."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhìn chữ số ngay bên phải hàng cần làm tròn."
+      }
+    ]
+  },
+  {
+    "id": "ratio_percent",
+    "title": "Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm",
+    "skill": "ratio_percent",
+    "chapter": "Số thập phân",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính tỉ số, phần trăm và vận dụng vào giảm giá, lãi suất, dữ liệu."
+      },
+      {
+        "type": "visualization",
+        "title": "So sánh bằng tỉ số",
+        "content": "Phần trăm là tỉ số có mẫu 100.",
+        "visualization": "percent",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "25% của 80 là 20."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đổi phần trăm thành phân số hoặc số thập phân trước khi tính."
+      }
+    ]
+  },
+  {
+    "id": "point_line",
+    "title": "Bài 32. Điểm và đường thẳng",
+    "skill": "point_line",
+    "chapter": "Hình học cơ bản",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết điểm thuộc đường thẳng, ba điểm thẳng hàng và cách kí hiệu."
+      },
+      {
+        "type": "visualization",
+        "title": "Điểm và đường",
+        "content": "Điểm có thể thuộc hoặc không thuộc một đường thẳng.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu A nằm trên đường thẳng d, viết A thuộc d."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kí hiệu rõ đối tượng: điểm bằng chữ in hoa, đường thẳng bằng chữ thường."
+      }
+    ]
+  },
+  {
+    "id": "three_points",
+    "title": "Bài 33. Điểm nằm giữa hai điểm. Tia",
+    "skill": "three_points",
+    "chapter": "Hình học cơ bản",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Mô tả điểm nằm giữa, tia gốc và hai tia đối nhau."
+      },
+      {
+        "type": "visualization",
+        "title": "Nằm giữa và tia",
+        "content": "Một điểm nằm giữa hai điểm khi ba điểm thẳng hàng và ở trong đoạn nối hai điểm kia.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu B nằm giữa A và C thì tia BA và BC là hai tia đối nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn kiểm tra điều kiện thẳng hàng."
+      }
+    ]
+  },
+  {
+    "id": "segment_length",
+    "title": "Bài 34. Đoạn thẳng. Độ dài đoạn thẳng",
+    "skill": "segment_length",
+    "chapter": "Hình học cơ bản",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đo, so sánh độ dài đoạn thẳng và dùng đơn vị phù hợp."
+      },
+      {
+        "type": "visualization",
+        "title": "Đoạn và độ dài",
+        "content": "Đoạn thẳng có hai đầu mút và độ dài xác định.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "AB = 5 cm nghĩa là độ dài đoạn thẳng AB là 5 cm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dùng cùng đơn vị trước khi so sánh."
+      }
+    ]
+  },
+  {
+    "id": "midpoint",
+    "title": "Bài 35. Trung điểm của đoạn thẳng",
+    "skill": "midpoint",
+    "chapter": "Hình học cơ bản",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Xác định trung điểm bằng điều kiện nằm giữa và hai đoạn bằng nhau."
+      },
+      {
+        "type": "visualization",
+        "title": "Chia đôi đoạn",
+        "content": "Trung điểm nằm giữa hai đầu mút và cách đều hai đầu mút.",
+        "visualization": "geometry",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu M nằm giữa A, B và AM = MB thì M là trung điểm AB."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thiếu một trong hai điều kiện thì chưa kết luận được."
+      }
+    ]
+  },
+  {
+    "id": "data_collect",
+    "title": "Bài 36. Thu thập và tổ chức dữ liệu",
+    "skill": "data_collect",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thu thập, phân loại dữ liệu và trình bày bằng bảng."
+      },
+      {
+        "type": "visualization",
+        "title": "Từ quan sát đến bảng",
+        "content": "Dữ liệu cần được thu thập đúng đối tượng và sắp xếp dễ đọc.",
+        "visualization": "data",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Khảo sát môn thể thao yêu thích rồi lập bảng tần số."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghi rõ tiêu chí phân loại để tránh đếm nhầm."
+      }
+    ]
+  },
+  {
+    "id": "data_chart",
+    "title": "Bài 37. Biểu diễn dữ liệu bằng bảng và biểu đồ",
+    "skill": "data_chart",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc, vẽ và nhận xét biểu đồ tranh, cột, cột kép."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhìn dữ liệu bằng hình",
+        "content": "Biểu đồ giúp so sánh dữ liệu nhanh hơn bảng dài.",
+        "visualization": "chart",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Biểu đồ cột cho thấy lớp nào có nhiều học sinh nhất."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đọc tên biểu đồ, trục và đơn vị trước khi kết luận."
+      }
+    ]
+  },
+  {
+    "id": "data_analysis",
+    "title": "Bài 38. Mô tả và so sánh dữ liệu",
+    "skill": "data_analysis",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính toán, so sánh và rút ra nhận xét từ dữ liệu."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhận xét từ số liệu",
+        "content": "So sánh dữ liệu cần dựa vào số lượng, chênh lệch hoặc xu hướng.",
+        "visualization": "chart",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu tháng 5 bán 120 sách, tháng 6 bán 150 sách thì tăng 30 sách."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nêu nhận xét kèm con số chứng minh."
+      }
+    ]
+  },
+  {
+    "id": "probability_exp",
+    "title": "Bài 39. Xác suất thực nghiệm trong một số trò chơi và thí nghiệm đơn giản",
+    "skill": "probability_exp",
+    "chapter": "Dữ liệu và xác suất thực nghiệm",
+    "source": "Bám mạch SGK Toán 6 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính xác suất thực nghiệm bằng tỉ số số lần xảy ra trên tổng số lần thử."
+      },
+      {
+        "type": "visualization",
+        "title": "Tần suất xảy ra",
+        "content": "Xác suất thực nghiệm bằng số lần sự kiện xảy ra chia tổng số lần thử.",
+        "visualization": "probability",
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tung đồng xu 20 lần, xuất hiện mặt sấp 9 lần thì xác suất thực nghiệm là 9/20."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Càng thử nhiều lần, kết quả thường ổn định hơn."
+      }
+    ]
+  },
+  {
+    "id": "g7_rational_set",
+    "title": "Bài 1. Tập hợp các số hữu tỉ",
+    "skill": "g7_rational_set",
+    "chapter": "Số hữu tỉ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết số hữu tỉ, biểu diễn trên trục số và so sánh các số hữu tỉ."
+      },
+      {
+        "type": "visualization",
+        "title": "Số hữu tỉ trên trục số",
+        "content": "Số hữu tỉ viết được dưới dạng a/b với b khác 0.",
+        "visualization": "numberLine"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-3/4 là số hữu tỉ và nằm giữa -1 và 0."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đưa số về phân số hoặc số thập phân để so sánh."
+      }
+    ]
+  },
+  {
+    "id": "g7_rational_ops",
+    "title": "Bài 2. Cộng, trừ, nhân, chia số hữu tỉ",
+    "skill": "g7_rational_ops",
+    "chapter": "Số hữu tỉ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thực hiện bốn phép tính với số hữu tỉ, chú ý quy tắc dấu và quy đồng."
+      },
+      {
+        "type": "visualization",
+        "title": "Tính với phân số có dấu",
+        "content": "Quy đồng khi cộng trừ; nhân chia theo quy tắc phân số.",
+        "visualization": "fractionBar"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-1/2 + 3/4 = 1/4."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xử lí dấu trước, rồi tính phần giá trị."
+      }
+    ]
+  },
+  {
+    "id": "g7_rational_power",
+    "title": "Bài 3. Lũy thừa với số mũ tự nhiên của một số hữu tỉ",
+    "skill": "g7_rational_power",
+    "chapter": "Số hữu tỉ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính lũy thừa của số hữu tỉ và vận dụng các quy tắc nhân, chia lũy thừa."
+      },
+      {
+        "type": "visualization",
+        "title": "Lũy thừa số hữu tỉ",
+        "content": "Cơ số hữu tỉ được nhân lặp theo số mũ tự nhiên.",
+        "visualization": "power"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(-2/3)^2 = 4/9."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nếu số mũ chẵn, lũy thừa của số âm là dương."
+      }
+    ]
+  },
+  {
+    "id": "g7_ops_transfer",
+    "title": "Bài 4. Thứ tự thực hiện các phép tính. Quy tắc chuyển vế",
+    "skill": "g7_ops_transfer",
+    "chapter": "Số hữu tỉ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính biểu thức nhiều bước và giải bài toán tìm x bằng quy tắc chuyển vế."
+      },
+      {
+        "type": "visualization",
+        "title": "Chuyển vế đổi dấu",
+        "content": "Khi chuyển một hạng tử qua vế kia của đẳng thức, ta đổi dấu hạng tử đó.",
+        "visualization": "equationBalance"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x + 5 = 12 nên x = 12 - 5 = 7."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Làm gọn biểu thức trước khi tìm x."
+      }
+    ]
+  },
+  {
+    "id": "g7_repeating_decimal",
+    "title": "Bài 5. Làm quen với số thập phân vô hạn tuần hoàn",
+    "skill": "g7_repeating_decimal",
+    "chapter": "Số thực",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết số thập phân hữu hạn, vô hạn tuần hoàn và cách viết chu kì."
+      },
+      {
+        "type": "visualization",
+        "title": "Chu kì lặp",
+        "content": "Số thập phân vô hạn tuần hoàn có một nhóm chữ số lặp mãi.",
+        "visualization": "numberLine"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "0,333... có chu kì 3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhận ra phần lặp để viết gọn."
+      }
+    ]
+  },
+  {
+    "id": "g7_irrational_sqrt",
+    "title": "Bài 6. Số vô tỉ. Căn bậc hai số học",
+    "skill": "g7_irrational_sqrt",
+    "chapter": "Số thực",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Làm quen số vô tỉ và căn bậc hai số học của số không âm."
+      },
+      {
+        "type": "visualization",
+        "title": "Căn bậc hai số học",
+        "content": "Căn bậc hai số học của a không âm là số không âm có bình phương bằng a.",
+        "visualization": "concept"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Căn bậc hai số học của 25 là 5."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chỉ số không âm mới có căn bậc hai số học trong chương trình này."
+      }
+    ]
+  },
+  {
+    "id": "g7_real_set",
+    "title": "Bài 7. Tập hợp các số thực",
+    "skill": "g7_real_set",
+    "chapter": "Số thực",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu quan hệ giữa số hữu tỉ, số vô tỉ và số thực; so sánh, làm tròn số thực."
+      },
+      {
+        "type": "visualization",
+        "title": "Bức tranh số thực",
+        "content": "Số thực gồm số hữu tỉ và số vô tỉ.",
+        "visualization": "numberLine"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Căn 2 là số vô tỉ nhưng vẫn là số thực."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mỗi số thực ứng với một điểm trên trục số."
+      }
+    ]
+  },
+  {
+    "id": "g7_angles",
+    "title": "Bài 8. Góc ở vị trí đặc biệt. Tia phân giác của một góc",
+    "skill": "g7_angles",
+    "chapter": "Góc và đường thẳng song song",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết góc kề bù, đối đỉnh và tia phân giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Góc đặc biệt",
+        "content": "Góc đối đỉnh bằng nhau; hai góc kề bù có tổng 180 độ.",
+        "visualization": "angle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu hai góc kề bù, một góc 65 độ thì góc kia 115 độ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tia phân giác chia góc thành hai góc bằng nhau."
+      }
+    ]
+  },
+  {
+    "id": "g7_parallel_signs",
+    "title": "Bài 9. Hai đường thẳng song song và dấu hiệu nhận biết",
+    "skill": "g7_parallel_signs",
+    "chapter": "Góc và đường thẳng song song",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Dùng các cặp góc so le trong, đồng vị để nhận biết hai đường thẳng song song."
+      },
+      {
+        "type": "visualization",
+        "title": "Dấu hiệu song song",
+        "content": "Nếu một cặp góc so le trong bằng nhau thì hai đường thẳng song song.",
+        "visualization": "angle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hai góc so le trong cùng bằng 70 độ cho biết hai đường thẳng song song."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định đúng cặp góc trước khi kết luận."
+      }
+    ]
+  },
+  {
+    "id": "g7_euclid_parallel",
+    "title": "Bài 10. Tiên đề Euclid. Tính chất hai đường thẳng song song",
+    "skill": "g7_euclid_parallel",
+    "chapter": "Góc và đường thẳng song song",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng tiên đề Euclid và tính chất góc khi hai đường thẳng song song."
+      },
+      {
+        "type": "visualization",
+        "title": "Qua một điểm chỉ có một đường song song",
+        "content": "Tiên đề Euclid giúp suy luận duy nhất đường thẳng song song qua một điểm ngoài đường thẳng.",
+        "visualization": "angle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu a song song b, góc đồng vị bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Song song tạo ra các cặp góc bằng nhau hoặc bù nhau."
+      }
+    ]
+  },
+  {
+    "id": "g7_theorem_proof",
+    "title": "Bài 11. Định lí và chứng minh định lí",
+    "skill": "g7_theorem_proof",
+    "chapter": "Góc và đường thẳng song song",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 60,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt giả thiết, kết luận và trình bày chứng minh ngắn gọn."
+      },
+      {
+        "type": "visualization",
+        "title": "Giả thiết đến kết luận",
+        "content": "Một định lí gồm phần đã cho và điều cần chứng minh.",
+        "visualization": "logic"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu hai góc đối đỉnh thì chúng bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Viết rõ GT, KL trước khi chứng minh."
+      }
+    ]
+  },
+  {
+    "id": "g7_triangle_sum",
+    "title": "Bài 12. Tổng các góc trong một tam giác",
+    "skill": "g7_triangle_sum",
+    "chapter": "Tam giác bằng nhau",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng tổng ba góc của tam giác bằng 180 độ."
+      },
+      {
+        "type": "visualization",
+        "title": "Tổng góc 180 độ",
+        "content": "Ba góc trong một tam giác luôn có tổng 180 độ.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tam giác có hai góc 50 độ và 60 độ thì góc còn lại 70 độ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Lấy 180 trừ tổng hai góc đã biết."
+      }
+    ]
+  },
+  {
+    "id": "g7_triangle_sss",
+    "title": "Bài 13. Hai tam giác bằng nhau. Trường hợp bằng nhau thứ nhất",
+    "skill": "g7_triangle_sss",
+    "chapter": "Tam giác bằng nhau",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hai tam giác bằng nhau theo trường hợp cạnh-cạnh-cạnh."
+      },
+      {
+        "type": "visualization",
+        "title": "Cạnh-cạnh-cạnh",
+        "content": "Ba cạnh tương ứng bằng nhau thì hai tam giác bằng nhau.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "AB = DE, BC = EF, CA = FD thì tam giác ABC bằng DEF."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghép đúng cặp đỉnh tương ứng."
+      }
+    ]
+  },
+  {
+    "id": "g7_triangle_sas_asa",
+    "title": "Bài 14. Trường hợp bằng nhau thứ hai và thứ ba của tam giác",
+    "skill": "g7_triangle_sas_asa",
+    "chapter": "Tam giác bằng nhau",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sử dụng cạnh-góc-cạnh và góc-cạnh-góc để chứng minh hai tam giác bằng nhau."
+      },
+      {
+        "type": "visualization",
+        "title": "Cạnh-góc-cạnh và góc-cạnh-góc",
+        "content": "Hai cạnh và góc xen giữa, hoặc một cạnh và hai góc kề tương ứng bằng nhau, đủ để kết luận bằng nhau.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "SAS cần góc nằm giữa hai cạnh đã biết."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm tra vị trí của góc."
+      }
+    ]
+  },
+  {
+    "id": "g7_right_triangle",
+    "title": "Bài 15. Các trường hợp bằng nhau của tam giác vuông",
+    "skill": "g7_right_triangle",
+    "chapter": "Tam giác bằng nhau",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết các trường hợp bằng nhau đặc biệt của tam giác vuông."
+      },
+      {
+        "type": "visualization",
+        "title": "Tam giác vuông",
+        "content": "Tam giác vuông có các trường hợp bằng nhau rút gọn nhờ góc vuông.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hai cạnh góc vuông tương ứng bằng nhau thì hai tam giác vuông bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhận diện cạnh huyền và cạnh góc vuông."
+      }
+    ]
+  },
+  {
+    "id": "g7_isosceles_bisector",
+    "title": "Bài 16. Tam giác cân. Đường trung trực của đoạn thẳng",
+    "skill": "g7_isosceles_bisector",
+    "chapter": "Tam giác bằng nhau",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng tính chất tam giác cân và đường trung trực."
+      },
+      {
+        "type": "visualization",
+        "title": "Tam giác cân",
+        "content": "Tam giác cân có hai cạnh bên bằng nhau và hai góc ở đáy bằng nhau.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu AB = AC thì góc B bằng góc C."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đường trung trực gồm các điểm cách đều hai đầu đoạn thẳng."
+      }
+    ]
+  },
+  {
+    "id": "g7_data_classify",
+    "title": "Bài 17. Thu thập và phân loại dữ liệu",
+    "skill": "g7_data_classify",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Xác định loại dữ liệu, thu thập và phân loại dữ liệu đúng mục đích."
+      },
+      {
+        "type": "visualization",
+        "title": "Dữ liệu đúng loại",
+        "content": "Dữ liệu định tính mô tả nhóm; dữ liệu định lượng là số đo hoặc số đếm.",
+        "visualization": "data"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Màu yêu thích là định tính; chiều cao là định lượng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phân loại dữ liệu trước khi chọn biểu đồ."
+      }
+    ]
+  },
+  {
+    "id": "g7_pie_chart",
+    "title": "Bài 18. Biểu đồ hình quạt tròn",
+    "skill": "g7_pie_chart",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc và biểu diễn cơ cấu phần trăm bằng biểu đồ hình quạt tròn."
+      },
+      {
+        "type": "visualization",
+        "title": "Cơ cấu phần trăm",
+        "content": "Biểu đồ quạt tròn biểu diễn các phần của một tổng thể.",
+        "visualization": "chart"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "25% tương ứng với 90 độ của hình tròn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Góc quạt = phần trăm · 360 độ."
+      }
+    ]
+  },
+  {
+    "id": "g7_line_chart",
+    "title": "Bài 19. Biểu đồ đoạn thẳng",
+    "skill": "g7_line_chart",
+    "chapter": "Thu thập và biểu diễn dữ liệu",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc xu hướng tăng giảm của dữ liệu theo thời gian bằng biểu đồ đoạn thẳng."
+      },
+      {
+        "type": "visualization",
+        "title": "Xu hướng theo thời gian",
+        "content": "Biểu đồ đoạn thẳng nối các điểm dữ liệu theo thứ tự thời gian.",
+        "visualization": "chart"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Đường đi lên cho thấy số liệu tăng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đọc trục ngang là thời gian, trục dọc là giá trị."
+      }
+    ]
+  },
+  {
+    "id": "g7_proportion",
+    "title": "Bài 20. Tỉ lệ thức",
+    "skill": "g7_proportion",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tỉ lệ thức và vận dụng tính chất tích chéo."
+      },
+      {
+        "type": "visualization",
+        "title": "Tỉ lệ thức",
+        "content": "Tỉ lệ thức là đẳng thức của hai tỉ số.",
+        "visualization": "ratio"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2/3 = 4/6 là một tỉ lệ thức."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tích chéo bằng nhau là dấu hiệu quan trọng."
+      }
+    ]
+  },
+  {
+    "id": "g7_equal_ratios",
+    "title": "Bài 21. Tính chất của dãy tỉ số bằng nhau",
+    "skill": "g7_equal_ratios",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng dãy tỉ số bằng nhau để tìm các đại lượng chưa biết."
+      },
+      {
+        "type": "visualization",
+        "title": "Dãy tỉ số bằng nhau",
+        "content": "Nếu a/b = c/d thì có thể dùng tính chất để tìm các số chưa biết.",
+        "visualization": "ratio"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x/2 = y/3 và x+y=10 thì x=4, y=6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tổng các phần tỉ lệ giúp tìm một phần."
+      }
+    ]
+  },
+  {
+    "id": "g7_direct_variation",
+    "title": "Bài 22. Đại lượng tỉ lệ thuận",
+    "skill": "g7_direct_variation",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và giải bài toán hai đại lượng tỉ lệ thuận."
+      },
+      {
+        "type": "visualization",
+        "title": "Cùng tăng cùng giảm",
+        "content": "Hai đại lượng tỉ lệ thuận có thương y/x không đổi.",
+        "visualization": "ratio"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Giá tiền tỉ lệ thuận với số kg hàng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tìm hệ số tỉ lệ trước."
+      }
+    ]
+  },
+  {
+    "id": "g7_inverse_variation",
+    "title": "Bài 23. Đại lượng tỉ lệ nghịch",
+    "skill": "g7_inverse_variation",
+    "chapter": "Tỉ lệ thức và đại lượng tỉ lệ",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và giải bài toán hai đại lượng tỉ lệ nghịch."
+      },
+      {
+        "type": "visualization",
+        "title": "Một tăng một giảm",
+        "content": "Hai đại lượng tỉ lệ nghịch có tích x·y không đổi.",
+        "visualization": "ratio"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Cùng một quãng đường, vận tốc tăng thì thời gian giảm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giữ tích không đổi."
+      }
+    ]
+  },
+  {
+    "id": "g7_algebra_expr",
+    "title": "Bài 24. Biểu thức đại số",
+    "skill": "g7_algebra_expr",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Viết, đọc và tính giá trị biểu thức đại số."
+      },
+      {
+        "type": "visualization",
+        "title": "Chữ thay cho số",
+        "content": "Biểu thức đại số dùng chữ để đại diện cho số.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Với x=3, 2x+5 = 11."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thay giá trị rồi tính theo thứ tự phép tính."
+      }
+    ]
+  },
+  {
+    "id": "g7_polynomial_one_var",
+    "title": "Bài 25. Đa thức một biến",
+    "skill": "g7_polynomial_one_var",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hệ số, bậc, hệ số cao nhất và hệ số tự do của đa thức một biến."
+      },
+      {
+        "type": "visualization",
+        "title": "Đa thức một biến",
+        "content": "Đa thức một biến là tổng các đơn thức cùng một biến.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "P(x)=3x^2-2x+1 có bậc 2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Bậc là số mũ lớn nhất có hệ số khác 0."
+      }
+    ]
+  },
+  {
+    "id": "g7_poly_add_sub",
+    "title": "Bài 26. Phép cộng và phép trừ đa thức một biến",
+    "skill": "g7_poly_add_sub",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thu gọn, sắp xếp và cộng trừ đa thức một biến."
+      },
+      {
+        "type": "visualization",
+        "title": "Gộp hạng tử đồng dạng",
+        "content": "Cộng trừ đa thức bằng cách cộng trừ hệ số của các hạng tử cùng bậc.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(2x^2+3x) + (x^2-x) = 3x^2+2x."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Sắp xếp theo bậc để tránh sót hạng tử."
+      }
+    ]
+  },
+  {
+    "id": "g7_poly_multiply",
+    "title": "Bài 27. Phép nhân đa thức một biến",
+    "skill": "g7_poly_multiply",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân đơn thức với đa thức và nhân hai đa thức một biến."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhân phân phối",
+        "content": "Nhân đa thức bằng cách nhân từng hạng tử rồi thu gọn.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x(x+2)=x^2+2x."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phân phối cho tất cả hạng tử trong ngoặc."
+      }
+    ]
+  },
+  {
+    "id": "g7_poly_divide",
+    "title": "Bài 28. Phép chia đa thức một biến",
+    "skill": "g7_poly_divide",
+    "chapter": "Biểu thức đại số và đa thức một biến",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chia đa thức một biến trong các trường hợp đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Chia theo bậc giảm dần",
+        "content": "Chia đa thức một biến bắt đầu từ hạng tử bậc cao nhất.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(x^2+3x)/x = x+3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm tra bằng phép nhân thương với đa thức chia."
+      }
+    ]
+  },
+  {
+    "id": "g7_event_intro",
+    "title": "Bài 29. Làm quen với biến cố",
+    "skill": "g7_event_intro",
+    "chapter": "Làm quen với biến cố và xác suất",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt biến cố chắc chắn, không thể và ngẫu nhiên."
+      },
+      {
+        "type": "visualization",
+        "title": "Biến cố",
+        "content": "Biến cố là điều có thể xảy ra hoặc không xảy ra trong phép thử.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tung xúc xắc ra số 7 là biến cố không thể."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định không gian kết quả trước."
+      }
+    ]
+  },
+  {
+    "id": "g7_probability_intro",
+    "title": "Bài 30. Làm quen với xác suất của biến cố",
+    "skill": "g7_probability_intro",
+    "chapter": "Làm quen với biến cố và xác suất",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính xác suất trong các tình huống đơn giản có các kết quả đồng khả năng."
+      },
+      {
+        "type": "visualization",
+        "title": "Tỉ lệ khả năng",
+        "content": "Xác suất bằng số kết quả thuận lợi chia số kết quả có thể khi đồng khả năng.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Xác suất tung xúc xắc ra số chẵn là 3/6 = 1/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đếm kết quả thuận lợi và tổng kết quả."
+      }
+    ]
+  },
+  {
+    "id": "g7_triangle_angle_side",
+    "title": "Bài 31. Quan hệ giữa góc và cạnh đối diện trong tam giác",
+    "skill": "g7_triangle_angle_side",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Dùng quan hệ góc lớn đối diện cạnh lớn để so sánh cạnh, góc."
+      },
+      {
+        "type": "visualization",
+        "title": "Góc lớn cạnh lớn",
+        "content": "Trong tam giác, góc lớn hơn đối diện cạnh dài hơn.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Góc A lớn nhất thì cạnh BC dài nhất."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh đúng cặp góc và cạnh đối diện."
+      }
+    ]
+  },
+  {
+    "id": "g7_perp_oblique",
+    "title": "Bài 32. Quan hệ giữa đường vuông góc và đường xiên",
+    "skill": "g7_perp_oblique",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "So sánh đường vuông góc, đường xiên và hình chiếu."
+      },
+      {
+        "type": "visualization",
+        "title": "Đường vuông góc ngắn nhất",
+        "content": "Từ một điểm đến một đường thẳng, đoạn vuông góc là ngắn nhất.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Khoảng cách từ điểm đến đường là độ dài đoạn vuông góc."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đường xiên dài hơn hình chiếu tương ứng nếu hình chiếu dài hơn."
+      }
+    ]
+  },
+  {
+    "id": "g7_triangle_inequality",
+    "title": "Bài 33. Quan hệ giữa ba cạnh của một tam giác",
+    "skill": "g7_triangle_inequality",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Kiểm tra ba độ dài có lập thành tam giác bằng bất đẳng thức tam giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Bất đẳng thức tam giác",
+        "content": "Tổng hai cạnh bất kì của tam giác lớn hơn cạnh còn lại.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3, 4, 5 lập thành tam giác vì 3+4>5."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chỉ cần kiểm tra tổng hai cạnh nhỏ hơn có lớn hơn cạnh lớn nhất không."
+      }
+    ]
+  },
+  {
+    "id": "g7_centroid_incenter",
+    "title": "Bài 34. Sự đồng quy của ba đường trung tuyến, ba đường phân giác",
+    "skill": "g7_centroid_incenter",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết trọng tâm và giao điểm ba đường phân giác trong tam giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Các đường đồng quy",
+        "content": "Ba trung tuyến đồng quy tại trọng tâm; ba phân giác đồng quy tại tâm nội tiếp.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Trọng tâm nằm trên mỗi trung tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhớ đường trung tuyến đi từ đỉnh đến trung điểm cạnh đối diện."
+      }
+    ]
+  },
+  {
+    "id": "g7_circumcenter_orthocenter",
+    "title": "Bài 35. Sự đồng quy của ba đường trung trực, ba đường cao",
+    "skill": "g7_circumcenter_orthocenter",
+    "chapter": "Quan hệ giữa các yếu tố trong tam giác",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tâm đường tròn ngoại tiếp và trực tâm của tam giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm ngoại tiếp và trực tâm",
+        "content": "Ba trung trực đồng quy tại tâm ngoại tiếp; ba đường cao đồng quy tại trực tâm.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tâm ngoại tiếp cách đều ba đỉnh tam giác."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đường cao vuông góc với cạnh đối diện."
+      }
+    ]
+  },
+  {
+    "id": "g7_box_cube",
+    "title": "Bài 36. Hình hộp chữ nhật và hình lập phương",
+    "skill": "g7_box_cube",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết, tính diện tích xung quanh và thể tích hình hộp chữ nhật, hình lập phương."
+      },
+      {
+        "type": "visualization",
+        "title": "Khối hộp",
+        "content": "Hình hộp chữ nhật có 6 mặt là hình chữ nhật; hình lập phương có 6 mặt là hình vuông.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Thể tích hộp chữ nhật bằng dài · rộng · cao."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dùng đúng đơn vị khối cho thể tích."
+      }
+    ]
+  },
+  {
+    "id": "g7_prism",
+    "title": "Bài 37. Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác",
+    "skill": "g7_prism",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 7 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và tính thể tích, diện tích xung quanh của lăng trụ đứng."
+      },
+      {
+        "type": "visualization",
+        "title": "Lăng trụ đứng",
+        "content": "Lăng trụ đứng có hai đáy song song bằng nhau và các mặt bên là hình chữ nhật.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Thể tích lăng trụ bằng diện tích đáy nhân chiều cao."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định đáy trước khi tính."
+      }
+    ]
+  },
+  {
+    "id": "g8_monomial",
+    "title": "Bài 1. Đơn thức",
+    "skill": "g8_monomial",
+    "chapter": "Đa thức",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết đơn thức, đơn thức thu gọn, hệ số, phần biến và đơn thức đồng dạng."
+      },
+      {
+        "type": "visualization",
+        "title": "Đơn thức thu gọn",
+        "content": "Một đơn thức chỉ gồm số, biến và phép nhân các biến.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3x^2y và -5xy^2 là hai đơn thức; 3x^2y có hệ số 3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đơn thức đồng dạng có cùng phần biến."
+      }
+    ]
+  },
+  {
+    "id": "g8_polynomial",
+    "title": "Bài 2. Đa thức",
+    "skill": "g8_polynomial",
+    "chapter": "Đa thức",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết đa thức, hạng tử, đa thức thu gọn và bậc của đa thức."
+      },
+      {
+        "type": "visualization",
+        "title": "Tổng các đơn thức",
+        "content": "Đa thức là tổng của các đơn thức; mỗi đơn thức là một hạng tử.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2x^2-3x+1 có ba hạng tử và bậc 2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thu gọn đa thức bằng cách gộp hạng tử đồng dạng."
+      }
+    ]
+  },
+  {
+    "id": "g8_poly_add_sub",
+    "title": "Bài 3. Phép cộng và phép trừ đa thức",
+    "skill": "g8_poly_add_sub",
+    "chapter": "Đa thức",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cộng, trừ đa thức bằng cách nhóm các hạng tử đồng dạng."
+      },
+      {
+        "type": "visualization",
+        "title": "Gộp đúng hạng tử",
+        "content": "Cộng trừ đa thức là cộng trừ hệ số của các hạng tử đồng dạng.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(2x+3)+(5x-1)=7x+2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Sắp xếp theo bậc để nhìn rõ hạng tử đồng dạng."
+      }
+    ]
+  },
+  {
+    "id": "g8_poly_multiply",
+    "title": "Bài 4. Phép nhân đa thức",
+    "skill": "g8_poly_multiply",
+    "chapter": "Đa thức",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân đơn thức với đa thức và nhân đa thức với đa thức bằng phân phối."
+      },
+      {
+        "type": "visualization",
+        "title": "Phân phối đầy đủ",
+        "content": "Nhân đa thức bằng cách nhân từng hạng tử của đa thức này với từng hạng tử của đa thức kia.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(x+2)(x+3)=x^2+5x+6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đừng bỏ sót tích chéo."
+      }
+    ]
+  },
+  {
+    "id": "g8_poly_div_monomial",
+    "title": "Bài 5. Phép chia đa thức cho đơn thức",
+    "skill": "g8_poly_div_monomial",
+    "chapter": "Đa thức",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chia từng hạng tử của đa thức cho đơn thức khi phép chia thực hiện được."
+      },
+      {
+        "type": "visualization",
+        "title": "Chia từng hạng tử",
+        "content": "Khi chia đa thức cho đơn thức, chia từng hạng tử cho đơn thức đó.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(6x^2+3x):3x=2x+1."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mỗi hạng tử đều phải chia được."
+      }
+    ]
+  },
+  {
+    "id": "g8_identity_square",
+    "title": "Bài 6. Hiệu hai bình phương. Bình phương của một tổng hay một hiệu",
+    "skill": "g8_identity_square",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và vận dụng a^2-b^2, (a+b)^2, (a-b)^2."
+      },
+      {
+        "type": "visualization",
+        "title": "Ba hằng đẳng thức đầu",
+        "content": "(a+b)^2, (a-b)^2 và a^2-b^2 giúp tính nhanh, phân tích nhanh.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "99^2=(100-1)^2=9801."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chú ý hạng tử 2ab trong bình phương tổng/hiệu."
+      }
+    ]
+  },
+  {
+    "id": "g8_identity_cube",
+    "title": "Bài 7. Lập phương của một tổng. Lập phương của một hiệu",
+    "skill": "g8_identity_cube",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Khai triển và rút gọn biểu thức bằng hằng đẳng thức lập phương."
+      },
+      {
+        "type": "visualization",
+        "title": "Lập phương tổng hiệu",
+        "content": "(a+b)^3 và (a-b)^3 có các hệ số 1, 3, 3, 1.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(x+2)^3=x^3+6x^2+12x+8."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dấu của lập phương hiệu xen kẽ."
+      }
+    ]
+  },
+  {
+    "id": "g8_identity_sum_diff_cubes",
+    "title": "Bài 8. Tổng và hiệu hai lập phương",
+    "skill": "g8_identity_sum_diff_cubes",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng a^3+b^3 và a^3-b^3 để phân tích hoặc tính nhanh."
+      },
+      {
+        "type": "visualization",
+        "title": "Tổng hiệu lập phương",
+        "content": "a^3+b^3=(a+b)(a^2-ab+b^2), a^3-b^3=(a-b)(a^2+ab+b^2).",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x^3-8=(x-2)(x^2+2x+4)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhớ dấu ở tam thức phía sau."
+      }
+    ]
+  },
+  {
+    "id": "g8_factorization",
+    "title": "Bài 9. Phân tích đa thức thành nhân tử",
+    "skill": "g8_factorization",
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân tích đa thức bằng đặt nhân tử chung, hằng đẳng thức và nhóm hạng tử."
+      },
+      {
+        "type": "visualization",
+        "title": "Tách thành tích",
+        "content": "Phân tích nhân tử biến tổng thành tích để rút gọn hoặc giải bài toán.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x^2-9=(x-3)(x+3)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ưu tiên đặt nhân tử chung trước."
+      }
+    ]
+  },
+  {
+    "id": "g8_quadrilateral",
+    "title": "Bài 10. Tứ giác",
+    "skill": "g8_quadrilateral",
+    "chapter": "Tứ giác",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tứ giác, tổng các góc trong tứ giác và các yếu tố cơ bản."
+      },
+      {
+        "type": "visualization",
+        "title": "Tổng góc tứ giác",
+        "content": "Tổng bốn góc trong một tứ giác bằng 360 độ.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Ba góc 80, 90, 100 độ thì góc còn lại 90 độ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chia tứ giác thành hai tam giác để nhớ 360 độ."
+      }
+    ]
+  },
+  {
+    "id": "g8_isosceles_trapezoid",
+    "title": "Bài 11. Hình thang cân",
+    "skill": "g8_isosceles_trapezoid",
+    "chapter": "Tứ giác",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tính chất cạnh, góc và đường chéo của hình thang cân."
+      },
+      {
+        "type": "visualization",
+        "title": "Hình thang cân",
+        "content": "Hình thang cân có hai cạnh bên bằng nhau, hai góc kề một đáy bằng nhau.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hai đường chéo hình thang cân bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm tra trước một cặp cạnh đối song song."
+      }
+    ]
+  },
+  {
+    "id": "g8_parallelogram",
+    "title": "Bài 12. Hình bình hành",
+    "skill": "g8_parallelogram",
+    "chapter": "Tứ giác",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và vận dụng tính chất, dấu hiệu hình bình hành."
+      },
+      {
+        "type": "visualization",
+        "title": "Hai cặp cạnh song song",
+        "content": "Hình bình hành có các cạnh đối song song và bằng nhau.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Đường chéo hình bình hành cắt nhau tại trung điểm mỗi đường."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Một dấu hiệu đủ là hai cặp cạnh đối song song."
+      }
+    ]
+  },
+  {
+    "id": "g8_rectangle",
+    "title": "Bài 13. Hình chữ nhật",
+    "skill": "g8_rectangle",
+    "chapter": "Tứ giác",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tính chất và dấu hiệu hình chữ nhật."
+      },
+      {
+        "type": "visualization",
+        "title": "Hình bình hành có góc vuông",
+        "content": "Hình chữ nhật là tứ giác có bốn góc vuông.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Đường chéo hình chữ nhật bằng nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hình bình hành có một góc vuông là hình chữ nhật."
+      }
+    ]
+  },
+  {
+    "id": "g8_rhombus_square",
+    "title": "Bài 14. Hình thoi và hình vuông",
+    "skill": "g8_rhombus_square",
+    "chapter": "Tứ giác",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 70,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tính chất, dấu hiệu hình thoi và hình vuông."
+      },
+      {
+        "type": "visualization",
+        "title": "Hình thoi và hình vuông",
+        "content": "Hình thoi có bốn cạnh bằng nhau; hình vuông vừa là hình chữ nhật vừa là hình thoi.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Đường chéo hình thoi vuông góc với nhau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hình vuông có mọi tính chất của hình chữ nhật và hình thoi."
+      }
+    ]
+  },
+  {
+    "id": "g8_thales",
+    "title": "Bài 15. Định lí Thalès trong tam giác",
+    "skill": "g8_thales",
+    "chapter": "Định lí Thalès",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng định lí Thalès và định lí đảo để tính tỉ số đoạn thẳng."
+      },
+      {
+        "type": "visualization",
+        "title": "Tỉ số đoạn thẳng",
+        "content": "Đường thẳng song song một cạnh tam giác tạo các đoạn tương ứng tỉ lệ.",
+        "visualization": "ratio"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu DE song song BC trong tam giác ABC thì AD/AB = AE/AC."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhận ra cặp đường song song trước khi lập tỉ số."
+      }
+    ]
+  },
+  {
+    "id": "g8_midline_triangle",
+    "title": "Bài 16. Đường trung bình của tam giác",
+    "skill": "g8_midline_triangle",
+    "chapter": "Định lí Thalès",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết đường trung bình của tam giác và tính độ dài đoạn song song."
+      },
+      {
+        "type": "visualization",
+        "title": "Đường trung bình",
+        "content": "Đường trung bình nối trung điểm hai cạnh tam giác, song song cạnh thứ ba và bằng nửa cạnh đó.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu MN là đường trung bình, MN = BC/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cần đủ hai trung điểm."
+      }
+    ]
+  },
+  {
+    "id": "g8_angle_bisector",
+    "title": "Bài 17. Tính chất đường phân giác của tam giác",
+    "skill": "g8_angle_bisector",
+    "chapter": "Định lí Thalès",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng tỉ số hai cạnh kề theo đường phân giác trong tam giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Phân giác và tỉ số",
+        "content": "Đường phân giác trong tam giác chia cạnh đối diện theo tỉ số hai cạnh kề.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "AD là phân giác góc A thì BD/DC = AB/AC."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đặt đúng cạnh kề với từng đoạn."
+      }
+    ]
+  },
+  {
+    "id": "g8_data_collect",
+    "title": "Bài 18. Thu thập và phân loại dữ liệu",
+    "skill": "g8_data_collect",
+    "chapter": "Dữ liệu và biểu đồ",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thu thập dữ liệu phù hợp, phân loại dữ liệu định tính và định lượng."
+      },
+      {
+        "type": "visualization",
+        "title": "Dữ liệu phù hợp",
+        "content": "Dữ liệu cần đúng câu hỏi khảo sát và phân loại rõ ràng.",
+        "visualization": "data"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Sở thích là dữ liệu định tính, cân nặng là định lượng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn mẫu khảo sát phù hợp mục tiêu."
+      }
+    ]
+  },
+  {
+    "id": "g8_data_display",
+    "title": "Bài 19. Biểu diễn dữ liệu bằng bảng, biểu đồ",
+    "skill": "g8_data_display",
+    "chapter": "Dữ liệu và biểu đồ",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chọn bảng, biểu đồ cột, quạt tròn hoặc đoạn thẳng phù hợp để biểu diễn dữ liệu."
+      },
+      {
+        "type": "visualization",
+        "title": "Chọn biểu đồ",
+        "content": "Bảng và biểu đồ giúp nhìn dữ liệu theo nhóm, cơ cấu hoặc thời gian.",
+        "visualization": "chart"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Dữ liệu theo tháng thường hợp với biểu đồ đoạn thẳng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn biểu đồ theo loại câu hỏi cần trả lời."
+      }
+    ]
+  },
+  {
+    "id": "g8_data_analysis_chart",
+    "title": "Bài 20. Phân tích số liệu thống kê dựa vào biểu đồ",
+    "skill": "g8_data_analysis_chart",
+    "chapter": "Dữ liệu và biểu đồ",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đọc biểu đồ, so sánh, nhận xét xu hướng và rút kết luận từ số liệu."
+      },
+      {
+        "type": "visualization",
+        "title": "Đọc và nhận xét",
+        "content": "Phân tích biểu đồ cần đọc trục, đơn vị, mức chênh lệch và xu hướng.",
+        "visualization": "chart"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Từ 45 lên 60 là tăng 15 đơn vị."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhận xét nên kèm số liệu."
+      }
+    ]
+  },
+  {
+    "id": "g8_rational_expr",
+    "title": "Bài 21. Phân thức đại số",
+    "skill": "g8_rational_expr",
+    "chapter": "Phân thức đại số",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết phân thức đại số, điều kiện xác định và giá trị của phân thức."
+      },
+      {
+        "type": "visualization",
+        "title": "Phân thức đại số",
+        "content": "Phân thức có dạng A/B với A, B là đa thức và B khác 0.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "1/(x-2) xác định khi x khác 2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn kiểm tra mẫu khác 0."
+      }
+    ]
+  },
+  {
+    "id": "g8_rational_expr_property",
+    "title": "Bài 22. Tính chất cơ bản của phân thức đại số",
+    "skill": "g8_rational_expr_property",
+    "chapter": "Phân thức đại số",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Rút gọn và biến đổi phân thức bằng nhân, chia tử mẫu với cùng một nhân tử khác 0."
+      },
+      {
+        "type": "visualization",
+        "title": "Biến đổi tương đương",
+        "content": "Nhân hoặc chia cả tử và mẫu với cùng một nhân tử khác 0 không đổi giá trị phân thức.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2x/4x rút gọn thành 1/2 với x khác 0."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rút gọn bằng nhân tử chung, không xóa hạng tử tùy ý."
+      }
+    ]
+  },
+  {
+    "id": "g8_rational_expr_add_sub",
+    "title": "Bài 23. Phép cộng và phép trừ phân thức đại số",
+    "skill": "g8_rational_expr_add_sub",
+    "chapter": "Phân thức đại số",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cộng, trừ phân thức cùng mẫu hoặc khác mẫu bằng quy đồng."
+      },
+      {
+        "type": "visualization",
+        "title": "Quy đồng mẫu",
+        "content": "Cộng trừ phân thức cần cùng mẫu hoặc quy đồng mẫu.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "1/x + 1/2x = 3/2x."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không cộng trực tiếp hai mẫu."
+      }
+    ]
+  },
+  {
+    "id": "g8_rational_expr_mul_div",
+    "title": "Bài 24. Phép nhân và phép chia phân thức đại số",
+    "skill": "g8_rational_expr_mul_div",
+    "chapter": "Phân thức đại số",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân, chia phân thức và rút gọn kết quả."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhân thẳng, chia đảo",
+        "content": "Nhân tử với tử, mẫu với mẫu; chia cho phân thức là nhân với nghịch đảo.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "(x/2):(x/4)=2 với x khác 0."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rút gọn nhân tử chung trước hoặc sau."
+      }
+    ]
+  },
+  {
+    "id": "g8_linear_equation",
+    "title": "Bài 25. Phương trình bậc nhất một ẩn",
+    "skill": "g8_linear_equation",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Giải phương trình dạng ax+b=0 với a khác 0."
+      },
+      {
+        "type": "visualization",
+        "title": "Đưa về ax+b=0",
+        "content": "Phương trình bậc nhất một ẩn giải bằng biến đổi tương đương.",
+        "visualization": "equationBalance"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "3x-6=0 nên x=2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chuyển vế đổi dấu hoặc chia hai vế cho cùng số khác 0."
+      }
+    ]
+  },
+  {
+    "id": "g8_word_equation",
+    "title": "Bài 26. Giải bài toán bằng cách lập phương trình",
+    "skill": "g8_word_equation",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chọn ẩn, lập phương trình và giải bài toán thực tế đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Từ lời văn đến phương trình",
+        "content": "Chọn ẩn cho đại lượng chưa biết rồi diễn đạt điều kiện bằng phương trình.",
+        "visualization": "equationBalance"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Một số hơn 5 bằng 12: x+5=12."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm tra nghiệm có phù hợp thực tế không."
+      }
+    ]
+  },
+  {
+    "id": "g8_function_graph_intro",
+    "title": "Bài 27. Khái niệm hàm số và đồ thị của hàm số",
+    "skill": "g8_function_graph_intro",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hàm số, giá trị của hàm số và điểm thuộc đồ thị."
+      },
+      {
+        "type": "visualization",
+        "title": "Mỗi x một y",
+        "content": "Hàm số gán mỗi giá trị x với đúng một giá trị y.",
+        "visualization": "graph"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Với y=2x+1, x=3 thì y=7."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Điểm (x;y) thuộc đồ thị nếu y đúng bằng giá trị hàm tại x."
+      }
+    ]
+  },
+  {
+    "id": "g8_linear_function",
+    "title": "Bài 28. Hàm số bậc nhất và đồ thị của hàm số bậc nhất",
+    "skill": "g8_linear_function",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vẽ và đọc đồ thị hàm số y=ax+b với a khác 0."
+      },
+      {
+        "type": "visualization",
+        "title": "Đường thẳng y=ax+b",
+        "content": "Đồ thị hàm bậc nhất là một đường thẳng.",
+        "visualization": "graph"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "y=2x+1 đi qua (0;1) và (1;3)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chỉ cần hai điểm phân biệt để vẽ đường thẳng."
+      }
+    ]
+  },
+  {
+    "id": "g8_slope",
+    "title": "Bài 29. Hệ số góc của đường thẳng",
+    "skill": "g8_slope",
+    "chapter": "Phương trình bậc nhất và hàm số bậc nhất",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 80,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu hệ số góc a trong y=ax+b và so sánh độ dốc của đường thẳng."
+      },
+      {
+        "type": "visualization",
+        "title": "Độ dốc đường thẳng",
+        "content": "Trong y=ax+b, a là hệ số góc; a càng lớn thì đường càng dốc lên.",
+        "visualization": "graph"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "y=3x+1 dốc hơn y=x+1."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nếu a âm, đường thẳng đi xuống khi nhìn từ trái sang phải."
+      }
+    ]
+  },
+  {
+    "id": "g8_outcomes",
+    "title": "Bài 30. Kết quả có thể và kết quả thuận lợi",
+    "skill": "g8_outcomes",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Xác định không gian mẫu và các kết quả thuận lợi cho một biến cố."
+      },
+      {
+        "type": "visualization",
+        "title": "Kết quả thuận lợi",
+        "content": "Kết quả thuận lợi là các kết quả làm biến cố xảy ra.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Gieo xúc xắc ra số chẵn có kết quả thuận lợi 2,4,6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Liệt kê không gian mẫu trước."
+      }
+    ]
+  },
+  {
+    "id": "g8_probability_ratio",
+    "title": "Bài 31. Cách tính xác suất của biến cố bằng tỉ số",
+    "skill": "g8_probability_ratio",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính xác suất bằng tỉ số số kết quả thuận lợi trên số kết quả có thể."
+      },
+      {
+        "type": "visualization",
+        "title": "Tỉ số xác suất",
+        "content": "Khi các kết quả đồng khả năng, xác suất bằng số thuận lợi chia tổng số kết quả.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "P(ra số chẵn)=3/6=1/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rút gọn tỉ số nếu có thể."
+      }
+    ]
+  },
+  {
+    "id": "g8_experimental_probability",
+    "title": "Bài 32. Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng",
+    "skill": "g8_experimental_probability",
+    "chapter": "Mở đầu về tính xác suất của biến cố",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "So sánh xác suất thực nghiệm với xác suất lí thuyết trong tình huống đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Thực nghiệm và lí thuyết",
+        "content": "Xác suất thực nghiệm gần xác suất lí thuyết hơn khi số lần thử lớn.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tung xu 100 lần, mặt sấp 48 lần thì tần suất 48/100."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không kết luận vội từ quá ít lần thử."
+      }
+    ]
+  },
+  {
+    "id": "g8_similar_triangles",
+    "title": "Bài 33. Hai tam giác đồng dạng",
+    "skill": "g8_similar_triangles",
+    "chapter": "Tam giác đồng dạng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hai tam giác đồng dạng và tỉ số đồng dạng."
+      },
+      {
+        "type": "visualization",
+        "title": "Cùng hình, khác cỡ",
+        "content": "Hai tam giác đồng dạng có các góc tương ứng bằng nhau và các cạnh tương ứng tỉ lệ.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tam giác phóng to gấp 2 lần đồng dạng với tam giác ban đầu."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tỉ số đồng dạng áp dụng cho mọi cạnh tương ứng."
+      }
+    ]
+  },
+  {
+    "id": "g8_similarity_cases",
+    "title": "Bài 34. Ba trường hợp đồng dạng của hai tam giác",
+    "skill": "g8_similarity_cases",
+    "chapter": "Tam giác đồng dạng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng các trường hợp cạnh-cạnh-cạnh, cạnh-góc-cạnh, góc-góc để chứng minh đồng dạng."
+      },
+      {
+        "type": "visualization",
+        "title": "Ba trường hợp đồng dạng",
+        "content": "Có thể chứng minh đồng dạng bằng g.g, c.g.c hoặc c.c.c theo tỉ lệ.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hai góc tương ứng bằng nhau đủ để kết luận hai tam giác đồng dạng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghép đúng đỉnh tương ứng."
+      }
+    ]
+  },
+  {
+    "id": "g8_pythagore",
+    "title": "Bài 35. Định lí Pythagore và ứng dụng",
+    "skill": "g8_pythagore",
+    "chapter": "Tam giác đồng dạng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng định lí Pythagore để tính cạnh trong tam giác vuông."
+      },
+      {
+        "type": "visualization",
+        "title": "Tam giác vuông",
+        "content": "Trong tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Tam giác vuông có hai cạnh góc vuông 3 và 4 thì cạnh huyền 5."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chỉ áp dụng trực tiếp cho tam giác vuông."
+      }
+    ]
+  },
+  {
+    "id": "g8_right_triangle_similarity",
+    "title": "Bài 36. Các trường hợp đồng dạng của hai tam giác vuông",
+    "skill": "g8_right_triangle_similarity",
+    "chapter": "Tam giác đồng dạng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết các trường hợp đồng dạng đặc biệt của tam giác vuông."
+      },
+      {
+        "type": "visualization",
+        "title": "Đồng dạng tam giác vuông",
+        "content": "Hai tam giác vuông có thêm một góc nhọn bằng nhau thì đồng dạng.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hai tam giác vuông cùng có góc nhọn 35 độ thì đồng dạng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Một góc vuông đã bằng nhau sẵn."
+      }
+    ]
+  },
+  {
+    "id": "g8_similar_figures",
+    "title": "Bài 37. Hình đồng dạng",
+    "skill": "g8_similar_figures",
+    "chapter": "Tam giác đồng dạng",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hình đồng dạng và tỉ số giữa các kích thước tương ứng."
+      },
+      {
+        "type": "visualization",
+        "title": "Hình đồng dạng",
+        "content": "Hai hình đồng dạng có cùng hình dạng, kích thước tương ứng tỉ lệ.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Bản đồ và thực tế là hai hình đồng dạng theo tỉ lệ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tỉ lệ dài, rộng, cao tương ứng phải nhất quán."
+      }
+    ]
+  },
+  {
+    "id": "g8_triangular_pyramid",
+    "title": "Bài 38. Hình chóp tam giác đều",
+    "skill": "g8_triangular_pyramid",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hình chóp tam giác đều và tính diện tích xung quanh, thể tích đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Chóp tam giác đều",
+        "content": "Hình chóp tam giác đều có đáy là tam giác đều và các cạnh bên bằng nhau.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Diện tích xung quanh bằng tổng diện tích ba mặt bên."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định đáy và chiều cao trước khi tính."
+      }
+    ]
+  },
+  {
+    "id": "g8_square_pyramid",
+    "title": "Bài 39. Hình chóp tứ giác đều",
+    "skill": "g8_square_pyramid",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 8 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hình chóp tứ giác đều và vận dụng công thức diện tích, thể tích."
+      },
+      {
+        "type": "visualization",
+        "title": "Chóp tứ giác đều",
+        "content": "Hình chóp tứ giác đều có đáy là hình vuông và các mặt bên là tam giác cân bằng nhau.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Thể tích chóp bằng 1/3 diện tích đáy nhân chiều cao."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đơn vị thể tích là đơn vị khối."
+      }
+    ]
+  },
+  {
+    "id": "g9_linear_system_intro",
+    "title": "Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "skill": "g9_linear_system_intro",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết phương trình bậc nhất hai ẩn, nghiệm và hệ hai phương trình bậc nhất hai ẩn."
+      },
+      {
+        "type": "visualization",
+        "title": "Hai đường thẳng và nghiệm chung",
+        "content": "Nghiệm của hệ là cặp số làm đúng cả hai phương trình.",
+        "visualization": "system"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hệ x+y=5, x-y=1 có nghiệm x=3, y=2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn thay nghiệm vào cả hai phương trình để kiểm tra."
+      }
+    ]
+  },
+  {
+    "id": "g9_solve_linear_system",
+    "title": "Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn",
+    "skill": "g9_solve_linear_system",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Giải hệ bằng phương pháp thế, cộng đại số và kiểm tra nghiệm."
+      },
+      {
+        "type": "visualization",
+        "title": "Hai đường thẳng và nghiệm chung",
+        "content": "Nghiệm của hệ là cặp số làm đúng cả hai phương trình.",
+        "visualization": "system"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hệ x+y=5, x-y=1 có nghiệm x=3, y=2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn thay nghiệm vào cả hai phương trình để kiểm tra."
+      }
+    ]
+  },
+  {
+    "id": "g9_word_system",
+    "title": "Bài 3. Giải bài toán bằng cách lập hệ phương trình",
+    "skill": "g9_word_system",
+    "chapter": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chọn hai ẩn, lập hệ phương trình và giải bài toán thực tế."
+      },
+      {
+        "type": "visualization",
+        "title": "Hai đường thẳng và nghiệm chung",
+        "content": "Nghiệm của hệ là cặp số làm đúng cả hai phương trình.",
+        "visualization": "system"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Hệ x+y=5, x-y=1 có nghiệm x=3, y=2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn thay nghiệm vào cả hai phương trình để kiểm tra."
+      }
+    ]
+  },
+  {
+    "id": "g9_equation_transform",
+    "title": "Bài 4. Phương trình quy về phương trình bậc nhất một ẩn",
+    "skill": "g9_equation_transform",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Biến đổi phương trình chứa ngoặc, mẫu hoặc tích về phương trình bậc nhất."
+      },
+      {
+        "type": "visualization",
+        "title": "Giữ cân bằng hai vế",
+        "content": "Biến đổi tương đương giúp phương trình hoặc bài toán giữ cùng nghiệm.",
+        "visualization": "equationBalance"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2x+4=10 nên 2x=6 và x=3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn nghiệm phù hợp điều kiện thực tế."
+      }
+    ]
+  },
+  {
+    "id": "g9_inequality_properties",
+    "title": "Bài 5. Bất đẳng thức và tính chất",
+    "skill": "g9_inequality_properties",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng tính chất cộng, nhân hai vế của bất đẳng thức."
+      },
+      {
+        "type": "visualization",
+        "title": "Chiều của bất đẳng thức",
+        "content": "Nhân hoặc chia hai vế với số âm thì đổi chiều bất đẳng thức.",
+        "visualization": "inequality"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-2x<6 nên x>-3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đổi chiều là lỗi dễ gặp nhất khi chia cho số âm."
+      }
+    ]
+  },
+  {
+    "id": "g9_linear_inequality",
+    "title": "Bài 6. Bất phương trình bậc nhất một ẩn",
+    "skill": "g9_linear_inequality",
+    "chapter": "Phương trình và bất phương trình bậc nhất một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Giải bất phương trình bậc nhất một ẩn và biểu diễn nghiệm."
+      },
+      {
+        "type": "visualization",
+        "title": "Chiều của bất đẳng thức",
+        "content": "Nhân hoặc chia hai vế với số âm thì đổi chiều bất đẳng thức.",
+        "visualization": "inequality"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "-2x<6 nên x>-3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Đổi chiều là lỗi dễ gặp nhất khi chia cho số âm."
+      }
+    ]
+  },
+  {
+    "id": "g9_square_root_expr",
+    "title": "Bài 7. Căn bậc hai và căn thức bậc hai",
+    "skill": "g9_square_root_expr",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết căn bậc hai, căn thức bậc hai và điều kiện xác định."
+      },
+      {
+        "type": "visualization",
+        "title": "Căn và điều kiện",
+        "content": "Căn bậc hai cần biểu thức dưới căn không âm; căn bậc ba xác định với mọi số thực.",
+        "visualization": "radical"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sqrt(49)=7, căn bậc ba của -8 là -2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tìm điều kiện xác định trước khi biến đổi căn."
+      }
+    ]
+  },
+  {
+    "id": "g9_sqrt_product_quotient",
+    "title": "Bài 8. Khai căn bậc hai với phép nhân và phép chia",
+    "skill": "g9_sqrt_product_quotient",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng quy tắc khai căn của tích và thương."
+      },
+      {
+        "type": "visualization",
+        "title": "Căn và điều kiện",
+        "content": "Căn bậc hai cần biểu thức dưới căn không âm; căn bậc ba xác định với mọi số thực.",
+        "visualization": "radical"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sqrt(49)=7, căn bậc ba của -8 là -2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tìm điều kiện xác định trước khi biến đổi căn."
+      }
+    ]
+  },
+  {
+    "id": "g9_sqrt_simplify",
+    "title": "Bài 9. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+    "skill": "g9_sqrt_simplify",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đưa thừa số ra ngoài dấu căn, khử mẫu và rút gọn biểu thức chứa căn."
+      },
+      {
+        "type": "visualization",
+        "title": "Căn và điều kiện",
+        "content": "Căn bậc hai cần biểu thức dưới căn không âm; căn bậc ba xác định với mọi số thực.",
+        "visualization": "radical"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sqrt(49)=7, căn bậc ba của -8 là -2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tìm điều kiện xác định trước khi biến đổi căn."
+      }
+    ]
+  },
+  {
+    "id": "g9_cube_root_expr",
+    "title": "Bài 10. Căn bậc ba và căn thức bậc ba",
+    "skill": "g9_cube_root_expr",
+    "chapter": "Căn bậc hai và căn bậc ba",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết căn bậc ba, căn thức bậc ba và tính giá trị căn bậc ba."
+      },
+      {
+        "type": "visualization",
+        "title": "Căn và điều kiện",
+        "content": "Căn bậc hai cần biểu thức dưới căn không âm; căn bậc ba xác định với mọi số thực.",
+        "visualization": "radical"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sqrt(49)=7, căn bậc ba của -8 là -2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tìm điều kiện xác định trước khi biến đổi căn."
+      }
+    ]
+  },
+  {
+    "id": "g9_trig_ratios",
+    "title": "Bài 11. Tỉ số lượng giác của góc nhọn",
+    "skill": "g9_trig_ratios",
+    "chapter": "Hệ thức lượng trong tam giác vuông",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu sin, cos, tan, cot của góc nhọn trong tam giác vuông."
+      },
+      {
+        "type": "visualization",
+        "title": "Tam giác vuông và tỉ số",
+        "content": "Tỉ số lượng giác liên hệ góc nhọn với cạnh đối, cạnh kề và cạnh huyền.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sin A = đối/huyền trong tam giác vuông."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định đúng góc đang xét trước khi chọn cạnh."
+      }
+    ]
+  },
+  {
+    "id": "g9_right_triangle_relations",
+    "title": "Bài 12. Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng",
+    "skill": "g9_right_triangle_relations",
+    "chapter": "Hệ thức lượng trong tam giác vuông",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính cạnh, góc trong tam giác vuông bằng tỉ số lượng giác."
+      },
+      {
+        "type": "visualization",
+        "title": "Tam giác vuông và tỉ số",
+        "content": "Tỉ số lượng giác liên hệ góc nhọn với cạnh đối, cạnh kề và cạnh huyền.",
+        "visualization": "triangle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "sin A = đối/huyền trong tam giác vuông."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Xác định đúng góc đang xét trước khi chọn cạnh."
+      }
+    ]
+  },
+  {
+    "id": "g9_circle_intro",
+    "title": "Bài 13. Mở đầu về đường tròn",
+    "skill": "g9_circle_intro",
+    "chapter": "Đường tròn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tâm, bán kính, đường kính, dây và quan hệ điểm với đường tròn."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_arc_chord",
+    "title": "Bài 14. Cung và dây của một đường tròn",
+    "skill": "g9_arc_chord",
+    "chapter": "Đường tròn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hiểu quan hệ giữa cung, dây và khoảng cách từ tâm đến dây."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_arc_sector_area",
+    "title": "Bài 15. Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên",
+    "skill": "g9_arc_sector_area",
+    "chapter": "Đường tròn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính độ dài cung, diện tích quạt tròn và vành khuyên."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_line_circle_position",
+    "title": "Bài 16. Vị trí tương đối của đường thẳng và đường tròn",
+    "skill": "g9_line_circle_position",
+    "chapter": "Đường tròn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt cát tuyến, tiếp tuyến và đường thẳng không cắt đường tròn."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_two_circles_position",
+    "title": "Bài 17. Vị trí tương đối của hai đường tròn",
+    "skill": "g9_two_circles_position",
+    "chapter": "Đường tròn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 90,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hai đường tròn cắt nhau, tiếp xúc hoặc không giao nhau qua khoảng cách tâm."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_quadratic_function",
+    "title": "Bài 18. Hàm số y = ax^2 (a khác 0)",
+    "skill": "g9_quadratic_function",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết đồ thị parabol và tính giá trị hàm số y=ax^2."
+      },
+      {
+        "type": "visualization",
+        "title": "Parabol và nghiệm",
+        "content": "Hàm y=ax^2 tạo đồ thị parabol; phương trình bậc hai có thể có 0, 1 hoặc 2 nghiệm.",
+        "visualization": "parabola"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x^2-5x+6=0 có nghiệm 2 và 3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Biệt thức Delta giúp xét số nghiệm."
+      }
+    ]
+  },
+  {
+    "id": "g9_quadratic_equation",
+    "title": "Bài 19. Phương trình bậc hai một ẩn",
+    "skill": "g9_quadratic_equation",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Giải phương trình bậc hai bằng phân tích, căn bậc hai hoặc công thức nghiệm."
+      },
+      {
+        "type": "visualization",
+        "title": "Parabol và nghiệm",
+        "content": "Hàm y=ax^2 tạo đồ thị parabol; phương trình bậc hai có thể có 0, 1 hoặc 2 nghiệm.",
+        "visualization": "parabola"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x^2-5x+6=0 có nghiệm 2 và 3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Biệt thức Delta giúp xét số nghiệm."
+      }
+    ]
+  },
+  {
+    "id": "g9_viete",
+    "title": "Bài 20. Định lí Vi-ét và ứng dụng",
+    "skill": "g9_viete",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vận dụng hệ thức Vi-ét để tính tổng, tích nghiệm và nhẩm nghiệm."
+      },
+      {
+        "type": "visualization",
+        "title": "Hệ thức nghiệm",
+        "content": "Với ax^2+bx+c=0, tổng nghiệm bằng -b/a và tích nghiệm bằng c/a nếu có nghiệm.",
+        "visualization": "algebra"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "x^2-5x+6=0 có tổng nghiệm 5, tích 6."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vi-ét chỉ áp dụng khi phương trình có nghiệm."
+      }
+    ]
+  },
+  {
+    "id": "g9_word_quadratic",
+    "title": "Bài 21. Giải bài toán bằng cách lập phương trình",
+    "skill": "g9_word_quadratic",
+    "chapter": "Hàm số y = ax^2. Phương trình bậc hai một ẩn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Lập phương trình bậc hai từ bài toán thực tế và chọn nghiệm phù hợp."
+      },
+      {
+        "type": "visualization",
+        "title": "Giữ cân bằng hai vế",
+        "content": "Biến đổi tương đương giúp phương trình hoặc bài toán giữ cùng nghiệm.",
+        "visualization": "equationBalance"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "2x+4=10 nên 2x=6 và x=3."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn nghiệm phù hợp điều kiện thực tế."
+      }
+    ]
+  },
+  {
+    "id": "g9_frequency_table",
+    "title": "Bài 22. Bảng tần số và biểu đồ tần số",
+    "skill": "g9_frequency_table",
+    "chapter": "Tần số và tần số tương đối",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Lập bảng tần số và đọc biểu đồ tần số."
+      },
+      {
+        "type": "visualization",
+        "title": "Đếm và so sánh tần suất",
+        "content": "Tần số là số lần xuất hiện; tần số tương đối là tỉ lệ so với tổng số quan sát.",
+        "visualization": "frequency"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "4 lần trên 20 quan sát có tần số tương đối 20%."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn chia cho tổng số dữ liệu."
+      }
+    ]
+  },
+  {
+    "id": "g9_relative_frequency",
+    "title": "Bài 23. Bảng tần số tương đối và biểu đồ tần số tương đối",
+    "skill": "g9_relative_frequency",
+    "chapter": "Tần số và tần số tương đối",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính tần số tương đối và biểu diễn dưới dạng phần trăm."
+      },
+      {
+        "type": "visualization",
+        "title": "Đếm và so sánh tần suất",
+        "content": "Tần số là số lần xuất hiện; tần số tương đối là tỉ lệ so với tổng số quan sát.",
+        "visualization": "frequency"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "4 lần trên 20 quan sát có tần số tương đối 20%."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn chia cho tổng số dữ liệu."
+      }
+    ]
+  },
+  {
+    "id": "g9_grouped_frequency",
+    "title": "Bài 24. Bảng tần số, tần số tương đối ghép nhóm và biểu đồ",
+    "skill": "g9_grouped_frequency",
+    "chapter": "Tần số và tần số tương đối",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ghép nhóm dữ liệu, lập bảng tần số và đọc biểu đồ ghép nhóm."
+      },
+      {
+        "type": "visualization",
+        "title": "Đếm và so sánh tần suất",
+        "content": "Tần số là số lần xuất hiện; tần số tương đối là tỉ lệ so với tổng số quan sát.",
+        "visualization": "frequency"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "4 lần trên 20 quan sát có tần số tương đối 20%."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Luôn chia cho tổng số dữ liệu."
+      }
+    ]
+  },
+  {
+    "id": "g9_sample_space",
+    "title": "Bài 25. Phép thử ngẫu nhiên và không gian mẫu",
+    "skill": "g9_sample_space",
+    "chapter": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Liệt kê không gian mẫu và xác định biến cố."
+      },
+      {
+        "type": "visualization",
+        "title": "Không gian mẫu",
+        "content": "Xác suất bằng số kết quả thuận lợi chia số kết quả có thể khi đồng khả năng.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Gieo xúc xắc ra số nguyên tố: 3/6 = 1/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Liệt kê đủ kết quả có thể trước khi tính."
+      }
+    ]
+  },
+  {
+    "id": "g9_probability_models",
+    "title": "Bài 26. Xác suất của biến cố liên quan đến phép thử",
+    "skill": "g9_probability_models",
+    "chapter": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính xác suất trong mô hình đồng khả năng đơn giản."
+      },
+      {
+        "type": "visualization",
+        "title": "Không gian mẫu",
+        "content": "Xác suất bằng số kết quả thuận lợi chia số kết quả có thể khi đồng khả năng.",
+        "visualization": "probability"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Gieo xúc xắc ra số nguyên tố: 3/6 = 1/2."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Liệt kê đủ kết quả có thể trước khi tính."
+      }
+    ]
+  },
+  {
+    "id": "g9_inscribed_angle",
+    "title": "Bài 27. Góc nội tiếp",
+    "skill": "g9_inscribed_angle",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết góc nội tiếp và quan hệ với cung bị chắn."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_circum_incircle_triangle",
+    "title": "Bài 28. Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác",
+    "skill": "g9_circum_incircle_triangle",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Xác định tâm ngoại tiếp, tâm nội tiếp và bán kính liên quan."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_cyclic_quadrilateral",
+    "title": "Bài 29. Tứ giác nội tiếp",
+    "skill": "g9_cyclic_quadrilateral",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tứ giác nội tiếp và tính chất hai góc đối bù nhau."
+      },
+      {
+        "type": "visualization",
+        "title": "Tâm, bán kính và cung",
+        "content": "Đường tròn tập hợp các điểm cách tâm một khoảng bằng bán kính.",
+        "visualization": "circle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Nếu d từ tâm đến đường thẳng bằng R thì đường thẳng là tiếp tuyến."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh khoảng cách tâm với bán kính để nhận biết vị trí."
+      }
+    ]
+  },
+  {
+    "id": "g9_regular_polygon",
+    "title": "Bài 30. Đa giác đều",
+    "skill": "g9_regular_polygon",
+    "chapter": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết đa giác đều, góc ở tâm và liên hệ với đường tròn."
+      },
+      {
+        "type": "visualization",
+        "title": "Đều quanh tâm",
+        "content": "Đa giác đều có các cạnh bằng nhau, các góc bằng nhau và gắn với đường tròn ngoại tiếp.",
+        "visualization": "geometry"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Lục giác đều có góc ở tâm 60 độ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Góc ở tâm bằng 360 độ chia số cạnh."
+      }
+    ]
+  },
+  {
+    "id": "g9_cylinder_cone",
+    "title": "Bài 31. Hình trụ và hình nón",
+    "skill": "g9_cylinder_cone",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết và tính diện tích, thể tích hình trụ, hình nón."
+      },
+      {
+        "type": "visualization",
+        "title": "Từ mặt phẳng đến thể tích",
+        "content": "Hình trụ, nón, cầu dùng bán kính, chiều cao hoặc đường sinh để tính diện tích và thể tích.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Thể tích trụ V=pi r^2 h."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chú ý hệ số 1/3 của hình nón và 4/3 của hình cầu."
+      }
+    ]
+  },
+  {
+    "id": "g9_sphere",
+    "title": "Bài 32. Hình cầu",
+    "skill": "g9_sphere",
+    "chapter": "Một số hình khối trong thực tiễn",
+    "source": "Bám mạch SGK Toán 9 - Kết nối tri thức với cuộc sống, nội dung và câu hỏi tự biên soạn.",
+    "xp": 100,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết hình cầu, mặt cầu và tính diện tích, thể tích hình cầu."
+      },
+      {
+        "type": "visualization",
+        "title": "Từ mặt phẳng đến thể tích",
+        "content": "Hình trụ, nón, cầu dùng bán kính, chiều cao hoặc đường sinh để tính diện tích và thể tích.",
+        "visualization": "solid"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ tự tạo",
+        "content": "Thể tích trụ V=pi r^2 h."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chú ý hệ số 1/3 của hình nón và 4/3 của hình cầu."
+      }
+    ]
+  }
+]
