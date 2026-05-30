@@ -1,10 +1,13 @@
-import { getState, resetProgress, setSelectedGrade, completeOnboarding, restartOnboarding } from "./state.js";
+import { getState, resetProgress, setSelectedGrade, completeOnboarding, restartOnboarding, updateState } from "./state.js";
 import { setRoute, escapeHtml } from "./utils.js";
 import { renderNavbar, renderBottomNav } from "../../components/navbar.js";
 import { renderLessonCard } from "../../components/lessonCard.js";
 import { renderQuizCard } from "../../components/quizCard.js";
+import { renderFlashcardPanel } from "../../components/flashcardPanel.js";
+import { renderMemoryPanel } from "../../components/memoryPanel.js";
 import { showModal } from "../../components/modal.js";
-import { renderVisualization } from "../../modules/visualization.js";
+import { renderVisualization, bindVisualizations } from "../../modules/visualization.js";
+import { createPracticeModule } from "../../modules/practiceModes.js";
 import { completeLesson } from "../../modules/lessonEngine.js";
 import { submitAnswer } from "../../modules/quizEngine.js";
 import { getGamificationSummary } from "../../modules/gamification.js";
@@ -17,15 +20,39 @@ let data = {
   errors: []
 };
 
+let practice;
+
 export function configureRouter(appData) {
   data = appData;
+  practice = createPracticeModule({
+    data,
+    getState,
+    updateState,
+    renderRoute,
+    setRoute,
+    escapeHtml,
+    showModal,
+    renderVisualization,
+    bindVisualizations,
+    renderQuizCard,
+    renderFlashcardPanel,
+    renderMemoryPanel,
+    labelSkill,
+    notFound,
+    handleAnswer
+  });
   window.addEventListener("hashchange", renderRoute);
 }
 
 export function renderRoute() {
   const state = getState();
   const hash = window.location.hash || "#/home";
-  const [route, id] = hash.replace("#/", "").split("/");
+  const parts = hash.replace("#/", "").split("/").filter(Boolean);
+  const route = parts[0] || "home";
+  const id = parts[1];
+  const sub = parts[2];
+
+  practice?.resetOnLeavePractice(route);
 
   if (!state.onboarded) {
     render(renderOnboarding(state));
@@ -48,8 +75,16 @@ export function renderRoute() {
     content = renderLesson(id, state);
     after = () => bindLesson(id);
   } else if (route === "practice") {
-    content = renderPractice(id, state);
-    after = () => bindPractice(id);
+    if (sub === "flashcards") {
+      content = practice.renderPracticeFlashcards(id, state);
+      after = () => practice.bindPracticeFlashcards();
+    } else if (sub === "memory") {
+      content = practice.renderPracticeMemory(id, state);
+      after = () => practice.bindPracticeMemory(id);
+    } else {
+      content = practice.renderPracticeQuiz(id, state);
+      after = () => practice.bindPracticeQuiz(id);
+    }
   } else if (route === "skills") {
     content = renderSkills(state);
     after = bindSkills;
@@ -95,7 +130,7 @@ function renderOnboarding(state) {
         <span class="brand-mark">M</span>
         <span class="eyebrow">Chào mừng đến MathFlow VN</span>
         <h1>Bạn đang học lớp mấy?</h1>
-        <p>Chọn lớp để mình mở đúng lộ trình Toán THCS cho bạn. Bạn có thể đổi lớp bất cứ lúc nào trên thanh điều hướng.</p>
+        <p>Chọn lớp để mở đúng lộ trình Toán THCS. Bạn có thể đổi lớp bất cứ lúc nào trên thanh điều hướng.</p>
         <div class="grade-pick-grid">
           ${cards}
         </div>
@@ -133,8 +168,8 @@ function renderHome(state) {
     <section class="hero-panel">
       <div>
         <span class="eyebrow">Lộ trình hôm nay · Lớp ${activeGrade}</span>
-        <h1>Học toán mỗi ngày, hiểu rõ từng lỗi sai.</h1>
-        <p>Hoàn thành một bài ngắn, luyện vài câu và xem ngay vì sao đáp án chưa đúng.</p>
+        <h1>Học Hóa mỗi ngày, hiểu rõ từng lỗi sai.</h1>
+        <p>Hoàn thành một bài ngắn, luyện vài câu và xem ngay vì sao phương trình hoặc mô hình chưa đúng.</p>
         <div class="hero-actions">
           <a class="btn primary" href="#/lesson/${nextSkill.id}">Tiếp tục học</a>
           <a class="btn secondary" href="#/practice/${nextSkill.id}">Luyện nhanh</a>
@@ -218,7 +253,7 @@ function renderSkills(state) {
   return `
     <section class="page-title">
       <span class="eyebrow">Skill Tree</span>
-      <h1>Cây kỹ năng Toán THCS</h1>
+      <h1>Cây kỹ năng Hóa THCS</h1>
       <p>Chọn lớp để bắt đầu. Mỗi nút là một vi kỹ năng; hoàn thành bài trước để mở khóa bài tiếp theo.</p>
     </section>
     <div class="grade-tabs" role="group" aria-label="Chọn lớp">
@@ -279,6 +314,7 @@ function renderLesson(id, state) {
 }
 
 function bindLesson(id) {
+  bindVisualizations();
   const lesson = data.lessons.find((item) => item.id === id);
   const button = document.querySelector("#completeLesson");
   if (!lesson || !button) return;
@@ -293,46 +329,6 @@ function bindLesson(id) {
   });
 }
 
-function renderPractice(id, state) {
-  const skillQuestions = data.questions.filter((question) => question.skill === id);
-  if (!skillQuestions.length) return notFound("Chưa có câu hỏi cho kỹ năng này.");
-  const answeredIds = new Set(state.answers.filter((answer) => answer.skill === id).map((answer) => answer.questionId));
-  const question = skillQuestions.find((item) => !answeredIds.has(item.id)) || skillQuestions[state.answers.length % skillQuestions.length];
-
-  return `
-    <section class="practice-layout">
-      <div class="practice-header">
-        <a class="back-link" href="#/skills">← Kỹ năng</a>
-        <span class="tag">${labelSkill(id)}</span>
-      </div>
-      ${renderVisualization({ visualization: data.skills.find((skill) => skill.id === id)?.visualization })}
-      ${renderQuizCard(question)}
-    </section>
-  `;
-}
-
-function bindPractice(id) {
-  const question = data.questions.find((item) => item.id === document.querySelector(".quiz-card")?.dataset.questionId);
-  if (!question) return;
-
-  document.querySelectorAll(".choice-btn").forEach((button) => {
-    button.addEventListener("click", () => handleAnswer(button.dataset.answer, question, id));
-  });
-
-  const form = document.querySelector(".answer-form");
-  if (form) {
-    form.addEventListener("submit", (event) => {
-      event.preventDefault();
-      handleAnswer(new FormData(form).get("answer"), question, id);
-    });
-  }
-
-  const hint = document.querySelector(".hint-btn");
-  if (hint) {
-    hint.addEventListener("click", () => showModal({ title: "Gợi ý", body: hint.dataset.hint }));
-  }
-}
-
 function handleAnswer(answer, question, skillId) {
   const result = submitAnswer(answer, question, data.errors);
   const panel = document.querySelector(".feedback-panel");
@@ -341,18 +337,11 @@ function handleAnswer(answer, question, skillId) {
   card.classList.add(result.correct ? "is-correct" : "is-wrong");
 
   if (result.correct) {
+    const completed = practice.onPracticeAnswerCorrect(skillId);
     panel.innerHTML = `
       <strong>Chính xác! +${result.xp} XP</strong>
-      <p>Bạn đang làm rất ổn. Câu tiếp theo sẽ xuất hiện sau một nhịp.</p>
+      <p>${completed ? "Bạn đã trả lời đúng tất cả câu hỏi của bài này." : "Câu tiếp theo sẽ xuất hiện sau một nhịp."}</p>
     `;
-    setTimeout(() => {
-      const nextRoute = `#/practice/${skillId}`;
-      if (window.location.hash === nextRoute) {
-        renderRoute();
-      } else {
-        setRoute(nextRoute);
-      }
-    }, 900);
     return;
   }
 
@@ -370,7 +359,7 @@ function renderErrors(state) {
     <section class="page-title">
       <span class="eyebrow">Error Review</span>
       <h1>Sổ tay lỗi sai</h1>
-      <p>Ứng dụng lưu lỗi gần đây để gợi ý bài cần ôn.</p>
+      <p>Ứng dụng lưu lỗi gần đây để gợi ý bài cần ôn — đặc biệt khi nhầm công thức hoặc phép tính.</p>
     </section>
     <div class="review-grid">
       <article class="review-summary">
