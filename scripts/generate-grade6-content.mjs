@@ -1,4 +1,5 @@
 import { writeFile } from "node:fs/promises";
+import { makeKeypointsStep } from "./lesson-keypoints.mjs";
 
 const lessons = [
   ["nat_set", "Bài 1. Tập hợp", "Tập hợp các số tự nhiên", "Nhận biết tập hợp, phần tử và cách mô tả bằng liệt kê hoặc tính chất.", "set"],
@@ -92,6 +93,7 @@ function lessonSteps(item) {
       title: "Ví dụ tự tạo",
       content: core.example
     },
+    makeKeypointsStep(core.visualContent, core.example, core.summary),
     {
       type: "summary",
       title: "Ghi nhớ nhanh",

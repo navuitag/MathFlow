@@ -535,6 +535,29 @@
   width: 42px;
 }
 
+.lesson-step-keypoints {
+  background: linear-gradient(160deg, #f4fbf8, #eef8ff);
+  border: 1px solid #c8e8d8;
+  border-radius: 14px;
+}
+
+.keypoints-list {
+  display: grid;
+  gap: 10px;
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 0;
+}
+
+.keypoints-list li {
+  background: rgba(255, 255, 255, 0.88);
+  border-left: 4px solid var(--green);
+  border-radius: 10px;
+  font-weight: 600;
+  line-height: 1.55;
+  padding: 12px 14px;
+}
+
 .completion-panel {
   align-items: center;
   display: flex;

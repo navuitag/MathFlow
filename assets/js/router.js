@@ -325,6 +325,15 @@ function bindSkills() {
   });
 }
 
+function renderKeypoints(step) {
+  if (!step.points?.length) return "";
+  return `
+    <ul class="keypoints-list">
+      ${step.points.map((point) => `<li class="math-content">${formatMathHtml(point)}</li>`).join("")}
+    </ul>
+  `;
+}
+
 function renderLesson(id, state) {
   const lesson = data.lessons.find((item) => item.id === id);
   if (!lesson) return notFound("Không tìm thấy bài học.");
@@ -340,12 +349,13 @@ function renderLesson(id, state) {
       </aside>
       <div class="lesson-steps">
         ${lesson.steps.map((step, index) => `
-          <article class="lesson-step">
+          <article class="lesson-step${step.type === "keypoints" ? " lesson-step-keypoints" : ""}">
             <span class="step-count">${index + 1}</span>
             <div>
               <h2>${step.title}</h2>
-              <p class="math-content">${formatMathHtml(step.content)}</p>
+              ${step.content ? `<p class="math-content">${formatMathHtml(step.content)}</p>` : ""}
               ${step.type === "visualization" ? renderVisualization(step) : ""}
+              ${step.type === "keypoints" ? renderKeypoints(step) : ""}
             </div>
           </article>
         `).join("")}

@@ -50,6 +50,18 @@ export function buildFlashcardDeck(skillId, lesson, questions, skill) {
       });
     }
 
+    const keypoints = lesson.steps.find((step) => step.type === "keypoints");
+    if (keypoints?.points?.length) {
+      keypoints.points.forEach((point, index) => {
+        cards.push({
+          id: `${skillId}-keypoint-${index}`,
+          front: `${keypoints.title} (${index + 1}/${keypoints.points.length})`,
+          back: point,
+          tag: "Trọng tâm"
+        });
+      });
+    }
+
     const summary = lesson.steps.find((step) => step.type === "summary");
     if (summary) {
       cards.push({
@@ -87,6 +99,17 @@ export function buildMemoryPairs(skillId, lesson, questions) {
       b: { label: "Đáp án", text: truncate(question.answer, 90) }
     });
   });
+
+  if (lesson && pairs.length < 6) {
+    const keypoints = lesson.steps.find((step) => step.type === "keypoints");
+    keypoints?.points?.slice(0, 6 - pairs.length).forEach((point, index) => {
+      pairs.push({
+        id: `pair-keypoint-${index}`,
+        a: { label: "Trọng tâm", text: truncate(keypoints.title, 90) },
+        b: { label: "Cần nhớ", text: truncate(point, 90) }
+      });
+    });
+  }
 
   if (lesson && pairs.length < 6) {
     const summary = lesson.steps.find((step) => step.type === "summary");

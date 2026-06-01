@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { makeKeypointsStepFromCore } from "./lesson-keypoints.mjs";
 
 const files = {
   skills: "data/skills.json",
@@ -171,6 +172,7 @@ function lessonSteps([id, title, chapter, description, visualization]) {
       denominator: 3
     },
     { type: "example", title: "Ví dụ tự tạo", content: example },
+    makeKeypointsStepFromCore(core[id]),
     { type: "summary", title: "Ghi nhớ nhanh", content: summary }
   ];
 }
