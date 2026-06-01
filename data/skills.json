@@ -2342,5 +2342,5515 @@
     ],
     "description": "Nhận biết hình cầu, mặt cầu và tính diện tích, thể tích hình cầu.",
     "visualization": "solid"
+  },
+  {
+    "id": "g5_nat_review",
+    "title": "Bài 1. Ôn tập số tự nhiên",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Ôn tập đọc, viết, so sánh và sắp xếp số tự nhiên.",
+    "visualization": "place"
+  },
+  {
+    "id": "g5_nat_ops",
+    "title": "Bài 2. Ôn tập các phép tính với số tự nhiên",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_nat_review"
+    ],
+    "description": "Thực hiện cộng, trừ, nhân, chia số tự nhiên và giải bài toán nhiều bước.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_frac_review",
+    "title": "Bài 3. Ôn tập phân số",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_nat_ops"
+    ],
+    "description": "Rút gọn, so sánh và thực hiện phép tính cơ bản với phân số.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g5_frac_decimal",
+    "title": "Bài 4. Phân số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_frac_review"
+    ],
+    "description": "Nhận biết phân số thập phân và chuyển đổi sang hỗn số hoặc số thập phân.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g5_frac_ops",
+    "title": "Bài 5. Ôn tập các phép tính với phân số",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_frac_decimal"
+    ],
+    "description": "Cộng, trừ, nhân, chia phân số trong các tình huống thực tế.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g5_frac_add_sub_diff",
+    "title": "Bài 6. Cộng, trừ hai phân số khác mẫu số",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_frac_ops"
+    ],
+    "description": "Cộng, trừ hai phân số khác mẫu số bằng cách quy đồng.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g5_mixed_number",
+    "title": "Bài 7. Hỗn số",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_frac_add_sub_diff"
+    ],
+    "description": "Đọc, viết, chuyển đổi hỗn số và phân số.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_geo_measure_review",
+    "title": "Bài 8. Ôn tập hình học và đo lường",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_mixed_number"
+    ],
+    "description": "Ôn tập nhận biết hình phẳng và đo lường cơ bản.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_practice_ch1",
+    "title": "Bài 9. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 9,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g5_geo_measure_review"
+    ],
+    "description": "Củng cố kiến thức số tự nhiên, phân số và hình học cơ bản.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_decimal_intro",
+    "title": "Bài 10. Khái niệm số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Số thập phân",
+    "chapterIndex": 2,
+    "lessonNo": 10,
+    "domain": "Số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_practice_ch1"
+    ],
+    "description": "Hiểu khái niệm số thập phân, phần nguyên và phần thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_decimal_compare",
+    "title": "Bài 11. So sánh các số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Số thập phân",
+    "chapterIndex": 2,
+    "lessonNo": 11,
+    "domain": "Số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_intro"
+    ],
+    "description": "So sánh, sắp xếp các số thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_decimal_measure",
+    "title": "Bài 12. Viết số đo đại lượng dưới dạng số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Số thập phân",
+    "chapterIndex": 2,
+    "lessonNo": 12,
+    "domain": "Số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_compare"
+    ],
+    "description": "Viết số đo đại lượng bằng số thập phân phù hợp.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_decimal_round",
+    "title": "Bài 13. Làm tròn số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Số thập phân",
+    "chapterIndex": 2,
+    "lessonNo": 13,
+    "domain": "Số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_measure"
+    ],
+    "description": "Làm tròn số thập phân đến hàng cho trước.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_practice_ch2",
+    "title": "Bài 14. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Số thập phân",
+    "chapterIndex": 2,
+    "lessonNo": 14,
+    "domain": "Số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_round"
+    ],
+    "description": "Củng cố kiến thức số thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_area_km_ha",
+    "title": "Bài 15. Ki-lô-mét vuông. Héc-ta",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo diện tích",
+    "chapterIndex": 3,
+    "lessonNo": 15,
+    "domain": "Một số đơn vị đo diện tích",
+    "level": 1,
+    "prerequisite": [
+      "g5_practice_ch2"
+    ],
+    "description": "Nhận biết km², ha và quan hệ với m².",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_area_units",
+    "title": "Bài 16. Các đơn vị đo diện tích",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo diện tích",
+    "chapterIndex": 3,
+    "lessonNo": 16,
+    "domain": "Một số đơn vị đo diện tích",
+    "level": 1,
+    "prerequisite": [
+      "g5_area_km_ha"
+    ],
+    "description": "Quy đổi giữa các đơn vị đo diện tích.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_area_practice_exp",
+    "title": "Bài 17. Thực hành và trải nghiệm với một số đơn vị đo đại lượng",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo diện tích",
+    "chapterIndex": 3,
+    "lessonNo": 17,
+    "domain": "Một số đơn vị đo diện tích",
+    "level": 1,
+    "prerequisite": [
+      "g5_area_units"
+    ],
+    "description": "Thực hành đo và quy đổi đơn vị diện tích.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_practice_ch3",
+    "title": "Bài 18. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo diện tích",
+    "chapterIndex": 3,
+    "lessonNo": 18,
+    "domain": "Một số đơn vị đo diện tích",
+    "level": 1,
+    "prerequisite": [
+      "g5_area_practice_exp"
+    ],
+    "description": "Củng cố đơn vị đo diện tích.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_decimal_add",
+    "title": "Bài 19. Phép cộng số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 19,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_practice_ch3"
+    ],
+    "description": "Cộng hai số thập phân bằng cách đặt tính thẳng hàng.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_decimal_sub",
+    "title": "Bài 20. Phép trừ số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 20,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_add"
+    ],
+    "description": "Trừ hai số thập phân và kiểm tra kết quả.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_decimal_mul",
+    "title": "Bài 21. Phép nhân số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 21,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_sub"
+    ],
+    "description": "Nhân số thập phân với số tự nhiên hoặc số thập phân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_decimal_div",
+    "title": "Bài 22. Phép chia số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 22,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_mul"
+    ],
+    "description": "Chia số thập phân cho số tự nhiên hoặc số thập phân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_decimal_scale",
+    "title": "Bài 23. Nhân, chia số thập phân với 10; 100; 1 000;... hoặc với 0,1; 0,01; 0,001;...",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 23,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_div"
+    ],
+    "description": "Nhân, chia số thập phân với 10, 100, 0,1, 0,01...",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_practice_ch4",
+    "title": "Bài 24. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Các phép tính với số thập phân",
+    "chapterIndex": 4,
+    "lessonNo": 24,
+    "domain": "Các phép tính với số thập phân",
+    "level": 1,
+    "prerequisite": [
+      "g5_decimal_scale"
+    ],
+    "description": "Củng cố các phép tính với số thập phân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_triangle",
+    "title": "Bài 25. Hình tam giác. Diện tích hình tam giác",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng, chu vi và diện tích",
+    "chapterIndex": 5,
+    "lessonNo": 25,
+    "domain": "Một số hình phẳng, chu vi và diện tích",
+    "level": 1,
+    "prerequisite": [
+      "g5_practice_ch4"
+    ],
+    "description": "Nhận biết tam giác và tính diện tích tam giác.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g5_trapezoid",
+    "title": "Bài 26. Hình thang. Diện tích hình thang",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng, chu vi và diện tích",
+    "chapterIndex": 5,
+    "lessonNo": 26,
+    "domain": "Một số hình phẳng, chu vi và diện tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_triangle"
+    ],
+    "description": "Nhận biết hình thang và tính diện tích hình thang.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_circle",
+    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng, chu vi và diện tích",
+    "chapterIndex": 5,
+    "lessonNo": 27,
+    "domain": "Một số hình phẳng, chu vi và diện tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_trapezoid"
+    ],
+    "description": "Nhận biết đường tròn, tính chu vi và diện tích.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g5_geo_practice_exp",
+    "title": "Bài 28. Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng, chu vi và diện tích",
+    "chapterIndex": 5,
+    "lessonNo": 28,
+    "domain": "Một số hình phẳng, chu vi và diện tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_circle"
+    ],
+    "description": "Thực hành đo, vẽ và lắp ghép hình phẳng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_practice_ch5",
+    "title": "Bài 29. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Một số hình phẳng, chu vi và diện tích",
+    "chapterIndex": 5,
+    "lessonNo": 29,
+    "domain": "Một số hình phẳng, chu vi và diện tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_geo_practice_exp"
+    ],
+    "description": "Củng cố diện tích tam giác, thang và hình tròn.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g5_review_decimal",
+    "title": "Bài 30. Ôn tập số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 30,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_practice_ch5"
+    ],
+    "description": "Ôn tập đọc, viết, so sánh số thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_review_decimal_ops",
+    "title": "Bài 31. Ôn tập các phép tính với số thập phân",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 31,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_decimal"
+    ],
+    "description": "Ôn tập cộng, trừ, nhân, chia số thập phân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_review_shapes",
+    "title": "Bài 32. Ôn tập một số hình phẳng",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 32,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_decimal_ops"
+    ],
+    "description": "Ôn tập tam giác, thang, đường tròn.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_review_area_perim",
+    "title": "Bài 33. Ôn tập diện tích, chu vi một số hình phẳng",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 33,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_shapes"
+    ],
+    "description": "Ôn tập công thức chu vi và diện tích.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g5_review_measure",
+    "title": "Bài 34. Ôn tập đo lường",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 34,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_area_perim"
+    ],
+    "description": "Ôn tập quy đổi đơn vị đo.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_review_hk1",
+    "title": "Bài 35. Ôn tập chung",
+    "grade": 5,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 6,
+    "lessonNo": 35,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_measure"
+    ],
+    "description": "Ôn tập tổng hợp học kì 1.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_ratio_percent",
+    "title": "Bài 36. Tỉ số. Tỉ số phần trăm",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 36,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_review_hk1"
+    ],
+    "description": "Nhận biết tỉ số và tỉ số phần trăm.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_map_scale",
+    "title": "Bài 37. Tỉ lệ bản đồ và ứng dụng",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 37,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_ratio_percent"
+    ],
+    "description": "Hiểu tỉ lệ bản đồ và tính độ dài thực tế.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_sum_ratio",
+    "title": "Bài 38. Tìm hai số khi biết tổng và tỉ số của hai số đó",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 38,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_map_scale"
+    ],
+    "description": "Tìm hai số khi biết tổng và tỉ số.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_diff_ratio",
+    "title": "Bài 39. Tìm hai số khi biết hiệu và tỉ số của hai số đó",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 39,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_sum_ratio"
+    ],
+    "description": "Tìm hai số khi biết hiệu và tỉ số.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_find_percent",
+    "title": "Bài 40. Tìm tỉ số phần trăm của hai số",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 40,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_diff_ratio"
+    ],
+    "description": "Tính tỉ số phần trăm của hai số.",
+    "visualization": "percent"
+  },
+  {
+    "id": "g5_percent_value",
+    "title": "Bài 41. Tìm giá trị phần trăm của một số",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 41,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_find_percent"
+    ],
+    "description": "Tính giá trị phần trăm của một số.",
+    "visualization": "percent"
+  },
+  {
+    "id": "g5_calculator",
+    "title": "Bài 42. Máy tính cầm tay",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 42,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_percent_value"
+    ],
+    "description": "Làm quen sử dụng máy tính cầm tay.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_calculator_exp",
+    "title": "Bài 43. Thực hành và trải nghiệm sử dụng máy tính cầm tay",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 43,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_calculator"
+    ],
+    "description": "Thực hành tính toán bằng máy tính cầm tay.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_practice_ch7",
+    "title": "Bài 44. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Tỉ số và các bài toán liên quan",
+    "chapterIndex": 7,
+    "lessonNo": 44,
+    "domain": "Tỉ số và các bài toán liên quan",
+    "level": 2,
+    "prerequisite": [
+      "g5_calculator_exp"
+    ],
+    "description": "Củng cố tỉ số, phần trăm và bài toán tìm hai số.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_volume_intro",
+    "title": "Bài 45. Thể tích của một hình",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Thể tích. Đơn vị đo thể tích",
+    "chapterIndex": 8,
+    "lessonNo": 45,
+    "domain": "Thể tích. Đơn vị đo thể tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_practice_ch7"
+    ],
+    "description": "Hình thành biểu tượng về thể tích.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_volume_cm_dm",
+    "title": "Bài 46. Xăng-ti-mét khối. Đề-xi-mét khối",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Thể tích. Đơn vị đo thể tích",
+    "chapterIndex": 8,
+    "lessonNo": 46,
+    "domain": "Thể tích. Đơn vị đo thể tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_volume_intro"
+    ],
+    "description": "Nhận biết cm³, dm³ và quan hệ giữa chúng.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_volume_m",
+    "title": "Bài 47. Mét khối",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Thể tích. Đơn vị đo thể tích",
+    "chapterIndex": 8,
+    "lessonNo": 47,
+    "domain": "Thể tích. Đơn vị đo thể tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_volume_cm_dm"
+    ],
+    "description": "Nhận biết m³ và quy đổi đơn vị thể tích.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_practice_ch8",
+    "title": "Bài 48. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Thể tích. Đơn vị đo thể tích",
+    "chapterIndex": 8,
+    "lessonNo": 48,
+    "domain": "Thể tích. Đơn vị đo thể tích",
+    "level": 2,
+    "prerequisite": [
+      "g5_volume_m"
+    ],
+    "description": "Củng cố đơn vị đo thể tích.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_nets",
+    "title": "Bài 49. Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 49,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g5_practice_ch8"
+    ],
+    "description": "Nhận biết hình khai triển của hình lập phương, hộp chữ nhật, hình trụ.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_box_surface",
+    "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 50,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g5_nets"
+    ],
+    "description": "Tính diện tích xung quanh và toàn phần hình hộp chữ nhật.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_cube_surface",
+    "title": "Bài 51. Diện tích xung quanh và diện tích toàn phần của hình lập phương",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 51,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 3,
+    "prerequisite": [
+      "g5_box_surface"
+    ],
+    "description": "Tính diện tích xung quanh và toàn phần hình lập phương.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_box_volume",
+    "title": "Bài 52. Thể tích của hình hộp chữ nhật",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 52,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 3,
+    "prerequisite": [
+      "g5_cube_surface"
+    ],
+    "description": "Tính thể tích hình hộp chữ nhật.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_cube_volume",
+    "title": "Bài 53. Thể tích của hình lập phương",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 53,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 3,
+    "prerequisite": [
+      "g5_box_volume"
+    ],
+    "description": "Tính thể tích hình lập phương.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_volume_practice_exp",
+    "title": "Bài 54. Thực hành tính toán và ước lượng thể tích một số hình khối",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 54,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 3,
+    "prerequisite": [
+      "g5_cube_volume"
+    ],
+    "description": "Thực hành ước lượng thể tích.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_practice_ch9",
+    "title": "Bài 55. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Diện tích và thể tích của một số hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 55,
+    "domain": "Diện tích và thể tích của một số hình khối",
+    "level": 3,
+    "prerequisite": [
+      "g5_volume_practice_exp"
+    ],
+    "description": "Củng cố diện tích và thể tích hình khối.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g5_time_units",
+    "title": "Bài 56. Các đơn vị đo thời gian",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 56,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_practice_ch9"
+    ],
+    "description": "Nhận biết giờ, phút, giây, ngày, tháng, năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g5_time_add_sub",
+    "title": "Bài 57. Cộng trừ số đo thời gian",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 57,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_time_units"
+    ],
+    "description": "Cộng, trừ số đo thời gian.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_time_mul_div",
+    "title": "Bài 58. Nhân chia số đo thời gian với một số",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 58,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_time_add_sub"
+    ],
+    "description": "Nhân, chia số đo thời gian với một số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g5_speed",
+    "title": "Bài 59. Vận tốc của một chuyển động đều",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 59,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_time_mul_div"
+    ],
+    "description": "Hiểu vận tốc và đơn vị km/h, m/s.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_distance_time",
+    "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 60,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_speed"
+    ],
+    "description": "Tính quãng đường, thời gian trong chuyển động đều.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_motion_practice_exp",
+    "title": "Bài 61. Thực hành tính toán và ước lượng về vận tốc, quãng đường, thời gian trong chuyển động đều",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 61,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_distance_time"
+    ],
+    "description": "Thực hành bài toán vận tốc, quãng đường, thời gian.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_practice_ch10",
+    "title": "Bài 62. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Số đo thời gian, vận tốc",
+    "chapterIndex": 10,
+    "lessonNo": 62,
+    "domain": "Số đo thời gian, vận tốc",
+    "level": 3,
+    "prerequisite": [
+      "g5_motion_practice_exp"
+    ],
+    "description": "Củng cố toán thời gian và chuyển động đều.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_data_collect",
+    "title": "Bài 63. Thu thập, phân loại, sắp xếp các số liệu",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Một số yếu tố thống kê và xác suất",
+    "chapterIndex": 11,
+    "lessonNo": 63,
+    "domain": "Một số yếu tố thống kê và xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g5_practice_ch10"
+    ],
+    "description": "Thu thập, phân loại, sắp xếp số liệu thống kê.",
+    "visualization": "data"
+  },
+  {
+    "id": "g5_pie_chart",
+    "title": "Bài 64. Biểu đồ hình quạt",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Một số yếu tố thống kê và xác suất",
+    "chapterIndex": 11,
+    "lessonNo": 64,
+    "domain": "Một số yếu tố thống kê và xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g5_data_collect"
+    ],
+    "description": "Đọc và biểu diễn dữ liệu bằng biểu đồ hình quạt.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g5_probability_ratio",
+    "title": "Bài 65. Tỉ số của số lần lặp lại của một sự kiện so với tổng số lần thực hiện",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Một số yếu tố thống kê và xác suất",
+    "chapterIndex": 11,
+    "lessonNo": 65,
+    "domain": "Một số yếu tố thống kê và xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g5_pie_chart"
+    ],
+    "description": "Tính tỉ số số lần xảy ra sự kiện trên tổng số lần thử.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g5_stats_practice_exp",
+    "title": "Bài 66. Thực hành và trải nghiệm. Thu thập, phân tích, biểu diễn các số liệu thống kê",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Một số yếu tố thống kê và xác suất",
+    "chapterIndex": 11,
+    "lessonNo": 66,
+    "domain": "Một số yếu tố thống kê và xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g5_probability_ratio"
+    ],
+    "description": "Thực hành thu thập và phân tích số liệu.",
+    "visualization": "data"
+  },
+  {
+    "id": "g5_practice_ch11",
+    "title": "Bài 67. Luyện tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Một số yếu tố thống kê và xác suất",
+    "chapterIndex": 11,
+    "lessonNo": 67,
+    "domain": "Một số yếu tố thống kê và xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g5_stats_practice_exp"
+    ],
+    "description": "Củng cố thống kê và xác suất.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g5_review_numbers",
+    "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 68,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_practice_ch11"
+    ],
+    "description": "Ôn tập số tự nhiên, phân số, số thập phân.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g5_review_ops",
+    "title": "Bài 69. Ôn tập các phép tính với số tự nhiên, phân số, số thập phân",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 69,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_numbers"
+    ],
+    "description": "Ôn tập biểu thức và các phép tính hỗn hợp.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g5_review_ratio_percent",
+    "title": "Bài 70. Ôn tập tỉ số, tỉ số phần trăm",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 70,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_ops"
+    ],
+    "description": "Ôn tập tỉ số và phần trăm.",
+    "visualization": "percent"
+  },
+  {
+    "id": "g5_review_geometry",
+    "title": "Bài 71. Ôn tập hình học",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 71,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_ratio_percent"
+    ],
+    "description": "Ôn tập tam giác, thang, hình tròn.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g5_review_measure_final",
+    "title": "Bài 72. Ôn tập đo lường",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 72,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_geometry"
+    ],
+    "description": "Ôn tập đo lường diện tích, thể tích.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g5_review_motion",
+    "title": "Bài 73. Ôn tập toán chuyển động đều",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 73,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_measure_final"
+    ],
+    "description": "Ôn tập bài toán chuyển động đều.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g5_review_stats",
+    "title": "Bài 74. Ôn tập một số yếu tố thống kê và xác suất",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 74,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_motion"
+    ],
+    "description": "Ôn tập thống kê và xác suất.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g5_review_final",
+    "title": "Bài 75. Ôn tập chung",
+    "grade": 5,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 12,
+    "lessonNo": 75,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g5_review_stats"
+    ],
+    "description": "Ôn tập tổng hợp cuối năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_num_0_5",
+    "title": "Bài 1. Các số 0, 1, 2, 3, 4, 5",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Nhận biết, đọc, viết và đếm các số từ 0 đến 5.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_num_6_10",
+    "title": "Bài 2. Các số 6, 7, 8, 9, 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_num_0_5"
+    ],
+    "description": "Nhận biết, đọc, viết và đếm các số từ 6 đến 10.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_more_less",
+    "title": "Bài 3. Nhiều hơn, ít hơn, bằng nhau",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_num_6_10"
+    ],
+    "description": "So sánh số lượng đồ vật: nhiều hơn, ít hơn, bằng nhau.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_compare",
+    "title": "Bài 4. So sánh số",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_more_less"
+    ],
+    "description": "So sánh hai số trong phạm vi 10 bằng dấu >, <, =.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_how_many",
+    "title": "Bài 5. Mấy và mấy",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_compare"
+    ],
+    "description": "Tách một số lượng thành hai phần (mấy và mấy).",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_practice_ch1",
+    "title": "Bài 6. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Các số từ 0 đến 10",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Các số từ 0 đến 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_how_many"
+    ],
+    "description": "Củng cố đếm, so sánh và tách số trong phạm vi 10.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_shapes",
+    "title": "Bài 7. Hình vuông, hình tròn, hình tam giác, hình chữ nhật",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình phẳng",
+    "chapterIndex": 2,
+    "lessonNo": 7,
+    "domain": "Làm quen với một số hình phẳng",
+    "level": 1,
+    "prerequisite": [
+      "g1_practice_ch1"
+    ],
+    "description": "Nhận biết hình vuông, tròn, tam giác, chữ nhật.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g1_puzzle",
+    "title": "Bài 8. Thực hành lắp ghép, xếp hình",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình phẳng",
+    "chapterIndex": 2,
+    "lessonNo": 8,
+    "domain": "Làm quen với một số hình phẳng",
+    "level": 1,
+    "prerequisite": [
+      "g1_shapes"
+    ],
+    "description": "Lắp ghép và xếp các hình phẳng cơ bản.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g1_practice_ch2",
+    "title": "Bài 9. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình phẳng",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Làm quen với một số hình phẳng",
+    "level": 1,
+    "prerequisite": [
+      "g1_puzzle"
+    ],
+    "description": "Củng cố nhận biết và xếp hình phẳng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g1_add_10",
+    "title": "Bài 10. Phép cộng trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 10",
+    "chapterIndex": 3,
+    "lessonNo": 10,
+    "domain": "Phép cộng, phép trừ trong phạm vi 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_practice_ch2"
+    ],
+    "description": "Thực hiện phép cộng hai số có tổng không quá 10.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_sub_10",
+    "title": "Bài 11. Phép trừ trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 10",
+    "chapterIndex": 3,
+    "lessonNo": 11,
+    "domain": "Phép cộng, phép trừ trong phạm vi 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_add_10"
+    ],
+    "description": "Thực hiện phép trừ trong phạm vi 10.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_tables_10",
+    "title": "Bài 12. Bảng cộng, bảng trừ trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 10",
+    "chapterIndex": 3,
+    "lessonNo": 12,
+    "domain": "Phép cộng, phép trừ trong phạm vi 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_sub_10"
+    ],
+    "description": "Thuộc bảng cộng, trừ và liên hệ giữa chúng.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_practice_ch3",
+    "title": "Bài 13. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 10",
+    "chapterIndex": 3,
+    "lessonNo": 13,
+    "domain": "Phép cộng, phép trừ trong phạm vi 10",
+    "level": 1,
+    "prerequisite": [
+      "g1_tables_10"
+    ],
+    "description": "Củng cố cộng, trừ trong phạm vi 10.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_solids",
+    "title": "Bài 14. Khối lập phương, khối hộp chữ nhật",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình khối",
+    "chapterIndex": 4,
+    "lessonNo": 14,
+    "domain": "Làm quen với một số hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g1_practice_ch3"
+    ],
+    "description": "Nhận biết khối lập phương và khối hộp chữ nhật.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g1_position",
+    "title": "Bài 15. Vị trí, định hướng trong không gian",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình khối",
+    "chapterIndex": 4,
+    "lessonNo": 15,
+    "domain": "Làm quen với một số hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g1_solids"
+    ],
+    "description": "Mô tả vị trí: trên, dưới, trái, phải, trước, sau.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_practice_ch4",
+    "title": "Bài 16. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Làm quen với một số hình khối",
+    "chapterIndex": 4,
+    "lessonNo": 16,
+    "domain": "Làm quen với một số hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g1_position"
+    ],
+    "description": "Củng cố hình khối và vị trí trong không gian.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g1_review_num10",
+    "title": "Bài 17. Ôn tập các số trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 5,
+    "lessonNo": 17,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g1_practice_ch4"
+    ],
+    "description": "Ôn tập đọc, viết, so sánh số trong phạm vi 10.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_review_ops10",
+    "title": "Bài 18. Ôn tập phép cộng, phép trừ trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 5,
+    "lessonNo": 18,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g1_review_num10"
+    ],
+    "description": "Ôn tập cộng, trừ trong phạm vi 10.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_review_geo",
+    "title": "Bài 19. Ôn tập hình học",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 5,
+    "lessonNo": 19,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g1_review_ops10"
+    ],
+    "description": "Ôn tập hình phẳng, hình khối và vị trí.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g1_review_hk1",
+    "title": "Bài 20. Ôn tập chung",
+    "grade": 1,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 5,
+    "lessonNo": 20,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g1_review_geo"
+    ],
+    "description": "Ôn tập tổng hợp học kì 1.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_two_digit",
+    "title": "Bài 21. Số có hai chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100",
+    "chapterIndex": 6,
+    "lessonNo": 21,
+    "domain": "Các số đến 100",
+    "level": 2,
+    "prerequisite": [
+      "g1_review_hk1"
+    ],
+    "description": "Nhận biết số có hai chữ số: chục và đơn vị.",
+    "visualization": "place"
+  },
+  {
+    "id": "g1_compare_2d",
+    "title": "Bài 22. So sánh số có hai chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100",
+    "chapterIndex": 6,
+    "lessonNo": 22,
+    "domain": "Các số đến 100",
+    "level": 2,
+    "prerequisite": [
+      "g1_two_digit"
+    ],
+    "description": "So sánh hai số có hai chữ số.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g1_table_100",
+    "title": "Bài 23. Bảng các số từ 1 đến 100",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100",
+    "chapterIndex": 6,
+    "lessonNo": 23,
+    "domain": "Các số đến 100",
+    "level": 2,
+    "prerequisite": [
+      "g1_compare_2d"
+    ],
+    "description": "Đọc, viết và tìm số trên bảng số từ 1 đến 100.",
+    "visualization": "place"
+  },
+  {
+    "id": "g1_practice_ch6",
+    "title": "Bài 24. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100",
+    "chapterIndex": 6,
+    "lessonNo": 24,
+    "domain": "Các số đến 100",
+    "level": 2,
+    "prerequisite": [
+      "g1_table_100"
+    ],
+    "description": "Củng cố số có hai chữ số và bảng số.",
+    "visualization": "place"
+  },
+  {
+    "id": "g1_longer",
+    "title": "Bài 25. Dài hơn, ngắn hơn",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đo độ dài",
+    "chapterIndex": 7,
+    "lessonNo": 25,
+    "domain": "Độ dài và đo độ dài",
+    "level": 2,
+    "prerequisite": [
+      "g1_practice_ch6"
+    ],
+    "description": "So sánh độ dài: dài hơn, ngắn hơn, bằng nhau.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g1_length_unit",
+    "title": "Bài 26. Đơn vị đo độ dài",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đo độ dài",
+    "chapterIndex": 7,
+    "lessonNo": 26,
+    "domain": "Độ dài và đo độ dài",
+    "level": 2,
+    "prerequisite": [
+      "g1_longer"
+    ],
+    "description": "Làm quen đơn vị xăng-ti-mét (cm).",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g1_measure_exp",
+    "title": "Bài 27. Thực hành ước lượng và đo độ dài",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đo độ dài",
+    "chapterIndex": 7,
+    "lessonNo": 27,
+    "domain": "Độ dài và đo độ dài",
+    "level": 2,
+    "prerequisite": [
+      "g1_length_unit"
+    ],
+    "description": "Ước lượng và đo độ dài bằng thước.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g1_practice_ch7",
+    "title": "Bài 28. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đo độ dài",
+    "chapterIndex": 7,
+    "lessonNo": 28,
+    "domain": "Độ dài và đo độ dài",
+    "level": 2,
+    "prerequisite": [
+      "g1_measure_exp"
+    ],
+    "description": "Củng cố so sánh và đo độ dài.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g1_add_2d_1d",
+    "title": "Bài 29. Phép cộng có hai chữ số với số có một chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "chapterIndex": 8,
+    "lessonNo": 29,
+    "domain": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "level": 3,
+    "prerequisite": [
+      "g1_practice_ch7"
+    ],
+    "description": "Cộng số có hai chữ số với số có một chữ số (không nhớ).",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_add_2d_2d",
+    "title": "Bài 30. Phép cộng có hai chữ số với số có hai chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "chapterIndex": 8,
+    "lessonNo": 30,
+    "domain": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "level": 3,
+    "prerequisite": [
+      "g1_add_2d_1d"
+    ],
+    "description": "Cộng hai số có hai chữ số (không nhớ).",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_sub_2d_1d",
+    "title": "Bài 31. Phép trừ số có hai chữ số cho số có một chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "chapterIndex": 8,
+    "lessonNo": 31,
+    "domain": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "level": 3,
+    "prerequisite": [
+      "g1_add_2d_2d"
+    ],
+    "description": "Trừ số có hai chữ số cho số có một chữ số (không nhớ).",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_sub_2d_2d",
+    "title": "Bài 32. Phép trừ số có hai chữ số cho số có hai chữ số",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "chapterIndex": 8,
+    "lessonNo": 32,
+    "domain": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "level": 3,
+    "prerequisite": [
+      "g1_sub_2d_1d"
+    ],
+    "description": "Trừ hai số có hai chữ số (không nhớ).",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_practice_ch8",
+    "title": "Bài 33. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "chapterIndex": 8,
+    "lessonNo": 33,
+    "domain": "Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "level": 3,
+    "prerequisite": [
+      "g1_sub_2d_2d"
+    ],
+    "description": "Củng cố cộng, trừ không nhớ trong phạm vi 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_clock",
+    "title": "Bài 34. Xem giờ đúng trên đồng hồ",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Thời gian. Giờ và lịch",
+    "chapterIndex": 9,
+    "lessonNo": 34,
+    "domain": "Thời gian. Giờ và lịch",
+    "level": 3,
+    "prerequisite": [
+      "g1_practice_ch8"
+    ],
+    "description": "Đọc giờ đúng trên mặt đồng hồ.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_weekdays",
+    "title": "Bài 35. Ngày trong tuần",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Thời gian. Giờ và lịch",
+    "chapterIndex": 9,
+    "lessonNo": 35,
+    "domain": "Thời gian. Giờ và lịch",
+    "level": 3,
+    "prerequisite": [
+      "g1_clock"
+    ],
+    "description": "Nhận biết các ngày trong tuần và thứ tự.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_calendar",
+    "title": "Bài 36. Thực hành xem lịch và giờ",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Thời gian. Giờ và lịch",
+    "chapterIndex": 9,
+    "lessonNo": 36,
+    "domain": "Thời gian. Giờ và lịch",
+    "level": 3,
+    "prerequisite": [
+      "g1_weekdays"
+    ],
+    "description": "Thực hành xem lịch và đồng hồ.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_practice_ch9",
+    "title": "Bài 37. Luyện tập chung",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Thời gian. Giờ và lịch",
+    "chapterIndex": 9,
+    "lessonNo": 37,
+    "domain": "Thời gian. Giờ và lịch",
+    "level": 3,
+    "prerequisite": [
+      "g1_calendar"
+    ],
+    "description": "Củng cố giờ, ngày và lịch.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g1_review_10",
+    "title": "Bài 38. Ôn tập các số và phép tính trong phạm vi 10",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 10,
+    "lessonNo": 38,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g1_practice_ch9"
+    ],
+    "description": "Ôn tập số và phép tính trong phạm vi 10.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_review_100",
+    "title": "Bài 39. Ôn tập các số và phép tính trong phạm vi 100",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 10,
+    "lessonNo": 39,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g1_review_10"
+    ],
+    "description": "Ôn tập số và phép tính trong phạm vi 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g1_review_geo_measure",
+    "title": "Bài 40. Ôn tập hình học và đo lường",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 10,
+    "lessonNo": 40,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g1_review_100"
+    ],
+    "description": "Ôn tập hình học, đo độ dài và thời gian.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g1_review_final",
+    "title": "Bài 41. Ôn tập chung",
+    "grade": 1,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 10,
+    "lessonNo": 41,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g1_review_geo_measure"
+    ],
+    "description": "Ôn tập tổng hợp cuối năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_review_100",
+    "title": "Bài 1. Ôn tập các số đến 100",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Ôn tập đọc, viết, so sánh số trong phạm vi 100.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_number_line",
+    "title": "Bài 2. Tia số. Số liền trước, số liền sau",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g2_review_100"
+    ],
+    "description": "Nhận biết tia số, tìm số liền trước và số liền sau.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g2_add_sub_parts",
+    "title": "Bài 3. Các thành phần của phép cộng, phép trừ",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g2_number_line"
+    ],
+    "description": "Gọi đúng tên số hạng, tổng, số bị trừ, số trừ, hiệu.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_how_many_more",
+    "title": "Bài 4. Hơn, kém nhau bao nhiêu",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_sub_parts"
+    ],
+    "description": "Tìm số đơn vị hơn hoặc kém giữa hai số.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_review_add_sub_100",
+    "title": "Bài 5. Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g2_how_many_more"
+    ],
+    "description": "Cộng, trừ không nhớ số có hai chữ số trong phạm vi 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_practice_ch1",
+    "title": "Bài 6. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g2_review_add_sub_100"
+    ],
+    "description": "Củng cố số đến 100, tia số và phép tính không nhớ.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g2_add_over_10",
+    "title": "Bài 7. Phép cộng (qua 10) trong phạm vi 20",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 7,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch1"
+    ],
+    "description": "Cộng hai số có tổng qua 10 trong phạm vi 20.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_add_table_10",
+    "title": "Bài 8. Bảng cộng (qua 10)",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 8,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_over_10"
+    ],
+    "description": "Thuộc bảng cộng qua 10 trong phạm vi 20.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_add_story",
+    "title": "Bài 9. Bài toán về thêm, bớt một số đơn vị",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_table_10"
+    ],
+    "description": "Giải bài toán thêm hoặc bớt một số đơn vị.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_practice_ch2",
+    "title": "Bài 10. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 10,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_story"
+    ],
+    "description": "Củng cố cộng qua 10 và bài toán thêm, bớt.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_over_10",
+    "title": "Bài 11. Phép trừ (qua 10) trong phạm vi 20",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 11,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch2"
+    ],
+    "description": "Trừ hai số qua 10 trong phạm vi 20.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_table_10",
+    "title": "Bài 12. Bảng trừ (qua 10)",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 12,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_sub_over_10"
+    ],
+    "description": "Thuộc bảng trừ qua 10 trong phạm vi 20.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_more_less_story",
+    "title": "Bài 13. Bài toán về nhiều hơn, ít hơn một số đơn vị",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 13,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_sub_table_10"
+    ],
+    "description": "Giải bài toán nhiều hơn, ít hơn một số đơn vị.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_practice_ch2b",
+    "title": "Bài 14. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 20",
+    "chapterIndex": 2,
+    "lessonNo": 14,
+    "domain": "Phép cộng, phép trừ trong phạm vi 20",
+    "level": 1,
+    "prerequisite": [
+      "g2_more_less_story"
+    ],
+    "description": "Củng cố cộng, trừ qua 10 và bài toán có lời văn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_kilogram",
+    "title": "Bài 15. Ki-lô-gam",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với khối lượng, dung tích",
+    "chapterIndex": 3,
+    "lessonNo": 15,
+    "domain": "Làm quen với khối lượng, dung tích",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch2b"
+    ],
+    "description": "Làm quen đơn vị đo khối lượng ki-lô-gam (kg).",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_liter",
+    "title": "Bài 16. Lít",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với khối lượng, dung tích",
+    "chapterIndex": 3,
+    "lessonNo": 16,
+    "domain": "Làm quen với khối lượng, dung tích",
+    "level": 1,
+    "prerequisite": [
+      "g2_kilogram"
+    ],
+    "description": "Làm quen đơn vị đo dung tích lít (l).",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_measure_exp",
+    "title": "Bài 17. Thực hành và trải nghiệm với các đơn vị Ki-lô-gam, Lít",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với khối lượng, dung tích",
+    "chapterIndex": 3,
+    "lessonNo": 17,
+    "domain": "Làm quen với khối lượng, dung tích",
+    "level": 1,
+    "prerequisite": [
+      "g2_liter"
+    ],
+    "description": "Thực hành đo và so sánh khối lượng, dung tích.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_practice_ch3",
+    "title": "Bài 18. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với khối lượng, dung tích",
+    "chapterIndex": 3,
+    "lessonNo": 18,
+    "domain": "Làm quen với khối lượng, dung tích",
+    "level": 1,
+    "prerequisite": [
+      "g2_measure_exp"
+    ],
+    "description": "Củng cố kg và lít trong tình huống thực tế.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_add_carry_2d1d",
+    "title": "Bài 19. Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 19,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch3"
+    ],
+    "description": "Cộng có nhớ sang hàng chục.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_add_carry_2d2d",
+    "title": "Bài 20. Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 20,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_carry_2d1d"
+    ],
+    "description": "Cộng hai số có hai chữ số có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_practice_ch4",
+    "title": "Bài 21. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 21,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_add_carry_2d2d"
+    ],
+    "description": "Củng cố phép cộng có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_borrow_2d1d",
+    "title": "Bài 22. Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 22,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch4"
+    ],
+    "description": "Trừ có nhớ từ hàng chục.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_borrow_2d2d",
+    "title": "Bài 23. Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 23,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_sub_borrow_2d1d"
+    ],
+    "description": "Trừ hai số có hai chữ số có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_practice_ch4b",
+    "title": "Bài 24. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 24,
+    "domain": "Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g2_sub_borrow_2d2d"
+    ],
+    "description": "Củng cố cộng, trừ có nhớ trong phạm vi 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_points_lines",
+    "title": "Bài 25. Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 25,
+    "domain": "Làm quen với hình phẳng",
+    "level": 1,
+    "prerequisite": [
+      "g2_practice_ch4b"
+    ],
+    "description": "Nhận biết điểm, đoạn thẳng, đường thẳng, đường cong và ba điểm thẳng hàng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_broken_line_quad",
+    "title": "Bài 26. Đường gấp khúc. Hình tứ giác",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 26,
+    "domain": "Làm quen với hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g2_points_lines"
+    ],
+    "description": "Nhận biết đường gấp khúc và hình tứ giác.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_fold_cut",
+    "title": "Bài 27. Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 27,
+    "domain": "Làm quen với hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g2_broken_line_quad"
+    ],
+    "description": "Gấp, cắt, ghép hình và vẽ đoạn thẳng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_practice_ch5",
+    "title": "Bài 28. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng",
+    "chapterIndex": 5,
+    "lessonNo": 28,
+    "domain": "Làm quen với hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g2_fold_cut"
+    ],
+    "description": "Củng cố hình phẳng cơ bản.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_day_hour",
+    "title": "Bài 29. Ngày – giờ, giờ – phút",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "chapterIndex": 6,
+    "lessonNo": 29,
+    "domain": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "level": 2,
+    "prerequisite": [
+      "g2_practice_ch5"
+    ],
+    "description": "Đọc giờ trên đồng hồ và quan hệ ngày – giờ, giờ – phút.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_day_month",
+    "title": "Bài 30. Ngày – tháng",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "chapterIndex": 6,
+    "lessonNo": 30,
+    "domain": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "level": 2,
+    "prerequisite": [
+      "g2_day_hour"
+    ],
+    "description": "Nhận biết ngày, tháng trên lịch.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_clock_calendar_exp",
+    "title": "Bài 31. Thực hành và trải nghiệm xem đồng hồ, xem lịch",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "chapterIndex": 6,
+    "lessonNo": 31,
+    "domain": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "level": 2,
+    "prerequisite": [
+      "g2_day_month"
+    ],
+    "description": "Thực hành xem đồng hồ và lịch.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_practice_ch6",
+    "title": "Bài 32. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "chapterIndex": 6,
+    "lessonNo": 32,
+    "domain": "Ngày – giờ, giờ – phút, ngày – tháng",
+    "level": 2,
+    "prerequisite": [
+      "g2_clock_calendar_exp"
+    ],
+    "description": "Củng cố thời gian, giờ, phút, ngày, tháng.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_review_ops",
+    "title": "Bài 33. Ôn tập phép cộng, phép trừ trong phạm vi 20, 100",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 33,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g2_practice_ch6"
+    ],
+    "description": "Ôn tập cộng, trừ trong phạm vi 20 và 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_review_geo",
+    "title": "Bài 34. Ôn tập hình phẳng",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 34,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g2_review_ops"
+    ],
+    "description": "Ôn tập điểm, đoạn thẳng, tứ giác, đường gấp khúc.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_review_measure",
+    "title": "Bài 35. Ôn tập đo lường",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 35,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g2_review_geo"
+    ],
+    "description": "Ôn tập kg, lít và đo lường cơ bản.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_review_hk1",
+    "title": "Bài 36. Ôn tập chung",
+    "grade": 2,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 36,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g2_review_measure"
+    ],
+    "description": "Ôn tập tổng hợp học kì 1.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_multiplication",
+    "title": "Bài 37. Phép nhân",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 37,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_review_hk1"
+    ],
+    "description": "Hiểu phép nhân là cộng các số hạng bằng nhau.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_factors_product",
+    "title": "Bài 38. Thừa số, tích",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 38,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_multiplication"
+    ],
+    "description": "Gọi đúng thừa số và tích trong phép nhân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_table_2",
+    "title": "Bài 39. Bảng nhân 2",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 39,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_factors_product"
+    ],
+    "description": "Thuộc bảng nhân 2.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_table_5",
+    "title": "Bài 40. Bảng nhân 5",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 40,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_table_2"
+    ],
+    "description": "Thuộc bảng nhân 5.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_division",
+    "title": "Bài 41. Phép chia",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 41,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_table_5"
+    ],
+    "description": "Hiểu phép chia là phép ngược của phép nhân.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_dividend_divisor",
+    "title": "Bài 42. Số bị chia, số chia, thương",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 42,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_division"
+    ],
+    "description": "Gọi đúng số bị chia, số chia, thương.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_div_table_2",
+    "title": "Bài 43. Bảng chia 2",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 43,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_dividend_divisor"
+    ],
+    "description": "Thuộc bảng chia 2.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_div_table_5",
+    "title": "Bài 44. Bảng chia 5",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 44,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_div_table_2"
+    ],
+    "description": "Thuộc bảng chia 5.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_practice_ch8",
+    "title": "Bài 45. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 45,
+    "domain": "Phép nhân, phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g2_div_table_5"
+    ],
+    "description": "Củng cố nhân, chia và bảng nhân, chia 2, 5.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_cylinder_sphere",
+    "title": "Bài 46. Khối trụ, khối cầu",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 46,
+    "domain": "Làm quen với hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g2_practice_ch8"
+    ],
+    "description": "Nhận biết khối trụ và khối cầu.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g2_practice_ch9",
+    "title": "Bài 47. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với hình khối",
+    "chapterIndex": 9,
+    "lessonNo": 47,
+    "domain": "Làm quen với hình khối",
+    "level": 2,
+    "prerequisite": [
+      "g2_cylinder_sphere"
+    ],
+    "description": "Củng cố khối trụ và khối cầu.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g2_place_1000",
+    "title": "Bài 48. Đơn vị, chục, trăm, nghìn",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 48,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g2_practice_ch9"
+    ],
+    "description": "Nhận biết hàng đơn vị, chục, trăm, nghìn.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_round_numbers",
+    "title": "Bài 49. Các số tròn trăm, tròn chục",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 49,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g2_place_1000"
+    ],
+    "description": "Đọc, viết số tròn trăm, tròn chục.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_compare_round",
+    "title": "Bài 50. So sánh các số tròn trăm, tròn chục",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 50,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g2_round_numbers"
+    ],
+    "description": "So sánh số tròn trăm, tròn chục.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g2_three_digit",
+    "title": "Bài 51. Số có ba chữ số",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 51,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_compare_round"
+    ],
+    "description": "Đọc, viết số có ba chữ số.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_expanded_form",
+    "title": "Bài 52. Viết số thành tổng các trăm, chục, đơn vị",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 52,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_three_digit"
+    ],
+    "description": "Phân tích số thành tổng trăm, chục, đơn vị.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_compare_3d",
+    "title": "Bài 53. So sánh các số có ba chữ số",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 53,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_expanded_form"
+    ],
+    "description": "So sánh số có ba chữ số từ hàng cao đến thấp.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g2_practice_ch10",
+    "title": "Bài 54. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Các số trong phạm vi 1000",
+    "chapterIndex": 10,
+    "lessonNo": 54,
+    "domain": "Các số trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_compare_3d"
+    ],
+    "description": "Củng cố số trong phạm vi 1000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_length_units",
+    "title": "Bài 55. Đề-xi-mét. Mét. Ki-lô-mét",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "chapterIndex": 11,
+    "lessonNo": 55,
+    "domain": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g2_practice_ch10"
+    ],
+    "description": "Làm quen dm, m, km và quan hệ giữa chúng.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_vnd_money",
+    "title": "Bài 56. Giới thiệu tiền Việt Nam",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "chapterIndex": 11,
+    "lessonNo": 56,
+    "domain": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g2_length_units"
+    ],
+    "description": "Nhận biết các loại tiền Việt Nam và tính tiền đơn giản.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g2_length_exp",
+    "title": "Bài 57. Thực hành và trải nghiệm đo độ dài",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "chapterIndex": 11,
+    "lessonNo": 57,
+    "domain": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g2_vnd_money"
+    ],
+    "description": "Thực hành đo độ dài bằng dm, m.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_practice_ch11",
+    "title": "Bài 58. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "chapterIndex": 11,
+    "lessonNo": 58,
+    "domain": "Độ dài và đơn vị đo độ dài. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g2_length_exp"
+    ],
+    "description": "Củng cố đo độ dài và tiền Việt Nam.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_add_1000_no_carry",
+    "title": "Bài 59. Phép cộng (không nhớ) trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 1000",
+    "chapterIndex": 12,
+    "lessonNo": 59,
+    "domain": "Phép cộng, phép trừ trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_practice_ch11"
+    ],
+    "description": "Cộng số có ba chữ số không nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_add_1000_carry",
+    "title": "Bài 60. Phép cộng (có nhớ) trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 1000",
+    "chapterIndex": 12,
+    "lessonNo": 60,
+    "domain": "Phép cộng, phép trừ trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_add_1000_no_carry"
+    ],
+    "description": "Cộng số có ba chữ số có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_1000_no_borrow",
+    "title": "Bài 61. Phép trừ (không nhớ) trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 1000",
+    "chapterIndex": 12,
+    "lessonNo": 61,
+    "domain": "Phép cộng, phép trừ trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_add_1000_carry"
+    ],
+    "description": "Trừ số có ba chữ số không nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_sub_1000_borrow",
+    "title": "Bài 62. Phép trừ (có nhớ) trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 1000",
+    "chapterIndex": 12,
+    "lessonNo": 62,
+    "domain": "Phép cộng, phép trừ trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_sub_1000_no_borrow"
+    ],
+    "description": "Trừ số có ba chữ số có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_practice_ch12",
+    "title": "Bài 63. Luyện tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ trong phạm vi 1000",
+    "chapterIndex": 12,
+    "lessonNo": 63,
+    "domain": "Phép cộng, phép trừ trong phạm vi 1000",
+    "level": 3,
+    "prerequisite": [
+      "g2_sub_1000_borrow"
+    ],
+    "description": "Củng cố cộng, trừ trong phạm vi 1000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_data_collect",
+    "title": "Bài 64. Thu thập, phân loại, kiểm đếm số liệu",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 13,
+    "lessonNo": 64,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g2_practice_ch12"
+    ],
+    "description": "Thu thập, phân loại và đếm số liệu.",
+    "visualization": "data"
+  },
+  {
+    "id": "g2_pictograph",
+    "title": "Bài 65. Biểu đồ tranh",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 13,
+    "lessonNo": 65,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g2_data_collect"
+    ],
+    "description": "Đọc và hiểu biểu đồ tranh.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g2_probability",
+    "title": "Bài 66. Chắc chắn, có thể, không thể",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 13,
+    "lessonNo": 66,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g2_pictograph"
+    ],
+    "description": "Phân biệt sự kiện chắc chắn, có thể, không thể.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g2_data_exp",
+    "title": "Bài 67. Thực hành và trải nghiệm thu thập, phân loại, kiểm đếm số liệu",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 13,
+    "lessonNo": 67,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g2_probability"
+    ],
+    "description": "Thực hành thu thập và phân loại số liệu.",
+    "visualization": "data"
+  },
+  {
+    "id": "g2_review_1000",
+    "title": "Bài 68. Ôn tập các số trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 68,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_data_exp"
+    ],
+    "description": "Ôn tập đọc, viết, so sánh số đến 1000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g2_review_ops_100",
+    "title": "Bài 69. Ôn tập phép cộng, phép trừ trong phạm vi 100",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 69,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_1000"
+    ],
+    "description": "Ôn tập cộng, trừ có nhớ trong phạm vi 100.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_review_ops_1000",
+    "title": "Bài 70. Ôn tập phép cộng, phép trừ trong phạm vi 1000",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 70,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_ops_100"
+    ],
+    "description": "Ôn tập cộng, trừ trong phạm vi 1000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_review_mul_div",
+    "title": "Bài 71. Ôn tập phép nhân, phép chia",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 71,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_ops_1000"
+    ],
+    "description": "Ôn tập bảng nhân, chia 2 và 5.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g2_review_geo_final",
+    "title": "Bài 72. Ôn tập hình học",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 72,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_mul_div"
+    ],
+    "description": "Ôn tập hình phẳng và hình khối.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g2_review_measure_final",
+    "title": "Bài 73. Ôn tập đo lường",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 73,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_geo_final"
+    ],
+    "description": "Ôn tập kg, lít, dm, m, km và tiền.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g2_review_stats",
+    "title": "Bài 74. Ôn tập kiểm đếm số liệu và lựa chọn khả năng",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 74,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_measure_final"
+    ],
+    "description": "Ôn tập thống kê và xác suất cơ bản.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g2_review_final",
+    "title": "Bài 75. Ôn tập chung",
+    "grade": 2,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 14,
+    "lessonNo": 75,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g2_review_stats"
+    ],
+    "description": "Ôn tập tổng hợp cuối năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_review_1000",
+    "title": "Bài 1. Ôn tập các số đến 1000",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Ôn tập đọc, viết, so sánh số trong phạm vi 1000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_add_sub_review",
+    "title": "Bài 2. Ôn tập phép cộng, phép trừ trong phạm vi 1000",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_review_1000"
+    ],
+    "description": "Ôn tập cộng, trừ số có ba chữ số trong phạm vi 1000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_add_sub_parts",
+    "title": "Bài 3. Tìm thành phần trong phép cộng, phép trừ",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_add_sub_review"
+    ],
+    "description": "Tìm số hạng, tổng, số bị trừ, số trừ, hiệu chưa biết.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_table_2_5",
+    "title": "Bài 4. Ôn tập bảng nhân 2; 5, Bảng chia 2; 5",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_add_sub_parts"
+    ],
+    "description": "Thuộc bảng nhân, chia 2 và 5.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_table_3",
+    "title": "Bài 5. Bảng nhân 3, bảng chia 3",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_2_5"
+    ],
+    "description": "Thuộc bảng nhân 3 và bảng chia 3.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_table_4",
+    "title": "Bài 6. Bảng nhân 4, bảng chia 4",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_3"
+    ],
+    "description": "Thuộc bảng nhân 4 và bảng chia 4.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_review_geo_measure",
+    "title": "Bài 7. Ôn tập hình học và đo lường",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_4"
+    ],
+    "description": "Ôn tập hình phẳng, khối và đo lường cơ bản.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_practice_ch1",
+    "title": "Bài 8. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g3_review_geo_measure"
+    ],
+    "description": "Củng cố số đến 1000, phép tính và bảng nhân, chia.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g3_table_6",
+    "title": "Bài 9. Bảng nhân 6, bảng chia 6",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_practice_ch1"
+    ],
+    "description": "Thuộc bảng nhân 6 và bảng chia 6.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_table_7",
+    "title": "Bài 10. Bảng nhân 7, bảng chia 7",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 10,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_6"
+    ],
+    "description": "Thuộc bảng nhân 7 và bảng chia 7.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_table_8",
+    "title": "Bài 11. Bảng nhân 8, bảng chia 8",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 11,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_7"
+    ],
+    "description": "Thuộc bảng nhân 8 và bảng chia 8.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_table_9",
+    "title": "Bài 12. Bảng nhân 9, bảng chia 9",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 12,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_8"
+    ],
+    "description": "Thuộc bảng nhân 9 và bảng chia 9.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_mul_div_parts",
+    "title": "Bài 13. Tìm thành phần trong phép nhân, phép chia",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 13,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_table_9"
+    ],
+    "description": "Tìm thừa số, tích, số bị chia, số chia, thương chưa biết.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_fraction_part",
+    "title": "Bài 14. Một phần mấy",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 14,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_mul_div_parts"
+    ],
+    "description": "Nhận biết một phần mấy của một hình hoặc một số.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g3_practice_ch2",
+    "title": "Bài 15. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Bảng nhân, bảng chia",
+    "chapterIndex": 2,
+    "lessonNo": 15,
+    "domain": "Bảng nhân, bảng chia",
+    "level": 1,
+    "prerequisite": [
+      "g3_fraction_part"
+    ],
+    "description": "Củng cố bảng nhân, chia và một phần mấy.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g3_midpoint",
+    "title": "Bài 16. Điểm ở giữa, trung điểm của đoạn thẳng",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 16,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_practice_ch2"
+    ],
+    "description": "Nhận biết điểm ở giữa và trung điểm đoạn thẳng.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_circle",
+    "title": "Bài 17. Hình tròn. Tâm, bán kính, đường kính của hình tròn",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 17,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_midpoint"
+    ],
+    "description": "Nhận biết tâm, bán kính, đường kính hình tròn.",
+    "visualization": "circle"
+  },
+  {
+    "id": "g3_angle",
+    "title": "Bài 18. Góc, góc vuông, góc không vuông",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 18,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_circle"
+    ],
+    "description": "Nhận biết góc vuông và góc không vuông.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g3_plane_shapes",
+    "title": "Bài 19. Hình tam giác, hình tứ giác. Hình chữ nhật, hình vuông",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 19,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_angle"
+    ],
+    "description": "Phân biệt tam giác, tứ giác, hình chữ nhật, hình vuông.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g3_draw_practice",
+    "title": "Bài 20. Thực hành vẽ góc vuông, vẽ đường tròn, hình vuông, hình chữ nhật và vẽ trang trí",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 20,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_plane_shapes"
+    ],
+    "description": "Thực hành vẽ hình phẳng và trang trí.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_cube_box",
+    "title": "Bài 21. Khối lập phương, khối hộp hình chữ nhật",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 21,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_draw_practice"
+    ],
+    "description": "Nhận biết khối lập phương và khối hộp chữ nhật.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g3_practice_ch3",
+    "title": "Bài 22. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Làm quen với hình phẳng, hình khối",
+    "chapterIndex": 3,
+    "lessonNo": 22,
+    "domain": "Làm quen với hình phẳng, hình khối",
+    "level": 1,
+    "prerequisite": [
+      "g3_cube_box"
+    ],
+    "description": "Củng cố hình phẳng, hình tròn, góc và hình khối.",
+    "visualization": "solid"
+  },
+  {
+    "id": "g3_mul_2d_1d",
+    "title": "Bài 23. Nhân số có hai chữ số với số có một chữ số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 23,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g3_practice_ch3"
+    ],
+    "description": "Nhân số có hai chữ số với số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_multiply_times",
+    "title": "Bài 24. Gấp một số lên một số lần",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 24,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g3_mul_2d_1d"
+    ],
+    "description": "Gấp một số lên nhiều lần bằng phép nhân.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g3_division_remainder",
+    "title": "Bài 25. Phép chia hết, phép chia có dư",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 25,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g3_multiply_times"
+    ],
+    "description": "Phân biệt chia hết và chia có dư.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_div_2d_1d",
+    "title": "Bài 26. Chia số có hai chữ số cho số có một chữ số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 26,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g3_division_remainder"
+    ],
+    "description": "Chia số có hai chữ số cho số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_reduce_times",
+    "title": "Bài 27. Giảm một số đi một số lần",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 27,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 1,
+    "prerequisite": [
+      "g3_div_2d_1d"
+    ],
+    "description": "Giảm một số đi nhiều lần bằng phép chia.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g3_two_step",
+    "title": "Bài 28. Bài toán giải bằng hai bước tính",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 28,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 2,
+    "prerequisite": [
+      "g3_reduce_times"
+    ],
+    "description": "Giải bài toán cần hai phép tính liên tiếp.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_practice_ch4",
+    "title": "Bài 29. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 100",
+    "chapterIndex": 4,
+    "lessonNo": 29,
+    "domain": "Phép nhân, phép chia trong phạm vi 100",
+    "level": 2,
+    "prerequisite": [
+      "g3_two_step"
+    ],
+    "description": "Củng cố nhân, chia, gấp, giảm và bài toán hai bước.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_millimeter",
+    "title": "Bài 30. Mi - li - mét",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 30,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_practice_ch4"
+    ],
+    "description": "Làm quen đơn vị mi-li-mét (mm).",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_gram",
+    "title": "Bài 31. Gam",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 31,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_millimeter"
+    ],
+    "description": "Làm quen đơn vị gam (g) đo khối lượng nhỏ.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_milliliter",
+    "title": "Bài 32. Mi - li - lít",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 32,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_gram"
+    ],
+    "description": "Làm quen đơn vị mi-li-lít (ml).",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_temperature",
+    "title": "Bài 33. Nhiệt độ, Đơn vị đo nhiệt độ",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 33,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_milliliter"
+    ],
+    "description": "Đọc nhiệt độ và đơn vị độ C.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_measure_exp",
+    "title": "Bài 34. Thực hành và trải nghiệm với các đơn vị mi - li - mét, gam, mi - li - lít, độ C",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 34,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_temperature"
+    ],
+    "description": "Thực hành đo mm, g, ml và nhiệt độ.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_practice_ch5",
+    "title": "Bài 35. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "chapterIndex": 5,
+    "lessonNo": 35,
+    "domain": "Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+    "level": 2,
+    "prerequisite": [
+      "g3_measure_exp"
+    ],
+    "description": "Củng cố mm, g, ml và độ C.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_mul_3d_1d",
+    "title": "Bài 36. Nhân số có ba chữ số với số có một chữ số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 1000",
+    "chapterIndex": 6,
+    "lessonNo": 36,
+    "domain": "Phép nhân, phép chia trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g3_practice_ch5"
+    ],
+    "description": "Nhân số có ba chữ số với số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_div_3d_1d",
+    "title": "Bài 37. Chia số có ba chữ số cho số có một chữ số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 1000",
+    "chapterIndex": 6,
+    "lessonNo": 37,
+    "domain": "Phép nhân, phép chia trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g3_mul_3d_1d"
+    ],
+    "description": "Chia số có ba chữ số cho số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_expression",
+    "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 1000",
+    "chapterIndex": 6,
+    "lessonNo": 38,
+    "domain": "Phép nhân, phép chia trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g3_div_3d_1d"
+    ],
+    "description": "Tính giá trị biểu thức có hai phép tính.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g3_compare_times",
+    "title": "Bài 39. So sánh số lớn gấp mấy lần số bé",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 1000",
+    "chapterIndex": 6,
+    "lessonNo": 39,
+    "domain": "Phép nhân, phép chia trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g3_expression"
+    ],
+    "description": "Tìm số lớn gấp mấy lần số bé bằng phép chia.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g3_practice_ch6",
+    "title": "Bài 40. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Phép nhân, phép chia trong phạm vi 1000",
+    "chapterIndex": 6,
+    "lessonNo": 40,
+    "domain": "Phép nhân, phép chia trong phạm vi 1000",
+    "level": 2,
+    "prerequisite": [
+      "g3_compare_times"
+    ],
+    "description": "Củng cố nhân, chia 1000, biểu thức và gấp lần.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g3_review_mul_div",
+    "title": "Bài 41. Ôn tập phép nhân, phép chia trong phạm vi 100, 1000",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 41,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g3_practice_ch6"
+    ],
+    "description": "Ôn tập nhân, chia và bảng nhân, chia.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_review_expression",
+    "title": "Bài 42. Ôn tập biểu thức số",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 42,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g3_review_mul_div"
+    ],
+    "description": "Ôn tập thứ tự thực hiện phép tính trong biểu thức.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g3_review_geo_hk1",
+    "title": "Bài 43. Ôn tập hình học và đo lường",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 43,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g3_review_expression"
+    ],
+    "description": "Ôn tập hình phẳng, khối và đo lường.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_review_hk1",
+    "title": "Bài 44. Ôn tập chung",
+    "grade": 3,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 44,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g3_review_geo_hk1"
+    ],
+    "description": "Ôn tập tổng hợp học kì 1.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_four_digit",
+    "title": "Bài 45. Các số có bốn chữ số. Số 10000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 10000",
+    "chapterIndex": 8,
+    "lessonNo": 45,
+    "domain": "Các số đến 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_review_hk1"
+    ],
+    "description": "Đọc, viết số có bốn chữ số và số 10000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_compare_10000",
+    "title": "Bài 46. So sánh các số trong phạm vi 10000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 10000",
+    "chapterIndex": 8,
+    "lessonNo": 46,
+    "domain": "Các số đến 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_four_digit"
+    ],
+    "description": "So sánh, sắp xếp số đến 10000.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g3_roman_numerals",
+    "title": "Bài 47. Làm quen với chữ số La Mã",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 10000",
+    "chapterIndex": 8,
+    "lessonNo": 47,
+    "domain": "Các số đến 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_compare_10000"
+    ],
+    "description": "Đọc, viết một số chữ số La Mã cơ bản.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_round_numbers",
+    "title": "Bài 48. Làm tròn số đến hàng chục, hàng trăm",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 10000",
+    "chapterIndex": 8,
+    "lessonNo": 48,
+    "domain": "Các số đến 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_roman_numerals"
+    ],
+    "description": "Làm tròn số đến hàng chục, hàng trăm.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_practice_ch8",
+    "title": "Bài 49. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 10000",
+    "chapterIndex": 8,
+    "lessonNo": 49,
+    "domain": "Các số đến 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_round_numbers"
+    ],
+    "description": "Củng cố số đến 10000 và làm tròn.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_perimeter",
+    "title": "Bài 50. Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Chu vi, diện tích một số hình phẳng",
+    "chapterIndex": 9,
+    "lessonNo": 50,
+    "domain": "Chu vi, diện tích một số hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g3_practice_ch8"
+    ],
+    "description": "Tính chu vi các hình phẳng quen thuộc.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_area_square_cm",
+    "title": "Bài 51. Diện tích của một hình. Xăng - ti - mét vuông",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Chu vi, diện tích một số hình phẳng",
+    "chapterIndex": 9,
+    "lessonNo": 51,
+    "domain": "Chu vi, diện tích một số hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g3_perimeter"
+    ],
+    "description": "Làm quen xăng-ti-mét vuông (cm²) đo diện tích.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g3_area_rect_square",
+    "title": "Bài 52. Diện tích hình chữ nhật, diện tích hình vuông",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Chu vi, diện tích một số hình phẳng",
+    "chapterIndex": 9,
+    "lessonNo": 52,
+    "domain": "Chu vi, diện tích một số hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g3_area_square_cm"
+    ],
+    "description": "Tính diện tích hình chữ nhật và hình vuông.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_practice_ch9",
+    "title": "Bài 53. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Chu vi, diện tích một số hình phẳng",
+    "chapterIndex": 9,
+    "lessonNo": 53,
+    "domain": "Chu vi, diện tích một số hình phẳng",
+    "level": 2,
+    "prerequisite": [
+      "g3_area_rect_square"
+    ],
+    "description": "Củng cố chu vi và diện tích.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_add_10000",
+    "title": "Bài 54. Phép cộng trong phạm vi 10000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "chapterIndex": 10,
+    "lessonNo": 54,
+    "domain": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "level": 2,
+    "prerequisite": [
+      "g3_practice_ch9"
+    ],
+    "description": "Cộng các số có đến bốn chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_sub_10000",
+    "title": "Bài 55. Phép trừ trong phạm vi 10000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "chapterIndex": 10,
+    "lessonNo": 55,
+    "domain": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "level": 3,
+    "prerequisite": [
+      "g3_add_10000"
+    ],
+    "description": "Trừ các số có đến bốn chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_mul_4d_1d",
+    "title": "Bài 56. Nhân số có bốn chữ số với một số có một chữ số",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "chapterIndex": 10,
+    "lessonNo": 56,
+    "domain": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "level": 3,
+    "prerequisite": [
+      "g3_sub_10000"
+    ],
+    "description": "Nhân số có bốn chữ số với số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_div_4d_1d",
+    "title": "Bài 57. Chia số có bốn chữ số cho số có một chữ số",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "chapterIndex": 10,
+    "lessonNo": 57,
+    "domain": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "level": 3,
+    "prerequisite": [
+      "g3_mul_4d_1d"
+    ],
+    "description": "Chia số có bốn chữ số cho số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_practice_ch10",
+    "title": "Bài 58. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "chapterIndex": 10,
+    "lessonNo": 58,
+    "domain": "Cộng, trừ, nhân, chia trong phạm vi 10000",
+    "level": 3,
+    "prerequisite": [
+      "g3_div_4d_1d"
+    ],
+    "description": "Củng cố bốn phép tính trong phạm vi 10000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_five_digit",
+    "title": "Bài 59. Các số có năm chữ số. Số 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100000",
+    "chapterIndex": 11,
+    "lessonNo": 59,
+    "domain": "Các số đến 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_practice_ch10"
+    ],
+    "description": "Đọc, viết số có năm chữ số và số 100000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_compare_100000",
+    "title": "Bài 60. So sánh các số trong phạm vi 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100000",
+    "chapterIndex": 11,
+    "lessonNo": 60,
+    "domain": "Các số đến 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_five_digit"
+    ],
+    "description": "So sánh số có năm chữ số.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g3_round_100000",
+    "title": "Bài 61. Làm tròn số đến hàng nghìn, hàng chục nghìn",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100000",
+    "chapterIndex": 11,
+    "lessonNo": 61,
+    "domain": "Các số đến 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_compare_100000"
+    ],
+    "description": "Làm tròn số đến hàng nghìn, chục nghìn.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_practice_ch11",
+    "title": "Bài 62. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Các số đến 100000",
+    "chapterIndex": 11,
+    "lessonNo": 62,
+    "domain": "Các số đến 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_round_100000"
+    ],
+    "description": "Củng cố số đến 100000 và làm tròn.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_add_100000",
+    "title": "Bài 63. Phép cộng trong phạm vi 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ trong phạm vi 100000",
+    "chapterIndex": 12,
+    "lessonNo": 63,
+    "domain": "Cộng, trừ trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_practice_ch11"
+    ],
+    "description": "Cộng các số có đến năm chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_sub_100000",
+    "title": "Bài 64. Phép trừ trong phạm vi 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ trong phạm vi 100000",
+    "chapterIndex": 12,
+    "lessonNo": 64,
+    "domain": "Cộng, trừ trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_add_100000"
+    ],
+    "description": "Trừ các số có đến năm chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_practice_ch12",
+    "title": "Bài 65. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Cộng, trừ trong phạm vi 100000",
+    "chapterIndex": 12,
+    "lessonNo": 65,
+    "domain": "Cộng, trừ trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_sub_100000"
+    ],
+    "description": "Củng cố cộng, trừ trong phạm vi 100000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_clock_month",
+    "title": "Bài 66. Xem đồng hồ. Tháng - năm",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "chapterIndex": 13,
+    "lessonNo": 66,
+    "domain": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g3_practice_ch12"
+    ],
+    "description": "Đọc giờ và nhận biết tháng, năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_clock_exp",
+    "title": "Bài 67. Thực hành xem đồng hồ, xem lịch",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "chapterIndex": 13,
+    "lessonNo": 67,
+    "domain": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g3_clock_month"
+    ],
+    "description": "Thực hành xem đồng hồ và lịch.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_vnd_money",
+    "title": "Bài 68. Tiền Việt Nam",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "chapterIndex": 13,
+    "lessonNo": 68,
+    "domain": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g3_clock_exp"
+    ],
+    "description": "Nhận biết tiền Việt Nam và tính tiền.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g3_practice_ch13",
+    "title": "Bài 69. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "chapterIndex": 13,
+    "lessonNo": 69,
+    "domain": "Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
+    "level": 3,
+    "prerequisite": [
+      "g3_vnd_money"
+    ],
+    "description": "Củng cố thời gian và tiền Việt Nam.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g3_mul_5d_1d",
+    "title": "Bài 70. Nhân số có năm chữ số với số có một chữ số",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Nhân, chia trong phạm vi 100000",
+    "chapterIndex": 14,
+    "lessonNo": 70,
+    "domain": "Nhân, chia trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_practice_ch13"
+    ],
+    "description": "Nhân số có năm chữ số với số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_div_5d_1d",
+    "title": "Bài 71. Chia số có năm chữ số cho số có một chữ số",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Nhân, chia trong phạm vi 100000",
+    "chapterIndex": 14,
+    "lessonNo": 71,
+    "domain": "Nhân, chia trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_mul_5d_1d"
+    ],
+    "description": "Chia số có năm chữ số cho số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_practice_ch14",
+    "title": "Bài 72. Luyện tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Nhân, chia trong phạm vi 100000",
+    "chapterIndex": 14,
+    "lessonNo": 72,
+    "domain": "Nhân, chia trong phạm vi 100000",
+    "level": 3,
+    "prerequisite": [
+      "g3_div_5d_1d"
+    ],
+    "description": "Củng cố nhân, chia số lớn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_data_collect",
+    "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. Bảng số liệu",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 15,
+    "lessonNo": 73,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g3_practice_ch14"
+    ],
+    "description": "Thu thập, phân loại và lập bảng số liệu.",
+    "visualization": "data"
+  },
+  {
+    "id": "g3_probability",
+    "title": "Bài 74. Khả năng xảy ra của một sự kiện",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 15,
+    "lessonNo": 74,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g3_data_collect"
+    ],
+    "description": "Nhận biết sự kiện chắc chắn, có thể, không thể.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g3_data_exp",
+    "title": "Bài 75. Thực hành và trải nghiệm thu thập, phân loại, ghi chép số liệu, đọc bảng số liệu",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 15,
+    "lessonNo": 75,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g3_probability"
+    ],
+    "description": "Thực hành thu thập và đọc bảng số liệu.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g3_review_numbers",
+    "title": "Bài 76. Ôn tập các số trong phạm vi 10000, 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 76,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_data_exp"
+    ],
+    "description": "Ôn tập số đến 10000 và 100000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g3_review_add_sub",
+    "title": "Bài 77. Ôn tập phép cộng, phép trừ trong phạm vi 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 77,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_review_numbers"
+    ],
+    "description": "Ôn tập cộng, trừ số lớn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_review_mul_div_final",
+    "title": "Bài 78. Ôn tập phép nhân, phép chia trong phạm vi 100000",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 78,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_review_add_sub"
+    ],
+    "description": "Ôn tập nhân, chia số lớn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g3_review_geo_final",
+    "title": "Bài 79. Ôn tập hình học và đo lường",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 79,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_review_mul_div_final"
+    ],
+    "description": "Ôn tập chu vi, diện tích và đo lường.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g3_review_stats",
+    "title": "Bài 80. Ôn tập bảng số liệu, khả năng xảy ra của một sự kiện",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 80,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_review_geo_final"
+    ],
+    "description": "Ôn tập thống kê và xác suất.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g3_review_final",
+    "title": "Bài 81. Ôn tập chung",
+    "grade": 3,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 16,
+    "lessonNo": 81,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g3_review_stats"
+    ],
+    "description": "Ôn tập tổng hợp cuối năm.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g4_review_100000",
+    "title": "Bài 1. Ôn tập các số đến 100 000",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [],
+    "description": "Ôn tập đọc, viết, so sánh số trong phạm vi 100 000.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_add_sub_review_100000",
+    "title": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g4_review_100000"
+    ],
+    "description": "Ôn tập cộng, trừ, nhân, chia trong phạm vi 100 000.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_even_odd",
+    "title": "Bài 3. Số chẵn, số lẻ",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g4_add_sub_review_100000"
+    ],
+    "description": "Nhận biết số chẵn, số lẻ và tính chất của chúng.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g4_algebra_expression",
+    "title": "Bài 4. Biểu thức chứa chữ",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g4_even_odd"
+    ],
+    "description": "Giá trị biểu thức khi biết giá trị chữ; tìm giá trị chữ thỏa điều kiện.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g4_three_step",
+    "title": "Bài 5. Giải bài toán có ba bước tính",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g4_algebra_expression"
+    ],
+    "description": "Giải bài toán cần ba phép tính liên tiếp.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g4_practice_ch1",
+    "title": "Bài 6. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập và bổ sung",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "domain": "Ôn tập và bổ sung",
+    "level": 1,
+    "prerequisite": [
+      "g4_three_step"
+    ],
+    "description": "Củng cố số đến 100 000, biểu thức chữ và bài toán nhiều bước.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_angle_measure",
+    "title": "Bài 7. Đo góc, đơn vị đo góc",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Góc và đơn vị đo góc",
+    "chapterIndex": 2,
+    "lessonNo": 7,
+    "domain": "Góc và đơn vị đo góc",
+    "level": 1,
+    "prerequisite": [
+      "g4_practice_ch1"
+    ],
+    "description": "Đo góc bằng êke, thước đo góc; đơn vị độ.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g4_angle_types",
+    "title": "Bài 8. Góc nhọn, góc tù, góc bẹt",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Góc và đơn vị đo góc",
+    "chapterIndex": 2,
+    "lessonNo": 8,
+    "domain": "Góc và đơn vị đo góc",
+    "level": 1,
+    "prerequisite": [
+      "g4_angle_measure"
+    ],
+    "description": "Phân loại góc nhọn, vuông, tù, bẹt theo số đo.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g4_practice_ch2",
+    "title": "Bài 9. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Góc và đơn vị đo góc",
+    "chapterIndex": 2,
+    "lessonNo": 9,
+    "domain": "Góc và đơn vị đo góc",
+    "level": 1,
+    "prerequisite": [
+      "g4_angle_types"
+    ],
+    "description": "Củng cố đo góc và phân loại góc.",
+    "visualization": "angle"
+  },
+  {
+    "id": "g4_six_digit_million",
+    "title": "Bài 10. Số có sáu chữ số. Số 1 000 000",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 10,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_practice_ch2"
+    ],
+    "description": "Đọc, viết số có sáu chữ số và số một triệu.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_place_value",
+    "title": "Bài 11. Hàng và lớp",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 11,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_six_digit_million"
+    ],
+    "description": "Hàng đơn vị, chục, trăm; lớp đơn vị, nghìn, triệu.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_million_numbers",
+    "title": "Bài 12. Các số trong phạm vi lớp triệu",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 12,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_place_value"
+    ],
+    "description": "Đọc, viết, so sánh số đến lớp triệu.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g4_round_hundred_thousand",
+    "title": "Bài 13. Làm tròn số đến hàng trăm nghìn",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 13,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_million_numbers"
+    ],
+    "description": "Làm tròn số đến hàng trăm nghìn.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_compare_large",
+    "title": "Bài 14. So sánh các số có nhiều chữ số",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 14,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_round_hundred_thousand"
+    ],
+    "description": "So sánh, sắp xếp số có nhiều chữ số.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g4_natural_sequence",
+    "title": "Bài 15. Làm quen với dãy số tự nhiên",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 15,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_compare_large"
+    ],
+    "description": "Nhận biết quy luật dãy số tự nhiên.",
+    "visualization": "numberLine"
+  },
+  {
+    "id": "g4_practice_ch3",
+    "title": "Bài 16. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Số có nhiều chữ số",
+    "chapterIndex": 3,
+    "lessonNo": 16,
+    "domain": "Số có nhiều chữ số",
+    "level": 1,
+    "prerequisite": [
+      "g4_natural_sequence"
+    ],
+    "description": "Củng cố số lớn, làm tròn và dãy số.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_weight_units",
+    "title": "Bài 17. Yến, tạ, tấn",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo đại lượng",
+    "chapterIndex": 4,
+    "lessonNo": 17,
+    "domain": "Một số đơn vị đo đại lượng",
+    "level": 1,
+    "prerequisite": [
+      "g4_practice_ch3"
+    ],
+    "description": "Quan hệ yến, tạ, tấn với ki-lô-gam.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_area_units",
+    "title": "Bài 18. Đề-xi-mét vuông, mét vuông, mi-li-mét vuông",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo đại lượng",
+    "chapterIndex": 4,
+    "lessonNo": 18,
+    "domain": "Một số đơn vị đo đại lượng",
+    "level": 1,
+    "prerequisite": [
+      "g4_weight_units"
+    ],
+    "description": "Nhận biết dm², m², mm² và quy đổi.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_second_century",
+    "title": "Bài 19. Giây, thế kỉ",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo đại lượng",
+    "chapterIndex": 4,
+    "lessonNo": 19,
+    "domain": "Một số đơn vị đo đại lượng",
+    "level": 1,
+    "prerequisite": [
+      "g4_area_units"
+    ],
+    "description": "Giây trong đo thời gian; thế kỉ trong lịch sử.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g4_measure_exp",
+    "title": "Bài 20. Thực hành và trải nghiệm sử dụng một số đơn vị đo đại lượng",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo đại lượng",
+    "chapterIndex": 4,
+    "lessonNo": 20,
+    "domain": "Một số đơn vị đo đại lượng",
+    "level": 1,
+    "prerequisite": [
+      "g4_second_century"
+    ],
+    "description": "Thực hành quy đổi và chọn đơn vị đo phù hợp.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_practice_ch4",
+    "title": "Bài 21. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Một số đơn vị đo đại lượng",
+    "chapterIndex": 4,
+    "lessonNo": 21,
+    "domain": "Một số đơn vị đo đại lượng",
+    "level": 1,
+    "prerequisite": [
+      "g4_measure_exp"
+    ],
+    "description": "Củng cố đơn vị khối lượng, diện tích, thời gian.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_add_large",
+    "title": "Bài 22. Phép cộng các số có nhiều chữ số",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Phép cộng và phép trừ",
+    "chapterIndex": 5,
+    "lessonNo": 22,
+    "domain": "Phép cộng và phép trừ",
+    "level": 1,
+    "prerequisite": [
+      "g4_practice_ch4"
+    ],
+    "description": "Cộng các số có nhiều chữ số có nhớ.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_sub_large",
+    "title": "Bài 23. Phép trừ các số có nhiều chữ số",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Phép cộng và phép trừ",
+    "chapterIndex": 5,
+    "lessonNo": 23,
+    "domain": "Phép cộng và phép trừ",
+    "level": 1,
+    "prerequisite": [
+      "g4_add_large"
+    ],
+    "description": "Trừ các số có nhiều chữ số có mượn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_add_properties",
+    "title": "Bài 24. Tính chất giao hoán và kết hợp của phép cộng",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Phép cộng và phép trừ",
+    "chapterIndex": 5,
+    "lessonNo": 24,
+    "domain": "Phép cộng và phép trừ",
+    "level": 1,
+    "prerequisite": [
+      "g4_sub_large"
+    ],
+    "description": "Áp dụng giao hoán, kết hợp để tính nhanh.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g4_sum_difference",
+    "title": "Bài 25. Tìm hai số khi biết tổng và hiệu của hai số đó",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Phép cộng và phép trừ",
+    "chapterIndex": 5,
+    "lessonNo": 25,
+    "domain": "Phép cộng và phép trừ",
+    "level": 2,
+    "prerequisite": [
+      "g4_add_properties"
+    ],
+    "description": "Tìm hai số khi biết tổng và hiệu.",
+    "visualization": "algebra"
+  },
+  {
+    "id": "g4_practice_ch5",
+    "title": "Bài 26. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Phép cộng và phép trừ",
+    "chapterIndex": 5,
+    "lessonNo": 26,
+    "domain": "Phép cộng và phép trừ",
+    "level": 2,
+    "prerequisite": [
+      "g4_sum_difference"
+    ],
+    "description": "Củng cố cộng, trừ số lớn và bài toán tổng hiệu.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_perpendicular",
+    "title": "Bài 27. Hai đường thẳng vuông góc",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 27,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_practice_ch5"
+    ],
+    "description": "Nhận biết hai đường thẳng vuông góc.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_perpendicular_draw",
+    "title": "Bài 28. Thực hành và trải nghiệm vẽ hai đường thẳng vuông góc",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 28,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_perpendicular"
+    ],
+    "description": "Thực hành vẽ đường vuông góc bằng êke.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_parallel",
+    "title": "Bài 29. Hai đường thẳng song song",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 29,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_perpendicular_draw"
+    ],
+    "description": "Nhận biết hai đường thẳng song song.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_parallel_draw",
+    "title": "Bài 30. Thực hành và trải nghiệm vẽ hai đường thẳng song song",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 30,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_parallel"
+    ],
+    "description": "Thực hành vẽ đường song song.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_parallelogram_rhombus",
+    "title": "Bài 31. Hình bình hành, hình thoi",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 31,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_parallel_draw"
+    ],
+    "description": "Nhận biết hình bình hành và hình thoi.",
+    "visualization": "triangle"
+  },
+  {
+    "id": "g4_practice_ch6",
+    "title": "Bài 32. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Đường vuông góc. Đường thẳng song song",
+    "chapterIndex": 6,
+    "lessonNo": 32,
+    "domain": "Đường vuông góc. Đường thẳng song song",
+    "level": 2,
+    "prerequisite": [
+      "g4_parallelogram_rhombus"
+    ],
+    "description": "Củng cố vuông góc, song song, bình hành, thoi.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_review_million",
+    "title": "Bài 33. Ôn tập các số đến lớp triệu",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 33,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g4_practice_ch6"
+    ],
+    "description": "Ôn tập số đến lớp triệu và làm tròn.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_review_add_sub",
+    "title": "Bài 34. Ôn tập phép cộng, phép trừ",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 34,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g4_review_million"
+    ],
+    "description": "Ôn tập cộng, trừ số lớn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_review_geo_hk1",
+    "title": "Bài 35. Ôn tập hình học",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 35,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g4_review_add_sub"
+    ],
+    "description": "Ôn tập góc, vuông góc, song song, hình tứ giác.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_review_measure_hk1",
+    "title": "Bài 36. Ôn tập đo lường",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 36,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g4_review_geo_hk1"
+    ],
+    "description": "Ôn tập đơn vị đo khối lượng, diện tích, thời gian.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_review_hk1",
+    "title": "Bài 37. Ôn tập chung",
+    "grade": 4,
+    "book": "Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 7,
+    "lessonNo": 37,
+    "domain": "Ôn tập học kì 1",
+    "level": 2,
+    "prerequisite": [
+      "g4_review_measure_hk1"
+    ],
+    "description": "Ôn tập tổng hợp học kì 1.",
+    "visualization": "concept"
+  },
+  {
+    "id": "g4_mul_1d",
+    "title": "Bài 38. Nhân với số có một chữ số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 38,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_review_hk1"
+    ],
+    "description": "Nhân số có nhiều chữ số với số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_div_1d",
+    "title": "Bài 39. Chia cho số có một chữ số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 39,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_mul_1d"
+    ],
+    "description": "Chia số có nhiều chữ số cho số có một chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_mul_properties",
+    "title": "Bài 40. Tính chất giao hoán và kết hợp của phép nhân",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 40,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_div_1d"
+    ],
+    "description": "Áp dụng giao hoán, kết hợp phép nhân.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g4_mul_div_powers10",
+    "title": "Bài 41. Nhân, chia với 10, 100, 1 000, …",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 41,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_mul_properties"
+    ],
+    "description": "Nhân, chia nhanh với 10, 100, 1000...",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_distributive",
+    "title": "Bài 42. Tính chất phân phối của phép nhân đối với phép cộng",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 42,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_mul_div_powers10"
+    ],
+    "description": "a × (b + c) = a × b + a × c.",
+    "visualization": "pemdas"
+  },
+  {
+    "id": "g4_mul_2d",
+    "title": "Bài 43. Nhân với số có hai chữ số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 43,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_distributive"
+    ],
+    "description": "Nhân số có nhiều chữ số với số có hai chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_div_2d",
+    "title": "Bài 44. Chia cho số có hai chữ số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 44,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_mul_2d"
+    ],
+    "description": "Chia số có nhiều chữ số cho số có hai chữ số.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_estimate_calc",
+    "title": "Bài 45. Thực hành và trải nghiệm ước lượng trong tính toán",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 45,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_div_2d"
+    ],
+    "description": "Ước lượng kết quả trước khi tính chính xác.",
+    "visualization": "estimate"
+  },
+  {
+    "id": "g4_average",
+    "title": "Bài 46. Tìm số trung bình cộng",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 46,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_estimate_calc"
+    ],
+    "description": "Số trung bình cộng = tổng : số lượng.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g4_unit_rate",
+    "title": "Bài 47. Bài toán liên quan đến rút về đơn vị",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 47,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_average"
+    ],
+    "description": "Rút về đơn vị rồi nhân hoặc chia tiếp.",
+    "visualization": "ratio"
+  },
+  {
+    "id": "g4_practice_ch8",
+    "title": "Bài 48. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân và phép chia",
+    "chapterIndex": 8,
+    "lessonNo": 48,
+    "domain": "Phép nhân và phép chia",
+    "level": 2,
+    "prerequisite": [
+      "g4_unit_rate"
+    ],
+    "description": "Củng cố nhân, chia, trung bình và rút về đơn vị.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_data_sequence",
+    "title": "Bài 49. Dãy số liệu thống kê",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 9,
+    "lessonNo": 49,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g4_practice_ch8"
+    ],
+    "description": "Đọc, phân tích dãy số liệu.",
+    "visualization": "data"
+  },
+  {
+    "id": "g4_bar_chart",
+    "title": "Bài 50. Biểu đồ cột",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 9,
+    "lessonNo": 50,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g4_data_sequence"
+    ],
+    "description": "Đọc và biểu diễn số liệu bằng biểu đồ cột.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g4_event_frequency",
+    "title": "Bài 51. Số lần xuất hiện của một sự kiện",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 9,
+    "lessonNo": 51,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g4_bar_chart"
+    ],
+    "description": "Đếm số lần xuất hiện sự kiện trong thực nghiệm.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g4_practice_ch9",
+    "title": "Bài 52. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Làm quen với yếu tố thống kê, xác suất",
+    "chapterIndex": 9,
+    "lessonNo": 52,
+    "domain": "Làm quen với yếu tố thống kê, xác suất",
+    "level": 3,
+    "prerequisite": [
+      "g4_event_frequency"
+    ],
+    "description": "Củng cố dãy số liệu, biểu đồ và tần suất.",
+    "visualization": "chart"
+  },
+  {
+    "id": "g4_fraction_concept",
+    "title": "Bài 53. Khái niệm phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 53,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_practice_ch9"
+    ],
+    "description": "Phân số a/b; tử số, mẫu số; phân số bằng nhau.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_fraction_division",
+    "title": "Bài 54. Phân số và phép chia số tự nhiên",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 54,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_fraction_concept"
+    ],
+    "description": "a : b = a/b với b khác 0.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_fraction_properties",
+    "title": "Bài 55. Tính chất cơ bản của phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 55,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_fraction_division"
+    ],
+    "description": "Nhân hoặc chia tử và mẫu với cùng số khác 0.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_simplify_fraction",
+    "title": "Bài 56. Rút gọn phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 56,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_fraction_properties"
+    ],
+    "description": "Chia tử và mẫu cho ước chung lớn nhất.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_common_denominator",
+    "title": "Bài 57. Quy đồng mẫu số các phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 57,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_simplify_fraction"
+    ],
+    "description": "Quy đồng mẫu số để so sánh hoặc tính.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_compare_fraction",
+    "title": "Bài 58. So sánh phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 58,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_common_denominator"
+    ],
+    "description": "So sánh phân số cùng mẫu hoặc quy đồng mẫu.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_practice_ch10",
+    "title": "Bài 59. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phân số",
+    "chapterIndex": 10,
+    "lessonNo": 59,
+    "domain": "Phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_compare_fraction"
+    ],
+    "description": "Củng cố khái niệm, rút gọn, quy đồng, so sánh phân số.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_add_fraction",
+    "title": "Bài 60. Phép cộng phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ phân số",
+    "chapterIndex": 11,
+    "lessonNo": 60,
+    "domain": "Phép cộng, phép trừ phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_practice_ch10"
+    ],
+    "description": "Cộng phân số cùng mẫu hoặc khác mẫu.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_sub_fraction",
+    "title": "Bài 61. Phép trừ phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ phân số",
+    "chapterIndex": 11,
+    "lessonNo": 61,
+    "domain": "Phép cộng, phép trừ phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_add_fraction"
+    ],
+    "description": "Trừ phân số cùng mẫu hoặc khác mẫu.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_practice_ch11",
+    "title": "Bài 62. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép cộng, phép trừ phân số",
+    "chapterIndex": 11,
+    "lessonNo": 62,
+    "domain": "Phép cộng, phép trừ phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_sub_fraction"
+    ],
+    "description": "Củng cố cộng, trừ phân số.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_mul_fraction",
+    "title": "Bài 63. Phép nhân phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia phân số",
+    "chapterIndex": 12,
+    "lessonNo": 63,
+    "domain": "Phép nhân, phép chia phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_practice_ch11"
+    ],
+    "description": "Nhân tử với tử, mẫu với mẫu.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_div_fraction",
+    "title": "Bài 64. Phép chia phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia phân số",
+    "chapterIndex": 12,
+    "lessonNo": 64,
+    "domain": "Phép nhân, phép chia phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_mul_fraction"
+    ],
+    "description": "Chia phân số bằng nhân với nghịch đảo.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_fraction_of_number",
+    "title": "Bài 65. Tìm phân số của một số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia phân số",
+    "chapterIndex": 12,
+    "lessonNo": 65,
+    "domain": "Phép nhân, phép chia phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_div_fraction"
+    ],
+    "description": "a/b của n = n × a : b.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_practice_ch12",
+    "title": "Bài 66. Luyện tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Phép nhân, phép chia phân số",
+    "chapterIndex": 12,
+    "lessonNo": 66,
+    "domain": "Phép nhân, phép chia phân số",
+    "level": 3,
+    "prerequisite": [
+      "g4_fraction_of_number"
+    ],
+    "description": "Củng cố nhân, chia phân số và phân số của một số.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_review_natural",
+    "title": "Bài 67. Ôn tập số tự nhiên",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 67,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_practice_ch12"
+    ],
+    "description": "Ôn tập số đến lớp triệu, làm tròn, dãy số.",
+    "visualization": "place"
+  },
+  {
+    "id": "g4_review_natural_ops",
+    "title": "Bài 68. Ôn tập phép tính với số tự nhiên",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 68,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_natural"
+    ],
+    "description": "Ôn tập cộng, trừ, nhân, chia số lớn.",
+    "visualization": "arithmetic"
+  },
+  {
+    "id": "g4_review_fraction",
+    "title": "Bài 69. Ôn tập phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 69,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_natural_ops"
+    ],
+    "description": "Ôn tập khái niệm, rút gọn, so sánh phân số.",
+    "visualization": "fractionCompare"
+  },
+  {
+    "id": "g4_review_fraction_ops",
+    "title": "Bài 70. Ôn tập phép tính với phân số",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 70,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_fraction"
+    ],
+    "description": "Ôn tập cộng, trừ, nhân, chia phân số.",
+    "visualization": "fractionBar"
+  },
+  {
+    "id": "g4_review_geo_measure_final",
+    "title": "Bài 71. Ôn tập hình học và đo lường",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 71,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_fraction_ops"
+    ],
+    "description": "Ôn tập góc, hình học và đơn vị đo.",
+    "visualization": "geometry"
+  },
+  {
+    "id": "g4_review_stats_final",
+    "title": "Bài 72. Ôn tập một số yếu tố thống kê và xác suất",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 72,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_geo_measure_final"
+    ],
+    "description": "Ôn tập dãy số liệu, biểu đồ, tần suất.",
+    "visualization": "probability"
+  },
+  {
+    "id": "g4_review_final",
+    "title": "Bài 73. Ôn tập chung",
+    "grade": 4,
+    "book": "Tập 2",
+    "chapter": "Ôn tập cuối năm",
+    "chapterIndex": 13,
+    "lessonNo": 73,
+    "domain": "Ôn tập cuối năm",
+    "level": 3,
+    "prerequisite": [
+      "g4_review_stats_final"
+    ],
+    "description": "Ôn tập tổng hợp cuối năm lớp 4.",
+    "visualization": "concept"
   }
 ]

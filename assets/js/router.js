@@ -160,7 +160,7 @@ function renderOnboarding(state) {
         <h1>${isNewAccount ? "Ai sẽ học hôm nay?" : "Bạn đang học lớp mấy?"}</h1>
         <p>${isNewAccount
     ? "Nhập tên người học và chọn lớp. Mỗi người có tiến độ riêng — phù hợp khi nhiều em cùng dùng một máy."
-    : "Chọn lớp để mở đúng lộ trình Toán THCS. Bạn có thể đổi lớp bất cứ lúc nào trên thanh điều hướng."}</p>
+    : "Chọn lớp để mở đúng lộ trình Toán (lớp 1–5, 6–9). Bạn có thể đổi lớp bất cứ lúc nào trên thanh điều hướng."}</p>
         ${isNewAccount ? `
           <label class="onboarding-name">
             <span>Tên người học</span>
@@ -216,8 +216,8 @@ function renderHome(state) {
     <section class="hero-panel">
       <div>
         <span class="eyebrow">Lộ trình hôm nay · ${escapeHtml(state.user.name)} · Lớp ${activeGrade}</span>
-        <h1>Học Hóa mỗi ngày, hiểu rõ từng lỗi sai.</h1>
-        <p>Hoàn thành một bài ngắn, luyện vài câu và xem ngay vì sao phương trình hoặc mô hình chưa đúng.</p>
+        <h1>Học Toán mỗi ngày, hiểu rõ từng lỗi sai.</h1>
+        <p>Hoàn thành một bài ngắn, luyện vài câu và xem ngay vì sao cách tính hoặc lập luận chưa đúng.</p>
         <div class="hero-actions">
           <a class="btn primary" href="#/lesson/${nextSkill.id}">Tiếp tục học</a>
           <a class="btn secondary" href="#/practice/${nextSkill.id}">Luyện nhanh</a>
@@ -301,7 +301,7 @@ function renderSkills(state) {
   return `
     <section class="page-title">
       <span class="eyebrow">Skill Tree</span>
-      <h1>Cây kỹ năng Hóa THCS</h1>
+      <h1>Cây kỹ năng Toán</h1>
       <p>Chọn lớp để bắt đầu. Mỗi nút là một vi kỹ năng; hoàn thành bài trước để mở khóa bài tiếp theo.</p>
     </section>
     <div class="grade-tabs" role="group" aria-label="Chọn lớp">

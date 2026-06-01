@@ -1,7 +1,7 @@
 {
   "name": "MathFlow VN",
   "short_name": "MathFlow",
-  "description": "Ứng dụng học toán THCS theo micro-learning, trực quan hóa và phân tích lỗi sai.",
+  "description": "Ứng dụng học toán lớp 1–5, 6–9 theo micro-learning, trực quan hóa và phân tích lỗi sai.",
   "start_url": "./index.html#/home",
   "display": "standalone",
   "background_color": "#f7fbff",

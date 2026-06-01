@@ -3222,5 +3222,7571 @@
     "question": "Mặt cầu bán kính 3 có diện tích bao nhiêu theo pi?",
     "answer": "36pi",
     "hint": "S=4*pi*r^2=36pi."
+  },
+  {
+    "id": "q_g5_nat_review_1",
+    "skill": "g5_nat_review",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "45 678",
+      "45 768",
+      "45 687",
+      "45 876"
+    ],
+    "answer": "45 876",
+    "hint": "So sánh từ hàng chục nghìn."
+  },
+  {
+    "id": "q_g5_nat_review_2",
+    "skill": "g5_nat_review",
+    "type": "input",
+    "question": "Trong số 52 304, chữ số 2 có giá trị là bao nhiêu?",
+    "answer": "2000",
+    "hint": "Chữ số 2 ở hàng nghìn."
+  },
+  {
+    "id": "q_g5_nat_ops_1",
+    "skill": "g5_nat_ops",
+    "type": "input",
+    "question": "Tính 456 + 278.",
+    "answer": "734",
+    "hint": "Cộng từ hàng đơn vị."
+  },
+  {
+    "id": "q_g5_nat_ops_2",
+    "skill": "g5_nat_ops",
+    "type": "multiple_choice",
+    "question": "864 - 395 bằng bao nhiêu?",
+    "choices": [
+      "469",
+      "559",
+      "569",
+      "479"
+    ],
+    "answer": "469",
+    "hint": "Trừ từng hàng, nhớ nếu cần."
+  },
+  {
+    "id": "q_g5_frac_review_1",
+    "skill": "g5_frac_review",
+    "type": "multiple_choice",
+    "question": "Phân số nào bằng 1/2?",
+    "choices": [
+      "3/6",
+      "2/5",
+      "3/8",
+      "4/9"
+    ],
+    "answer": "3/6",
+    "hint": "Nhân tử và mẫu của 1/2 với 3."
+  },
+  {
+    "id": "q_g5_frac_review_2",
+    "skill": "g5_frac_review",
+    "type": "input",
+    "question": "Rút gọn 8/12.",
+    "answer": "2/3",
+    "hint": "Chia tử và mẫu cho 4."
+  },
+  {
+    "id": "q_g5_frac_decimal_1",
+    "skill": "g5_frac_decimal",
+    "type": "multiple_choice",
+    "question": "75/100 bằng số thập phân nào?",
+    "choices": [
+      "0,75",
+      "7,5",
+      "0,075",
+      "75"
+    ],
+    "answer": "0,75",
+    "hint": "Hai chữ số thập phân."
+  },
+  {
+    "id": "q_g5_frac_decimal_2",
+    "skill": "g5_frac_decimal",
+    "type": "input",
+    "question": "Viết 3/10 dưới dạng số thập phân.",
+    "answer": "0,3",
+    "hint": "Một chữ số sau dấu phẩy."
+  },
+  {
+    "id": "q_g5_frac_ops_1",
+    "skill": "g5_frac_ops",
+    "type": "input",
+    "question": "Tính 1/3 + 1/6.",
+    "answer": "1/2",
+    "hint": "Quy đồng mẫu 6."
+  },
+  {
+    "id": "q_g5_frac_ops_2",
+    "skill": "g5_frac_ops",
+    "type": "multiple_choice",
+    "question": "2/3 · 3/4 bằng bao nhiêu?",
+    "choices": [
+      "1/2",
+      "6/7",
+      "5/7",
+      "2/12"
+    ],
+    "answer": "1/2",
+    "hint": "Nhân tử với tử, mẫu với mẫu."
+  },
+  {
+    "id": "q_g5_frac_add_sub_diff_1",
+    "skill": "g5_frac_add_sub_diff",
+    "type": "input",
+    "question": "Tính 5/6 - 1/4.",
+    "answer": "7/12",
+    "hint": "Mẫu chung 12."
+  },
+  {
+    "id": "q_g5_frac_add_sub_diff_2",
+    "skill": "g5_frac_add_sub_diff",
+    "type": "multiple_choice",
+    "question": "1/2 + 2/5 bằng?",
+    "choices": [
+      "9/10",
+      "3/7",
+      "3/10",
+      "4/10"
+    ],
+    "answer": "9/10",
+    "hint": "Quy đồng mẫu 10."
+  },
+  {
+    "id": "q_g5_mixed_number_1",
+    "skill": "g5_mixed_number",
+    "type": "multiple_choice",
+    "question": "2 1/4 bằng phân số nào?",
+    "choices": [
+      "9/4",
+      "6/4",
+      "8/4",
+      "5/4"
+    ],
+    "answer": "9/4",
+    "hint": "2 = 8/4, cộng thêm 1/4."
+  },
+  {
+    "id": "q_g5_mixed_number_2",
+    "skill": "g5_mixed_number",
+    "type": "input",
+    "question": "Đổi 7/3 thành hỗn số (dạng a b/c).",
+    "answer": "2 1/3",
+    "hint": "7 chia 3 được 2 dư 1."
+  },
+  {
+    "id": "q_g5_geo_measure_review_1",
+    "skill": "g5_geo_measure_review",
+    "type": "input",
+    "question": "Chu vi hình vuông cạnh 7 cm là bao nhiêu cm?",
+    "answer": "28",
+    "hint": "Chu vi = 4 × cạnh."
+  },
+  {
+    "id": "q_g5_geo_measure_review_2",
+    "skill": "g5_geo_measure_review",
+    "type": "multiple_choice",
+    "question": "Diện tích hình chữ nhật dài 9 cm, rộng 4 cm là?",
+    "choices": [
+      "36 cm2",
+      "26 cm2",
+      "13 cm2",
+      "18 cm2"
+    ],
+    "answer": "36 cm2",
+    "hint": "Diện tích = dài × rộng."
+  },
+  {
+    "id": "q_g5_practice_ch1_1",
+    "skill": "g5_practice_ch1",
+    "type": "input",
+    "question": "1/4 của 48 bằng bao nhiêu?",
+    "answer": "12",
+    "hint": "48 : 4."
+  },
+  {
+    "id": "q_g5_practice_ch1_2",
+    "skill": "g5_practice_ch1",
+    "type": "multiple_choice",
+    "question": "Số nào nhỏ nhất?",
+    "choices": [
+      "0,45",
+      "0,405",
+      "0,54",
+      "0,504"
+    ],
+    "answer": "0,405",
+    "hint": "So sánh hàng phần mười trước."
+  },
+  {
+    "id": "q_g5_decimal_intro_1",
+    "skill": "g5_decimal_intro",
+    "type": "multiple_choice",
+    "question": "Số 3,07 đọc là gì?",
+    "choices": [
+      "Ba phẩy không bảy",
+      "Ba phẩy bảy",
+      "Ba mươi không bảy",
+      "Ba phẩy linh bảy"
+    ],
+    "answer": "Ba phẩy không bảy",
+    "hint": "Phần thập phân 07 là không bảy."
+  },
+  {
+    "id": "q_g5_decimal_intro_2",
+    "skill": "g5_decimal_intro",
+    "type": "input",
+    "question": "Viết bằng chữ số: năm phẩy mười hai.",
+    "answer": "5,12",
+    "hint": "Phần nguyên 5, phần thập phân 12."
+  },
+  {
+    "id": "q_g5_decimal_compare_1",
+    "skill": "g5_decimal_compare",
+    "type": "multiple_choice",
+    "question": "Số nào lớn hơn?",
+    "choices": [
+      "2,45",
+      "2,405"
+    ],
+    "answer": "2,45",
+    "hint": "Hàng phần trăm 4 > 0."
+  },
+  {
+    "id": "q_g5_decimal_compare_2",
+    "skill": "g5_decimal_compare",
+    "type": "input",
+    "question": "Điền dấu >, < hoặc =: 0,6 ___ 0,60",
+    "answer": "=",
+    "hint": "Thêm 0 không đổi giá trị."
+  },
+  {
+    "id": "q_g5_decimal_measure_1",
+    "skill": "g5_decimal_measure",
+    "type": "input",
+    "question": "1 kg 250 g viết bằng kg là bao nhiêu?",
+    "answer": "1,25",
+    "hint": "250 g = 0,25 kg."
+  },
+  {
+    "id": "q_g5_decimal_measure_2",
+    "skill": "g5_decimal_measure",
+    "type": "multiple_choice",
+    "question": "1 m 35 cm viết bằng m là?",
+    "choices": [
+      "1,35",
+      "135",
+      "13,5",
+      "0,135"
+    ],
+    "answer": "1,35",
+    "hint": "35 cm = 0,35 m."
+  },
+  {
+    "id": "q_g5_decimal_round_1",
+    "skill": "g5_decimal_round",
+    "type": "input",
+    "question": "Làm tròn 4,68 đến hàng phần mười.",
+    "answer": "4,7",
+    "hint": "Chữ số hàng phần trăm là 8 ≥ 5."
+  },
+  {
+    "id": "q_g5_decimal_round_2",
+    "skill": "g5_decimal_round",
+    "type": "multiple_choice",
+    "question": "3,141 làm tròn đến hàng phần trăm là?",
+    "choices": [
+      "3,14",
+      "3,15",
+      "3,1",
+      "3,141"
+    ],
+    "answer": "3,14",
+    "hint": "Chữ số hàng phần nghìn là 1 < 5."
+  },
+  {
+    "id": "q_g5_practice_ch2_1",
+    "skill": "g5_practice_ch2",
+    "type": "input",
+    "question": "Số nhỏ nhất trong 2,5; 2,05; 2,55 là?",
+    "answer": "2,05",
+    "hint": "So sánh phần nguyên và thập phân."
+  },
+  {
+    "id": "q_g5_practice_ch2_2",
+    "skill": "g5_practice_ch2",
+    "type": "multiple_choice",
+    "question": "0,875 làm tròn đến hàng phần mười là?",
+    "choices": [
+      "0,9",
+      "0,8",
+      "0,88",
+      "1,0"
+    ],
+    "answer": "0,9",
+    "hint": "Hàng phần trăm là 7 ≥ 5."
+  },
+  {
+    "id": "q_g5_area_km_ha_1",
+    "skill": "g5_area_km_ha",
+    "type": "multiple_choice",
+    "question": "1 km² bằng bao nhiêu ha?",
+    "choices": [
+      "100",
+      "1000",
+      "10",
+      "10000"
+    ],
+    "answer": "100",
+    "hint": "1 km² = 100 ha."
+  },
+  {
+    "id": "q_g5_area_km_ha_2",
+    "skill": "g5_area_km_ha",
+    "type": "input",
+    "question": "2 ha bằng bao nhiêu m²?",
+    "answer": "20000",
+    "hint": "1 ha = 10 000 m²."
+  },
+  {
+    "id": "q_g5_area_units_1",
+    "skill": "g5_area_units",
+    "type": "input",
+    "question": "3 m² bằng bao nhiêu cm²?",
+    "answer": "30000",
+    "hint": "1 m² = 10 000 cm²."
+  },
+  {
+    "id": "q_g5_area_units_2",
+    "skill": "g5_area_units",
+    "type": "multiple_choice",
+    "question": "5 000 m² bằng bao nhiêu ha?",
+    "choices": [
+      "0,5",
+      "5",
+      "50",
+      "0,05"
+    ],
+    "answer": "0,5",
+    "hint": "Chia cho 10 000."
+  },
+  {
+    "id": "q_g5_area_practice_exp_1",
+    "skill": "g5_area_practice_exp",
+    "type": "input",
+    "question": "Phòng dài 8 m, rộng 5 m. Diện tích bao nhiêu m²?",
+    "answer": "40",
+    "hint": "8 × 5."
+  },
+  {
+    "id": "q_g5_area_practice_exp_2",
+    "skill": "g5_area_practice_exp",
+    "type": "multiple_choice",
+    "question": "Diện tích nào phù hợp cho sân vận động?",
+    "choices": [
+      "7 000 m²",
+      "7 m²",
+      "70 m²",
+      "700 m²"
+    ],
+    "answer": "7 000 m²",
+    "hint": "Sân vận động rất rộng."
+  },
+  {
+    "id": "q_g5_practice_ch3_1",
+    "skill": "g5_practice_ch3",
+    "type": "input",
+    "question": "0,25 ha = ? m²",
+    "answer": "2500",
+    "hint": "0,25 × 10 000."
+  },
+  {
+    "id": "q_g5_practice_ch3_2",
+    "skill": "g5_practice_ch3",
+    "type": "multiple_choice",
+    "question": "1 km² = ? m²",
+    "choices": [
+      "1000000",
+      "10000",
+      "100000",
+      "1000"
+    ],
+    "answer": "1000000",
+    "hint": "1 km² = 1 000 000 m²."
+  },
+  {
+    "id": "q_g5_decimal_add_1",
+    "skill": "g5_decimal_add",
+    "type": "input",
+    "question": "Tính 12,5 + 3,75.",
+    "answer": "16,25",
+    "hint": "Đặt thẳng dấu phẩy."
+  },
+  {
+    "id": "q_g5_decimal_add_2",
+    "skill": "g5_decimal_add",
+    "type": "multiple_choice",
+    "question": "6,08 + 2,4 bằng?",
+    "choices": [
+      "8,48",
+      "8,08",
+      "6,32",
+      "8,88"
+    ],
+    "answer": "8,48",
+    "hint": "Thêm 0: 2,40."
+  },
+  {
+    "id": "q_g5_decimal_sub_1",
+    "skill": "g5_decimal_sub",
+    "type": "input",
+    "question": "Tính 9,2 - 3,75.",
+    "answer": "5,45",
+    "hint": "Đặt thẳng dấu phẩy."
+  },
+  {
+    "id": "q_g5_decimal_sub_2",
+    "skill": "g5_decimal_sub",
+    "type": "multiple_choice",
+    "question": "15 - 4,36 bằng?",
+    "choices": [
+      "10,64",
+      "11,64",
+      "10,36",
+      "11,36"
+    ],
+    "answer": "10,64",
+    "hint": "Viết 15,00 - 4,36."
+  },
+  {
+    "id": "q_g5_decimal_mul_1",
+    "skill": "g5_decimal_mul",
+    "type": "input",
+    "question": "Tính 1,5 · 0,4.",
+    "answer": "0,6",
+    "hint": "15 × 4 = 60, hai chữ số thập phân."
+  },
+  {
+    "id": "q_g5_decimal_mul_2",
+    "skill": "g5_decimal_mul",
+    "type": "multiple_choice",
+    "question": "2,5 · 3 bằng?",
+    "choices": [
+      "7,5",
+      "75",
+      "0,75",
+      "25"
+    ],
+    "answer": "7,5",
+    "hint": "25 phần mười × 3."
+  },
+  {
+    "id": "q_g5_decimal_div_1",
+    "skill": "g5_decimal_div",
+    "type": "input",
+    "question": "Tính 6,3 : 3.",
+    "answer": "2,1",
+    "hint": "Chia như số tự nhiên."
+  },
+  {
+    "id": "q_g5_decimal_div_2",
+    "skill": "g5_decimal_div",
+    "type": "multiple_choice",
+    "question": "4,8 : 0,6 bằng?",
+    "choices": [
+      "8",
+      "0,8",
+      "80",
+      "0,08"
+    ],
+    "answer": "8",
+    "hint": "Nhân cả hai với 10."
+  },
+  {
+    "id": "q_g5_decimal_scale_1",
+    "skill": "g5_decimal_scale",
+    "type": "input",
+    "question": "3,45 · 100 = ?",
+    "answer": "345",
+    "hint": "Dịch dấu phẩy sang phải 2 hàng."
+  },
+  {
+    "id": "q_g5_decimal_scale_2",
+    "skill": "g5_decimal_scale",
+    "type": "multiple_choice",
+    "question": "56 : 0,1 bằng?",
+    "choices": [
+      "560",
+      "5,6",
+      "0,56",
+      "5600"
+    ],
+    "answer": "560",
+    "hint": "Chia 0,1 = nhân 10."
+  },
+  {
+    "id": "q_g5_practice_ch4_1",
+    "skill": "g5_practice_ch4",
+    "type": "input",
+    "question": "Tính (2,4 + 1,6) · 0,5.",
+    "answer": "2",
+    "hint": "Trong ngoặc trước."
+  },
+  {
+    "id": "q_g5_practice_ch4_2",
+    "skill": "g5_practice_ch4",
+    "type": "multiple_choice",
+    "question": "7,2 : 0,8 bằng?",
+    "choices": [
+      "9",
+      "0,9",
+      "90",
+      "8"
+    ],
+    "answer": "9",
+    "hint": "Nhân 10 để bỏ dấu phẩy mẫu."
+  },
+  {
+    "id": "q_g5_triangle_1",
+    "skill": "g5_triangle",
+    "type": "input",
+    "question": "Tam giác đáy 12 cm, cao 5 cm. Diện tích?",
+    "answer": "30",
+    "hint": "12 × 5 : 2."
+  },
+  {
+    "id": "q_g5_triangle_2",
+    "skill": "g5_triangle",
+    "type": "multiple_choice",
+    "question": "Diện tích tam giác = ?",
+    "choices": [
+      "đáy × cao : 2",
+      "đáy + cao",
+      "đáy × cao",
+      "(đáy + cao) : 2"
+    ],
+    "answer": "đáy × cao : 2",
+    "hint": "Công thức diện tích tam giác."
+  },
+  {
+    "id": "q_g5_trapezoid_1",
+    "skill": "g5_trapezoid",
+    "type": "input",
+    "question": "Hình thang đáy 6 cm và 10 cm, cao 4 cm. Diện tích?",
+    "answer": "32",
+    "hint": "(6+10)×4:2."
+  },
+  {
+    "id": "q_g5_trapezoid_2",
+    "skill": "g5_trapezoid",
+    "type": "multiple_choice",
+    "question": "Công thức diện tích hình thang?",
+    "choices": [
+      "(a+b)·h:2",
+      "a·b·h",
+      "(a+b)·h",
+      "a·b:2"
+    ],
+    "answer": "(a+b)·h:2",
+    "hint": "a, b là hai đáy."
+  },
+  {
+    "id": "q_g5_circle_1",
+    "skill": "g5_circle",
+    "type": "input",
+    "question": "Hình tròn r = 5 cm. Chu vi (dùng 3,14)?",
+    "answer": "31,4",
+    "hint": "2 × 3,14 × 5."
+  },
+  {
+    "id": "q_g5_circle_2",
+    "skill": "g5_circle",
+    "type": "multiple_choice",
+    "question": "Diện tích hình tròn r = 2 cm (3,14) là?",
+    "choices": [
+      "12,56 cm2",
+      "6,28 cm2",
+      "12,56 cm",
+      "6,28 cm2"
+    ],
+    "answer": "12,56 cm2",
+    "hint": "3,14 × 2 × 2."
+  },
+  {
+    "id": "q_g5_geo_practice_exp_1",
+    "skill": "g5_geo_practice_exp",
+    "type": "multiple_choice",
+    "question": "Dụng cụ vẽ đường tròn là gì?",
+    "choices": [
+      "Compa",
+      "Thước kẻ",
+      "Eke",
+      "Thước dây"
+    ],
+    "answer": "Compa",
+    "hint": "Compa giữ bán kính cố định."
+  },
+  {
+    "id": "q_g5_geo_practice_exp_2",
+    "skill": "g5_geo_practice_exp",
+    "type": "input",
+    "question": "Tam giác có một góc 90° gọi là tam giác gì?",
+    "answer": "vuông",
+    "hint": "Góc vuông bằng 90°."
+  },
+  {
+    "id": "q_g5_practice_ch5_1",
+    "skill": "g5_practice_ch5",
+    "type": "input",
+    "question": "Tam giác đáy 8 cm, cao 6 cm. Diện tích?",
+    "answer": "24",
+    "hint": "8×6:2."
+  },
+  {
+    "id": "q_g5_practice_ch5_2",
+    "skill": "g5_practice_ch5",
+    "type": "multiple_choice",
+    "question": "Hình tròn d = 10 cm, r = ?",
+    "choices": [
+      "5 cm",
+      "10 cm",
+      "20 cm",
+      "2,5 cm"
+    ],
+    "answer": "5 cm",
+    "hint": "r = d : 2."
+  },
+  {
+    "id": "q_g5_review_decimal_1",
+    "skill": "g5_review_decimal",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "3,405",
+      "3,45",
+      "3,504",
+      "3,054"
+    ],
+    "answer": "3,504",
+    "hint": "So sánh từng hàng."
+  },
+  {
+    "id": "q_g5_review_decimal_2",
+    "skill": "g5_review_decimal",
+    "type": "input",
+    "question": "0,8 + 0,35 = ?",
+    "answer": "1,15",
+    "hint": "Đặt thẳng dấu phẩy."
+  },
+  {
+    "id": "q_g5_review_decimal_ops_1",
+    "skill": "g5_review_decimal_ops",
+    "type": "input",
+    "question": "1,2 · 2,5 = ?",
+    "answer": "3",
+    "hint": "12×25=300, hai chữ số thập phân."
+  },
+  {
+    "id": "q_g5_review_decimal_ops_2",
+    "skill": "g5_review_decimal_ops",
+    "type": "multiple_choice",
+    "question": "9,6 : 3 = ?",
+    "choices": [
+      "3,2",
+      "32",
+      "0,32",
+      "2,3"
+    ],
+    "answer": "3,2",
+    "hint": "Chia như số tự nhiên."
+  },
+  {
+    "id": "q_g5_review_shapes_1",
+    "skill": "g5_review_shapes",
+    "type": "multiple_choice",
+    "question": "Hình nào có một cặp cạnh đối song song?",
+    "choices": [
+      "Hình thang",
+      "Hình vuông",
+      "Tam giác đều",
+      "Hình tròn"
+    ],
+    "answer": "Hình thang",
+    "hint": "Thang có một cặp đáy song song."
+  },
+  {
+    "id": "q_g5_review_shapes_2",
+    "skill": "g5_review_shapes",
+    "type": "input",
+    "question": "Hình tròn có bao nhiêu trục đối xứng?",
+    "answer": "vô số",
+    "hint": "Mọi đường kính đều là trục đối xứng."
+  },
+  {
+    "id": "q_g5_review_area_perim_1",
+    "skill": "g5_review_area_perim",
+    "type": "input",
+    "question": "Hình vuông cạnh 6 cm. Diện tích?",
+    "answer": "36",
+    "hint": "6×6."
+  },
+  {
+    "id": "q_g5_review_area_perim_2",
+    "skill": "g5_review_area_perim",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật 5×3 cm là?",
+    "choices": [
+      "16 cm",
+      "15 cm",
+      "8 cm",
+      "30 cm"
+    ],
+    "answer": "16 cm",
+    "hint": "(5+3)×2."
+  },
+  {
+    "id": "q_g5_review_measure_1",
+    "skill": "g5_review_measure",
+    "type": "input",
+    "question": "1,5 m² = ? cm²",
+    "answer": "15000",
+    "hint": "1 m² = 10 000 cm²."
+  },
+  {
+    "id": "q_g5_review_measure_2",
+    "skill": "g5_review_measure",
+    "type": "multiple_choice",
+    "question": "1 ha = ? m²",
+    "choices": [
+      "10000",
+      "100000",
+      "1000",
+      "1000000"
+    ],
+    "answer": "10000",
+    "hint": "1 ha = 10 000 m²."
+  },
+  {
+    "id": "q_g5_review_hk1_1",
+    "skill": "g5_review_hk1",
+    "type": "input",
+    "question": "2,75 + 1,25 = ?",
+    "answer": "4",
+    "hint": "Cộng phần thập phân."
+  },
+  {
+    "id": "q_g5_review_hk1_2",
+    "skill": "g5_review_hk1",
+    "type": "multiple_choice",
+    "question": "Diện tích tam giác đáy 10, cao 4?",
+    "choices": [
+      "20",
+      "40",
+      "14",
+      "24"
+    ],
+    "answer": "20",
+    "hint": "10×4:2."
+  },
+  {
+    "id": "q_g5_ratio_percent_1",
+    "skill": "g5_ratio_percent",
+    "type": "multiple_choice",
+    "question": "Tỉ số 2:5 nghĩa là gì?",
+    "choices": [
+      "Chia thành 2 phần và 5 phần",
+      "2 + 5 = 7",
+      "2 × 5 = 10",
+      "2/5 = 10"
+    ],
+    "answer": "Chia thành 2 phần và 5 phần",
+    "hint": "Tỉ số so sánh hai phần."
+  },
+  {
+    "id": "q_g5_ratio_percent_2",
+    "skill": "g5_ratio_percent",
+    "type": "input",
+    "question": "25% = ?/100",
+    "answer": "25",
+    "hint": "Phần trăm có mẫu 100."
+  },
+  {
+    "id": "q_g5_map_scale_1",
+    "skill": "g5_map_scale",
+    "type": "input",
+    "question": "Bản đồ tỉ lệ 1:200 000, 3 cm trên bản đồ = ? km thực tế",
+    "answer": "6",
+    "hint": "3×200 000 cm = 600 000 cm = 6 km."
+  },
+  {
+    "id": "q_g5_map_scale_2",
+    "skill": "g5_map_scale",
+    "type": "multiple_choice",
+    "question": "Tỉ lệ 1:50 000 nghĩa 1 cm trên bản đồ là?",
+    "choices": [
+      "500 m thực tế",
+      "50 m",
+      "5 km",
+      "500 km"
+    ],
+    "answer": "500 m thực tế",
+    "hint": "50 000 cm = 500 m."
+  },
+  {
+    "id": "q_g5_sum_ratio_1",
+    "skill": "g5_sum_ratio",
+    "type": "input",
+    "question": "Tổng 48, tỉ số 1:3. Số nhỏ hơn?",
+    "answer": "12",
+    "hint": "Tổng 4 phần, mỗi phần 12."
+  },
+  {
+    "id": "q_g5_sum_ratio_2",
+    "skill": "g5_sum_ratio",
+    "type": "multiple_choice",
+    "question": "Tổng 60, tỉ số 2:3. Số lớn hơn?",
+    "choices": [
+      "36",
+      "24",
+      "30",
+      "40"
+    ],
+    "answer": "36",
+    "hint": "60:5×3=36."
+  },
+  {
+    "id": "q_g5_diff_ratio_1",
+    "skill": "g5_diff_ratio",
+    "type": "input",
+    "question": "Hiệu 12, tỉ số 5:3. Số lớn hơn?",
+    "answer": "30",
+    "hint": "Hiệu 2 phần = 12, mỗi phần 6, số lớn 30."
+  },
+  {
+    "id": "q_g5_diff_ratio_2",
+    "skill": "g5_diff_ratio",
+    "type": "multiple_choice",
+    "question": "Hiệu 10, tỉ số 7:2. Số nhỏ hơn?",
+    "choices": [
+      "4",
+      "14",
+      "20",
+      "10"
+    ],
+    "answer": "4",
+    "hint": "Hiệu 5 phần = 10."
+  },
+  {
+    "id": "q_g5_find_percent_1",
+    "skill": "g5_find_percent",
+    "type": "input",
+    "question": "15 là bao nhiêu % của 60?",
+    "answer": "25",
+    "hint": "15:60×100=25%."
+  },
+  {
+    "id": "q_g5_find_percent_2",
+    "skill": "g5_find_percent",
+    "type": "multiple_choice",
+    "question": "8/20 = ?%",
+    "choices": [
+      "40",
+      "80",
+      "20",
+      "8"
+    ],
+    "answer": "40",
+    "hint": "8:20×100=40%."
+  },
+  {
+    "id": "q_g5_percent_value_1",
+    "skill": "g5_percent_value",
+    "type": "input",
+    "question": "30% của 200 là bao nhiêu?",
+    "answer": "60",
+    "hint": "200×30:100."
+  },
+  {
+    "id": "q_g5_percent_value_2",
+    "skill": "g5_percent_value",
+    "type": "multiple_choice",
+    "question": "12,5% của 80 là?",
+    "choices": [
+      "10",
+      "12,5",
+      "8",
+      "100"
+    ],
+    "answer": "10",
+    "hint": "80×0,125=10."
+  },
+  {
+    "id": "q_g5_calculator_1",
+    "skill": "g5_calculator",
+    "type": "multiple_choice",
+    "question": "Máy tính cầm tay dùng để?",
+    "choices": [
+      "Tính toán nhanh và kiểm tra",
+      "Vẽ hình",
+      "Đo góc",
+      "Viết văn"
+    ],
+    "answer": "Tính toán nhanh và kiểm tra",
+    "hint": "Hỗ trợ tính toán số học."
+  },
+  {
+    "id": "q_g5_calculator_2",
+    "skill": "g5_calculator",
+    "type": "input",
+    "question": "Dùng máy tính: 15% của 240 = ?",
+    "answer": "36",
+    "hint": "240×15÷100."
+  },
+  {
+    "id": "q_g5_calculator_exp_1",
+    "skill": "g5_calculator_exp",
+    "type": "input",
+    "question": "(48+52)×0,25 = ?",
+    "answer": "25",
+    "hint": "Tính trong ngoặc trước."
+  },
+  {
+    "id": "q_g5_calculator_exp_2",
+    "skill": "g5_calculator_exp",
+    "type": "multiple_choice",
+    "question": "Kết quả 200×12% là?",
+    "choices": [
+      "24",
+      "240",
+      "2,4",
+      "1200"
+    ],
+    "answer": "24",
+    "hint": "200×12÷100."
+  },
+  {
+    "id": "q_g5_practice_ch7_1",
+    "skill": "g5_practice_ch7",
+    "type": "input",
+    "question": "Tổng 63, tỉ số 4:5. Số thứ hai?",
+    "answer": "35",
+    "hint": "63:9×5."
+  },
+  {
+    "id": "q_g5_practice_ch7_2",
+    "skill": "g5_practice_ch7",
+    "type": "multiple_choice",
+    "question": "20% của 150?",
+    "choices": [
+      "30",
+      "20",
+      "75",
+      "3"
+    ],
+    "answer": "30",
+    "hint": "150×0,2."
+  },
+  {
+    "id": "q_g5_volume_intro_1",
+    "skill": "g5_volume_intro",
+    "type": "multiple_choice",
+    "question": "Thể tích đo gì?",
+    "choices": [
+      "Dung tích không gian hình chiếm",
+      "Diện tích mặt",
+      "Chu vi",
+      "Độ dài cạnh"
+    ],
+    "answer": "Dung tích không gian hình chiếm",
+    "hint": "Thể tích là đo lường 3D."
+  },
+  {
+    "id": "q_g5_volume_intro_2",
+    "skill": "g5_volume_intro",
+    "type": "input",
+    "question": "1 lít = ? dm³",
+    "answer": "1",
+    "hint": "1 lít bằng 1 dm³."
+  },
+  {
+    "id": "q_g5_volume_cm_dm_1",
+    "skill": "g5_volume_cm_dm",
+    "type": "input",
+    "question": "1 dm³ = ? cm³",
+    "answer": "1000",
+    "hint": "Nhân 10 mỗi chiều."
+  },
+  {
+    "id": "q_g5_volume_cm_dm_2",
+    "skill": "g5_volume_cm_dm",
+    "type": "multiple_choice",
+    "question": "500 cm³ = ? dm³",
+    "choices": [
+      "0,5",
+      "5",
+      "50",
+      "0,05"
+    ],
+    "answer": "0,5",
+    "hint": "Chia 1000."
+  },
+  {
+    "id": "q_g5_volume_m_1",
+    "skill": "g5_volume_m",
+    "type": "input",
+    "question": "2 m³ = ? dm³",
+    "answer": "2000",
+    "hint": "1 m³ = 1000 dm³."
+  },
+  {
+    "id": "q_g5_volume_m_2",
+    "skill": "g5_volume_m",
+    "type": "multiple_choice",
+    "question": "1 m³ = ? cm³",
+    "choices": [
+      "1000000",
+      "1000",
+      "10000",
+      "100000"
+    ],
+    "answer": "1000000",
+    "hint": "10^6 cm³."
+  },
+  {
+    "id": "q_g5_practice_ch8_1",
+    "skill": "g5_practice_ch8",
+    "type": "input",
+    "question": "3000 cm³ = ? dm³",
+    "answer": "3",
+    "hint": "Chia 1000."
+  },
+  {
+    "id": "q_g5_practice_ch8_2",
+    "skill": "g5_practice_ch8",
+    "type": "multiple_choice",
+    "question": "0,002 m³ = ? dm³",
+    "choices": [
+      "2",
+      "20",
+      "0,2",
+      "200"
+    ],
+    "answer": "2",
+    "hint": "Nhân 1000."
+  },
+  {
+    "id": "q_g5_nets_1",
+    "skill": "g5_nets",
+    "type": "multiple_choice",
+    "question": "Hình lập phương có mấy mặt trong hình khai triển?",
+    "choices": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "answer": "6",
+    "hint": "6 mặt vuông bằng nhau."
+  },
+  {
+    "id": "q_g5_nets_2",
+    "skill": "g5_nets",
+    "type": "input",
+    "question": "Hình hộp chữ nhật có mấy mặt?",
+    "answer": "6",
+    "hint": "Gồm 6 mặt chữ nhật."
+  },
+  {
+    "id": "q_g5_box_surface_1",
+    "skill": "g5_box_surface",
+    "type": "input",
+    "question": "Hộp 4×3×2 cm. S xung quanh?",
+    "answer": "28",
+    "hint": "Chu vi đáy (4+3)×2=14, × cao 2=28."
+  },
+  {
+    "id": "q_g5_box_surface_2",
+    "skill": "g5_box_surface",
+    "type": "multiple_choice",
+    "question": "S toàn phần hộp = S xq + ?",
+    "choices": [
+      "2 × S đáy",
+      "S đáy",
+      "3 × S đáy",
+      "Chu vi đáy"
+    ],
+    "answer": "2 × S đáy",
+    "hint": "Hai mặt đáy trên và dưới."
+  },
+  {
+    "id": "q_g5_cube_surface_1",
+    "skill": "g5_cube_surface",
+    "type": "input",
+    "question": "Lập phương cạnh 3 cm. S toàn phần?",
+    "answer": "54",
+    "hint": "6×3×3."
+  },
+  {
+    "id": "q_g5_cube_surface_2",
+    "skill": "g5_cube_surface",
+    "type": "multiple_choice",
+    "question": "S 1 mặt lập phương cạnh a là?",
+    "choices": [
+      "a²",
+      "4a",
+      "6a²",
+      "a³"
+    ],
+    "answer": "a²",
+    "hint": "Mặt là hình vuông."
+  },
+  {
+    "id": "q_g5_box_volume_1",
+    "skill": "g5_box_volume",
+    "type": "input",
+    "question": "Hộp 5×4×3 cm. Thể tích?",
+    "answer": "60",
+    "hint": "5×4×3."
+  },
+  {
+    "id": "q_g5_box_volume_2",
+    "skill": "g5_box_volume",
+    "type": "multiple_choice",
+    "question": "V hộp chữ nhật = ?",
+    "choices": [
+      "dài × rộng × cao",
+      "dài + rộng + cao",
+      "2(dài+rộng)×cao",
+      "dài × rộng"
+    ],
+    "answer": "dài × rộng × cao",
+    "hint": "Nhân ba kích thước."
+  },
+  {
+    "id": "q_g5_cube_volume_1",
+    "skill": "g5_cube_volume",
+    "type": "input",
+    "question": "Lập phương cạnh 4 cm. V = ?",
+    "answer": "64",
+    "hint": "4×4×4."
+  },
+  {
+    "id": "q_g5_cube_volume_2",
+    "skill": "g5_cube_volume",
+    "type": "multiple_choice",
+    "question": "Cạnh 5 cm thì V = ?",
+    "choices": [
+      "125 cm3",
+      "25 cm3",
+      "15 cm3",
+      "75 cm3"
+    ],
+    "answer": "125 cm3",
+    "hint": "5³=125."
+  },
+  {
+    "id": "q_g5_volume_practice_exp_1",
+    "skill": "g5_volume_practice_exp",
+    "type": "multiple_choice",
+    "question": "Thể tích hộp sữa 1 lít khoảng?",
+    "choices": [
+      "1 dm3",
+      "1 cm3",
+      "1 m3",
+      "10 dm3"
+    ],
+    "answer": "1 dm3",
+    "hint": "1 lít = 1 dm³."
+  },
+  {
+    "id": "q_g5_volume_practice_exp_2",
+    "skill": "g5_volume_practice_exp",
+    "type": "input",
+    "question": "Hộp 10×10×10 cm có V = ? cm³",
+    "answer": "1000",
+    "hint": "10³=1000=1 dm³."
+  },
+  {
+    "id": "q_g5_practice_ch9_1",
+    "skill": "g5_practice_ch9",
+    "type": "input",
+    "question": "Hộp 6×2×3 cm. V = ?",
+    "answer": "36",
+    "hint": "6×2×3."
+  },
+  {
+    "id": "q_g5_practice_ch9_2",
+    "skill": "g5_practice_ch9",
+    "type": "multiple_choice",
+    "question": "Lập phương cạnh 2 cm, S tp = ?",
+    "choices": [
+      "24 cm2",
+      "8 cm2",
+      "12 cm2",
+      "6 cm2"
+    ],
+    "answer": "24 cm2",
+    "hint": "6×4=24."
+  },
+  {
+    "id": "q_g5_time_units_1",
+    "skill": "g5_time_units",
+    "type": "multiple_choice",
+    "question": "1 giờ = ? phút",
+    "choices": [
+      "60",
+      "100",
+      "30",
+      "24"
+    ],
+    "answer": "60",
+    "hint": "1 giờ có 60 phút."
+  },
+  {
+    "id": "q_g5_time_units_2",
+    "skill": "g5_time_units",
+    "type": "input",
+    "question": "2 giờ 15 phút = ? phút",
+    "answer": "135",
+    "hint": "2×60+15."
+  },
+  {
+    "id": "q_g5_time_add_sub_1",
+    "skill": "g5_time_add_sub",
+    "type": "input",
+    "question": "1 giờ 40 phút + 35 phút = ? (viết dạng X giờ Y phút)",
+    "answer": "2 giờ 15 phút",
+    "hint": "75 phút = 1 giờ 15 phút."
+  },
+  {
+    "id": "q_g5_time_add_sub_2",
+    "skill": "g5_time_add_sub",
+    "type": "multiple_choice",
+    "question": "2 giờ 10 phút - 45 phút = ?",
+    "choices": [
+      "1 giờ 25 phút",
+      "1 giờ 35 phút",
+      "1 giờ 15 phút",
+      "55 phút"
+    ],
+    "answer": "1 giờ 25 phút",
+    "hint": "Quy về phút rồi trừ."
+  },
+  {
+    "id": "q_g5_time_mul_div_1",
+    "skill": "g5_time_mul_div",
+    "type": "input",
+    "question": "40 phút × 3 = ? phút",
+    "answer": "120",
+    "hint": "40×3."
+  },
+  {
+    "id": "q_g5_time_mul_div_2",
+    "skill": "g5_time_mul_div",
+    "type": "multiple_choice",
+    "question": "180 phút = ? giờ",
+    "choices": [
+      "3",
+      "2,5",
+      "4",
+      "2"
+    ],
+    "answer": "3",
+    "hint": "180:60=3."
+  },
+  {
+    "id": "q_g5_speed_1",
+    "skill": "g5_speed",
+    "type": "input",
+    "question": "Đi 120 km trong 3 giờ. Vận tốc?",
+    "answer": "40",
+    "hint": "120:3 km/h."
+  },
+  {
+    "id": "q_g5_speed_2",
+    "skill": "g5_speed",
+    "type": "multiple_choice",
+    "question": "Công thức vận tốc?",
+    "choices": [
+      "v = s : t",
+      "v = s × t",
+      "v = t : s",
+      "s = v : t"
+    ],
+    "answer": "v = s : t",
+    "hint": "Quãng đường chia thời gian."
+  },
+  {
+    "id": "q_g5_distance_time_1",
+    "skill": "g5_distance_time",
+    "type": "input",
+    "question": "v = 50 km/h, t = 2 h. Quãng đường?",
+    "answer": "100",
+    "hint": "50×2."
+  },
+  {
+    "id": "q_g5_distance_time_2",
+    "skill": "g5_distance_time",
+    "type": "multiple_choice",
+    "question": "s = 90 km, v = 30 km/h. t = ?",
+    "choices": [
+      "3 giờ",
+      "30 giờ",
+      "270 giờ",
+      "0,3 giờ"
+    ],
+    "answer": "3 giờ",
+    "hint": "90:30=3."
+  },
+  {
+    "id": "q_g5_motion_practice_exp_1",
+    "skill": "g5_motion_practice_exp",
+    "type": "input",
+    "question": "Xe 60 km/h đi 0,5 giờ. Quãng đường khoảng?",
+    "answer": "30",
+    "hint": "60×0,5."
+  },
+  {
+    "id": "q_g5_motion_practice_exp_2",
+    "skill": "g5_motion_practice_exp",
+    "type": "multiple_choice",
+    "question": "Đơn vị vận tốc phổ biến trên đường?",
+    "choices": [
+      "km/h",
+      "cm/phút",
+      "m/ngày",
+      "km/phút"
+    ],
+    "answer": "km/h",
+    "hint": "Km trên giờ."
+  },
+  {
+    "id": "q_g5_practice_ch10_1",
+    "skill": "g5_practice_ch10",
+    "type": "input",
+    "question": "Đi 75 km với 25 km/h. Thời gian?",
+    "answer": "3",
+    "hint": "75:25 giờ."
+  },
+  {
+    "id": "q_g5_practice_ch10_2",
+    "skill": "g5_practice_ch10",
+    "type": "multiple_choice",
+    "question": "2 giờ 30 phút = ? giờ (số thập phân)",
+    "choices": [
+      "2,5",
+      "2,3",
+      "2,05",
+      "230"
+    ],
+    "answer": "2,5",
+    "hint": "30 phút = 0,5 giờ."
+  },
+  {
+    "id": "q_g5_data_collect_1",
+    "skill": "g5_data_collect",
+    "type": "input",
+    "question": "Điểm: 7,8,6,9. Sắp xếp tăng dần, điểm cao nhất?",
+    "answer": "9",
+    "hint": "Sau sắp xếp: 6,7,8,9."
+  },
+  {
+    "id": "q_g5_data_collect_2",
+    "skill": "g5_data_collect",
+    "type": "multiple_choice",
+    "question": "Thu thập dữ liệu là?",
+    "choices": [
+      "Ghi lại thông tin quan sát được",
+      "Vẽ hình tròn",
+      "Tính chu vi",
+      "Giải phương trình"
+    ],
+    "answer": "Ghi lại thông tin quan sát được",
+    "hint": "Dữ liệu từ khảo sát, đo đếm."
+  },
+  {
+    "id": "q_g5_pie_chart_1",
+    "skill": "g5_pie_chart",
+    "type": "input",
+    "question": "25% trên quạt tròn = ? độ",
+    "answer": "90",
+    "hint": "25%×360=90."
+  },
+  {
+    "id": "q_g5_pie_chart_2",
+    "skill": "g5_pie_chart",
+    "type": "multiple_choice",
+    "question": "Biểu đồ quạt tròn phù hợp biểu diễn?",
+    "choices": [
+      "Cơ cấu phần trăm",
+      "Xu hướng thời gian",
+      "Đo chiều cao",
+      "Tính chu vi"
+    ],
+    "answer": "Cơ cấu phần trăm",
+    "hint": "Mỗi quạt là một phần trăm."
+  },
+  {
+    "id": "q_g5_probability_ratio_1",
+    "skill": "g5_probability_ratio",
+    "type": "input",
+    "question": "Tung xu 20 lần, sấp 9 lần. Tỉ số sấp?",
+    "answer": "9/20",
+    "hint": "9 chia 20."
+  },
+  {
+    "id": "q_g5_probability_ratio_2",
+    "skill": "g5_probability_ratio",
+    "type": "multiple_choice",
+    "question": "Gieo xúc xắc 30 lần, ra 5 được 6 lần. Tỉ số?",
+    "choices": [
+      "6/30",
+      "5/30",
+      "30/6",
+      "1/30"
+    ],
+    "answer": "6/30",
+    "hint": "Số lần ra 5 chia tổng lần gieo."
+  },
+  {
+    "id": "q_g5_stats_practice_exp_1",
+    "skill": "g5_stats_practice_exp",
+    "type": "multiple_choice",
+    "question": "40% trên quạt tròn = ? độ",
+    "choices": [
+      "144",
+      "40",
+      "360",
+      "72"
+    ],
+    "answer": "144",
+    "hint": "40%×360=144."
+  },
+  {
+    "id": "q_g5_stats_practice_exp_2",
+    "skill": "g5_stats_practice_exp",
+    "type": "input",
+    "question": "Có 20 bạn, 8 thích bóng rổ. Tỉ lệ?",
+    "answer": "8/20",
+    "hint": "8 chia 20."
+  },
+  {
+    "id": "q_g5_practice_ch11_1",
+    "skill": "g5_practice_ch11",
+    "type": "input",
+    "question": "Tung xu 10 lần, ngửa 7 lần. Tỉ số ngửa?",
+    "answer": "7/10",
+    "hint": "7:10."
+  },
+  {
+    "id": "q_g5_practice_ch11_2",
+    "skill": "g5_practice_ch11",
+    "type": "multiple_choice",
+    "question": "50% trên quạt tròn chiếm?",
+    "choices": [
+      "Nửa hình tròn",
+      "1/4 hình tròn",
+      "Toàn hình tròn",
+      "1/8 hình tròn"
+    ],
+    "answer": "Nửa hình tròn",
+    "hint": "50% = 180°."
+  },
+  {
+    "id": "q_g5_review_numbers_1",
+    "skill": "g5_review_numbers",
+    "type": "multiple_choice",
+    "question": "3/4 = ?",
+    "choices": [
+      "0,75",
+      "0,34",
+      "3,4",
+      "0,43"
+    ],
+    "answer": "0,75",
+    "hint": "3:4=0,75."
+  },
+  {
+    "id": "q_g5_review_numbers_2",
+    "skill": "g5_review_numbers",
+    "type": "input",
+    "question": "Số lớn nhất: 67 245; 67 425; 67 524?",
+    "answer": "67524",
+    "hint": "So sánh từ hàng chục nghìn."
+  },
+  {
+    "id": "q_g5_review_ops_1",
+    "skill": "g5_review_ops",
+    "type": "input",
+    "question": "12 + 8 : 2 = ?",
+    "answer": "16",
+    "hint": "Chia trước: 8:2=4, 12+4=16."
+  },
+  {
+    "id": "q_g5_review_ops_2",
+    "skill": "g5_review_ops",
+    "type": "multiple_choice",
+    "question": "(3+5)×2 = ?",
+    "choices": [
+      "16",
+      "11",
+      "10",
+      "13"
+    ],
+    "answer": "16",
+    "hint": "Ngoặc trước: 8×2."
+  },
+  {
+    "id": "q_g5_review_ratio_percent_1",
+    "skill": "g5_review_ratio_percent",
+    "type": "input",
+    "question": "20% của 250?",
+    "answer": "50",
+    "hint": "250×0,2."
+  },
+  {
+    "id": "q_g5_review_ratio_percent_2",
+    "skill": "g5_review_ratio_percent",
+    "type": "multiple_choice",
+    "question": "Tổng 45, tỉ số 2:7. Số lớn?",
+    "choices": [
+      "35",
+      "10",
+      "25",
+      "30"
+    ],
+    "answer": "35",
+    "hint": "45:9×7."
+  },
+  {
+    "id": "q_g5_review_geometry_1",
+    "skill": "g5_review_geometry",
+    "type": "input",
+    "question": "Tam giác đáy 10, cao 8. Diện tích?",
+    "answer": "40",
+    "hint": "10×8:2."
+  },
+  {
+    "id": "q_g5_review_geometry_2",
+    "skill": "g5_review_geometry",
+    "type": "multiple_choice",
+    "question": "Hình tròn r=4, C (3,14)?",
+    "choices": [
+      "25,12",
+      "12,56",
+      "50,24",
+      "16"
+    ],
+    "answer": "25,12",
+    "hint": "2×3,14×4."
+  },
+  {
+    "id": "q_g5_review_measure_final_1",
+    "skill": "g5_review_measure_final",
+    "type": "input",
+    "question": "3 dm³ = ? cm³",
+    "answer": "3000",
+    "hint": "×1000."
+  },
+  {
+    "id": "q_g5_review_measure_final_2",
+    "skill": "g5_review_measure_final",
+    "type": "multiple_choice",
+    "question": "1 m³ = ? lít",
+    "choices": [
+      "1000",
+      "1",
+      "100",
+      "10000"
+    ],
+    "answer": "1000",
+    "hint": "1 m³=1000 dm³=1000 lít."
+  },
+  {
+    "id": "q_g5_review_motion_1",
+    "skill": "g5_review_motion",
+    "type": "input",
+    "question": "v=40 km/h, t=2,5 h. s=?",
+    "answer": "100",
+    "hint": "40×2,5."
+  },
+  {
+    "id": "q_g5_review_motion_2",
+    "skill": "g5_review_motion",
+    "type": "multiple_choice",
+    "question": "s=60 km, t=2 h. v=?",
+    "choices": [
+      "30 km/h",
+      "120 km/h",
+      "62 km/h",
+      "58 km/h"
+    ],
+    "answer": "30 km/h",
+    "hint": "60:2."
+  },
+  {
+    "id": "q_g5_review_stats_1",
+    "skill": "g5_review_stats",
+    "type": "input",
+    "question": "Tung xu 50 lần, sấp 22 lần. Tỉ số?",
+    "answer": "22/50",
+    "hint": "22:50."
+  },
+  {
+    "id": "q_g5_review_stats_2",
+    "skill": "g5_review_stats",
+    "type": "multiple_choice",
+    "question": "30% = ? độ trên quạt tròn",
+    "choices": [
+      "108",
+      "30",
+      "90",
+      "120"
+    ],
+    "answer": "108",
+    "hint": "0,3×360."
+  },
+  {
+    "id": "q_g5_review_final_1",
+    "skill": "g5_review_final",
+    "type": "input",
+    "question": "2,5 + 1,75 = ?",
+    "answer": "4,25",
+    "hint": "Cộng số thập phân."
+  },
+  {
+    "id": "q_g5_review_final_2",
+    "skill": "g5_review_final",
+    "type": "multiple_choice",
+    "question": "Hộp 3×4×5 cm, V = ?",
+    "choices": [
+      "60 cm3",
+      "12 cm3",
+      "35 cm3",
+      "120 cm3"
+    ],
+    "answer": "60 cm3",
+    "hint": "3×4×5."
+  },
+  {
+    "id": "q_g1_num_0_5_1",
+    "skill": "g1_num_0_5",
+    "type": "multiple_choice",
+    "question": "Số nào đứng liền sau số 4?",
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "2"
+    ],
+    "answer": "5",
+    "hint": "Đếm: 0,1,2,3,4,5."
+  },
+  {
+    "id": "q_g1_num_0_5_2",
+    "skill": "g1_num_0_5",
+    "type": "input",
+    "question": "Có 3 con chim. Viết số.",
+    "answer": "3",
+    "hint": "Đếm số con chim."
+  },
+  {
+    "id": "q_g1_num_6_10_1",
+    "skill": "g1_num_6_10",
+    "type": "input",
+    "question": "Số liền sau 9 là số nào?",
+    "answer": "10",
+    "hint": "9 rồi đến 10."
+  },
+  {
+    "id": "q_g1_num_6_10_2",
+    "skill": "g1_num_6_10",
+    "type": "multiple_choice",
+    "question": "Số nào nhỏ nhất?",
+    "choices": [
+      "6",
+      "9",
+      "8",
+      "10"
+    ],
+    "answer": "6",
+    "hint": "6 đứng trước các số kia."
+  },
+  {
+    "id": "q_g1_more_less_1",
+    "skill": "g1_more_less",
+    "type": "multiple_choice",
+    "question": "5 quả cam ___ 3 quả cam (nhiều hơn / ít hơn / bằng nhau)?",
+    "choices": [
+      "nhiều hơn",
+      "ít hơn",
+      "bằng nhau"
+    ],
+    "answer": "nhiều hơn",
+    "hint": "5 > 3."
+  },
+  {
+    "id": "q_g1_more_less_2",
+    "skill": "g1_more_less",
+    "type": "input",
+    "question": "4 bông hoa và 4 bông hoa: bằng nhau hay không? (gõ: bằng nhau hoặc không)",
+    "answer": "bằng nhau",
+    "hint": "Hai bên cùng 4."
+  },
+  {
+    "id": "q_g1_compare_1",
+    "skill": "g1_compare",
+    "type": "input",
+    "question": "Điền dấu >, < hoặc =: 6 ___ 8",
+    "answer": "<",
+    "hint": "6 nhỏ hơn 8."
+  },
+  {
+    "id": "q_g1_compare_2",
+    "skill": "g1_compare",
+    "type": "multiple_choice",
+    "question": "7 ___ 7",
+    "choices": [
+      ">",
+      "<",
+      "="
+    ],
+    "answer": "=",
+    "hint": "Hai số giống nhau."
+  },
+  {
+    "id": "q_g1_how_many_1",
+    "skill": "g1_how_many",
+    "type": "input",
+    "question": "7 = 3 và mấy?",
+    "answer": "4",
+    "hint": "3 + 4 = 7."
+  },
+  {
+    "id": "q_g1_how_many_2",
+    "skill": "g1_how_many",
+    "type": "multiple_choice",
+    "question": "10 = 6 và ?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "16"
+    ],
+    "answer": "4",
+    "hint": "6 + 4 = 10."
+  },
+  {
+    "id": "q_g1_practice_ch1_1",
+    "skill": "g1_practice_ch1",
+    "type": "input",
+    "question": "Số liền trước 8 là?",
+    "answer": "7",
+    "hint": "8 - 1 = 7."
+  },
+  {
+    "id": "q_g1_practice_ch1_2",
+    "skill": "g1_practice_ch1",
+    "type": "multiple_choice",
+    "question": "Số lớn nhất trong 2, 9, 5, 7?",
+    "choices": [
+      "9",
+      "7",
+      "5",
+      "2"
+    ],
+    "answer": "9",
+    "hint": "9 lớn nhất."
+  },
+  {
+    "id": "q_g1_shapes_1",
+    "skill": "g1_shapes",
+    "type": "multiple_choice",
+    "question": "Hình nào có 3 cạnh?",
+    "choices": [
+      "Tam giác",
+      "Vuông",
+      "Tròn",
+      "Chữ nhật"
+    ],
+    "answer": "Tam giác",
+    "hint": "Tam giác có 3 cạnh."
+  },
+  {
+    "id": "q_g1_shapes_2",
+    "skill": "g1_shapes",
+    "type": "input",
+    "question": "Hình tròn có mấy góc?",
+    "answer": "0",
+    "hint": "Hình tròn không có góc."
+  },
+  {
+    "id": "q_g1_puzzle_1",
+    "skill": "g1_puzzle",
+    "type": "multiple_choice",
+    "question": "Ghép 2 hình tam giác vuông có thể tạo?",
+    "choices": [
+      "Hình vuông",
+      "Hình tròn",
+      "Hình thang",
+      "Đường thẳng"
+    ],
+    "answer": "Hình vuông",
+    "hint": "Hai tam giác vuông ghép vuông."
+  },
+  {
+    "id": "q_g1_puzzle_2",
+    "skill": "g1_puzzle",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh?",
+    "answer": "4",
+    "hint": "4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g1_practice_ch2_1",
+    "skill": "g1_practice_ch2",
+    "type": "input",
+    "question": "Hình chữ nhật có mấy góc vuông?",
+    "answer": "4",
+    "hint": "4 góc đều vuông."
+  },
+  {
+    "id": "q_g1_practice_ch2_2",
+    "skill": "g1_practice_ch2",
+    "type": "multiple_choice",
+    "question": "Biển báo cấm thường là hình gì?",
+    "choices": [
+      "Tròn",
+      "Vuông",
+      "Tam giác",
+      "Thoi"
+    ],
+    "answer": "Tròn",
+    "hint": "Biển tròn đỏ hay gặp."
+  },
+  {
+    "id": "q_g1_add_10_1",
+    "skill": "g1_add_10",
+    "type": "input",
+    "question": "Tính 4 + 3.",
+    "answer": "7",
+    "hint": "4 + 3 = 7."
+  },
+  {
+    "id": "q_g1_add_10_2",
+    "skill": "g1_add_10",
+    "type": "multiple_choice",
+    "question": "5 + 5 = ?",
+    "choices": [
+      "10",
+      "9",
+      "11",
+      "55"
+    ],
+    "answer": "10",
+    "hint": "5 + 5 = 10."
+  },
+  {
+    "id": "q_g1_sub_10_1",
+    "skill": "g1_sub_10",
+    "type": "input",
+    "question": "Tính 9 - 4.",
+    "answer": "5",
+    "hint": "9 - 4 = 5."
+  },
+  {
+    "id": "q_g1_sub_10_2",
+    "skill": "g1_sub_10",
+    "type": "multiple_choice",
+    "question": "10 - 3 = ?",
+    "choices": [
+      "7",
+      "13",
+      "8",
+      "6"
+    ],
+    "answer": "7",
+    "hint": "10 - 3 = 7."
+  },
+  {
+    "id": "q_g1_tables_10_1",
+    "skill": "g1_tables_10",
+    "type": "input",
+    "question": "6 + ? = 10",
+    "answer": "4",
+    "hint": "6 + 4 = 10."
+  },
+  {
+    "id": "q_g1_tables_10_2",
+    "skill": "g1_tables_10",
+    "type": "multiple_choice",
+    "question": "10 - 7 = ?",
+    "choices": [
+      "3",
+      "17",
+      "4",
+      "2"
+    ],
+    "answer": "3",
+    "hint": "10 - 7 = 3."
+  },
+  {
+    "id": "q_g1_practice_ch3_1",
+    "skill": "g1_practice_ch3",
+    "type": "input",
+    "question": "Có 6 quả, thêm 2 quả. Tổng cộng?",
+    "answer": "8",
+    "hint": "6 + 2 = 8."
+  },
+  {
+    "id": "q_g1_practice_ch3_2",
+    "skill": "g1_practice_ch3",
+    "type": "multiple_choice",
+    "question": "8 - 5 = ?",
+    "choices": [
+      "3",
+      "13",
+      "2",
+      "4"
+    ],
+    "answer": "3",
+    "hint": "8 - 5 = 3."
+  },
+  {
+    "id": "q_g1_solids_1",
+    "skill": "g1_solids",
+    "type": "multiple_choice",
+    "question": "Hộp sữa hình dạng gì?",
+    "choices": [
+      "Khối hộp chữ nhật",
+      "Khối lập phương",
+      "Hình tròn",
+      "Tam giác"
+    ],
+    "answer": "Khối hộp chữ nhật",
+    "hint": "Hộp sữa là hình hộp."
+  },
+  {
+    "id": "q_g1_solids_2",
+    "skill": "g1_solids",
+    "type": "input",
+    "question": "Khối lập phương có mấy mặt?",
+    "answer": "6",
+    "hint": "6 mặt vuông."
+  },
+  {
+    "id": "q_g1_position_1",
+    "skill": "g1_position",
+    "type": "multiple_choice",
+    "question": "Con mèo ở ___ con chó (chó ở dưới mèo).",
+    "choices": [
+      "trên",
+      "dưới",
+      "trong",
+      "ngoài"
+    ],
+    "answer": "trên",
+    "hint": "Mèo cao hơn chó."
+  },
+  {
+    "id": "q_g1_position_2",
+    "skill": "g1_position",
+    "type": "input",
+    "question": "Bên trái đối diện với bên gì?",
+    "answer": "phải",
+    "hint": "Trái - phải đối diện."
+  },
+  {
+    "id": "q_g1_practice_ch4_1",
+    "skill": "g1_practice_ch4",
+    "type": "input",
+    "question": "Xúc xắc thường là khối gì?",
+    "answer": "lập phương",
+    "hint": "Xúc xắc là lập phương."
+  },
+  {
+    "id": "q_g1_practice_ch4_2",
+    "skill": "g1_practice_ch4",
+    "type": "multiple_choice",
+    "question": "Quyển sách nằm ___ cái bàn.",
+    "choices": [
+      "trên",
+      "dưới",
+      "trong",
+      "sau"
+    ],
+    "answer": "trên",
+    "hint": "Sách đặt trên bàn."
+  },
+  {
+    "id": "q_g1_review_num10_1",
+    "skill": "g1_review_num10",
+    "type": "input",
+    "question": "Số liền sau 5?",
+    "answer": "6",
+    "hint": "5 + 1 = 6."
+  },
+  {
+    "id": "q_g1_review_num10_2",
+    "skill": "g1_review_num10",
+    "type": "multiple_choice",
+    "question": "3 ___ 8",
+    "choices": [
+      "<",
+      ">",
+      "="
+    ],
+    "answer": "<",
+    "hint": "3 nhỏ hơn 8."
+  },
+  {
+    "id": "q_g1_review_ops10_1",
+    "skill": "g1_review_ops10",
+    "type": "input",
+    "question": "7 + 2 = ?",
+    "answer": "9",
+    "hint": "7 + 2 = 9."
+  },
+  {
+    "id": "q_g1_review_ops10_2",
+    "skill": "g1_review_ops10",
+    "type": "multiple_choice",
+    "question": "10 - 4 = ?",
+    "choices": [
+      "6",
+      "14",
+      "5",
+      "4"
+    ],
+    "answer": "6",
+    "hint": "10 - 4 = 6."
+  },
+  {
+    "id": "q_g1_review_geo_1",
+    "skill": "g1_review_geo",
+    "type": "multiple_choice",
+    "question": "Hình nào lăn được dễ nhất?",
+    "choices": [
+      "Tròn",
+      "Vuông",
+      "Tam giác",
+      "Chữ nhật"
+    ],
+    "answer": "Tròn",
+    "hint": "Hình tròn lăn tròn."
+  },
+  {
+    "id": "q_g1_review_geo_2",
+    "skill": "g1_review_geo",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "4 cạnh đều bằng nhau."
+  },
+  {
+    "id": "q_g1_review_hk1_1",
+    "skill": "g1_review_hk1",
+    "type": "input",
+    "question": "9 - 6 = ?",
+    "answer": "3",
+    "hint": "9 - 6 = 3."
+  },
+  {
+    "id": "q_g1_review_hk1_2",
+    "skill": "g1_review_hk1",
+    "type": "multiple_choice",
+    "question": "Số 10 gồm mấy chục?",
+    "choices": [
+      "1",
+      "10",
+      "0",
+      "2"
+    ],
+    "answer": "1",
+    "hint": "10 = 1 chục."
+  },
+  {
+    "id": "q_g1_two_digit_1",
+    "skill": "g1_two_digit",
+    "type": "multiple_choice",
+    "question": "Số 45 có mấy chục?",
+    "choices": [
+      "4",
+      "5",
+      "45",
+      "9"
+    ],
+    "answer": "4",
+    "hint": "4 chục và 5 đơn vị."
+  },
+  {
+    "id": "q_g1_two_digit_2",
+    "skill": "g1_two_digit",
+    "type": "input",
+    "question": "Viết số: 7 chục 2 đơn vị.",
+    "answer": "72",
+    "hint": "7 chục 2 đơn vị = 72."
+  },
+  {
+    "id": "q_g1_compare_2d_1",
+    "skill": "g1_compare_2d",
+    "type": "input",
+    "question": "63 ___ 58 (điền >, < hoặc =)",
+    "answer": ">",
+    "hint": "6 chục > 5 chục."
+  },
+  {
+    "id": "q_g1_compare_2d_2",
+    "skill": "g1_compare_2d",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất: 41, 38, 49?",
+    "choices": [
+      "49",
+      "41",
+      "38",
+      "48"
+    ],
+    "answer": "49",
+    "hint": "4 chục, 9 đơn vị lớn nhất."
+  },
+  {
+    "id": "q_g1_table_100_1",
+    "skill": "g1_table_100",
+    "type": "input",
+    "question": "Số liền sau 89?",
+    "answer": "90",
+    "hint": "89 + 1 = 90."
+  },
+  {
+    "id": "q_g1_table_100_2",
+    "skill": "g1_table_100",
+    "type": "multiple_choice",
+    "question": "Số 56 nằm giữa 55 và ?",
+    "choices": [
+      "57",
+      "56",
+      "54",
+      "58"
+    ],
+    "answer": "57",
+    "hint": "55, 56, 57 liên tiếp."
+  },
+  {
+    "id": "q_g1_practice_ch6_1",
+    "skill": "g1_practice_ch6",
+    "type": "input",
+    "question": "Viết số: năm mươi ba.",
+    "answer": "53",
+    "hint": "5 chục 3 đơn vị."
+  },
+  {
+    "id": "q_g1_practice_ch6_2",
+    "skill": "g1_practice_ch6",
+    "type": "multiple_choice",
+    "question": "82 ___ 28",
+    "choices": [
+      ">",
+      "<",
+      "="
+    ],
+    "answer": ">",
+    "hint": "8 chục > 2 chục."
+  },
+  {
+    "id": "q_g1_longer_1",
+    "skill": "g1_longer",
+    "type": "multiple_choice",
+    "question": "Thước 30 cm so với bút 12 cm?",
+    "choices": [
+      "Dài hơn",
+      "Ngắn hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Dài hơn",
+    "hint": "30 > 12."
+  },
+  {
+    "id": "q_g1_longer_2",
+    "skill": "g1_longer",
+    "type": "input",
+    "question": "15 cm so với 20 cm: ngắn hơn hay dài hơn? (gõ: ngắn hơn hoặc dài hơn)",
+    "answer": "ngắn hơn",
+    "hint": "15 < 20."
+  },
+  {
+    "id": "q_g1_length_unit_1",
+    "skill": "g1_length_unit",
+    "type": "input",
+    "question": "Viết tắt xăng-ti-mét là gì?",
+    "answer": "cm",
+    "hint": "centimetre = cm."
+  },
+  {
+    "id": "q_g1_length_unit_2",
+    "skill": "g1_length_unit",
+    "type": "multiple_choice",
+    "question": "Đo độ dài bút chì nên dùng?",
+    "choices": [
+      "cm",
+      "kg",
+      "lít",
+      "giờ"
+    ],
+    "answer": "cm",
+    "hint": "cm đo chiều dài."
+  },
+  {
+    "id": "q_g1_measure_exp_1",
+    "skill": "g1_measure_exp",
+    "type": "input",
+    "question": "Thước kẻ thường dài 20 cm hay 20 m?",
+    "answer": "cm",
+    "hint": "Thước kẻ dùng cm."
+  },
+  {
+    "id": "q_g1_measure_exp_2",
+    "skill": "g1_measure_exp",
+    "type": "multiple_choice",
+    "question": "Đo chiều dài nên đặt vạch 0 ở đâu?",
+    "choices": [
+      "Đầu vật",
+      "Giữa vật",
+      "Cuối vật",
+      "Không cần"
+    ],
+    "answer": "Đầu vật",
+    "hint": "Vạch 0 trùng đầu vật."
+  },
+  {
+    "id": "q_g1_practice_ch7_1",
+    "skill": "g1_practice_ch7",
+    "type": "input",
+    "question": "45 cm + 5 cm = ? cm",
+    "answer": "50",
+    "hint": "45 + 5 = 50."
+  },
+  {
+    "id": "q_g1_practice_ch7_2",
+    "skill": "g1_practice_ch7",
+    "type": "multiple_choice",
+    "question": "Cái gì dài hơn: 1 m hay 50 cm?",
+    "choices": [
+      "1 m",
+      "50 cm",
+      "Bằng nhau"
+    ],
+    "answer": "1 m",
+    "hint": "1 m = 100 cm."
+  },
+  {
+    "id": "q_g1_add_2d_1d_1",
+    "skill": "g1_add_2d_1d",
+    "type": "input",
+    "question": "32 + 5 = ?",
+    "answer": "37",
+    "hint": "2 + 5 = 7, 3 chục + 7 = 37."
+  },
+  {
+    "id": "q_g1_add_2d_1d_2",
+    "skill": "g1_add_2d_1d",
+    "type": "multiple_choice",
+    "question": "41 + 6 = ?",
+    "choices": [
+      "47",
+      "46",
+      "48",
+      "57"
+    ],
+    "answer": "47",
+    "hint": "41 + 6 = 47."
+  },
+  {
+    "id": "q_g1_add_2d_2d_1",
+    "skill": "g1_add_2d_2d",
+    "type": "input",
+    "question": "23 + 15 = ?",
+    "answer": "38",
+    "hint": "3 + 5 = 8, 2 + 1 = 3."
+  },
+  {
+    "id": "q_g1_add_2d_2d_2",
+    "skill": "g1_add_2d_2d",
+    "type": "multiple_choice",
+    "question": "52 + 24 = ?",
+    "choices": [
+      "76",
+      "75",
+      "86",
+      "66"
+    ],
+    "answer": "76",
+    "hint": "2+4=6, 5+2=7."
+  },
+  {
+    "id": "q_g1_sub_2d_1d_1",
+    "skill": "g1_sub_2d_1d",
+    "type": "input",
+    "question": "58 - 4 = ?",
+    "answer": "54",
+    "hint": "8 - 4 = 4, 5 chục."
+  },
+  {
+    "id": "q_g1_sub_2d_1d_2",
+    "skill": "g1_sub_2d_1d",
+    "type": "multiple_choice",
+    "question": "76 - 3 = ?",
+    "choices": [
+      "73",
+      "79",
+      "74",
+      "83"
+    ],
+    "answer": "73",
+    "hint": "6 - 3 = 3."
+  },
+  {
+    "id": "q_g1_sub_2d_2d_1",
+    "skill": "g1_sub_2d_2d",
+    "type": "input",
+    "question": "67 - 25 = ?",
+    "answer": "42",
+    "hint": "7-5=2, 6-2=4."
+  },
+  {
+    "id": "q_g1_sub_2d_2d_2",
+    "skill": "g1_sub_2d_2d",
+    "type": "multiple_choice",
+    "question": "89 - 36 = ?",
+    "choices": [
+      "53",
+      "52",
+      "63",
+      "43"
+    ],
+    "answer": "53",
+    "hint": "9-6=3, 8-3=5."
+  },
+  {
+    "id": "q_g1_practice_ch8_1",
+    "skill": "g1_practice_ch8",
+    "type": "input",
+    "question": "34 + 22 = ?",
+    "answer": "56",
+    "hint": "4+2=6, 3+2=5."
+  },
+  {
+    "id": "q_g1_practice_ch8_2",
+    "skill": "g1_practice_ch8",
+    "type": "multiple_choice",
+    "question": "78 - 35 = ?",
+    "choices": [
+      "43",
+      "42",
+      "53",
+      "33"
+    ],
+    "answer": "43",
+    "hint": "8-5=3, 7-3=4."
+  },
+  {
+    "id": "q_g1_clock_1",
+    "skill": "g1_clock",
+    "type": "multiple_choice",
+    "question": "Kim dài chỉ số 12, kim ngắn chỉ 3. Mấy giờ?",
+    "choices": [
+      "3 giờ",
+      "12 giờ",
+      "9 giờ",
+      "6 giờ"
+    ],
+    "answer": "3 giờ",
+    "hint": "Kim ngắn chỉ giờ."
+  },
+  {
+    "id": "q_g1_clock_2",
+    "skill": "g1_clock",
+    "type": "input",
+    "question": "7 giờ đúng: kim dài chỉ số mấy?",
+    "answer": "12",
+    "hint": "Giờ đúng kim dài ở 12."
+  },
+  {
+    "id": "q_g1_weekdays_1",
+    "skill": "g1_weekdays",
+    "type": "input",
+    "question": "Sau Thứ Tư là thứ gì?",
+    "answer": "Năm",
+    "hint": "Thứ Tư rồi Thứ Năm."
+  },
+  {
+    "id": "q_g1_weekdays_2",
+    "skill": "g1_weekdays",
+    "type": "multiple_choice",
+    "question": "Một tuần có mấy ngày?",
+    "choices": [
+      "7",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "7",
+    "hint": "7 ngày trong tuần."
+  },
+  {
+    "id": "q_g1_calendar_1",
+    "skill": "g1_calendar",
+    "type": "multiple_choice",
+    "question": "Lịch dùng để xem gì?",
+    "choices": [
+      "Ngày tháng",
+      "Cân nặng",
+      "Nhiệt độ",
+      "Độ dài"
+    ],
+    "answer": "Ngày tháng",
+    "hint": "Lịch ghi ngày tháng."
+  },
+  {
+    "id": "q_g1_calendar_2",
+    "skill": "g1_calendar",
+    "type": "input",
+    "question": "Thứ Bảy rồi đến ngày gì?",
+    "answer": "Chủ nhật",
+    "hint": "Cuối tuần."
+  },
+  {
+    "id": "q_g1_practice_ch9_1",
+    "skill": "g1_practice_ch9",
+    "type": "input",
+    "question": "Kim ngắn 9, kim dài 12: mấy giờ?",
+    "answer": "9",
+    "hint": "9 giờ đúng."
+  },
+  {
+    "id": "q_g1_practice_ch9_2",
+    "skill": "g1_practice_ch9",
+    "type": "multiple_choice",
+    "question": "Ngày đầu tuần đi học thường là?",
+    "choices": [
+      "Thứ Hai",
+      "Thứ Bảy",
+      "Chủ nhật",
+      "Thứ Sáu"
+    ],
+    "answer": "Thứ Hai",
+    "hint": "Thứ Hai đầu tuần."
+  },
+  {
+    "id": "q_g1_review_10_1",
+    "skill": "g1_review_10",
+    "type": "input",
+    "question": "5 + 4 = ?",
+    "answer": "9",
+    "hint": "5 + 4 = 9."
+  },
+  {
+    "id": "q_g1_review_10_2",
+    "skill": "g1_review_10",
+    "type": "multiple_choice",
+    "question": "10 - 8 = ?",
+    "choices": [
+      "2",
+      "18",
+      "3",
+      "1"
+    ],
+    "answer": "2",
+    "hint": "10 - 8 = 2."
+  },
+  {
+    "id": "q_g1_review_100_1",
+    "skill": "g1_review_100",
+    "type": "input",
+    "question": "63 + 25 = ?",
+    "answer": "88",
+    "hint": "3+5=8, 6+2=8."
+  },
+  {
+    "id": "q_g1_review_100_2",
+    "skill": "g1_review_100",
+    "type": "multiple_choice",
+    "question": "91 - 40 = ?",
+    "choices": [
+      "51",
+      "61",
+      "50",
+      "41"
+    ],
+    "answer": "51",
+    "hint": "1-0=1, 9-4=5."
+  },
+  {
+    "id": "q_g1_review_geo_measure_1",
+    "skill": "g1_review_geo_measure",
+    "type": "multiple_choice",
+    "question": "Hình nào có 4 góc vuông?",
+    "choices": [
+      "Chữ nhật",
+      "Tròn",
+      "Tam giác",
+      "None"
+    ],
+    "answer": "Chữ nhật",
+    "hint": "Chữ nhật 4 góc vuông."
+  },
+  {
+    "id": "q_g1_review_geo_measure_2",
+    "skill": "g1_review_geo_measure",
+    "type": "input",
+    "question": "Đo chiều dài dùng đơn vị gì?",
+    "answer": "cm",
+    "hint": "cm cho vật nhỏ."
+  },
+  {
+    "id": "q_g1_review_final_1",
+    "skill": "g1_review_final",
+    "type": "input",
+    "question": "8 + 2 = ?",
+    "answer": "10",
+    "hint": "8 + 2 = 10."
+  },
+  {
+    "id": "q_g1_review_final_2",
+    "skill": "g1_review_final",
+    "type": "multiple_choice",
+    "question": "74 ___ 47",
+    "choices": [
+      ">",
+      "<",
+      "="
+    ],
+    "answer": ">",
+    "hint": "7 chục > 4 chục."
+  },
+  {
+    "id": "q_g2_review_100_1",
+    "skill": "g2_review_100",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất: 45, 52, 38?",
+    "choices": [
+      "52",
+      "45",
+      "38",
+      "50"
+    ],
+    "answer": "52",
+    "hint": "5 chục > 4 chục."
+  },
+  {
+    "id": "q_g2_review_100_2",
+    "skill": "g2_review_100",
+    "type": "input",
+    "question": "Số liền sau 99 là?",
+    "answer": "100",
+    "hint": "99 + 1 = 100."
+  },
+  {
+    "id": "q_g2_number_line_1",
+    "skill": "g2_number_line",
+    "type": "input",
+    "question": "Số liền trước 50 là?",
+    "answer": "49",
+    "hint": "50 - 1 = 49."
+  },
+  {
+    "id": "q_g2_number_line_2",
+    "skill": "g2_number_line",
+    "type": "multiple_choice",
+    "question": "Trên tia số, số bên phải so với số bên trái?",
+    "choices": [
+      "Lớn hơn",
+      "Nhỏ hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Lớn hơn",
+    "hint": "Tia số tăng sang phải."
+  },
+  {
+    "id": "q_g2_add_sub_parts_1",
+    "skill": "g2_add_sub_parts",
+    "type": "multiple_choice",
+    "question": "Trong 9 + 6 = 15, 15 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Số trừ"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g2_add_sub_parts_2",
+    "skill": "g2_add_sub_parts",
+    "type": "input",
+    "question": "Trong 14 - 5 = 9, 5 gọi là gì?",
+    "answer": "số trừ",
+    "hint": "Số trừ là số bị lấy đi."
+  },
+  {
+    "id": "q_g2_how_many_more_1",
+    "skill": "g2_how_many_more",
+    "type": "input",
+    "question": "15 hơn 8 bao nhiêu?",
+    "answer": "7",
+    "hint": "15 - 8 = 7."
+  },
+  {
+    "id": "q_g2_how_many_more_2",
+    "skill": "g2_how_many_more",
+    "type": "multiple_choice",
+    "question": "10 kém 6 bao nhiêu?",
+    "choices": [
+      "4",
+      "16",
+      "6",
+      "10"
+    ],
+    "answer": "4",
+    "hint": "10 - 6 = 4."
+  },
+  {
+    "id": "q_g2_review_add_sub_100_1",
+    "skill": "g2_review_add_sub_100",
+    "type": "input",
+    "question": "Tính 43 + 25.",
+    "answer": "68",
+    "hint": "3+5=8, 4+2=6."
+  },
+  {
+    "id": "q_g2_review_add_sub_100_2",
+    "skill": "g2_review_add_sub_100",
+    "type": "multiple_choice",
+    "question": "78 - 35 = ?",
+    "choices": [
+      "43",
+      "53",
+      "42",
+      "33"
+    ],
+    "answer": "43",
+    "hint": "8-5=3, 7-3=4."
+  },
+  {
+    "id": "q_g2_practice_ch1_1",
+    "skill": "g2_practice_ch1",
+    "type": "input",
+    "question": "Số liền sau 67?",
+    "answer": "68",
+    "hint": "67 + 1."
+  },
+  {
+    "id": "q_g2_practice_ch1_2",
+    "skill": "g2_practice_ch1",
+    "type": "multiple_choice",
+    "question": "63 ___ 36",
+    "choices": [
+      ">",
+      "<",
+      "="
+    ],
+    "answer": ">",
+    "hint": "6 chục > 3 chục."
+  },
+  {
+    "id": "q_g2_add_over_10_1",
+    "skill": "g2_add_over_10",
+    "type": "input",
+    "question": "Tính 8 + 5.",
+    "answer": "13",
+    "hint": "8 + 2 + 3 = 13."
+  },
+  {
+    "id": "q_g2_add_over_10_2",
+    "skill": "g2_add_over_10",
+    "type": "multiple_choice",
+    "question": "9 + 7 = ?",
+    "choices": [
+      "16",
+      "15",
+      "17",
+      "14"
+    ],
+    "answer": "16",
+    "hint": "9 + 1 + 6 = 16."
+  },
+  {
+    "id": "q_g2_add_table_10_1",
+    "skill": "g2_add_table_10",
+    "type": "input",
+    "question": "7 + 6 = ?",
+    "answer": "13",
+    "hint": "7 + 3 + 3 = 13."
+  },
+  {
+    "id": "q_g2_add_table_10_2",
+    "skill": "g2_add_table_10",
+    "type": "multiple_choice",
+    "question": "8 + 9 = ?",
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "15"
+    ],
+    "answer": "17",
+    "hint": "8 + 2 + 7 = 17."
+  },
+  {
+    "id": "q_g2_add_story_1",
+    "skill": "g2_add_story",
+    "type": "input",
+    "question": "Có 8 quả, thêm 5 quả. Tổng cộng?",
+    "answer": "13",
+    "hint": "8 + 5 = 13."
+  },
+  {
+    "id": "q_g2_add_story_2",
+    "skill": "g2_add_story",
+    "type": "multiple_choice",
+    "question": "Có 14 bạn, bớt 6 bạn. Còn lại?",
+    "choices": [
+      "8",
+      "20",
+      "6",
+      "9"
+    ],
+    "answer": "8",
+    "hint": "14 - 6 = 8."
+  },
+  {
+    "id": "q_g2_practice_ch2_1",
+    "skill": "g2_practice_ch2",
+    "type": "input",
+    "question": "6 + 9 = ?",
+    "answer": "15",
+    "hint": "6 + 4 + 5 = 15."
+  },
+  {
+    "id": "q_g2_practice_ch2_2",
+    "skill": "g2_practice_ch2",
+    "type": "multiple_choice",
+    "question": "5 + 8 = ?",
+    "choices": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "answer": "13",
+    "hint": "5 + 5 + 3 = 13."
+  },
+  {
+    "id": "q_g2_sub_over_10_1",
+    "skill": "g2_sub_over_10",
+    "type": "input",
+    "question": "Tính 13 - 5.",
+    "answer": "8",
+    "hint": "13 - 3 - 2 = 8."
+  },
+  {
+    "id": "q_g2_sub_over_10_2",
+    "skill": "g2_sub_over_10",
+    "type": "multiple_choice",
+    "question": "16 - 9 = ?",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": "7",
+    "hint": "16 - 6 - 3 = 7."
+  },
+  {
+    "id": "q_g2_sub_table_10_1",
+    "skill": "g2_sub_table_10",
+    "type": "input",
+    "question": "15 - 7 = ?",
+    "answer": "8",
+    "hint": "8 + 7 = 15."
+  },
+  {
+    "id": "q_g2_sub_table_10_2",
+    "skill": "g2_sub_table_10",
+    "type": "multiple_choice",
+    "question": "18 - 9 = ?",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "hint": "9 + 9 = 18."
+  },
+  {
+    "id": "q_g2_more_less_story_1",
+    "skill": "g2_more_less_story",
+    "type": "input",
+    "question": "An 12 tuổi, Bình nhiều hơn An 3 tuổi. Bình bao nhiêu tuổi?",
+    "answer": "15",
+    "hint": "12 + 3 = 15."
+  },
+  {
+    "id": "q_g2_more_less_story_2",
+    "skill": "g2_more_less_story",
+    "type": "multiple_choice",
+    "question": "Lan 16 quả, Hoa ít hơn Lan 4 quả. Hoa có?",
+    "choices": [
+      "12",
+      "20",
+      "4",
+      "16"
+    ],
+    "answer": "12",
+    "hint": "16 - 4 = 12."
+  },
+  {
+    "id": "q_g2_practice_ch2b_1",
+    "skill": "g2_practice_ch2b",
+    "type": "input",
+    "question": "17 - 8 = ?",
+    "answer": "9",
+    "hint": "17 - 7 - 1 = 9."
+  },
+  {
+    "id": "q_g2_practice_ch2b_2",
+    "skill": "g2_practice_ch2b",
+    "type": "multiple_choice",
+    "question": "9 + 8 = ?",
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "15"
+    ],
+    "answer": "17",
+    "hint": "9 + 1 + 7 = 17."
+  },
+  {
+    "id": "q_g2_kilogram_1",
+    "skill": "g2_kilogram",
+    "type": "multiple_choice",
+    "question": "Đơn vị đo khối lượng?",
+    "choices": [
+      "kg",
+      "l",
+      "m",
+      "cm"
+    ],
+    "answer": "kg",
+    "hint": "kg đo nặng nhẹ."
+  },
+  {
+    "id": "q_g2_kilogram_2",
+    "skill": "g2_kilogram",
+    "type": "input",
+    "question": "Viết tắt ki-lô-gam là gì?",
+    "answer": "kg",
+    "hint": "kilogram = kg."
+  },
+  {
+    "id": "q_g2_liter_1",
+    "skill": "g2_liter",
+    "type": "input",
+    "question": "Viết tắt lít là gì?",
+    "answer": "l",
+    "hint": "liter = l."
+  },
+  {
+    "id": "q_g2_liter_2",
+    "skill": "g2_liter",
+    "type": "multiple_choice",
+    "question": "Can 3 l so với can 1 l?",
+    "choices": [
+      "Nhiều hơn",
+      "Ít hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Nhiều hơn",
+    "hint": "3 > 1."
+  },
+  {
+    "id": "q_g2_measure_exp_1",
+    "skill": "g2_measure_exp",
+    "type": "input",
+    "question": "Gói gạo 2 kg so với gói 5 kg: gói nào nặng hơn? (gõ số kg)",
+    "answer": "5",
+    "hint": "5 kg > 2 kg."
+  },
+  {
+    "id": "q_g2_measure_exp_2",
+    "skill": "g2_measure_exp",
+    "type": "multiple_choice",
+    "question": "Đo nước trong chai dùng?",
+    "choices": [
+      "l",
+      "kg",
+      "m",
+      "km"
+    ],
+    "answer": "l",
+    "hint": "l đo chất lỏng."
+  },
+  {
+    "id": "q_g2_practice_ch3_1",
+    "skill": "g2_practice_ch3",
+    "type": "multiple_choice",
+    "question": "4 kg ___ 7 kg",
+    "choices": [
+      "<",
+      ">",
+      "="
+    ],
+    "answer": "<",
+    "hint": "4 < 7."
+  },
+  {
+    "id": "q_g2_practice_ch3_2",
+    "skill": "g2_practice_ch3",
+    "type": "input",
+    "question": "2 l + 3 l = ? l",
+    "answer": "5",
+    "hint": "2 + 3 = 5."
+  },
+  {
+    "id": "q_g2_add_carry_2d1d_1",
+    "skill": "g2_add_carry_2d1d",
+    "type": "input",
+    "question": "38 + 5 = ?",
+    "answer": "43",
+    "hint": "8 + 5 = 13, nhớ 1."
+  },
+  {
+    "id": "q_g2_add_carry_2d1d_2",
+    "skill": "g2_add_carry_2d1d",
+    "type": "multiple_choice",
+    "question": "47 + 8 = ?",
+    "choices": [
+      "55",
+      "54",
+      "56",
+      "45"
+    ],
+    "answer": "55",
+    "hint": "7 + 8 = 15, nhớ 1."
+  },
+  {
+    "id": "q_g2_add_carry_2d2d_1",
+    "skill": "g2_add_carry_2d2d",
+    "type": "input",
+    "question": "56 + 27 = ?",
+    "answer": "83",
+    "hint": "6+7=13, 5+2+1=8."
+  },
+  {
+    "id": "q_g2_add_carry_2d2d_2",
+    "skill": "g2_add_carry_2d2d",
+    "type": "multiple_choice",
+    "question": "38 + 45 = ?",
+    "choices": [
+      "83",
+      "73",
+      "82",
+      "93"
+    ],
+    "answer": "83",
+    "hint": "8+5=13, 3+4+1=8."
+  },
+  {
+    "id": "q_g2_practice_ch4_1",
+    "skill": "g2_practice_ch4",
+    "type": "input",
+    "question": "29 + 16 = ?",
+    "answer": "45",
+    "hint": "9+6=15, 2+1+1=4."
+  },
+  {
+    "id": "q_g2_practice_ch4_2",
+    "skill": "g2_practice_ch4",
+    "type": "multiple_choice",
+    "question": "64 + 18 = ?",
+    "choices": [
+      "82",
+      "72",
+      "81",
+      "83"
+    ],
+    "answer": "82",
+    "hint": "4+8=12, 6+1+1=8."
+  },
+  {
+    "id": "q_g2_sub_borrow_2d1d_1",
+    "skill": "g2_sub_borrow_2d1d",
+    "type": "input",
+    "question": "42 - 7 = ?",
+    "answer": "35",
+    "hint": "12 - 7 = 5."
+  },
+  {
+    "id": "q_g2_sub_borrow_2d1d_2",
+    "skill": "g2_sub_borrow_2d1d",
+    "type": "multiple_choice",
+    "question": "51 - 8 = ?",
+    "choices": [
+      "43",
+      "44",
+      "42",
+      "53"
+    ],
+    "answer": "43",
+    "hint": "11 - 8 = 3."
+  },
+  {
+    "id": "q_g2_sub_borrow_2d2d_1",
+    "skill": "g2_sub_borrow_2d2d",
+    "type": "input",
+    "question": "63 - 28 = ?",
+    "answer": "35",
+    "hint": "13-8=5, 5-2=3."
+  },
+  {
+    "id": "q_g2_sub_borrow_2d2d_2",
+    "skill": "g2_sub_borrow_2d2d",
+    "type": "multiple_choice",
+    "question": "82 - 47 = ?",
+    "choices": [
+      "35",
+      "45",
+      "34",
+      "36"
+    ],
+    "answer": "35",
+    "hint": "12-7=5, 7-4=3."
+  },
+  {
+    "id": "q_g2_practice_ch4b_1",
+    "skill": "g2_practice_ch4b",
+    "type": "input",
+    "question": "91 - 46 = ?",
+    "answer": "45",
+    "hint": "11-6=5, 8-4=4."
+  },
+  {
+    "id": "q_g2_practice_ch4b_2",
+    "skill": "g2_practice_ch4b",
+    "type": "multiple_choice",
+    "question": "70 - 35 = ?",
+    "choices": [
+      "35",
+      "45",
+      "34",
+      "105"
+    ],
+    "answer": "35",
+    "hint": "10-5=5, 6-3=3."
+  },
+  {
+    "id": "q_g2_points_lines_1",
+    "skill": "g2_points_lines",
+    "type": "multiple_choice",
+    "question": "Hình gồm hai điểm và đoạn nối?",
+    "choices": [
+      "Đoạn thẳng",
+      "Đường thẳng",
+      "Đường cong",
+      "Tứ giác"
+    ],
+    "answer": "Đoạn thẳng",
+    "hint": "Đoạn thẳng có hai đầu."
+  },
+  {
+    "id": "q_g2_points_lines_2",
+    "skill": "g2_points_lines",
+    "type": "input",
+    "question": "Ba điểm nằm trên một đường thẳng gọi là gì?",
+    "answer": "thẳng hàng",
+    "hint": "Cùng nằm trên một đường."
+  },
+  {
+    "id": "q_g2_broken_line_quad_1",
+    "skill": "g2_broken_line_quad",
+    "type": "input",
+    "question": "Hình tứ giác có mấy cạnh?",
+    "answer": "4",
+    "hint": "Tứ giác = 4 cạnh."
+  },
+  {
+    "id": "q_g2_broken_line_quad_2",
+    "skill": "g2_broken_line_quad",
+    "type": "multiple_choice",
+    "question": "Đường gấp khúc gồm?",
+    "choices": [
+      "Nhiều đoạn thẳng",
+      "Một đoạn",
+      "Hai điểm",
+      "Một đường cong"
+    ],
+    "answer": "Nhiều đoạn thẳng",
+    "hint": "Gấp khúc = nhiều đoạn."
+  },
+  {
+    "id": "q_g2_fold_cut_1",
+    "skill": "g2_fold_cut",
+    "type": "multiple_choice",
+    "question": "Gấp đôi giấy rồi cắt tạo hình?",
+    "choices": [
+      "Đối xứng",
+      "Không đối xứng",
+      "Hình tròn",
+      "Điểm"
+    ],
+    "answer": "Đối xứng",
+    "hint": "Hai nửa giống nhau."
+  },
+  {
+    "id": "q_g2_fold_cut_2",
+    "skill": "g2_fold_cut",
+    "type": "input",
+    "question": "Vẽ đoạn thẳng cần mấy điểm?",
+    "answer": "2",
+    "hint": "Hai điểm đầu cuối."
+  },
+  {
+    "id": "q_g2_practice_ch5_1",
+    "skill": "g2_practice_ch5",
+    "type": "input",
+    "question": "Tứ giác có mấy góc?",
+    "answer": "4",
+    "hint": "4 cạnh, 4 góc."
+  },
+  {
+    "id": "q_g2_practice_ch5_2",
+    "skill": "g2_practice_ch5",
+    "type": "multiple_choice",
+    "question": "Đoạn thẳng AB khác đường thẳng AB vì?",
+    "choices": [
+      "Đoạn có hai đầu",
+      "Đoạn dài hơn",
+      "Đoạn cong",
+      "Đoạn không thẳng"
+    ],
+    "answer": "Đoạn có hai đầu",
+    "hint": "Đường thẳng kéo dài vô hạn."
+  },
+  {
+    "id": "q_g2_day_hour_1",
+    "skill": "g2_day_hour",
+    "type": "multiple_choice",
+    "question": "1 giờ = ? phút",
+    "choices": [
+      "60",
+      "100",
+      "30",
+      "24"
+    ],
+    "answer": "60",
+    "hint": "60 phút = 1 giờ."
+  },
+  {
+    "id": "q_g2_day_hour_2",
+    "skill": "g2_day_hour",
+    "type": "input",
+    "question": "Kim ngắn chỉ giờ hay phút?",
+    "answer": "giờ",
+    "hint": "Kim ngắn = giờ."
+  },
+  {
+    "id": "q_g2_day_month_1",
+    "skill": "g2_day_month",
+    "type": "input",
+    "question": "Một năm có bao nhiêu tháng?",
+    "answer": "12",
+    "hint": "12 tháng trong năm."
+  },
+  {
+    "id": "q_g2_day_month_2",
+    "skill": "g2_day_month",
+    "type": "multiple_choice",
+    "question": "Lịch dùng để xem?",
+    "choices": [
+      "Ngày tháng",
+      "Cân nặng",
+      "Độ dài",
+      "Nhiệt độ"
+    ],
+    "answer": "Ngày tháng",
+    "hint": "Lịch ghi ngày tháng."
+  },
+  {
+    "id": "q_g2_clock_calendar_exp_1",
+    "skill": "g2_clock_calendar_exp",
+    "type": "input",
+    "question": "Kim dài chỉ số 12, kim ngắn chỉ 4. Mấy giờ?",
+    "answer": "4",
+    "hint": "4 giờ đúng."
+  },
+  {
+    "id": "q_g2_clock_calendar_exp_2",
+    "skill": "g2_clock_calendar_exp",
+    "type": "multiple_choice",
+    "question": "2 giờ 30 phút: kim ngắn ở đâu?",
+    "choices": [
+      "Giữa 2 và 3",
+      "Ở số 2",
+      "Ở số 3",
+      "Ở số 12"
+    ],
+    "answer": "Giữa 2 và 3",
+    "hint": "30 phút = nửa giờ."
+  },
+  {
+    "id": "q_g2_practice_ch6_1",
+    "skill": "g2_practice_ch6",
+    "type": "input",
+    "question": "60 phút = ? giờ",
+    "answer": "1",
+    "hint": "60 phút = 1 giờ."
+  },
+  {
+    "id": "q_g2_practice_ch6_2",
+    "skill": "g2_practice_ch6",
+    "type": "multiple_choice",
+    "question": "Ngày 20 tháng 5 đọc là?",
+    "choices": [
+      "Ngày hai mươi tháng năm",
+      "Ngày năm tháng hai mươi",
+      "Tháng năm ngày hai mươi"
+    ],
+    "answer": "Ngày hai mươi tháng năm",
+    "hint": "Đọc ngày trước tháng."
+  },
+  {
+    "id": "q_g2_review_ops_1",
+    "skill": "g2_review_ops",
+    "type": "input",
+    "question": "9 + 8 = ?",
+    "answer": "17",
+    "hint": "9 + 1 + 7 = 17."
+  },
+  {
+    "id": "q_g2_review_ops_2",
+    "skill": "g2_review_ops",
+    "type": "multiple_choice",
+    "question": "73 + 18 = ?",
+    "choices": [
+      "91",
+      "81",
+      "90",
+      "92"
+    ],
+    "answer": "91",
+    "hint": "3+8=11, 7+1+1=9."
+  },
+  {
+    "id": "q_g2_review_geo_1",
+    "skill": "g2_review_geo",
+    "type": "multiple_choice",
+    "question": "Hình có 4 cạnh?",
+    "choices": [
+      "Tứ giác",
+      "Tam giác",
+      "Đoạn thẳng",
+      "Điểm"
+    ],
+    "answer": "Tứ giác",
+    "hint": "Tứ = 4."
+  },
+  {
+    "id": "q_g2_review_geo_2",
+    "skill": "g2_review_geo",
+    "type": "input",
+    "question": "Đường gấp khúc ABC có mấy đoạn?",
+    "answer": "2",
+    "hint": "AB và BC: 2 đoạn."
+  },
+  {
+    "id": "q_g2_review_measure_1",
+    "skill": "g2_review_measure",
+    "type": "input",
+    "question": "5 kg so với 3 kg: nặng hơn hay nhẹ hơn? (gõ: nặng hơn hoặc nhẹ hơn)",
+    "answer": "nặng hơn",
+    "hint": "5 > 3."
+  },
+  {
+    "id": "q_g2_review_measure_2",
+    "skill": "g2_review_measure",
+    "type": "multiple_choice",
+    "question": "3 l so với 1 l?",
+    "choices": [
+      "Nhiều hơn",
+      "Ít hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Nhiều hơn",
+    "hint": "3 > 1."
+  },
+  {
+    "id": "q_g2_review_hk1_1",
+    "skill": "g2_review_hk1",
+    "type": "input",
+    "question": "16 - 9 = ?",
+    "answer": "7",
+    "hint": "16 - 6 - 3 = 7."
+  },
+  {
+    "id": "q_g2_review_hk1_2",
+    "skill": "g2_review_hk1",
+    "type": "multiple_choice",
+    "question": "Kim ngắn 7, kim dài 12: mấy giờ?",
+    "choices": [
+      "7 giờ",
+      "12 giờ",
+      "9 giờ",
+      "5 giờ"
+    ],
+    "answer": "7 giờ",
+    "hint": "Kim ngắn chỉ giờ."
+  },
+  {
+    "id": "q_g2_multiplication_1",
+    "skill": "g2_multiplication",
+    "type": "multiple_choice",
+    "question": "3 × 4 nghĩa là?",
+    "choices": [
+      "3 nhóm, mỗi nhóm 4",
+      "3 + 4",
+      "3 - 4",
+      "4 - 3"
+    ],
+    "answer": "3 nhóm, mỗi nhóm 4",
+    "hint": "Nhân = cộng lặp."
+  },
+  {
+    "id": "q_g2_multiplication_2",
+    "skill": "g2_multiplication",
+    "type": "input",
+    "question": "2 × 5 = ?",
+    "answer": "10",
+    "hint": "5 + 5 = 10."
+  },
+  {
+    "id": "q_g2_factors_product_1",
+    "skill": "g2_factors_product",
+    "type": "input",
+    "question": "Trong 4 × 3 = 12, 12 gọi là gì?",
+    "answer": "tích",
+    "hint": "Kết quả nhân là tích."
+  },
+  {
+    "id": "q_g2_factors_product_2",
+    "skill": "g2_factors_product",
+    "type": "multiple_choice",
+    "question": "Trong 6 × 2 = 12, 6 và 2 là?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Số hạng",
+      "Thương"
+    ],
+    "answer": "Thừa số",
+    "hint": "Hai số nhân là thừa số."
+  },
+  {
+    "id": "q_g2_table_2_1",
+    "skill": "g2_table_2",
+    "type": "input",
+    "question": "2 × 7 = ?",
+    "answer": "14",
+    "hint": "7 + 7 = 14."
+  },
+  {
+    "id": "q_g2_table_2_2",
+    "skill": "g2_table_2",
+    "type": "multiple_choice",
+    "question": "2 × 9 = ?",
+    "choices": [
+      "18",
+      "16",
+      "19",
+      "11"
+    ],
+    "answer": "18",
+    "hint": "9 + 9 = 18."
+  },
+  {
+    "id": "q_g2_table_5_1",
+    "skill": "g2_table_5",
+    "type": "input",
+    "question": "5 × 6 = ?",
+    "answer": "30",
+    "hint": "Bảng nhân 5."
+  },
+  {
+    "id": "q_g2_table_5_2",
+    "skill": "g2_table_5",
+    "type": "multiple_choice",
+    "question": "5 × 8 = ?",
+    "choices": [
+      "40",
+      "35",
+      "45",
+      "13"
+    ],
+    "answer": "40",
+    "hint": "5 × 8 = 40."
+  },
+  {
+    "id": "q_g2_division_1",
+    "skill": "g2_division",
+    "type": "multiple_choice",
+    "question": "12 : 3 = 4 vì?",
+    "choices": [
+      "4 × 3 = 12",
+      "12 + 3 = 4",
+      "12 - 3 = 4",
+      "3 × 4 = 7"
+    ],
+    "answer": "4 × 3 = 12",
+    "hint": "Chia ngược nhân."
+  },
+  {
+    "id": "q_g2_division_2",
+    "skill": "g2_division",
+    "type": "input",
+    "question": "15 : 3 = ?",
+    "answer": "5",
+    "hint": "5 × 3 = 15."
+  },
+  {
+    "id": "q_g2_dividend_divisor_1",
+    "skill": "g2_dividend_divisor",
+    "type": "input",
+    "question": "Trong 20 : 4 = 5, 20 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g2_dividend_divisor_2",
+    "skill": "g2_dividend_divisor",
+    "type": "multiple_choice",
+    "question": "Trong 18 : 2 = 9, 9 là?",
+    "choices": [
+      "Thương",
+      "Số chia",
+      "Số bị chia",
+      "Tích"
+    ],
+    "answer": "Thương",
+    "hint": "Kết quả chia là thương."
+  },
+  {
+    "id": "q_g2_div_table_2_1",
+    "skill": "g2_div_table_2",
+    "type": "input",
+    "question": "14 : 2 = ?",
+    "answer": "7",
+    "hint": "7 × 2 = 14."
+  },
+  {
+    "id": "q_g2_div_table_2_2",
+    "skill": "g2_div_table_2",
+    "type": "multiple_choice",
+    "question": "18 : 2 = ?",
+    "choices": [
+      "9",
+      "8",
+      "16",
+      "20"
+    ],
+    "answer": "9",
+    "hint": "9 × 2 = 18."
+  },
+  {
+    "id": "q_g2_div_table_5_1",
+    "skill": "g2_div_table_5",
+    "type": "input",
+    "question": "25 : 5 = ?",
+    "answer": "5",
+    "hint": "5 × 5 = 25."
+  },
+  {
+    "id": "q_g2_div_table_5_2",
+    "skill": "g2_div_table_5",
+    "type": "multiple_choice",
+    "question": "35 : 5 = ?",
+    "choices": [
+      "7",
+      "6",
+      "30",
+      "40"
+    ],
+    "answer": "7",
+    "hint": "7 × 5 = 35."
+  },
+  {
+    "id": "q_g2_practice_ch8_1",
+    "skill": "g2_practice_ch8",
+    "type": "input",
+    "question": "4 × 5 = ?",
+    "answer": "20",
+    "hint": "Bảng nhân 5."
+  },
+  {
+    "id": "q_g2_practice_ch8_2",
+    "skill": "g2_practice_ch8",
+    "type": "multiple_choice",
+    "question": "20 : 4 = ?",
+    "choices": [
+      "5",
+      "4",
+      "16",
+      "24"
+    ],
+    "answer": "5",
+    "hint": "5 × 4 = 20."
+  },
+  {
+    "id": "q_g2_cylinder_sphere_1",
+    "skill": "g2_cylinder_sphere",
+    "type": "multiple_choice",
+    "question": "Quả bóng giống hình khối nào?",
+    "choices": [
+      "Khối cầu",
+      "Khối trụ",
+      "Khối lập phương",
+      "Tam giác"
+    ],
+    "answer": "Khối cầu",
+    "hint": "Bóng tròn mọi phía."
+  },
+  {
+    "id": "q_g2_cylinder_sphere_2",
+    "skill": "g2_cylinder_sphere",
+    "type": "input",
+    "question": "Lon nước giống khối gì?",
+    "answer": "trụ",
+    "hint": "Lon có đáy tròn = khối trụ."
+  },
+  {
+    "id": "q_g2_practice_ch9_1",
+    "skill": "g2_practice_ch9",
+    "type": "input",
+    "question": "Khối cầu lăn được không? (gõ: có hoặc không)",
+    "answer": "có",
+    "hint": "Khối cầu lăn mọi hướng."
+  },
+  {
+    "id": "q_g2_practice_ch9_2",
+    "skill": "g2_practice_ch9",
+    "type": "multiple_choice",
+    "question": "Khối trụ có mấy đáy tròn?",
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "6"
+    ],
+    "answer": "2",
+    "hint": "Hai đáy tròn song song."
+  },
+  {
+    "id": "q_g2_place_1000_1",
+    "skill": "g2_place_1000",
+    "type": "multiple_choice",
+    "question": "456 có mấy trăm?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "456"
+    ],
+    "answer": "4",
+    "hint": "4 trăm 5 chục 6 đơn vị."
+  },
+  {
+    "id": "q_g2_place_1000_2",
+    "skill": "g2_place_1000",
+    "type": "input",
+    "question": "Viết số: ba trăm linh năm.",
+    "answer": "305",
+    "hint": "3 trăm, 0 chục, 5 đơn vị."
+  },
+  {
+    "id": "q_g2_round_numbers_1",
+    "skill": "g2_round_numbers",
+    "type": "input",
+    "question": "700 gồm mấy trăm?",
+    "answer": "7",
+    "hint": "7 trăm."
+  },
+  {
+    "id": "q_g2_round_numbers_2",
+    "skill": "g2_round_numbers",
+    "type": "multiple_choice",
+    "question": "Số tròn chục nào?",
+    "choices": [
+      "350",
+      "355",
+      "353",
+      "351"
+    ],
+    "answer": "350",
+    "hint": "Chữ số đơn vị là 0."
+  },
+  {
+    "id": "q_g2_compare_round_1",
+    "skill": "g2_compare_round",
+    "type": "input",
+    "question": "500 ___ 300 (điền >, < hoặc =)",
+    "answer": ">",
+    "hint": "5 trăm > 3 trăm."
+  },
+  {
+    "id": "q_g2_compare_round_2",
+    "skill": "g2_compare_round",
+    "type": "multiple_choice",
+    "question": "240 ___ 230",
+    "choices": [
+      ">",
+      "<",
+      "="
+    ],
+    "answer": ">",
+    "hint": "4 chục > 3 chục."
+  },
+  {
+    "id": "q_g2_three_digit_1",
+    "skill": "g2_three_digit",
+    "type": "multiple_choice",
+    "question": "725 đọc là?",
+    "choices": [
+      "Bảy trăm hai mươi lăm",
+      "Bảy trăm năm mươi hai",
+      "Hai trăm bảy mươi lăm"
+    ],
+    "answer": "Bảy trăm hai mươi lăm",
+    "hint": "7 trăm, 2 chục, 5 đơn vị."
+  },
+  {
+    "id": "q_g2_three_digit_2",
+    "skill": "g2_three_digit",
+    "type": "input",
+    "question": "Viết số: sáu trăm mười tám.",
+    "answer": "618",
+    "hint": "6 trăm 1 chục 8 đơn vị."
+  },
+  {
+    "id": "q_g2_expanded_form_1",
+    "skill": "g2_expanded_form",
+    "type": "input",
+    "question": "638 = 600 + ? + 8",
+    "answer": "30",
+    "hint": "6 trăm 3 chục 8 đơn vị."
+  },
+  {
+    "id": "q_g2_expanded_form_2",
+    "skill": "g2_expanded_form",
+    "type": "multiple_choice",
+    "question": "405 = ?",
+    "choices": [
+      "400 + 5",
+      "40 + 5",
+      "400 + 50",
+      "4 + 5"
+    ],
+    "answer": "400 + 5",
+    "hint": "0 chục nên 400 + 5."
+  },
+  {
+    "id": "q_g2_compare_3d_1",
+    "skill": "g2_compare_3d",
+    "type": "input",
+    "question": "589 ___ 582 (điền >, < hoặc =)",
+    "answer": ">",
+    "hint": "9 > 2 ở hàng đơn vị."
+  },
+  {
+    "id": "q_g2_compare_3d_2",
+    "skill": "g2_compare_3d",
+    "type": "multiple_choice",
+    "question": "Số lớn nhất: 456, 465, 446?",
+    "choices": [
+      "465",
+      "456",
+      "446",
+      "464"
+    ],
+    "answer": "465",
+    "hint": "6 chục lớn nhất."
+  },
+  {
+    "id": "q_g2_practice_ch10_1",
+    "skill": "g2_practice_ch10",
+    "type": "input",
+    "question": "999 + 1 = ?",
+    "answer": "1000",
+    "hint": "Số liền sau 999."
+  },
+  {
+    "id": "q_g2_practice_ch10_2",
+    "skill": "g2_practice_ch10",
+    "type": "multiple_choice",
+    "question": "742 gồm?",
+    "choices": [
+      "7 trăm 4 chục 2 đơn vị",
+      "7 chục 4 trăm 2 đơn vị",
+      "74 trăm 2 đơn vị"
+    ],
+    "answer": "7 trăm 4 chục 2 đơn vị",
+    "hint": "Đọc từ trái sang."
+  },
+  {
+    "id": "q_g2_length_units_1",
+    "skill": "g2_length_units",
+    "type": "multiple_choice",
+    "question": "1 m = ? dm",
+    "choices": [
+      "10",
+      "100",
+      "1000",
+      "1"
+    ],
+    "answer": "10",
+    "hint": "1 m = 10 dm."
+  },
+  {
+    "id": "q_g2_length_units_2",
+    "skill": "g2_length_units",
+    "type": "input",
+    "question": "1 km = ? m",
+    "answer": "1000",
+    "hint": "1 km = 1000 m."
+  },
+  {
+    "id": "q_g2_vnd_money_1",
+    "skill": "g2_vnd_money",
+    "type": "input",
+    "question": "2 tờ 5000 đồng = ? đồng",
+    "answer": "10000",
+    "hint": "5000 + 5000."
+  },
+  {
+    "id": "q_g2_vnd_money_2",
+    "skill": "g2_vnd_money",
+    "type": "multiple_choice",
+    "question": "Tờ tiền nào có giá trị lớn nhất?",
+    "choices": [
+      "10000",
+      "1000",
+      "2000",
+      "5000"
+    ],
+    "answer": "10000",
+    "hint": "10 000 lớn nhất."
+  },
+  {
+    "id": "q_g2_length_exp_1",
+    "skill": "g2_length_exp",
+    "type": "input",
+    "question": "1 m = ? dm",
+    "answer": "10",
+    "hint": "1 m = 10 dm."
+  },
+  {
+    "id": "q_g2_length_exp_2",
+    "skill": "g2_length_exp",
+    "type": "multiple_choice",
+    "question": "Đo chiều dài bàn học nên dùng?",
+    "choices": [
+      "dm hoặc m",
+      "kg",
+      "l",
+      "km"
+    ],
+    "answer": "dm hoặc m",
+    "hint": "Bàn không quá dài."
+  },
+  {
+    "id": "q_g2_practice_ch11_1",
+    "skill": "g2_practice_ch11",
+    "type": "input",
+    "question": "5 m = ? dm",
+    "answer": "50",
+    "hint": "5 × 10."
+  },
+  {
+    "id": "q_g2_practice_ch11_2",
+    "skill": "g2_practice_ch11",
+    "type": "multiple_choice",
+    "question": "Quãng đường Hà Nội - TP.HCM đo bằng?",
+    "choices": [
+      "km",
+      "m",
+      "dm",
+      "cm"
+    ],
+    "answer": "km",
+    "hint": "Quãng đường rất dài."
+  },
+  {
+    "id": "q_g2_add_1000_no_carry_1",
+    "skill": "g2_add_1000_no_carry",
+    "type": "input",
+    "question": "234 + 152 = ?",
+    "answer": "386",
+    "hint": "4+2=6, 3+5=8, 2+1=3."
+  },
+  {
+    "id": "q_g2_add_1000_no_carry_2",
+    "skill": "g2_add_1000_no_carry",
+    "type": "multiple_choice",
+    "question": "405 + 123 = ?",
+    "choices": [
+      "528",
+      "518",
+      "538",
+      "427"
+    ],
+    "answer": "528",
+    "hint": "Cộng từng hàng."
+  },
+  {
+    "id": "q_g2_add_1000_carry_1",
+    "skill": "g2_add_1000_carry",
+    "type": "input",
+    "question": "468 + 175 = ?",
+    "answer": "643",
+    "hint": "8+5=13, 6+7+1=14, 4+1+1=6."
+  },
+  {
+    "id": "q_g2_add_1000_carry_2",
+    "skill": "g2_add_1000_carry",
+    "type": "multiple_choice",
+    "question": "356 + 278 = ?",
+    "choices": [
+      "634",
+      "624",
+      "534",
+      "644"
+    ],
+    "answer": "634",
+    "hint": "6+8=14, 5+7+1=13, 3+2+1=6."
+  },
+  {
+    "id": "q_g2_sub_1000_no_borrow_1",
+    "skill": "g2_sub_1000_no_borrow",
+    "type": "input",
+    "question": "587 - 243 = ?",
+    "answer": "344",
+    "hint": "7-3=4, 8-4=4, 5-2=3."
+  },
+  {
+    "id": "q_g2_sub_1000_no_borrow_2",
+    "skill": "g2_sub_1000_no_borrow",
+    "type": "multiple_choice",
+    "question": "799 - 355 = ?",
+    "choices": [
+      "444",
+      "454",
+      "434",
+      "544"
+    ],
+    "answer": "444",
+    "hint": "Trừ từng hàng."
+  },
+  {
+    "id": "q_g2_sub_1000_borrow_1",
+    "skill": "g2_sub_1000_borrow",
+    "type": "input",
+    "question": "503 - 267 = ?",
+    "answer": "236",
+    "hint": "13-7=6, 9-6=3, 4-2=2."
+  },
+  {
+    "id": "q_g2_sub_1000_borrow_2",
+    "skill": "g2_sub_1000_borrow",
+    "type": "multiple_choice",
+    "question": "600 - 458 = ?",
+    "choices": [
+      "142",
+      "152",
+      "242",
+      "132"
+    ],
+    "answer": "142",
+    "hint": "Mượn từ hàng trăm."
+  },
+  {
+    "id": "q_g2_practice_ch12_1",
+    "skill": "g2_practice_ch12",
+    "type": "input",
+    "question": "725 + 148 = ?",
+    "answer": "873",
+    "hint": "5+8=13, 2+4+1=7, 7+1=8."
+  },
+  {
+    "id": "q_g2_practice_ch12_2",
+    "skill": "g2_practice_ch12",
+    "type": "multiple_choice",
+    "question": "812 - 375 = ?",
+    "choices": [
+      "437",
+      "447",
+      "537",
+      "427"
+    ],
+    "answer": "437",
+    "hint": "Trừ có nhớ."
+  },
+  {
+    "id": "q_g2_data_collect_1",
+    "skill": "g2_data_collect",
+    "type": "multiple_choice",
+    "question": "Thu thập số liệu là?",
+    "choices": [
+      "Ghi lại thông tin đếm được",
+      "Vẽ hình tròn",
+      "Tính cộng",
+      "Đo độ dài"
+    ],
+    "answer": "Ghi lại thông tin đếm được",
+    "hint": "Đếm và ghi lại."
+  },
+  {
+    "id": "q_g2_data_collect_2",
+    "skill": "g2_data_collect",
+    "type": "input",
+    "question": "5 bạn thích đỏ, 3 bạn thích xanh. Tổng bao nhiêu bạn?",
+    "answer": "8",
+    "hint": "5 + 3 = 8."
+  },
+  {
+    "id": "q_g2_pictograph_1",
+    "skill": "g2_pictograph",
+    "type": "input",
+    "question": "Biểu đồ: 1 hình = 2 quả, 4 hình = ? quả",
+    "answer": "8",
+    "hint": "4 × 2 = 8."
+  },
+  {
+    "id": "q_g2_pictograph_2",
+    "skill": "g2_pictograph",
+    "type": "multiple_choice",
+    "question": "Biểu đồ tranh dùng để?",
+    "choices": [
+      "Biểu diễn số liệu bằng hình",
+      "Tính diện tích",
+      "Vẽ đoạn thẳng",
+      "Đo thời gian"
+    ],
+    "answer": "Biểu diễn số liệu bằng hình",
+    "hint": "Mỗi hình = số lượng."
+  },
+  {
+    "id": "q_g2_probability_1",
+    "skill": "g2_probability",
+    "type": "multiple_choice",
+    "question": "Mặt trời mọc buổi sáng là?",
+    "choices": [
+      "Chắc chắn",
+      "Có thể",
+      "Không thể"
+    ],
+    "answer": "Chắc chắn",
+    "hint": "Luôn xảy ra mỗi ngày."
+  },
+  {
+    "id": "q_g2_probability_2",
+    "skill": "g2_probability",
+    "type": "input",
+    "question": "Tung xúc xắc ra số 7: chắc chắn, có thể hay không thể?",
+    "answer": "không thể",
+    "hint": "Xúc xắc chỉ có 1-6."
+  },
+  {
+    "id": "q_g2_data_exp_1",
+    "skill": "g2_data_exp",
+    "type": "input",
+    "question": "Đếm 6 bạn thích bóng đá, 4 bạn thích cầu lông. Tổng?",
+    "answer": "10",
+    "hint": "6 + 4 = 10."
+  },
+  {
+    "id": "q_g2_data_exp_2",
+    "skill": "g2_data_exp",
+    "type": "multiple_choice",
+    "question": "Phân loại số liệu theo?",
+    "choices": [
+      "Tiêu chí chung",
+      "Màu bút",
+      "Độ dài",
+      "Thời gian"
+    ],
+    "answer": "Tiêu chí chung",
+    "hint": "Nhóm theo đặc điểm."
+  },
+  {
+    "id": "q_g2_review_1000_1",
+    "skill": "g2_review_1000",
+    "type": "input",
+    "question": "742 ___ 724 (điền >, < hoặc =)",
+    "answer": ">",
+    "hint": "4 chục > 2 chục."
+  },
+  {
+    "id": "q_g2_review_1000_2",
+    "skill": "g2_review_1000",
+    "type": "multiple_choice",
+    "question": "Số lớn nhất: 589, 598, 859?",
+    "choices": [
+      "859",
+      "598",
+      "589",
+      "895"
+    ],
+    "answer": "859",
+    "hint": "8 trăm lớn nhất."
+  },
+  {
+    "id": "q_g2_review_ops_100_1",
+    "skill": "g2_review_ops_100",
+    "type": "input",
+    "question": "85 - 37 = ?",
+    "answer": "48",
+    "hint": "15-7=8, 7-3=4."
+  },
+  {
+    "id": "q_g2_review_ops_100_2",
+    "skill": "g2_review_ops_100",
+    "type": "multiple_choice",
+    "question": "46 + 38 = ?",
+    "choices": [
+      "84",
+      "74",
+      "83",
+      "85"
+    ],
+    "answer": "84",
+    "hint": "6+8=14, 4+3+1=8."
+  },
+  {
+    "id": "q_g2_review_ops_1000_1",
+    "skill": "g2_review_ops_1000",
+    "type": "input",
+    "question": "609 - 384 = ?",
+    "answer": "225",
+    "hint": "Trừ có nhớ."
+  },
+  {
+    "id": "q_g2_review_ops_1000_2",
+    "skill": "g2_review_ops_1000",
+    "type": "multiple_choice",
+    "question": "456 + 328 = ?",
+    "choices": [
+      "784",
+      "674",
+      "774",
+      "684"
+    ],
+    "answer": "784",
+    "hint": "6+8=14, 5+2+1=8, 4+3=7."
+  },
+  {
+    "id": "q_g2_review_mul_div_1",
+    "skill": "g2_review_mul_div",
+    "type": "input",
+    "question": "8 × 5 = ?",
+    "answer": "40",
+    "hint": "Bảng nhân 5."
+  },
+  {
+    "id": "q_g2_review_mul_div_2",
+    "skill": "g2_review_mul_div",
+    "type": "multiple_choice",
+    "question": "35 : 5 = ?",
+    "choices": [
+      "7",
+      "6",
+      "30",
+      "40"
+    ],
+    "answer": "7",
+    "hint": "7 × 5 = 35."
+  },
+  {
+    "id": "q_g2_review_geo_final_1",
+    "skill": "g2_review_geo_final",
+    "type": "multiple_choice",
+    "question": "Hình có thể lăn mọi hướng?",
+    "choices": [
+      "Khối cầu",
+      "Khối trụ",
+      "Tứ giác",
+      "Đoạn thẳng"
+    ],
+    "answer": "Khối cầu",
+    "hint": "Cầu tròn đều."
+  },
+  {
+    "id": "q_g2_review_geo_final_2",
+    "skill": "g2_review_geo_final",
+    "type": "input",
+    "question": "Tứ giác có mấy cạnh?",
+    "answer": "4",
+    "hint": "Tứ = 4."
+  },
+  {
+    "id": "q_g2_review_measure_final_1",
+    "skill": "g2_review_measure_final",
+    "type": "input",
+    "question": "2 m = ? dm",
+    "answer": "20",
+    "hint": "2 × 10."
+  },
+  {
+    "id": "q_g2_review_measure_final_2",
+    "skill": "g2_review_measure_final",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng gói muối dùng?",
+    "choices": [
+      "kg",
+      "m",
+      "km",
+      "l"
+    ],
+    "answer": "kg",
+    "hint": "Muối có khối lượng."
+  },
+  {
+    "id": "q_g2_review_stats_1",
+    "skill": "g2_review_stats",
+    "type": "input",
+    "question": "Tung đồng xu, ra mặt ngửa: chắc chắn, có thể hay không thể?",
+    "answer": "có thể",
+    "hint": "Có thể ngửa hoặc sấp."
+  },
+  {
+    "id": "q_g2_review_stats_2",
+    "skill": "g2_review_stats",
+    "type": "multiple_choice",
+    "question": "Biểu đồ tranh cần đọc?",
+    "choices": [
+      "Chú thích mỗi hình",
+      "Màu bút",
+      "Chiều dài cạnh",
+      "Số giờ"
+    ],
+    "answer": "Chú thích mỗi hình",
+    "hint": "Biết 1 hình = bao nhiêu."
+  },
+  {
+    "id": "q_g2_review_final_1",
+    "skill": "g2_review_final",
+    "type": "input",
+    "question": "6 × 4 = ?",
+    "answer": "24",
+    "hint": "6 + 6 + 6 + 6 = 24."
+  },
+  {
+    "id": "q_g2_review_final_2",
+    "skill": "g2_review_final",
+    "type": "multiple_choice",
+    "question": "456 + 328 = ?",
+    "choices": [
+      "784",
+      "674",
+      "774",
+      "684"
+    ],
+    "answer": "784",
+    "hint": "Cộng có nhớ."
+  },
+  {
+    "id": "q_g3_review_1000_1",
+    "skill": "g3_review_1000",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_review_1000_2",
+    "skill": "g3_review_1000",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_add_sub_review_1",
+    "skill": "g3_add_sub_review",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_add_sub_review_2",
+    "skill": "g3_add_sub_review",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_add_sub_parts_1",
+    "skill": "g3_add_sub_parts",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_add_sub_parts_2",
+    "skill": "g3_add_sub_parts",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_table_2_5_1",
+    "skill": "g3_table_2_5",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_2_5_2",
+    "skill": "g3_table_2_5",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_table_3_1",
+    "skill": "g3_table_3",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_3_2",
+    "skill": "g3_table_3",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_table_4_1",
+    "skill": "g3_table_4",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_4_2",
+    "skill": "g3_table_4",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_review_geo_measure_1",
+    "skill": "g3_review_geo_measure",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_review_geo_measure_2",
+    "skill": "g3_review_geo_measure",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_practice_ch1_1",
+    "skill": "g3_practice_ch1",
+    "type": "input",
+    "question": "Số liền trước 500 là?",
+    "answer": "499",
+    "hint": "500 - 1 = 499."
+  },
+  {
+    "id": "q_g3_practice_ch1_2",
+    "skill": "g3_practice_ch1",
+    "type": "multiple_choice",
+    "question": "Trên tia số, số bên phải so với số bên trái?",
+    "choices": [
+      "Lớn hơn",
+      "Nhỏ hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Lớn hơn",
+    "hint": "Tia số tăng sang phải."
+  },
+  {
+    "id": "q_g3_table_6_1",
+    "skill": "g3_table_6",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_6_2",
+    "skill": "g3_table_6",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_table_7_1",
+    "skill": "g3_table_7",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_7_2",
+    "skill": "g3_table_7",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_table_8_1",
+    "skill": "g3_table_8",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_8_2",
+    "skill": "g3_table_8",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_table_9_1",
+    "skill": "g3_table_9",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_table_9_2",
+    "skill": "g3_table_9",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_mul_div_parts_1",
+    "skill": "g3_mul_div_parts",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_mul_div_parts_2",
+    "skill": "g3_mul_div_parts",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_fraction_part_1",
+    "skill": "g3_fraction_part",
+    "type": "multiple_choice",
+    "question": "Tô màu 1/4 hình vuông nghĩa là?",
+    "choices": [
+      "Chia 4 phần bằng nhau, lấy 1 phần",
+      "Chia 2 phần",
+      "Lấy cả hình",
+      "Chia 3 phần"
+    ],
+    "answer": "Chia 4 phần bằng nhau, lấy 1 phần",
+    "hint": "Mẫu số là số phần bằng nhau."
+  },
+  {
+    "id": "q_g3_fraction_part_2",
+    "skill": "g3_fraction_part",
+    "type": "input",
+    "question": "Một phần ba viết là phân số gì? (dạng a/b)",
+    "answer": "1/3",
+    "hint": "1 phần trên 3 phần bằng nhau."
+  },
+  {
+    "id": "q_g3_practice_ch2_1",
+    "skill": "g3_practice_ch2",
+    "type": "input",
+    "question": "1/2 và 1/4, phân số nào lớn hơn?",
+    "answer": "1/2",
+    "hint": "Cùng chia hình, 1/2 lớn hơn 1/4."
+  },
+  {
+    "id": "q_g3_practice_ch2_2",
+    "skill": "g3_practice_ch2",
+    "type": "multiple_choice",
+    "question": "1/5 của 20 là?",
+    "choices": [
+      "4",
+      "5",
+      "10",
+      "25"
+    ],
+    "answer": "4",
+    "hint": "20 : 5 = 4."
+  },
+  {
+    "id": "q_g3_midpoint_1",
+    "skill": "g3_midpoint",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_midpoint_2",
+    "skill": "g3_midpoint",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_circle_1",
+    "skill": "g3_circle",
+    "type": "multiple_choice",
+    "question": "Đoạn thẳng từ tâm đến điểm trên đường tròn gọi là?",
+    "choices": [
+      "Bán kính",
+      "Đường kính",
+      "Cạnh",
+      "Góc"
+    ],
+    "answer": "Bán kính",
+    "hint": "Bán kính nối tâm với đường tròn."
+  },
+  {
+    "id": "q_g3_circle_2",
+    "skill": "g3_circle",
+    "type": "input",
+    "question": "Đường kính gấp mấy lần bán kính?",
+    "answer": "2",
+    "hint": "Đường kính = 2 bán kính."
+  },
+  {
+    "id": "q_g3_angle_1",
+    "skill": "g3_angle",
+    "type": "input",
+    "question": "Góc vuông bằng bao nhiêu độ?",
+    "answer": "90",
+    "hint": "Góc vuông = 90°."
+  },
+  {
+    "id": "q_g3_angle_2",
+    "skill": "g3_angle",
+    "type": "multiple_choice",
+    "question": "Góc nhỏ hơn góc vuông gọi là?",
+    "choices": [
+      "Góc nhọn",
+      "Góc tù",
+      "Góc bẹt",
+      "Góc thẳng"
+    ],
+    "answer": "Góc nhọn",
+    "hint": "Góc nhọn < 90°."
+  },
+  {
+    "id": "q_g3_plane_shapes_1",
+    "skill": "g3_plane_shapes",
+    "type": "multiple_choice",
+    "question": "Hình tam giác có mấy cạnh?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3",
+    "hint": "Tam giác có 3 cạnh."
+  },
+  {
+    "id": "q_g3_plane_shapes_2",
+    "skill": "g3_plane_shapes",
+    "type": "input",
+    "question": "1 cm² là diện tích hình vuông cạnh bao nhiêu cm?",
+    "answer": "1",
+    "hint": "Hình vuông cạnh 1 cm."
+  },
+  {
+    "id": "q_g3_draw_practice_1",
+    "skill": "g3_draw_practice",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_draw_practice_2",
+    "skill": "g3_draw_practice",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_cube_box_1",
+    "skill": "g3_cube_box",
+    "type": "multiple_choice",
+    "question": "Hộp sữa giống hình khối nào?",
+    "choices": [
+      "Khối hộp chữ nhật",
+      "Khối cầu",
+      "Khối trụ",
+      "Tam giác"
+    ],
+    "answer": "Khối hộp chữ nhật",
+    "hint": "Hộp có 6 mặt chữ nhật."
+  },
+  {
+    "id": "q_g3_cube_box_2",
+    "skill": "g3_cube_box",
+    "type": "input",
+    "question": "Khối lập phương có mấy mặt?",
+    "answer": "6",
+    "hint": "6 mặt vuông bằng nhau."
+  },
+  {
+    "id": "q_g3_practice_ch3_1",
+    "skill": "g3_practice_ch3",
+    "type": "multiple_choice",
+    "question": "Hộp sữa giống hình khối nào?",
+    "choices": [
+      "Khối hộp chữ nhật",
+      "Khối cầu",
+      "Khối trụ",
+      "Tam giác"
+    ],
+    "answer": "Khối hộp chữ nhật",
+    "hint": "Hộp có 6 mặt chữ nhật."
+  },
+  {
+    "id": "q_g3_practice_ch3_2",
+    "skill": "g3_practice_ch3",
+    "type": "input",
+    "question": "Khối lập phương có mấy mặt?",
+    "answer": "6",
+    "hint": "6 mặt vuông bằng nhau."
+  },
+  {
+    "id": "q_g3_mul_2d_1d_1",
+    "skill": "g3_mul_2d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_mul_2d_1d_2",
+    "skill": "g3_mul_2d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_multiply_times_1",
+    "skill": "g3_multiply_times",
+    "type": "input",
+    "question": "Gấp 6 lên 4 lần được số nào?",
+    "answer": "24",
+    "hint": "6 × 4 = 24."
+  },
+  {
+    "id": "q_g3_multiply_times_2",
+    "skill": "g3_multiply_times",
+    "type": "multiple_choice",
+    "question": "Giảm 48 đi 6 lần được?",
+    "choices": [
+      "8",
+      "42",
+      "288",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "48 : 6 = 8."
+  },
+  {
+    "id": "q_g3_division_remainder_1",
+    "skill": "g3_division_remainder",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_division_remainder_2",
+    "skill": "g3_division_remainder",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_div_2d_1d_1",
+    "skill": "g3_div_2d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_div_2d_1d_2",
+    "skill": "g3_div_2d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_reduce_times_1",
+    "skill": "g3_reduce_times",
+    "type": "input",
+    "question": "Gấp 6 lên 4 lần được số nào?",
+    "answer": "24",
+    "hint": "6 × 4 = 24."
+  },
+  {
+    "id": "q_g3_reduce_times_2",
+    "skill": "g3_reduce_times",
+    "type": "multiple_choice",
+    "question": "Giảm 48 đi 6 lần được?",
+    "choices": [
+      "8",
+      "42",
+      "288",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "48 : 6 = 8."
+  },
+  {
+    "id": "q_g3_two_step_1",
+    "skill": "g3_two_step",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_two_step_2",
+    "skill": "g3_two_step",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_practice_ch4_1",
+    "skill": "g3_practice_ch4",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_practice_ch4_2",
+    "skill": "g3_practice_ch4",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_millimeter_1",
+    "skill": "g3_millimeter",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_millimeter_2",
+    "skill": "g3_millimeter",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_gram_1",
+    "skill": "g3_gram",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_gram_2",
+    "skill": "g3_gram",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_milliliter_1",
+    "skill": "g3_milliliter",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_milliliter_2",
+    "skill": "g3_milliliter",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_temperature_1",
+    "skill": "g3_temperature",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_temperature_2",
+    "skill": "g3_temperature",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_measure_exp_1",
+    "skill": "g3_measure_exp",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_measure_exp_2",
+    "skill": "g3_measure_exp",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_practice_ch5_1",
+    "skill": "g3_practice_ch5",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_practice_ch5_2",
+    "skill": "g3_practice_ch5",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_mul_3d_1d_1",
+    "skill": "g3_mul_3d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_mul_3d_1d_2",
+    "skill": "g3_mul_3d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_div_3d_1d_1",
+    "skill": "g3_div_3d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_div_3d_1d_2",
+    "skill": "g3_div_3d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_expression_1",
+    "skill": "g3_expression",
+    "type": "input",
+    "question": "Tính 12 + 8 × 2.",
+    "answer": "28",
+    "hint": "Nhân trước: 8 × 2 = 16; 12 + 16 = 28."
+  },
+  {
+    "id": "q_g3_expression_2",
+    "skill": "g3_expression",
+    "type": "multiple_choice",
+    "question": "Trong 45 - 15 : 3, phép nào làm trước?",
+    "choices": [
+      "Chia",
+      "Trừ",
+      "Cộng",
+      "Nhân"
+    ],
+    "answer": "Chia",
+    "hint": "Chia trước cộng trừ."
+  },
+  {
+    "id": "q_g3_compare_times_1",
+    "skill": "g3_compare_times",
+    "type": "input",
+    "question": "Gấp 6 lên 4 lần được số nào?",
+    "answer": "24",
+    "hint": "6 × 4 = 24."
+  },
+  {
+    "id": "q_g3_compare_times_2",
+    "skill": "g3_compare_times",
+    "type": "multiple_choice",
+    "question": "Giảm 48 đi 6 lần được?",
+    "choices": [
+      "8",
+      "42",
+      "288",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "48 : 6 = 8."
+  },
+  {
+    "id": "q_g3_practice_ch6_1",
+    "skill": "g3_practice_ch6",
+    "type": "input",
+    "question": "Tính 12 + 8 × 2.",
+    "answer": "28",
+    "hint": "Nhân trước: 8 × 2 = 16; 12 + 16 = 28."
+  },
+  {
+    "id": "q_g3_practice_ch6_2",
+    "skill": "g3_practice_ch6",
+    "type": "multiple_choice",
+    "question": "Trong 45 - 15 : 3, phép nào làm trước?",
+    "choices": [
+      "Chia",
+      "Trừ",
+      "Cộng",
+      "Nhân"
+    ],
+    "answer": "Chia",
+    "hint": "Chia trước cộng trừ."
+  },
+  {
+    "id": "q_g3_review_mul_div_1",
+    "skill": "g3_review_mul_div",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_review_mul_div_2",
+    "skill": "g3_review_mul_div",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_review_expression_1",
+    "skill": "g3_review_expression",
+    "type": "input",
+    "question": "Tính 12 + 8 × 2.",
+    "answer": "28",
+    "hint": "Nhân trước: 8 × 2 = 16; 12 + 16 = 28."
+  },
+  {
+    "id": "q_g3_review_expression_2",
+    "skill": "g3_review_expression",
+    "type": "multiple_choice",
+    "question": "Trong 45 - 15 : 3, phép nào làm trước?",
+    "choices": [
+      "Chia",
+      "Trừ",
+      "Cộng",
+      "Nhân"
+    ],
+    "answer": "Chia",
+    "hint": "Chia trước cộng trừ."
+  },
+  {
+    "id": "q_g3_review_geo_hk1_1",
+    "skill": "g3_review_geo_hk1",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_review_geo_hk1_2",
+    "skill": "g3_review_geo_hk1",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_review_hk1_1",
+    "skill": "g3_review_hk1",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_review_hk1_2",
+    "skill": "g3_review_hk1",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_four_digit_1",
+    "skill": "g3_four_digit",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_four_digit_2",
+    "skill": "g3_four_digit",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_compare_10000_1",
+    "skill": "g3_compare_10000",
+    "type": "input",
+    "question": "Số liền trước 500 là?",
+    "answer": "499",
+    "hint": "500 - 1 = 499."
+  },
+  {
+    "id": "q_g3_compare_10000_2",
+    "skill": "g3_compare_10000",
+    "type": "multiple_choice",
+    "question": "Trên tia số, số bên phải so với số bên trái?",
+    "choices": [
+      "Lớn hơn",
+      "Nhỏ hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Lớn hơn",
+    "hint": "Tia số tăng sang phải."
+  },
+  {
+    "id": "q_g3_roman_numerals_1",
+    "skill": "g3_roman_numerals",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_roman_numerals_2",
+    "skill": "g3_roman_numerals",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_round_numbers_1",
+    "skill": "g3_round_numbers",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_round_numbers_2",
+    "skill": "g3_round_numbers",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_practice_ch8_1",
+    "skill": "g3_practice_ch8",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_practice_ch8_2",
+    "skill": "g3_practice_ch8",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_perimeter_1",
+    "skill": "g3_perimeter",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_perimeter_2",
+    "skill": "g3_perimeter",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_area_square_cm_1",
+    "skill": "g3_area_square_cm",
+    "type": "multiple_choice",
+    "question": "Hình tam giác có mấy cạnh?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3",
+    "hint": "Tam giác có 3 cạnh."
+  },
+  {
+    "id": "q_g3_area_square_cm_2",
+    "skill": "g3_area_square_cm",
+    "type": "input",
+    "question": "1 cm² là diện tích hình vuông cạnh bao nhiêu cm?",
+    "answer": "1",
+    "hint": "Hình vuông cạnh 1 cm."
+  },
+  {
+    "id": "q_g3_area_rect_square_1",
+    "skill": "g3_area_rect_square",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_area_rect_square_2",
+    "skill": "g3_area_rect_square",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_practice_ch9_1",
+    "skill": "g3_practice_ch9",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_practice_ch9_2",
+    "skill": "g3_practice_ch9",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_add_10000_1",
+    "skill": "g3_add_10000",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_add_10000_2",
+    "skill": "g3_add_10000",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_sub_10000_1",
+    "skill": "g3_sub_10000",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_sub_10000_2",
+    "skill": "g3_sub_10000",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_mul_4d_1d_1",
+    "skill": "g3_mul_4d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_mul_4d_1d_2",
+    "skill": "g3_mul_4d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_div_4d_1d_1",
+    "skill": "g3_div_4d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_div_4d_1d_2",
+    "skill": "g3_div_4d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_practice_ch10_1",
+    "skill": "g3_practice_ch10",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_practice_ch10_2",
+    "skill": "g3_practice_ch10",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_five_digit_1",
+    "skill": "g3_five_digit",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_five_digit_2",
+    "skill": "g3_five_digit",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_compare_100000_1",
+    "skill": "g3_compare_100000",
+    "type": "input",
+    "question": "Số liền trước 500 là?",
+    "answer": "499",
+    "hint": "500 - 1 = 499."
+  },
+  {
+    "id": "q_g3_compare_100000_2",
+    "skill": "g3_compare_100000",
+    "type": "multiple_choice",
+    "question": "Trên tia số, số bên phải so với số bên trái?",
+    "choices": [
+      "Lớn hơn",
+      "Nhỏ hơn",
+      "Bằng nhau"
+    ],
+    "answer": "Lớn hơn",
+    "hint": "Tia số tăng sang phải."
+  },
+  {
+    "id": "q_g3_round_100000_1",
+    "skill": "g3_round_100000",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_round_100000_2",
+    "skill": "g3_round_100000",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_practice_ch11_1",
+    "skill": "g3_practice_ch11",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_practice_ch11_2",
+    "skill": "g3_practice_ch11",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_add_100000_1",
+    "skill": "g3_add_100000",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_add_100000_2",
+    "skill": "g3_add_100000",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_sub_100000_1",
+    "skill": "g3_sub_100000",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_sub_100000_2",
+    "skill": "g3_sub_100000",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_practice_ch12_1",
+    "skill": "g3_practice_ch12",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_practice_ch12_2",
+    "skill": "g3_practice_ch12",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_clock_month_1",
+    "skill": "g3_clock_month",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_clock_month_2",
+    "skill": "g3_clock_month",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_clock_exp_1",
+    "skill": "g3_clock_exp",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_clock_exp_2",
+    "skill": "g3_clock_exp",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_vnd_money_1",
+    "skill": "g3_vnd_money",
+    "type": "input",
+    "question": "1 cm = ? mm",
+    "answer": "10",
+    "hint": "1 cm = 10 mm."
+  },
+  {
+    "id": "q_g3_vnd_money_2",
+    "skill": "g3_vnd_money",
+    "type": "multiple_choice",
+    "question": "Đo khối lượng quả táo nhỏ nên dùng?",
+    "choices": [
+      "g",
+      "kg",
+      "km",
+      "l"
+    ],
+    "answer": "g",
+    "hint": "g đo vật nhẹ."
+  },
+  {
+    "id": "q_g3_practice_ch13_1",
+    "skill": "g3_practice_ch13",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_practice_ch13_2",
+    "skill": "g3_practice_ch13",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g3_mul_5d_1d_1",
+    "skill": "g3_mul_5d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_mul_5d_1d_2",
+    "skill": "g3_mul_5d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_div_5d_1d_1",
+    "skill": "g3_div_5d_1d",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_div_5d_1d_2",
+    "skill": "g3_div_5d_1d",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_practice_ch14_1",
+    "skill": "g3_practice_ch14",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_practice_ch14_2",
+    "skill": "g3_practice_ch14",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_data_collect_1",
+    "skill": "g3_data_collect",
+    "type": "input",
+    "question": "5 bạn thích đỏ, 3 bạn thích xanh. Tổng bao nhiêu bạn?",
+    "answer": "8",
+    "hint": "5 + 3 = 8."
+  },
+  {
+    "id": "q_g3_data_collect_2",
+    "skill": "g3_data_collect",
+    "type": "multiple_choice",
+    "question": "Bảng số liệu dùng để?",
+    "choices": [
+      "Ghi và so sánh số liệu",
+      "Vẽ hình tròn",
+      "Tính chu vi",
+      "Đo nhiệt độ"
+    ],
+    "answer": "Ghi và so sánh số liệu",
+    "hint": "Bảng giúp đọc số liệu nhanh."
+  },
+  {
+    "id": "q_g3_probability_1",
+    "skill": "g3_probability",
+    "type": "multiple_choice",
+    "question": "Tung xúc xắc ra số 7 là?",
+    "choices": [
+      "Không thể",
+      "Chắc chắn",
+      "Có thể chắc chắn"
+    ],
+    "answer": "Không thể",
+    "hint": "Xúc xắc chỉ có 1-6."
+  },
+  {
+    "id": "q_g3_probability_2",
+    "skill": "g3_probability",
+    "type": "input",
+    "question": "Mặt trời mọc buổi sáng: chắc chắn, có thể hay không thể?",
+    "answer": "chắc chắn",
+    "hint": "Luôn xảy ra mỗi ngày."
+  },
+  {
+    "id": "q_g3_data_exp_1",
+    "skill": "g3_data_exp",
+    "type": "multiple_choice",
+    "question": "Biểu đồ cột dùng để?",
+    "choices": [
+      "So sánh số liệu",
+      "Tính diện tích",
+      "Vẽ góc",
+      "Đo độ dài"
+    ],
+    "answer": "So sánh số liệu",
+    "hint": "Cột cao thể hiện số lớn hơn."
+  },
+  {
+    "id": "q_g3_data_exp_2",
+    "skill": "g3_data_exp",
+    "type": "input",
+    "question": "Bảng ghi 4 nhóm: 2, 5, 3, 6. Tổng?",
+    "answer": "16",
+    "hint": "2+5+3+6=16."
+  },
+  {
+    "id": "q_g3_review_numbers_1",
+    "skill": "g3_review_numbers",
+    "type": "multiple_choice",
+    "question": "Số 4567 có mấy chữ số?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Đếm chữ số từ trái sang."
+  },
+  {
+    "id": "q_g3_review_numbers_2",
+    "skill": "g3_review_numbers",
+    "type": "input",
+    "question": "Số liền sau 999 là?",
+    "answer": "1000",
+    "hint": "999 + 1 = 1000."
+  },
+  {
+    "id": "q_g3_review_add_sub_1",
+    "skill": "g3_review_add_sub",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_review_add_sub_2",
+    "skill": "g3_review_add_sub",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_review_mul_div_final_1",
+    "skill": "g3_review_mul_div_final",
+    "type": "input",
+    "question": "Tính 24 × 3.",
+    "answer": "72",
+    "hint": "4 × 3 = 12, nhớ 1; 2 × 3 + 1 = 7."
+  },
+  {
+    "id": "q_g3_review_mul_div_final_2",
+    "skill": "g3_review_mul_div_final",
+    "type": "multiple_choice",
+    "question": "56 : 7 = ?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer": "8",
+    "hint": "7 × 8 = 56."
+  },
+  {
+    "id": "q_g3_review_geo_final_1",
+    "skill": "g3_review_geo_final",
+    "type": "input",
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "answer": "4",
+    "hint": "Hình vuông có 4 cạnh bằng nhau."
+  },
+  {
+    "id": "q_g3_review_geo_final_2",
+    "skill": "g3_review_geo_final",
+    "type": "multiple_choice",
+    "question": "Chu vi hình chữ nhật bằng?",
+    "choices": [
+      "(dài + rộng) × 2",
+      "dài × rộng",
+      "dài + rộng",
+      "dài × 4"
+    ],
+    "answer": "(dài + rộng) × 2",
+    "hint": "Cộng hai chiều rồi nhân 2."
+  },
+  {
+    "id": "q_g3_review_stats_1",
+    "skill": "g3_review_stats",
+    "type": "multiple_choice",
+    "question": "Tung xúc xắc ra số 7 là?",
+    "choices": [
+      "Không thể",
+      "Chắc chắn",
+      "Có thể chắc chắn"
+    ],
+    "answer": "Không thể",
+    "hint": "Xúc xắc chỉ có 1-6."
+  },
+  {
+    "id": "q_g3_review_stats_2",
+    "skill": "g3_review_stats",
+    "type": "input",
+    "question": "Mặt trời mọc buổi sáng: chắc chắn, có thể hay không thể?",
+    "answer": "chắc chắn",
+    "hint": "Luôn xảy ra mỗi ngày."
+  },
+  {
+    "id": "q_g3_review_final_1",
+    "skill": "g3_review_final",
+    "type": "multiple_choice",
+    "question": "Trong 45 + 27 = 72, 72 gọi là?",
+    "choices": [
+      "Tổng",
+      "Số hạng",
+      "Hiệu",
+      "Thương"
+    ],
+    "answer": "Tổng",
+    "hint": "Kết quả cộng là tổng."
+  },
+  {
+    "id": "q_g3_review_final_2",
+    "skill": "g3_review_final",
+    "type": "input",
+    "question": "Trong 63 : 9 = 7, 63 gọi là gì?",
+    "answer": "số bị chia",
+    "hint": "Số bị chia đứng trước dấu chia."
+  },
+  {
+    "id": "q_g4_review_100000_1",
+    "skill": "g4_review_100000",
+    "type": "multiple_choice",
+    "question": "Số 45 678 có mấy chữ số?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "hint": "Đếm từ trái sang."
+  },
+  {
+    "id": "q_g4_review_100000_2",
+    "skill": "g4_review_100000",
+    "type": "input",
+    "question": "Số liền sau 99 999 là?",
+    "answer": "100000",
+    "hint": "99 999 + 1 = 100 000."
+  },
+  {
+    "id": "q_g4_add_sub_review_100000_1",
+    "skill": "g4_add_sub_review_100000",
+    "type": "input",
+    "question": "Tính 35 000 + 12 500.",
+    "answer": "47500",
+    "hint": "Cộng từng hàng."
+  },
+  {
+    "id": "q_g4_add_sub_review_100000_2",
+    "skill": "g4_add_sub_review_100000",
+    "type": "multiple_choice",
+    "question": "80 000 - 25 000 = ?",
+    "choices": [
+      "55000",
+      "105000",
+      "50000",
+      "65000"
+    ],
+    "answer": "55000",
+    "hint": "Trừ từng hàng."
+  },
+  {
+    "id": "q_g4_even_odd_1",
+    "skill": "g4_even_odd",
+    "type": "multiple_choice",
+    "question": "Số nào là số chẵn?",
+    "choices": [
+      "248",
+      "135",
+      "791",
+      "503"
+    ],
+    "answer": "248",
+    "hint": "Chữ số hàng đơn vị chia hết cho 2."
+  },
+  {
+    "id": "q_g4_even_odd_2",
+    "skill": "g4_even_odd",
+    "type": "input",
+    "question": "Số 1 024 là chẵn hay lẻ?",
+    "answer": "chẵn",
+    "hint": "Hàng đơn vị là 4."
+  },
+  {
+    "id": "q_g4_algebra_expression_1",
+    "skill": "g4_algebra_expression",
+    "type": "input",
+    "question": "Tính a + 7 khi a = 15.",
+    "answer": "22",
+    "hint": "15 + 7."
+  },
+  {
+    "id": "q_g4_algebra_expression_2",
+    "skill": "g4_algebra_expression",
+    "type": "multiple_choice",
+    "question": "x - 4 = 10 thì x = ?",
+    "choices": [
+      "14",
+      "6",
+      "40",
+      "4"
+    ],
+    "answer": "14",
+    "hint": "10 + 4 = 14."
+  },
+  {
+    "id": "q_g4_three_step_1",
+    "skill": "g4_three_step",
+    "type": "input",
+    "question": "Mỗi hộp 4 quả, mua 3 hộp, ăn 2 quả. Còn bao nhiêu quả?",
+    "answer": "10",
+    "hint": "3×4-2=10."
+  },
+  {
+    "id": "q_g4_three_step_2",
+    "skill": "g4_three_step",
+    "type": "multiple_choice",
+    "question": "Giải bài toán ba bước cần?",
+    "choices": [
+      "Ba phép tính theo thứ tự",
+      "Một phép tính",
+      "Bốn phép tính",
+      "Không cần tính"
+    ],
+    "answer": "Ba phép tính theo thứ tự",
+    "hint": "Làm từng bước."
+  },
+  {
+    "id": "q_g4_practice_ch1_1",
+    "skill": "g4_practice_ch1",
+    "type": "input",
+    "question": "Số liền trước 50 000 là?",
+    "answer": "49999",
+    "hint": "50 000 - 1."
+  },
+  {
+    "id": "q_g4_practice_ch1_2",
+    "skill": "g4_practice_ch1",
+    "type": "multiple_choice",
+    "question": "248 là số?",
+    "choices": [
+      "Chẵn",
+      "Lẻ",
+      "Không xác định",
+      "Cả hai"
+    ],
+    "answer": "Chẵn",
+    "hint": "Chia hết cho 2."
+  },
+  {
+    "id": "q_g4_angle_measure_1",
+    "skill": "g4_angle_measure",
+    "type": "input",
+    "question": "Góc vuông bằng bao nhiêu độ?",
+    "answer": "90",
+    "hint": "Góc vuông = 90°."
+  },
+  {
+    "id": "q_g4_angle_measure_2",
+    "skill": "g4_angle_measure",
+    "type": "multiple_choice",
+    "question": "Đơn vị đo góc là?",
+    "choices": [
+      "Độ",
+      "Ki-lô-mét",
+      "Gam",
+      "Giây"
+    ],
+    "answer": "Độ",
+    "hint": "Ký hiệu °."
+  },
+  {
+    "id": "q_g4_angle_types_1",
+    "skill": "g4_angle_types",
+    "type": "multiple_choice",
+    "question": "Góc 120° là góc gì?",
+    "choices": [
+      "Tù",
+      "Nhọn",
+      "Vuông",
+      "Bẹt"
+    ],
+    "answer": "Tù",
+    "hint": "Lớn hơn 90° và nhỏ hơn 180°."
+  },
+  {
+    "id": "q_g4_angle_types_2",
+    "skill": "g4_angle_types",
+    "type": "input",
+    "question": "Góc 45° là góc gì?",
+    "answer": "nhọn",
+    "hint": "Nhỏ hơn 90°."
+  },
+  {
+    "id": "q_g4_practice_ch2_1",
+    "skill": "g4_practice_ch2",
+    "type": "input",
+    "question": "Góc 180° gọi là góc gì?",
+    "answer": "bẹt",
+    "hint": "Bằng nửa vòng tròn."
+  },
+  {
+    "id": "q_g4_practice_ch2_2",
+    "skill": "g4_practice_ch2",
+    "type": "multiple_choice",
+    "question": "Góc nhọn so với 90°?",
+    "choices": [
+      "Nhỏ hơn",
+      "Bằng",
+      "Lớn hơn",
+      "Gấp đôi"
+    ],
+    "answer": "Nhỏ hơn",
+    "hint": "Góc nhọn < 90°."
+  },
+  {
+    "id": "q_g4_six_digit_million_1",
+    "skill": "g4_six_digit_million",
+    "type": "multiple_choice",
+    "question": "1 000 000 đọc là?",
+    "choices": [
+      "Một triệu",
+      "Một nghìn",
+      "Một trăm",
+      "Mười triệu"
+    ],
+    "answer": "Một triệu",
+    "hint": "Sáu chữ số 0."
+  },
+  {
+    "id": "q_g4_six_digit_million_2",
+    "skill": "g4_six_digit_million",
+    "type": "input",
+    "question": "Số liền sau 999 999 là?",
+    "answer": "1000000",
+    "hint": "999 999 + 1."
+  },
+  {
+    "id": "q_g4_place_value_1",
+    "skill": "g4_place_value",
+    "type": "input",
+    "question": "Trong 3 456 789, chữ số 5 ở hàng nào?",
+    "answer": "chục nghìn",
+    "hint": "Hàng chục nghìn trong lớp nghìn."
+  },
+  {
+    "id": "q_g4_place_value_2",
+    "skill": "g4_place_value",
+    "type": "multiple_choice",
+    "question": "Một lớp gồm mấy hàng?",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "3",
+    "hint": "Đơn vị, chục, trăm."
+  },
+  {
+    "id": "q_g4_million_numbers_1",
+    "skill": "g4_million_numbers",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "2 500 100",
+      "2 499 999",
+      "2 500 000",
+      "2 490 000"
+    ],
+    "answer": "2 500 100",
+    "hint": "So từ hàng triệu."
+  },
+  {
+    "id": "q_g4_million_numbers_2",
+    "skill": "g4_million_numbers",
+    "type": "input",
+    "question": "Viết số: hai triệu ba trăm nghìn.",
+    "answer": "2300000",
+    "hint": "2 300 000."
+  },
+  {
+    "id": "q_g4_round_hundred_thousand_1",
+    "skill": "g4_round_hundred_thousand",
+    "type": "input",
+    "question": "456 789 làm tròn hàng trăm nghìn là?",
+    "answer": "500000",
+    "hint": "Hàng chục nghìn là 5 ≥ 5."
+  },
+  {
+    "id": "q_g4_round_hundred_thousand_2",
+    "skill": "g4_round_hundred_thousand",
+    "type": "multiple_choice",
+    "question": "234 500 làm tròn hàng trăm nghìn?",
+    "choices": [
+      "200000",
+      "300000",
+      "235000",
+      "230000"
+    ],
+    "answer": "200000",
+    "hint": "Hàng chục nghìn là 3 < 5."
+  },
+  {
+    "id": "q_g4_compare_large_1",
+    "skill": "g4_compare_large",
+    "type": "input",
+    "question": "Điền >, < hoặc =: 1 200 000 ___ 1 199 999",
+    "answer": ">",
+    "hint": "So hàng triệu."
+  },
+  {
+    "id": "q_g4_compare_large_2",
+    "skill": "g4_compare_large",
+    "type": "multiple_choice",
+    "question": "Số bé nhất trong 3 400 000; 3 399 999; 3 410 000?",
+    "choices": [
+      "3399999",
+      "3400000",
+      "3410000",
+      "3401000"
+    ],
+    "answer": "3399999",
+    "hint": "So từng hàng."
+  },
+  {
+    "id": "q_g4_natural_sequence_1",
+    "skill": "g4_natural_sequence",
+    "type": "multiple_choice",
+    "question": "Dãy 5, 10, 15, 20,... quy luật?",
+    "choices": [
+      "Cộng 5",
+      "Nhân 2",
+      "Cộng 10",
+      "Trừ 5"
+    ],
+    "answer": "Cộng 5",
+    "hint": "Mỗi số hơn số trước 5."
+  },
+  {
+    "id": "q_g4_natural_sequence_2",
+    "skill": "g4_natural_sequence",
+    "type": "input",
+    "question": "Dãy 2, 4, 8, 16,... số tiếp theo?",
+    "answer": "32",
+    "hint": "Nhân 2."
+  },
+  {
+    "id": "q_g4_practice_ch3_1",
+    "skill": "g4_practice_ch3",
+    "type": "input",
+    "question": "10, 20, 30, 40,... số tiếp theo?",
+    "answer": "50",
+    "hint": "Cộng 10."
+  },
+  {
+    "id": "q_g4_practice_ch3_2",
+    "skill": "g4_practice_ch3",
+    "type": "multiple_choice",
+    "question": "1 500 000 làm tròn triệu là?",
+    "choices": [
+      "2000000",
+      "1000000",
+      "1500000",
+      "1600000"
+    ],
+    "answer": "2000000",
+    "hint": "Hàng trăm nghìn là 5."
+  },
+  {
+    "id": "q_g4_weight_units_1",
+    "skill": "g4_weight_units",
+    "type": "multiple_choice",
+    "question": "1 tấn = ? kg",
+    "choices": [
+      "1000",
+      "100",
+      "10",
+      "10000"
+    ],
+    "answer": "1000",
+    "hint": "1 tấn = 1000 kg."
+  },
+  {
+    "id": "q_g4_weight_units_2",
+    "skill": "g4_weight_units",
+    "type": "input",
+    "question": "2 tấn = ? kg",
+    "answer": "2000",
+    "hint": "2 × 1000."
+  },
+  {
+    "id": "q_g4_area_units_1",
+    "skill": "g4_area_units",
+    "type": "input",
+    "question": "1 m² = ? dm²",
+    "answer": "100",
+    "hint": "Mỗi cạnh gấp 10 lần."
+  },
+  {
+    "id": "q_g4_area_units_2",
+    "skill": "g4_area_units",
+    "type": "multiple_choice",
+    "question": "1 dm² = ? cm²",
+    "choices": [
+      "100",
+      "10",
+      "1000",
+      "10000"
+    ],
+    "answer": "100",
+    "hint": "1 dm = 10 cm."
+  },
+  {
+    "id": "q_g4_second_century_1",
+    "skill": "g4_second_century",
+    "type": "multiple_choice",
+    "question": "1 thế kỉ = ? năm",
+    "choices": [
+      "100",
+      "10",
+      "1000",
+      "50"
+    ],
+    "answer": "100",
+    "hint": "Một thế kỉ có 100 năm."
+  },
+  {
+    "id": "q_g4_second_century_2",
+    "skill": "g4_second_century",
+    "type": "input",
+    "question": "60 giây = ? phút",
+    "answer": "1",
+    "hint": "60 giây = 1 phút."
+  },
+  {
+    "id": "q_g4_measure_exp_1",
+    "skill": "g4_measure_exp",
+    "type": "input",
+    "question": "5 tạ = ? kg",
+    "answer": "500",
+    "hint": "1 tạ = 100 kg."
+  },
+  {
+    "id": "q_g4_measure_exp_2",
+    "skill": "g4_measure_exp",
+    "type": "multiple_choice",
+    "question": "Đo diện tích phòng học nên dùng?",
+    "choices": [
+      "m2",
+      "kg",
+      "tấn",
+      "giây"
+    ],
+    "answer": "m2",
+    "hint": "Diện tích dùng đơn vị vuông."
+  },
+  {
+    "id": "q_g4_practice_ch4_1",
+    "skill": "g4_practice_ch4",
+    "type": "input",
+    "question": "3 tấn = ? kg",
+    "answer": "3000",
+    "hint": "3 × 1000."
+  },
+  {
+    "id": "q_g4_practice_ch4_2",
+    "skill": "g4_practice_ch4",
+    "type": "multiple_choice",
+    "question": "1 m² = ? mm²",
+    "choices": [
+      "1000000",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "answer": "1000000",
+    "hint": "10³ mỗi chiều."
+  },
+  {
+    "id": "q_g4_add_large_1",
+    "skill": "g4_add_large",
+    "type": "input",
+    "question": "Tính 123 456 + 54 321.",
+    "answer": "177777",
+    "hint": "Cộng từng hàng."
+  },
+  {
+    "id": "q_g4_add_large_2",
+    "skill": "g4_add_large",
+    "type": "multiple_choice",
+    "question": "234 567 + 100 000 = ?",
+    "choices": [
+      "334567",
+      "234667",
+      "235567",
+      "134567"
+    ],
+    "answer": "334567",
+    "hint": "Cộng hàng trăm nghìn."
+  },
+  {
+    "id": "q_g4_sub_large_1",
+    "skill": "g4_sub_large",
+    "type": "input",
+    "question": "Tính 500 000 - 123 456.",
+    "answer": "376544",
+    "hint": "Trừ có mượn."
+  },
+  {
+    "id": "q_g4_sub_large_2",
+    "skill": "g4_sub_large",
+    "type": "multiple_choice",
+    "question": "800 000 - 250 000 = ?",
+    "choices": [
+      "550000",
+      "1050000",
+      "500000",
+      "650000"
+    ],
+    "answer": "550000",
+    "hint": "Trừ từng hàng."
+  },
+  {
+    "id": "q_g4_add_properties_1",
+    "skill": "g4_add_properties",
+    "type": "multiple_choice",
+    "question": "25 + 37 + 75 tính nhanh bằng?",
+    "choices": [
+      "(25+75)+37",
+      "25+37+75+0",
+      "37×3",
+      "25×37"
+    ],
+    "answer": "(25+75)+37",
+    "hint": "Nhóm 25 và 75."
+  },
+  {
+    "id": "q_g4_add_properties_2",
+    "skill": "g4_add_properties",
+    "type": "input",
+    "question": "4 + 9 + 6 + 1 = ? (nhóm 4+6 và 9+1)",
+    "answer": "20",
+    "hint": "10 + 10."
+  },
+  {
+    "id": "q_g4_sum_difference_1",
+    "skill": "g4_sum_difference",
+    "type": "input",
+    "question": "Tổng 60, hiệu 10. Số lớn hơn?",
+    "answer": "35",
+    "hint": "(60+10):2=35."
+  },
+  {
+    "id": "q_g4_sum_difference_2",
+    "skill": "g4_sum_difference",
+    "type": "multiple_choice",
+    "question": "Tổng 50, hiệu 6. Số bé?",
+    "choices": [
+      "22",
+      "28",
+      "25",
+      "19"
+    ],
+    "answer": "22",
+    "hint": "(50-6):2=22."
+  },
+  {
+    "id": "q_g4_practice_ch5_1",
+    "skill": "g4_practice_ch5",
+    "type": "input",
+    "question": "Tổng 100, hiệu 20. Số lớn?",
+    "answer": "60",
+    "hint": "(100+20):2."
+  },
+  {
+    "id": "q_g4_practice_ch5_2",
+    "skill": "g4_practice_ch5",
+    "type": "multiple_choice",
+    "question": "Tính chất giao hoán: a + b = ?",
+    "choices": [
+      "b + a",
+      "a - b",
+      "a × b",
+      "a : b"
+    ],
+    "answer": "b + a",
+    "hint": "Đổi chỗ hai số hạng."
+  },
+  {
+    "id": "q_g4_perpendicular_1",
+    "skill": "g4_perpendicular",
+    "type": "multiple_choice",
+    "question": "Hai đường vuông góc tạo góc?",
+    "choices": [
+      "Vuông",
+      "Nhọn",
+      "Tù",
+      "Bẹt"
+    ],
+    "answer": "Vuông",
+    "hint": "Góc 90°."
+  },
+  {
+    "id": "q_g4_perpendicular_2",
+    "skill": "g4_perpendicular",
+    "type": "input",
+    "question": "Góc giữa hai đường vuông góc là bao nhiêu độ?",
+    "answer": "90",
+    "hint": "Góc vuông."
+  },
+  {
+    "id": "q_g4_perpendicular_draw_1",
+    "skill": "g4_perpendicular_draw",
+    "type": "input",
+    "question": "Dụng cụ kiểm tra góc vuông?",
+    "answer": "êke",
+    "hint": "Êke có góc vuông."
+  },
+  {
+    "id": "q_g4_perpendicular_draw_2",
+    "skill": "g4_perpendicular_draw",
+    "type": "multiple_choice",
+    "question": "Vẽ đường vuông góc qua điểm cần?",
+    "choices": [
+      "Êke và thước",
+      "Compa",
+      "Thước dây",
+      "Cân"
+    ],
+    "answer": "Êke và thước",
+    "hint": "Dùng cạnh góc vuông êke."
+  },
+  {
+    "id": "q_g4_parallel_1",
+    "skill": "g4_parallel",
+    "type": "multiple_choice",
+    "question": "Hai đường song song?",
+    "choices": [
+      "Không giao",
+      "Vuông góc",
+      "Cắt nhau",
+      "Trùng nhau luôn"
+    ],
+    "answer": "Không giao",
+    "hint": "Trong mặt phẳng không cắt."
+  },
+  {
+    "id": "q_g4_parallel_2",
+    "skill": "g4_parallel",
+    "type": "input",
+    "question": "Hình chữ nhật có mấy cặp cạnh song song?",
+    "answer": "2",
+    "hint": "Hai cặp cạnh đối."
+  },
+  {
+    "id": "q_g4_parallel_draw_1",
+    "skill": "g4_parallel_draw",
+    "type": "multiple_choice",
+    "question": "Vẽ đường song song dùng?",
+    "choices": [
+      "Êke trượt trên thước",
+      "Compa",
+      "Nhiệt kế",
+      "Cân"
+    ],
+    "answer": "Êke trượt trên thước",
+    "hint": "Giữ khoảng cách cố định."
+  },
+  {
+    "id": "q_g4_parallel_draw_2",
+    "skill": "g4_parallel_draw",
+    "type": "input",
+    "question": "Cạnh đối hình chữ nhật song song hay vuông góc?",
+    "answer": "song song",
+    "hint": "Cạnh đối không vuông góc."
+  },
+  {
+    "id": "q_g4_parallelogram_rhombus_1",
+    "skill": "g4_parallelogram_rhombus",
+    "type": "multiple_choice",
+    "question": "Hình thoi có mấy cạnh bằng nhau?",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "answer": "4",
+    "hint": "Bốn cạnh bằng nhau."
+  },
+  {
+    "id": "q_g4_parallelogram_rhombus_2",
+    "skill": "g4_parallelogram_rhombus",
+    "type": "input",
+    "question": "Hình bình hành có cặp cạnh đối như thế nào?",
+    "answer": "song song",
+    "hint": "Hai cặp cạnh đối song song."
+  },
+  {
+    "id": "q_g4_practice_ch6_1",
+    "skill": "g4_practice_ch6",
+    "type": "input",
+    "question": "Hình vuông có phải hình thoi?",
+    "answer": "có",
+    "hint": "Bốn cạnh bằng nhau."
+  },
+  {
+    "id": "q_g4_practice_ch6_2",
+    "skill": "g4_practice_ch6",
+    "type": "multiple_choice",
+    "question": "Hình bình hành có góc vuông chắc chắn là?",
+    "choices": [
+      "Hình chữ nhật",
+      "Hình thoi",
+      "Tam giác",
+      "Tròn"
+    ],
+    "answer": "Hình chữ nhật",
+    "hint": "Bốn góc vuông."
+  },
+  {
+    "id": "q_g4_review_million_1",
+    "skill": "g4_review_million",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "3 500 000",
+      "3 499 999",
+      "3 050 000",
+      "3 500 100"
+    ],
+    "answer": "3 500 100",
+    "hint": "So từng hàng."
+  },
+  {
+    "id": "q_g4_review_million_2",
+    "skill": "g4_review_million",
+    "type": "input",
+    "question": "2 456 000 làm tròn triệu là?",
+    "answer": "2000000",
+    "hint": "Hàng trăm nghìn < 5."
+  },
+  {
+    "id": "q_g4_review_add_sub_1",
+    "skill": "g4_review_add_sub",
+    "type": "input",
+    "question": "1 000 000 - 1 = ?",
+    "answer": "999999",
+    "hint": "Số liền trước."
+  },
+  {
+    "id": "q_g4_review_add_sub_2",
+    "skill": "g4_review_add_sub",
+    "type": "multiple_choice",
+    "question": "345 678 + 200 000 = ?",
+    "choices": [
+      "545678",
+      "345878",
+      "355678",
+      "445678"
+    ],
+    "answer": "545678",
+    "hint": "Cộng hàng trăm nghìn."
+  },
+  {
+    "id": "q_g4_review_geo_hk1_1",
+    "skill": "g4_review_geo_hk1",
+    "type": "input",
+    "question": "Góc 90° gọi là góc gì?",
+    "answer": "vuông",
+    "hint": "Bằng góc vuông."
+  },
+  {
+    "id": "q_g4_review_geo_hk1_2",
+    "skill": "g4_review_geo_hk1",
+    "type": "multiple_choice",
+    "question": "Hình thoi là hình?",
+    "choices": [
+      "Bình hành",
+      "Tam giác",
+      "Tròn",
+      "Lập phương"
+    ],
+    "answer": "Bình hành",
+    "hint": "Có hai cặp cạnh đối song song."
+  },
+  {
+    "id": "q_g4_review_measure_hk1_1",
+    "skill": "g4_review_measure_hk1",
+    "type": "input",
+    "question": "1 tấn = ? yến",
+    "answer": "100",
+    "hint": "1 tấn = 100 yến."
+  },
+  {
+    "id": "q_g4_review_measure_hk1_2",
+    "skill": "g4_review_measure_hk1",
+    "type": "multiple_choice",
+    "question": "1 m² = ? dm²",
+    "choices": [
+      "100",
+      "10",
+      "1000",
+      "10000"
+    ],
+    "answer": "100",
+    "hint": "Quy đổi diện tích."
+  },
+  {
+    "id": "q_g4_review_hk1_1",
+    "skill": "g4_review_hk1",
+    "type": "multiple_choice",
+    "question": "Tổng 80, hiệu 8. Số lớn?",
+    "choices": [
+      "44",
+      "36",
+      "40",
+      "48"
+    ],
+    "answer": "44",
+    "hint": "(80+8):2."
+  },
+  {
+    "id": "q_g4_review_hk1_2",
+    "skill": "g4_review_hk1",
+    "type": "input",
+    "question": "Góc nhọn < ? độ",
+    "answer": "90",
+    "hint": "Nhỏ hơn góc vuông."
+  },
+  {
+    "id": "q_g4_mul_1d_1",
+    "skill": "g4_mul_1d",
+    "type": "input",
+    "question": "Tính 12 345 × 4.",
+    "answer": "49380",
+    "hint": "Nhân từng hàng."
+  },
+  {
+    "id": "q_g4_mul_1d_2",
+    "skill": "g4_mul_1d",
+    "type": "multiple_choice",
+    "question": "5 000 × 6 = ?",
+    "choices": [
+      "30000",
+      "3000",
+      "56000",
+      "11000"
+    ],
+    "answer": "30000",
+    "hint": "5 × 6 = 30, thêm 3 số 0."
+  },
+  {
+    "id": "q_g4_div_1d_1",
+    "skill": "g4_div_1d",
+    "type": "input",
+    "question": "Tính 84 000 : 7.",
+    "answer": "12000",
+    "hint": "Chia từng chữ số."
+  },
+  {
+    "id": "q_g4_div_1d_2",
+    "skill": "g4_div_1d",
+    "type": "multiple_choice",
+    "question": "72 000 : 8 = ?",
+    "choices": [
+      "9000",
+      "8000",
+      "900",
+      "90000"
+    ],
+    "answer": "9000",
+    "hint": "72 : 8 = 9."
+  },
+  {
+    "id": "q_g4_mul_properties_1",
+    "skill": "g4_mul_properties",
+    "type": "multiple_choice",
+    "question": "4 × 25 × 2 tính nhanh?",
+    "choices": [
+      "200",
+      "100",
+      "50",
+      "800"
+    ],
+    "answer": "200",
+    "hint": "(4×25)×2=100×2."
+  },
+  {
+    "id": "q_g4_mul_properties_2",
+    "skill": "g4_mul_properties",
+    "type": "input",
+    "question": "7 × 5 = 5 × ?",
+    "answer": "7",
+    "hint": "Giao hoán."
+  },
+  {
+    "id": "q_g4_mul_div_powers10_1",
+    "skill": "g4_mul_div_powers10",
+    "type": "input",
+    "question": "450 × 100 = ?",
+    "answer": "45000",
+    "hint": "Thêm hai chữ số 0."
+  },
+  {
+    "id": "q_g4_mul_div_powers10_2",
+    "skill": "g4_mul_div_powers10",
+    "type": "multiple_choice",
+    "question": "56 000 : 10 = ?",
+    "choices": [
+      "5600",
+      "560",
+      "56000",
+      "560000"
+    ],
+    "answer": "5600",
+    "hint": "Bỏ một chữ số 0."
+  },
+  {
+    "id": "q_g4_distributive_1",
+    "skill": "g4_distributive",
+    "type": "input",
+    "question": "6 × (10 + 3) = ?",
+    "answer": "78",
+    "hint": "6×10+6×3=78."
+  },
+  {
+    "id": "q_g4_distributive_2",
+    "skill": "g4_distributive",
+    "type": "multiple_choice",
+    "question": "7 × 23 = 7 × 20 + 7 × ?",
+    "choices": [
+      "3",
+      "20",
+      "23",
+      "7"
+    ],
+    "answer": "3",
+    "hint": "Phân phối."
+  },
+  {
+    "id": "q_g4_mul_2d_1",
+    "skill": "g4_mul_2d",
+    "type": "input",
+    "question": "Tính 123 × 12.",
+    "answer": "1476",
+    "hint": "Nhân từng chữ số 12."
+  },
+  {
+    "id": "q_g4_mul_2d_2",
+    "skill": "g4_mul_2d",
+    "type": "multiple_choice",
+    "question": "200 × 15 = ?",
+    "choices": [
+      "3000",
+      "215",
+      "300",
+      "3500"
+    ],
+    "answer": "3000",
+    "hint": "2×15=30, thêm 2 số 0."
+  },
+  {
+    "id": "q_g4_div_2d_1",
+    "skill": "g4_div_2d",
+    "type": "input",
+    "question": "Tính 576 : 24.",
+    "answer": "24",
+    "hint": "24×24=576."
+  },
+  {
+    "id": "q_g4_div_2d_2",
+    "skill": "g4_div_2d",
+    "type": "multiple_choice",
+    "question": "1 440 : 36 = ?",
+    "choices": [
+      "40",
+      "4",
+      "400",
+      "50"
+    ],
+    "answer": "40",
+    "hint": "36×40=1440."
+  },
+  {
+    "id": "q_g4_estimate_calc_1",
+    "skill": "g4_estimate_calc",
+    "type": "multiple_choice",
+    "question": "198 × 21 ước lượng khoảng?",
+    "choices": [
+      "4000",
+      "400",
+      "40000",
+      "2000"
+    ],
+    "answer": "4000",
+    "hint": "200×20."
+  },
+  {
+    "id": "q_g4_estimate_calc_2",
+    "skill": "g4_estimate_calc",
+    "type": "input",
+    "question": "Ước lượng 503 + 298 khoảng?",
+    "answer": "800",
+    "hint": "500+300."
+  },
+  {
+    "id": "q_g4_average_1",
+    "skill": "g4_average",
+    "type": "input",
+    "question": "TBC của 6, 8, 10?",
+    "answer": "8",
+    "hint": "(6+8+10):3=8."
+  },
+  {
+    "id": "q_g4_average_2",
+    "skill": "g4_average",
+    "type": "multiple_choice",
+    "question": "TBC = ?",
+    "choices": [
+      "Tổng : số lượng",
+      "Tổng × số lượng",
+      "Tổng - số lượng",
+      "Số lượng : tổng"
+    ],
+    "answer": "Tổng : số lượng",
+    "hint": "Cộng rồi chia."
+  },
+  {
+    "id": "q_g4_unit_rate_1",
+    "skill": "g4_unit_rate",
+    "type": "input",
+    "question": "4 quyển 20 000 đ. 6 quyển giá bao nhiêu?",
+    "answer": "30000",
+    "hint": "5000×6."
+  },
+  {
+    "id": "q_g4_unit_rate_2",
+    "skill": "g4_unit_rate",
+    "type": "multiple_choice",
+    "question": "Rút về đơn vị: bước 1?",
+    "choices": [
+      "Tìm giá trị 1 đơn vị",
+      "Nhân tổng",
+      "Cộng hết",
+      "Chia tổng cho 0"
+    ],
+    "answer": "Tìm giá trị 1 đơn vị",
+    "hint": "Chia trước."
+  },
+  {
+    "id": "q_g4_practice_ch8_1",
+    "skill": "g4_practice_ch8",
+    "type": "input",
+    "question": "TBC 12, 15, 18?",
+    "answer": "15",
+    "hint": "45:3."
+  },
+  {
+    "id": "q_g4_practice_ch8_2",
+    "skill": "g4_practice_ch8",
+    "type": "multiple_choice",
+    "question": "3 600 : 12 = ?",
+    "choices": [
+      "300",
+      "30",
+      "3000",
+      "280"
+    ],
+    "answer": "300",
+    "hint": "36:12=3."
+  },
+  {
+    "id": "q_g4_data_sequence_1",
+    "skill": "g4_data_sequence",
+    "type": "input",
+    "question": "Dãy 8, 12, 5, 15. Số lớn nhất?",
+    "answer": "15",
+    "hint": "So các số."
+  },
+  {
+    "id": "q_g4_data_sequence_2",
+    "skill": "g4_data_sequence",
+    "type": "multiple_choice",
+    "question": "Dãy số liệu dùng để?",
+    "choices": [
+      "Phân tích thông tin số",
+      "Vẽ góc",
+      "Tính chu vi",
+      "Rút gọn PS"
+    ],
+    "answer": "Phân tích thông tin số",
+    "hint": "Sắp xếp, so sánh."
+  },
+  {
+    "id": "q_g4_bar_chart_1",
+    "skill": "g4_bar_chart",
+    "type": "multiple_choice",
+    "question": "Biểu đồ cột cao hơn nghĩa là?",
+    "choices": [
+      "Số liệu lớn hơn",
+      "Ít hơn",
+      "Bằng nhau",
+      "Không đọc được"
+    ],
+    "answer": "Số liệu lớn hơn",
+    "hint": "Chiều cao cột."
+  },
+  {
+    "id": "q_g4_bar_chart_2",
+    "skill": "g4_bar_chart",
+    "type": "input",
+    "question": "3 nhóm: 5, 8, 2. Tổng?",
+    "answer": "15",
+    "hint": "5+8+2."
+  },
+  {
+    "id": "q_g4_event_frequency_1",
+    "skill": "g4_event_frequency",
+    "type": "input",
+    "question": "Tung xu 30 lần, sấp 13 lần. Số lần sấp?",
+    "answer": "13",
+    "hint": "Đếm kết quả."
+  },
+  {
+    "id": "q_g4_event_frequency_2",
+    "skill": "g4_event_frequency",
+    "type": "multiple_choice",
+    "question": "Số lần xuất hiện gọi là?",
+    "choices": [
+      "Tần suất",
+      "Chu vi",
+      "Diện tích",
+      "Tổng"
+    ],
+    "answer": "Tần suất",
+    "hint": "Đếm trong thực nghiệm."
+  },
+  {
+    "id": "q_g4_practice_ch9_1",
+    "skill": "g4_practice_ch9",
+    "type": "input",
+    "question": "Tung xúc xắc 20 lần, ra 6 được 4 lần. Số lần?",
+    "answer": "4",
+    "hint": "Đếm sự kiện."
+  },
+  {
+    "id": "q_g4_practice_ch9_2",
+    "skill": "g4_practice_ch9",
+    "type": "multiple_choice",
+    "question": "Biểu đồ cột phù hợp?",
+    "choices": [
+      "So sánh số liệu các nhóm",
+      "Đo góc",
+      "Tính TBC",
+      "Rút gọn PS"
+    ],
+    "answer": "So sánh số liệu các nhóm",
+    "hint": "Mỗi cột một nhóm."
+  },
+  {
+    "id": "q_g4_fraction_concept_1",
+    "skill": "g4_fraction_concept",
+    "type": "multiple_choice",
+    "question": "Phân số 3/5, mẫu số là?",
+    "choices": [
+      "5",
+      "3",
+      "8",
+      "2"
+    ],
+    "answer": "5",
+    "hint": "Mẫu là số phần chia."
+  },
+  {
+    "id": "q_g4_fraction_concept_2",
+    "skill": "g4_fraction_concept",
+    "type": "input",
+    "question": "Chia 8 phần bằng nhau, lấy 3. Viết PS?",
+    "answer": "3/8",
+    "hint": "3 trên 8."
+  },
+  {
+    "id": "q_g4_fraction_division_1",
+    "skill": "g4_fraction_division",
+    "type": "input",
+    "question": "7 : 2 viết thành phân số?",
+    "answer": "7/2",
+    "hint": "Thương a:b = a/b."
+  },
+  {
+    "id": "q_g4_fraction_division_2",
+    "skill": "g4_fraction_division",
+    "type": "multiple_choice",
+    "question": "12 : 4 = ?",
+    "choices": [
+      "3",
+      "12/4",
+      "4/12",
+      "48"
+    ],
+    "answer": "3",
+    "hint": "Cũng bằng 12/4."
+  },
+  {
+    "id": "q_g4_fraction_properties_1",
+    "skill": "g4_fraction_properties",
+    "type": "multiple_choice",
+    "question": "2/3 = ?",
+    "choices": [
+      "4/6",
+      "2/6",
+      "3/4",
+      "4/3"
+    ],
+    "answer": "4/6",
+    "hint": "Nhân tử mẫu với 2."
+  },
+  {
+    "id": "q_g4_fraction_properties_2",
+    "skill": "g4_fraction_properties",
+    "type": "input",
+    "question": "Rút gọn 6/9.",
+    "answer": "2/3",
+    "hint": "Chia 3."
+  },
+  {
+    "id": "q_g4_simplify_fraction_1",
+    "skill": "g4_simplify_fraction",
+    "type": "input",
+    "question": "Rút gọn 10/15.",
+    "answer": "2/3",
+    "hint": "Chia 5."
+  },
+  {
+    "id": "q_g4_simplify_fraction_2",
+    "skill": "g4_simplify_fraction",
+    "type": "multiple_choice",
+    "question": "8/12 rút gọn?",
+    "choices": [
+      "2/3",
+      "4/6",
+      "8/12",
+      "1/2"
+    ],
+    "answer": "2/3",
+    "hint": "UCLN là 4."
+  },
+  {
+    "id": "q_g4_common_denominator_1",
+    "skill": "g4_common_denominator",
+    "type": "input",
+    "question": "Quy đồng 1/2 và 1/3, mẫu chung?",
+    "answer": "6",
+    "hint": "MSC của 2 và 3."
+  },
+  {
+    "id": "q_g4_common_denominator_2",
+    "skill": "g4_common_denominator",
+    "type": "multiple_choice",
+    "question": "1/4 và 1/2 quy đồng mẫu 4: 1/4 và ?",
+    "choices": [
+      "2/4",
+      "1/2",
+      "3/4",
+      "4/2"
+    ],
+    "answer": "2/4",
+    "hint": "1/2 = 2/4."
+  },
+  {
+    "id": "q_g4_compare_fraction_1",
+    "skill": "g4_compare_fraction",
+    "type": "multiple_choice",
+    "question": "3/5 và 2/5, phân số nào lớn?",
+    "choices": [
+      "3/5",
+      "2/5",
+      "Bằng nhau",
+      "Không so được"
+    ],
+    "answer": "3/5",
+    "hint": "Cùng mẫu, so tử."
+  },
+  {
+    "id": "q_g4_compare_fraction_2",
+    "skill": "g4_compare_fraction",
+    "type": "input",
+    "question": "1/2 và 1/4, phân số lớn hơn?",
+    "answer": "1/2",
+    "hint": "Một nửa lớn một phần tư."
+  },
+  {
+    "id": "q_g4_practice_ch10_1",
+    "skill": "g4_practice_ch10",
+    "type": "input",
+    "question": "So sánh 2/3 và 3/4 (quy đồng mẫu 12). Phân số lớn?",
+    "answer": "3/4",
+    "hint": "8/12 < 9/12."
+  },
+  {
+    "id": "q_g4_practice_ch10_2",
+    "skill": "g4_practice_ch10",
+    "type": "multiple_choice",
+    "question": "5/10 = ?",
+    "choices": [
+      "1/2",
+      "5/10",
+      "10/5",
+      "2/5"
+    ],
+    "answer": "1/2",
+    "hint": "Rút gọn."
+  },
+  {
+    "id": "q_g4_add_fraction_1",
+    "skill": "g4_add_fraction",
+    "type": "input",
+    "question": "Tính 2/7 + 3/7.",
+    "answer": "5/7",
+    "hint": "Cùng mẫu, cộng tử."
+  },
+  {
+    "id": "q_g4_add_fraction_2",
+    "skill": "g4_add_fraction",
+    "type": "multiple_choice",
+    "question": "1/4 + 1/4 = ?",
+    "choices": [
+      "1/2",
+      "2/8",
+      "1/8",
+      "2/4"
+    ],
+    "answer": "1/2",
+    "hint": "2/4 = 1/2."
+  },
+  {
+    "id": "q_g4_sub_fraction_1",
+    "skill": "g4_sub_fraction",
+    "type": "input",
+    "question": "Tính 5/6 - 1/6.",
+    "answer": "4/6",
+    "hint": "Cùng mẫu."
+  },
+  {
+    "id": "q_g4_sub_fraction_2",
+    "skill": "g4_sub_fraction",
+    "type": "multiple_choice",
+    "question": "3/4 - 1/4 = ?",
+    "choices": [
+      "1/2",
+      "2/4",
+      "4/4",
+      "2/8"
+    ],
+    "answer": "1/2",
+    "hint": "2/4 = 1/2."
+  },
+  {
+    "id": "q_g4_practice_ch11_1",
+    "skill": "g4_practice_ch11",
+    "type": "input",
+    "question": "Tính 1/2 + 1/4 (mẫu chung 4).",
+    "answer": "3/4",
+    "hint": "2/4+1/4."
+  },
+  {
+    "id": "q_g4_practice_ch11_2",
+    "skill": "g4_practice_ch11",
+    "type": "multiple_choice",
+    "question": "5/8 - 2/8 = ?",
+    "choices": [
+      "3/8",
+      "3/0",
+      "7/8",
+      "5/6"
+    ],
+    "answer": "3/8",
+    "hint": "Trừ tử."
+  },
+  {
+    "id": "q_g4_mul_fraction_1",
+    "skill": "g4_mul_fraction",
+    "type": "input",
+    "question": "Tính 2/3 × 1/4.",
+    "answer": "2/12",
+    "hint": "Tử×tử, mẫu×mẫu."
+  },
+  {
+    "id": "q_g4_mul_fraction_2",
+    "skill": "g4_mul_fraction",
+    "type": "multiple_choice",
+    "question": "1/2 × 2/3 = ?",
+    "choices": [
+      "1/3",
+      "2/5",
+      "3/2",
+      "2/6"
+    ],
+    "answer": "1/3",
+    "hint": "2/6 = 1/3."
+  },
+  {
+    "id": "q_g4_div_fraction_1",
+    "skill": "g4_div_fraction",
+    "type": "input",
+    "question": "2/3 : 1/3 = ?",
+    "answer": "2",
+    "hint": "Nhân nghịch đảo 1/3 là 3."
+  },
+  {
+    "id": "q_g4_div_fraction_2",
+    "skill": "g4_div_fraction",
+    "type": "multiple_choice",
+    "question": "1/2 : 1/4 = ?",
+    "choices": [
+      "2",
+      "1/8",
+      "4/2",
+      "1/2"
+    ],
+    "answer": "2",
+    "hint": "1/2 × 4 = 2."
+  },
+  {
+    "id": "q_g4_fraction_of_number_1",
+    "skill": "g4_fraction_of_number",
+    "type": "input",
+    "question": "1/3 của 21 là bao nhiêu?",
+    "answer": "7",
+    "hint": "21:3."
+  },
+  {
+    "id": "q_g4_fraction_of_number_2",
+    "skill": "g4_fraction_of_number",
+    "type": "multiple_choice",
+    "question": "2/5 của 30?",
+    "choices": [
+      "12",
+      "6",
+      "15",
+      "10"
+    ],
+    "answer": "12",
+    "hint": "30×2:5."
+  },
+  {
+    "id": "q_g4_practice_ch12_1",
+    "skill": "g4_practice_ch12",
+    "type": "input",
+    "question": "3/4 × 2/5 = ?",
+    "answer": "6/20",
+    "hint": "Nhân tử mẫu."
+  },
+  {
+    "id": "q_g4_practice_ch12_2",
+    "skill": "g4_practice_ch12",
+    "type": "multiple_choice",
+    "question": "1/2 của 18?",
+    "choices": [
+      "9",
+      "36",
+      "6",
+      "12"
+    ],
+    "answer": "9",
+    "hint": "18:2."
+  },
+  {
+    "id": "q_g4_review_natural_1",
+    "skill": "g4_review_natural",
+    "type": "multiple_choice",
+    "question": "Số nào lớn nhất?",
+    "choices": [
+      "2 100 000",
+      "2 099 999",
+      "2 010 000",
+      "2 001 000"
+    ],
+    "answer": "2 100 000",
+    "hint": "So từ trái."
+  },
+  {
+    "id": "q_g4_review_natural_2",
+    "skill": "g4_review_natural",
+    "type": "input",
+    "question": "1 500 000 làm tròn triệu?",
+    "answer": "2000000",
+    "hint": "Hàng trăm nghìn ≥ 5."
+  },
+  {
+    "id": "q_g4_review_natural_ops_1",
+    "skill": "g4_review_natural_ops",
+    "type": "input",
+    "question": "25 000 × 4 = ?",
+    "answer": "100000",
+    "hint": "Nhân có nhớ."
+  },
+  {
+    "id": "q_g4_review_natural_ops_2",
+    "skill": "g4_review_natural_ops",
+    "type": "multiple_choice",
+    "question": "96 000 : 12 = ?",
+    "choices": [
+      "8000",
+      "800",
+      "80000",
+      "9000"
+    ],
+    "answer": "8000",
+    "hint": "96:12=8."
+  },
+  {
+    "id": "q_g4_review_fraction_1",
+    "skill": "g4_review_fraction",
+    "type": "multiple_choice",
+    "question": "3/4 và 5/8, lớn hơn?",
+    "choices": [
+      "3/4",
+      "5/8",
+      "Bằng",
+      "Không so"
+    ],
+    "answer": "3/4",
+    "hint": "3/4 = 6/8."
+  },
+  {
+    "id": "q_g4_review_fraction_2",
+    "skill": "g4_review_fraction",
+    "type": "input",
+    "question": "Rút gọn 15/20.",
+    "answer": "3/4",
+    "hint": "Chia 5."
+  },
+  {
+    "id": "q_g4_review_fraction_ops_1",
+    "skill": "g4_review_fraction_ops",
+    "type": "input",
+    "question": "1/2 + 1/3 = ? (mẫu 6)",
+    "answer": "5/6",
+    "hint": "3/6+2/6."
+  },
+  {
+    "id": "q_g4_review_fraction_ops_2",
+    "skill": "g4_review_fraction_ops",
+    "type": "multiple_choice",
+    "question": "2/3 × 3/4 = ?",
+    "choices": [
+      "1/2",
+      "6/12",
+      "5/7",
+      "2/4"
+    ],
+    "answer": "1/2",
+    "hint": "6/12=1/2."
+  },
+  {
+    "id": "q_g4_review_geo_measure_final_1",
+    "skill": "g4_review_geo_measure_final",
+    "type": "input",
+    "question": "Góc tù > ? độ",
+    "answer": "90",
+    "hint": "Lớn hơn góc vuông."
+  },
+  {
+    "id": "q_g4_review_geo_measure_final_2",
+    "skill": "g4_review_geo_measure_final",
+    "type": "multiple_choice",
+    "question": "1 tấn = ? tạ",
+    "choices": [
+      "10",
+      "100",
+      "1000",
+      "1"
+    ],
+    "answer": "10",
+    "hint": "1 tấn = 10 tạ."
+  },
+  {
+    "id": "q_g4_review_stats_final_1",
+    "skill": "g4_review_stats_final",
+    "type": "multiple_choice",
+    "question": "Tung xu 10 lần, ngửa 6 lần. Số lần ngửa?",
+    "choices": [
+      "6",
+      "4",
+      "10",
+      "16"
+    ],
+    "answer": "6",
+    "hint": "Đếm kết quả."
+  },
+  {
+    "id": "q_g4_review_stats_final_2",
+    "skill": "g4_review_stats_final",
+    "type": "input",
+    "question": "Biểu đồ cột: cột cao nhất cho biết?",
+    "answer": "số lớn nhất",
+    "hint": "Chiều cao tỉ lệ số liệu."
+  },
+  {
+    "id": "q_g4_review_final_1",
+    "skill": "g4_review_final",
+    "type": "input",
+    "question": "TBC 5, 7, 9?",
+    "answer": "7",
+    "hint": "21:3."
+  },
+  {
+    "id": "q_g4_review_final_2",
+    "skill": "g4_review_final",
+    "type": "multiple_choice",
+    "question": "2/5 của 40?",
+    "choices": [
+      "16",
+      "8",
+      "20",
+      "10"
+    ],
+    "answer": "16",
+    "hint": "40×2:5."
   }
 ]

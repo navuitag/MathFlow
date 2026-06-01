@@ -457,5 +457,635 @@
     "message": "Diện tích mặt cầu là 4*pi*r^2.",
     "hint": "Với r=3, S=36pi.",
     "recommendation": "g9_sphere"
+  },
+  {
+    "pattern": "5/8",
+    "skill": "g5_frac_add_sub_diff",
+    "errorType": "denominator_error",
+    "title": "Cộng cả mẫu số",
+    "message": "Không cộng mẫu số với nhau.",
+    "hint": "Quy đồng rồi cộng tử.",
+    "recommendation": "g5_frac_add_sub_diff"
+  },
+  {
+    "pattern": "3 2/3",
+    "skill": "g5_mixed_number",
+    "errorType": "mixed_number_error",
+    "title": "Chưa đổi hỗn số sang phân số",
+    "message": "Cần chuyển hỗn số trước khi tính.",
+    "hint": "3 2/3 = 11/3.",
+    "recommendation": "g5_mixed_number"
+  },
+  {
+    "pattern": "36",
+    "skill": "g5_decimal_mul",
+    "errorType": "decimal_point_error",
+    "title": "Quên dấu phẩy thập phân",
+    "message": "1,2×0,3=0,36 không phải 36.",
+    "hint": "Đếm tổng chữ số thập phân.",
+    "recommendation": "g5_decimal_mul"
+  },
+  {
+    "pattern": "0,8",
+    "skill": "g5_decimal_div",
+    "errorType": "decimal_div_error",
+    "title": "Chia chưa đặt dấu phẩy",
+    "message": "4,8:0,6=8 không phải 0,8.",
+    "hint": "Nhân 10 để bỏ dấu phẩy mẫu.",
+    "recommendation": "g5_decimal_div"
+  },
+  {
+    "pattern": "60",
+    "skill": "g5_triangle",
+    "errorType": "triangle_area_error",
+    "title": "Quên chia 2",
+    "message": "Diện tích tam giác phải chia 2.",
+    "hint": "S = đáy × cao : 2.",
+    "recommendation": "g5_triangle"
+  },
+  {
+    "pattern": "70",
+    "skill": "g5_trapezoid",
+    "errorType": "trapezoid_error",
+    "title": "Chưa cộng hai đáy",
+    "message": "(8+12)×5=100, không phải 8×5.",
+    "hint": "Cộng hai đáy trước khi nhân cao.",
+    "recommendation": "g5_trapezoid"
+  },
+  {
+    "pattern": "31,4",
+    "skill": "g5_circle",
+    "errorType": "circle_formula_error",
+    "title": "Nhầm chu vi và diện tích",
+    "message": "31,4 là chu vi khi r=5, không phải diện tích.",
+    "hint": "C = 2πr; S = πr².",
+    "recommendation": "g5_circle"
+  },
+  {
+    "pattern": "500",
+    "skill": "g5_area_units",
+    "errorType": "area_unit_error",
+    "title": "Nhầm hệ số quy đổi",
+    "message": "1 ha = 10 000 m², không phải 1 000.",
+    "hint": "Viết bảng quy đổi trước.",
+    "recommendation": "g5_area_units"
+  },
+  {
+    "pattern": "25",
+    "skill": "g5_percent_value",
+    "errorType": "percent_error",
+    "title": "Nhầm 25% với 25",
+    "message": "25% của 80 là 20, không phải 25.",
+    "hint": "Nhân với 25/100.",
+    "recommendation": "g5_percent_value"
+  },
+  {
+    "pattern": "20",
+    "skill": "g5_sum_ratio",
+    "errorType": "ratio_sum_error",
+    "title": "Chia sai tổng phần",
+    "message": "Tổng 48, tỉ số 1:3 thì số nhỏ là 12.",
+    "hint": "Tổng : (m+n) × m.",
+    "recommendation": "g5_sum_ratio"
+  },
+  {
+    "pattern": "5",
+    "skill": "g5_volume_cm_dm",
+    "errorType": "volume_unit_error",
+    "title": "Nhầm cm³ và dm³",
+    "message": "500 cm³ = 0,5 dm³, không phải 5.",
+    "hint": "Chia 1000 khi đổi cm³ sang dm³.",
+    "recommendation": "g5_volume_cm_dm"
+  },
+  {
+    "pattern": "26",
+    "skill": "g5_box_volume",
+    "errorType": "volume_formula_error",
+    "title": "Cộng thay vì nhân",
+    "message": "V = dài × rộng × cao, không phải cộng.",
+    "hint": "Nhân ba kích thước.",
+    "recommendation": "g5_box_volume"
+  },
+  {
+    "pattern": "120",
+    "skill": "g5_speed",
+    "errorType": "speed_formula_error",
+    "title": "Nhầm công thức vận tốc",
+    "message": "v = s : t, không phải s × t khi tìm v.",
+    "hint": "Quãng đường chia thời gian.",
+    "recommendation": "g5_speed"
+  },
+  {
+    "pattern": "75 phút",
+    "skill": "g5_time_add_sub",
+    "errorType": "time_error",
+    "title": "Chưa quy đổi giờ",
+    "message": "75 phút = 1 giờ 15 phút.",
+    "hint": "60 phút = 1 giờ.",
+    "recommendation": "g5_time_add_sub"
+  },
+  {
+    "pattern": "9",
+    "skill": "g5_probability_ratio",
+    "errorType": "probability_error",
+    "title": "Thiếu mẫu số",
+    "message": "Tỉ số phải là 9/20, không chỉ 9.",
+    "hint": "Viết số lần xảy ra trên tổng lần thử.",
+    "recommendation": "g5_probability_ratio"
+  },
+  {
+    "pattern": ">",
+    "skill": "g1_compare",
+    "errorType": "compare_direction_error",
+    "title": "Nhầm dấu so sánh",
+    "message": "6 < 8 vì 6 nhỏ hơn 8, không phải 6 > 8.",
+    "hint": "Số lớn hơn đứng bên phải trên trục số.",
+    "recommendation": "g1_compare"
+  },
+  {
+    "pattern": "11",
+    "skill": "g1_add_10",
+    "errorType": "add_overflow_error",
+    "title": "Vượt phạm vi 10",
+    "message": "4 + 3 = 7, không phải 11.",
+    "hint": "Kiểm tra tổng không quá 10.",
+    "recommendation": "g1_add_10"
+  },
+  {
+    "pattern": "11",
+    "skill": "g1_sub_10",
+    "errorType": "sub_reverse_error",
+    "title": "Trừ ngược",
+    "message": "7 - 3 = 4, không phải 3 - 7.",
+    "hint": "Lấy số lớn trừ số nhỏ.",
+    "recommendation": "g1_sub_10"
+  },
+  {
+    "pattern": "tam giác",
+    "skill": "g1_shapes",
+    "errorType": "shape_confusion",
+    "title": "Nhầm hình",
+    "message": "Hình tròn không có cạnh thẳng.",
+    "hint": "Đếm số cạnh và góc.",
+    "recommendation": "g1_shapes"
+  },
+  {
+    "pattern": "75",
+    "skill": "g1_two_digit",
+    "errorType": "place_value_error",
+    "title": "Nhầm chục và đơn vị",
+    "message": "57 không phải 75; chữ số 5 là chục.",
+    "hint": "Chữ số trái là chục, phải là đơn vị.",
+    "recommendation": "g1_two_digit"
+  },
+  {
+    "pattern": "38",
+    "skill": "g1_compare_2d",
+    "errorType": "two_digit_compare_error",
+    "title": "So đơn vị trước chục",
+    "message": "52 > 38 vì so hàng chục trước (5 > 3).",
+    "hint": "So sánh chục trước, đơn vị sau.",
+    "recommendation": "g1_compare_2d"
+  },
+  {
+    "pattern": "68",
+    "skill": "g1_add_2d_2d",
+    "errorType": "add_place_error",
+    "title": "Cộng sai hàng",
+    "message": "34 + 25 = 59, không phải 68.",
+    "hint": "Cộng chục với chục, đơn vị với đơn vị.",
+    "recommendation": "g1_add_2d_2d"
+  },
+  {
+    "pattern": "52",
+    "skill": "g1_sub_2d_2d",
+    "errorType": "sub_place_error",
+    "title": "Trừ sai hàng",
+    "message": "67 - 25 = 42, không phải 52.",
+    "hint": "Trừ đơn vị trước, chục sau.",
+    "recommendation": "g1_sub_2d_2d"
+  },
+  {
+    "pattern": "m",
+    "skill": "g1_length_unit",
+    "errorType": "length_unit_error",
+    "title": "Nhầm đơn vị",
+    "message": "Bút chì đo bằng cm, không phải m.",
+    "hint": "Vật nhỏ dùng cm.",
+    "recommendation": "g1_length_unit"
+  },
+  {
+    "pattern": "9",
+    "skill": "g1_clock",
+    "errorType": "clock_hand_error",
+    "title": "Nhầm kim giờ và phút",
+    "message": "Kim ngắn chỉ giờ, kim dài chỉ phút.",
+    "hint": "Giờ đúng: kim dài ở 12.",
+    "recommendation": "g1_clock"
+  },
+  {
+    "pattern": "10",
+    "skill": "g1_how_many",
+    "errorType": "split_number_error",
+    "title": "Tách số sai",
+    "message": "7 = 3 và 4, không phải 3 và 10.",
+    "hint": "Hai phần cộng lại bằng tổng.",
+    "recommendation": "g1_how_many"
+  },
+  {
+    "pattern": "23",
+    "skill": "g2_how_many_more",
+    "errorType": "more_less_add_error",
+    "title": "Cộng thay vì trừ",
+    "message": "15 hơn 8 bao nhiêu: 15 - 8 = 7, không phải 15 + 8.",
+    "hint": "Hơn kém bao nhiêu = hiệu hai số.",
+    "recommendation": "g2_how_many_more"
+  },
+  {
+    "pattern": "85",
+    "skill": "g2_add_over_10",
+    "errorType": "add_over10_error",
+    "title": "Chưa tách qua 10",
+    "message": "8 + 5 = 8 + 2 + 3 = 13, không phải 85.",
+    "hint": "Tạo 10 trước rồi cộng phần còn.",
+    "recommendation": "g2_add_over_10"
+  },
+  {
+    "pattern": "7",
+    "skill": "g2_sub_over_10",
+    "errorType": "sub_over10_error",
+    "title": "Trừ ngược",
+    "message": "13 - 5 = 8, không phải 5 - 13.",
+    "hint": "Lấy số lớn trừ số nhỏ.",
+    "recommendation": "g2_sub_over_10"
+  },
+  {
+    "pattern": "13",
+    "skill": "g2_more_less_story",
+    "errorType": "more_less_story_error",
+    "title": "Nhầm nhiều hơn và hơn bao nhiêu",
+    "message": "Nhiều hơn 3 tuổi: cộng; kém 3 tuổi: trừ.",
+    "hint": "Đọc kỹ nhiều hơn hay ít hơn.",
+    "recommendation": "g2_more_less_story"
+  },
+  {
+    "pattern": "l",
+    "skill": "g2_kilogram",
+    "errorType": "mass_unit_error",
+    "title": "Nhầm kg và l",
+    "message": "Khối lượng dùng kg, không phải l.",
+    "hint": "kg đo nặng; l đo chất lỏng.",
+    "recommendation": "g2_kilogram"
+  },
+  {
+    "pattern": "713",
+    "skill": "g2_add_carry_2d2d",
+    "errorType": "carry_add_error",
+    "title": "Quên nhớ sang chục",
+    "message": "38 + 45 = 83, không phải 73.",
+    "hint": "Đơn vị ≥ 10 thì nhớ 1 chục.",
+    "recommendation": "g2_add_carry_2d2d"
+  },
+  {
+    "pattern": "55",
+    "skill": "g2_sub_borrow_2d2d",
+    "errorType": "borrow_sub_error",
+    "title": "Quên mượn chục",
+    "message": "63 - 28 = 35, không phải 45.",
+    "hint": "Mượn 1 chục = 10 đơn vị.",
+    "recommendation": "g2_sub_borrow_2d2d"
+  },
+  {
+    "pattern": "12",
+    "skill": "g2_day_hour",
+    "errorType": "clock_hand_error",
+    "title": "Nhầm kim giờ và phút",
+    "message": "Kim ngắn chỉ giờ, kim dài chỉ phút.",
+    "hint": "4 giờ: kim ngắn ở 4.",
+    "recommendation": "g2_day_hour"
+  },
+  {
+    "pattern": "7",
+    "skill": "g2_multiplication",
+    "errorType": "multiply_as_add_error",
+    "title": "Cộng thay vì nhân",
+    "message": "3 × 4 = 12, không phải 3 + 4 = 7.",
+    "hint": "Nhân là cộng lặp số hạng bằng nhau.",
+    "recommendation": "g2_multiplication"
+  },
+  {
+    "pattern": "45",
+    "skill": "g2_division",
+    "errorType": "divide_reverse_error",
+    "title": "Chia ngược",
+    "message": "15 : 3 = 5, không phải 3 : 15.",
+    "hint": "Số bị chia đứng trước dấu chia.",
+    "recommendation": "g2_division"
+  },
+  {
+    "pattern": "582",
+    "skill": "g2_compare_3d",
+    "errorType": "three_digit_compare_error",
+    "title": "So từ hàng đơn vị trước",
+    "message": "589 > 582 vì so hàng trăm trước.",
+    "hint": "So từ hàng cao đến thấp.",
+    "recommendation": "g2_compare_3d"
+  },
+  {
+    "pattern": "100",
+    "skill": "g2_length_units",
+    "errorType": "length_unit_error",
+    "title": "Nhầm m và dm",
+    "message": "1 m = 10 dm, không phải 100 dm.",
+    "hint": "Nhân 10 khi đổi m sang dm.",
+    "recommendation": "g2_length_units"
+  },
+  {
+    "pattern": "4",
+    "skill": "g2_pictograph",
+    "errorType": "pictograph_error",
+    "title": "Quên nhân với chú thích",
+    "message": "4 hình × 2 = 8 quả, không phải 4.",
+    "hint": "Đọc chú thích mỗi hình.",
+    "recommendation": "g2_pictograph"
+  },
+  {
+    "pattern": "chắc chắn",
+    "skill": "g2_probability",
+    "errorType": "probability_error",
+    "title": "Nhầm có thể và chắc chắn",
+    "message": "Tung xúc xắc ra 7: không thể.",
+    "hint": "Chắc chắn luôn đúng; không thể không bao giờ.",
+    "recommendation": "g2_probability"
+  },
+  {
+    "pattern": "72",
+    "skill": "g3_add_sub_parts",
+    "errorType": "add_sub_part_error",
+    "title": "Nhầm tổng và số hạng",
+    "message": "Tìm số hạng: tổng - số hạng đã biết.",
+    "hint": "Gọi đúng tên thành phần.",
+    "recommendation": "g3_add_sub_parts"
+  },
+  {
+    "pattern": "7",
+    "skill": "g3_table_2_5",
+    "errorType": "multiply_as_add_error",
+    "title": "Cộng thay vì nhân",
+    "message": "6 × 5 = 30, không phải 6 + 5.",
+    "hint": "Nhân là cộng lặp số hạng bằng nhau.",
+    "recommendation": "g3_table_2_5"
+  },
+  {
+    "pattern": "45",
+    "skill": "g3_mul_div_parts",
+    "errorType": "divide_reverse_error",
+    "title": "Chia ngược",
+    "message": "56 : 8 = 7, không phải 8 : 56.",
+    "hint": "Số bị chia đứng trước dấu chia.",
+    "recommendation": "g3_mul_div_parts"
+  },
+  {
+    "pattern": "1/2",
+    "skill": "g3_fraction_part",
+    "errorType": "fraction_whole_error",
+    "title": "Lấy cả hình",
+    "message": "1/4 nghĩa chia 4 phần bằng nhau, lấy 1 phần.",
+    "hint": "Mẫu số là số phần chia đều.",
+    "recommendation": "g3_fraction_part"
+  },
+  {
+    "pattern": "126",
+    "skill": "g3_mul_2d_1d",
+    "errorType": "mul_carry_error",
+    "title": "Quên nhớ khi nhân",
+    "message": "23 × 4 = 92, không phải 82.",
+    "hint": "Nhân đơn vị trước, nhớ sang chục.",
+    "recommendation": "g3_mul_2d_1d"
+  },
+  {
+    "pattern": "10",
+    "skill": "g3_multiply_times",
+    "errorType": "times_add_error",
+    "title": "Cộng thay vì gấp lần",
+    "message": "Gấp 7 lên 4 lần: 7 × 4 = 28.",
+    "hint": "Gấp lần dùng phép nhân.",
+    "recommendation": "g3_multiply_times"
+  },
+  {
+    "pattern": "0",
+    "skill": "g3_division_remainder",
+    "errorType": "remainder_ignore_error",
+    "title": "Bỏ số dư",
+    "message": "29 : 5 = 5 dư 4, không phải 5.",
+    "hint": "Ghi rõ thương và số dư.",
+    "recommendation": "g3_division_remainder"
+  },
+  {
+    "pattern": "42",
+    "skill": "g3_reduce_times",
+    "errorType": "reduce_sub_error",
+    "title": "Trừ thay vì giảm lần",
+    "message": "Giảm 48 đi 6 lần: 48 : 6 = 8.",
+    "hint": "Giảm lần dùng phép chia.",
+    "recommendation": "g3_reduce_times"
+  },
+  {
+    "pattern": "40",
+    "skill": "g3_expression",
+    "errorType": "pemdas_error",
+    "title": "Cộng trước nhân",
+    "message": "12 + 8 × 2 = 28, không phải 40.",
+    "hint": "Nhân chia trước cộng trừ.",
+    "recommendation": "g3_expression"
+  },
+  {
+    "pattern": "2",
+    "skill": "g3_compare_times",
+    "errorType": "times_sub_error",
+    "title": "Trừ thay vì chia",
+    "message": "24 gấp 6 lần 4: 24 : 6 = 4.",
+    "hint": "Gấp mấy lần = chia số lớn cho số bé.",
+    "recommendation": "g3_compare_times"
+  },
+  {
+    "pattern": "100",
+    "skill": "g3_millimeter",
+    "errorType": "mm_cm_error",
+    "title": "Nhầm mm và cm",
+    "message": "1 cm = 10 mm, không phải 100 mm.",
+    "hint": "Nhân 10 khi đổi cm sang mm.",
+    "recommendation": "g3_millimeter"
+  },
+  {
+    "pattern": "20",
+    "skill": "g3_perimeter",
+    "errorType": "perimeter_area_error",
+    "title": "Nhầm chu vi và diện tích",
+    "message": "Chu vi hình vuông cạnh 5: 5 × 4 = 20 cm.",
+    "hint": "Chu vi cộng các cạnh; diện tích nhân cạnh.",
+    "recommendation": "g3_perimeter"
+  },
+  {
+    "pattern": "4600",
+    "skill": "g3_round_numbers",
+    "errorType": "round_digit_error",
+    "title": "Làm tròn sai hàng",
+    "message": "4567 làm tròn hàng trăm là 4600.",
+    "hint": "Nhìn chữ số hàng kế bên phải.",
+    "recommendation": "g3_round_numbers"
+  },
+  {
+    "pattern": "chắc chắn",
+    "skill": "g3_probability",
+    "errorType": "probability_error",
+    "title": "Nhầm có thể và chắc chắn",
+    "message": "Tung xúc xắc ra 7: không thể.",
+    "hint": "Chắc chắn luôn đúng; không thể không bao giờ.",
+    "recommendation": "g3_probability"
+  },
+  {
+    "pattern": "50",
+    "skill": "g3_two_step",
+    "errorType": "two_step_order_error",
+    "title": "Sai thứ tự hai bước",
+    "message": "Đọc đề xác định phép trước, phép sau.",
+    "hint": "Làm từng bước, ghi kết quả trung gian.",
+    "recommendation": "g3_two_step"
+  },
+  {
+    "pattern": "135",
+    "skill": "g4_even_odd",
+    "errorType": "even_odd_error",
+    "title": "Nhầm chẵn lẻ",
+    "message": "135 lẻ vì hàng đơn vị 5.",
+    "hint": "Chia 2 hàng đơn vị.",
+    "recommendation": "g4_even_odd"
+  },
+  {
+    "pattern": "19",
+    "skill": "g4_algebra_expression",
+    "errorType": "algebra_order_error",
+    "title": "Cộng trước nhân",
+    "message": "2a khi a=5 là 10, không 2+5.",
+    "hint": "Nhân trước khi cộng.",
+    "recommendation": "g4_algebra_expression"
+  },
+  {
+    "pattern": "400000",
+    "skill": "g4_round_hundred_thousand",
+    "errorType": "round_digit_error",
+    "title": "Làm tròn sai hàng",
+    "message": "456 789 làm tròn hàng trăm nghìn là 500 000.",
+    "hint": "Nhìn hàng chục nghìn.",
+    "recommendation": "g4_round_hundred_thousand"
+  },
+  {
+    "pattern": "500",
+    "skill": "g4_weight_units",
+    "errorType": "ton_kg_error",
+    "title": "Nhầm tấn và kg",
+    "message": "2 tấn = 2000 kg, không 500.",
+    "hint": "1 tấn = 1000 kg.",
+    "recommendation": "g4_weight_units"
+  },
+  {
+    "pattern": "10",
+    "skill": "g4_area_units",
+    "errorType": "area_unit_error",
+    "title": "Nhầm m² và dm²",
+    "message": "1 m² = 100 dm², không 10.",
+    "hint": "Mỗi cạnh gấp 10.",
+    "recommendation": "g4_area_units"
+  },
+  {
+    "pattern": "30",
+    "skill": "g4_sum_difference",
+    "errorType": "sum_diff_formula_error",
+    "title": "Nhầm công thức",
+    "message": "Tổng 50 hiệu 10: số lớn 30, không 40.",
+    "hint": "Lớn = (tổng+hiệu):2.",
+    "recommendation": "g4_sum_difference"
+  },
+  {
+    "pattern": "nhọn",
+    "skill": "g4_angle_types",
+    "errorType": "angle_type_error",
+    "title": "Nhầm loại góc",
+    "message": "120° là góc tù, không nhọn.",
+    "hint": "So với 90° và 180°.",
+    "recommendation": "g4_angle_types"
+  },
+  {
+    "pattern": "4500",
+    "skill": "g4_mul_div_powers10",
+    "errorType": "power10_zeros_error",
+    "title": "Sai số chữ số 0",
+    "message": "450×100=45000, không 4500.",
+    "hint": "Đếm số chữ số 0.",
+    "recommendation": "g4_mul_div_powers10"
+  },
+  {
+    "pattern": "130",
+    "skill": "g4_distributive",
+    "errorType": "distributive_error",
+    "title": "Chưa phân phối",
+    "message": "6×(10+3)=78, không 60+3.",
+    "hint": "Nhân cả hai số hạng.",
+    "recommendation": "g4_distributive"
+  },
+  {
+    "pattern": "24",
+    "skill": "g4_average",
+    "errorType": "average_error",
+    "title": "Nhần TBC",
+    "message": "TBC (6+8+10)=8, không 24.",
+    "hint": "Cộng rồi chia số lượng.",
+    "recommendation": "g4_average"
+  },
+  {
+    "pattern": "80000",
+    "skill": "g4_unit_rate",
+    "errorType": "unit_rate_error",
+    "title": "Nhân trước chia sau",
+    "message": "Rút về đơn vị: chia trước.",
+    "hint": "Tìm giá 1 đơn vị trước.",
+    "recommendation": "g4_unit_rate"
+  },
+  {
+    "pattern": "4/6",
+    "skill": "g4_simplify_fraction",
+    "errorType": "simplify_error",
+    "title": "Chưa rút gọn",
+    "message": "8/12 = 2/3.",
+    "hint": "Chia UCLN.",
+    "recommendation": "g4_simplify_fraction"
+  },
+  {
+    "pattern": "5/14",
+    "skill": "g4_add_fraction",
+    "errorType": "fraction_add_error",
+    "title": "Cộng cả mẫu",
+    "message": "2/7+3/7=5/7, không cộng mẫu.",
+    "hint": "Cùng mẫu chỉ cộng tử.",
+    "recommendation": "g4_add_fraction"
+  },
+  {
+    "pattern": "8/15",
+    "skill": "g4_div_fraction",
+    "errorType": "fraction_div_error",
+    "title": "Chia tử cho tử",
+    "message": "2/3:4/5 = 2/3×5/4.",
+    "hint": "Nhân nghịch đảo.",
+    "recommendation": "g4_div_fraction"
+  },
+  {
+    "pattern": "6",
+    "skill": "g4_fraction_of_number",
+    "errorType": "fraction_of_error",
+    "title": "Chia ngược",
+    "message": "2/5 của 30 = 12, không 6.",
+    "hint": "30×2:5.",
+    "recommendation": "g4_fraction_of_number"
   }
 ]

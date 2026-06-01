@@ -1,6 +1,6 @@
-# MathFlow VN — Học Toán THCS kiểu Duolingo
+# MathFlow VN — Học Toán kiểu Duolingo
 
-Ứng dụng web học Toán THCS (lớp 6–9) theo phong cách "vi kỹ năng" (micro-learning): học bài ngắn, luyện tập, **phản hồi và phân tích lỗi sai tức thì**, kèm trực quan hóa và game hóa để duy trì động lực.
+Ứng dụng web học Toán (lớp 1–5, 6–9) theo phong cách "vi kỹ năng" (micro-learning): học bài ngắn, luyện tập, **phản hồi và phân tích lỗi sai tức thì**, kèm trực quan hóa và game hóa để duy trì động lực. Lớp 1–5 bám sát SGK **Kết nối tri thức với cuộc sống** (lớp 1: 41 bài; lớp 2: 75 bài; lớp 3: 81 bài; lớp 4: 73 bài, 13 chủ đề; lớp 5: 75 bài).
 
 Ứng dụng là **SPA thuần** bằng HTML5 + CSS3 + JavaScript ES6 (ES Modules), **không cần backend**, chạy được offline (PWA + Service Worker + localStorage).
 
@@ -21,13 +21,13 @@
 
 ## Nội dung
 
-| | Tổng | Lớp 6 | Lớp 7 | Lớp 8 | Lớp 9 |
-|---|---|---|---|---|---|
-| Kỹ năng / Bài học | 147 | 39 | 37 | 39 | 32 |
-| Câu hỏi | 294 | 78 | 74 | 78 | 64 |
-| Mẫu lỗi sai | 51 | — | — | — | — |
+| | Tổng | Lớp 1 | Lớp 2 | Lớp 3 | Lớp 4 | Lớp 5 | Lớp 6 | Lớp 7 | Lớp 8 | Lớp 9 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Kỹ năng / Bài học | 492 | 41 | 75 | 81 | 73 | 75 | 39 | 37 | 39 | 32 |
+| Câu hỏi | 984 | 82 | 150 | 162 | 146 | 150 | 78 | 74 | 78 | 64 |
+| Mẫu lỗi sai | 121 | 11 | 14 | 15 | 15 | 15 | — | — | — | — |
 
-Mỗi kỹ năng có 1 bài học và (tối thiểu) 2 câu hỏi, được tổ chức theo chương/sách (Tập 1 & Tập 2) bám sát chương trình Toán THCS.
+Mỗi kỹ năng có 1 bài học và (tối thiểu) 2 câu hỏi, được tổ chức theo chương/sách (Tập 1 & Tập 2). Lớp 1–5 theo SGK KNT; lớp 6–9 theo chương trình Toán THCS.
 
 ---
 
@@ -84,12 +84,12 @@ duolingo-math/
 ├── components/             # navbar, lessonCard, quizCard, modal
 │
 ├── data/
-│   ├── skills.json         # 147 kỹ năng (grade, chương, prerequisite, ...)
-│   ├── lessons.json        # 147 bài học
-│   ├── questions.json      # 294 câu hỏi
-│   └── errors.json         # 51 mẫu lỗi sai
+│   ├── skills.json         # 492 kỹ năng (grade, chương, prerequisite, ...)
+│   ├── lessons.json        # 492 bài học
+│   ├── questions.json      # 984 câu hỏi
+│   └── errors.json         # 121 mẫu lỗi sai
 │
-├── scripts/                # Script sinh/bổ sung nội dung theo khối lớp
+├── scripts/                # Script sinh/bổ sung nội dung (generate-grade1–5-content.mjs, ...)
 │
 └── *.md                    # Tài liệu đặc tả & thiết kế chi tiet
 ```
