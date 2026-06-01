@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v12";
+const CACHE_NAME = "mathflow-vn-v13";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -15,13 +15,10 @@ const APP_SHELL = [
   "./assets/js/profileStore.js",
   "./assets/js/utils.js",
   "./assets/js/mathFormat.js",
-  "./vendor/three.module.min.js",
-  "./vendor/OrbitControls.js",
   "./modules/lessonEngine.js",
   "./modules/quizEngine.js",
   "./modules/errorEngine.js",
   "./modules/visualization.js",
-  "./modules/scene3d.js",
   "./modules/practiceContent.js",
   "./modules/practiceModes.js",
   "./modules/progress.js",

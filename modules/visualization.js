@@ -1,25 +1,8 @@
-import { hasScene3D, renderScene3DPanel, initScene3D, disposeScenes3D } from "./scene3d.js";
-
 export function renderVisualization(config = {}) {
-  const type = config.visualization;
-  const panel3d = hasScene3D(type) ? renderScene3DPanel(type, config.caption) : "";
-  const legacy = renderLegacyVisualization(config);
-  if (panel3d) {
-    return `
-      ${panel3d}
-      <details class="viz-2d-alt">
-        <summary>Sơ đồ 2D bổ sung</summary>
-        ${legacy}
-      </details>
-    `;
-  }
-  return legacy;
+  return renderLegacyVisualization(config);
 }
 
-export function bindVisualizations(root = document) {
-  disposeScenes3D();
-  initScene3D(root);
-}
+export function bindVisualizations(_root = document) {}
 
 function renderLegacyVisualization(config = {}) {
   const type = config.visualization;
