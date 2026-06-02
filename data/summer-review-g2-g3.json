@@ -1,0 +1,1640 @@
+{
+  "meta": {
+    "id": "summer_g2_g3",
+    "packId": "g2-g3",
+    "title": "Ôn hè Toán lớp 2 → lớp 3",
+    "subtitle": "4 chủ đề tương tác + 19 đề tổng hợp",
+    "gradeFrom": 2,
+    "gradeTo": 3,
+    "source": "Chuyên đề Ôn hè Toán lớp 2 - lên 3 (nội dung tương tác tự biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr2_arithmetic",
+      "order": 1,
+      "title": "Số học",
+      "emoji": "🔢",
+      "description": "Cấu tạo số đến 1000, cộng trừ, nhân chia, tìm số chưa biết.",
+      "prerequisite": [],
+      "xp": 45
+    },
+    {
+      "id": "sr2_quantity",
+      "order": 2,
+      "title": "Đại lượng",
+      "emoji": "⚖️",
+      "description": "Kg, lít, mét, dm, cm, mm; thời gian, tiền Việt Nam.",
+      "prerequisite": [
+        "sr2_arithmetic"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_geometry",
+      "order": 3,
+      "title": "Hình học",
+      "emoji": "📐",
+      "description": "Điểm, đường thẳng, đường gấp khúc, chu vi; đếm hình.",
+      "prerequisite": [
+        "sr2_quantity"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_word",
+      "order": 4,
+      "title": "Giải toán có lời văn",
+      "emoji": "📖",
+      "description": "Tìm số, so sánh, nhân chia trong bài toán thực tế.",
+      "prerequisite": [
+        "sr2_geometry"
+      ],
+      "xp": 50
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr2_arithmetic",
+      "title": "Số học",
+      "topic": "sr2_arithmetic",
+      "source": "Chuyên đề Ôn hè Toán lớp 2 - lên 3 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Cấu tạo số đến 1000, cộng trừ, nhân chia, tìm số chưa biết."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Số 3 chữ số: hàng trăm, chục, đơn vị (267 = 2 trăm 6 chục 7 đơn vị).",
+            "Giá trị chữ số phụ thuộc vị trí: trong 856, chữ số 8 có giá trị 800.",
+            "Số liền trước/sau; số tròn chục, tròn trăm.",
+            "Cộng/trừ đặt tính; nhân/chia bảng; tìm y trong phép tính."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_quantity",
+      "title": "Đại lượng",
+      "topic": "sr2_quantity",
+      "source": "Chuyên đề Ôn hè Toán lớp 2 - lên 3 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Kg, lít, mét, dm, cm, mm; thời gian, tiền Việt Nam."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "1 m = 100 cm; 1 dm = 10 cm; 1 km = 1000 m.",
+            "Quy đổi và so sánh đơn vị trước khi tính.",
+            "Đọc giờ đúng; 1 tuần = 7 ngày.",
+            "Tiền VN: 100đ, 200đ, 500đ, 1000đ."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_geometry",
+      "title": "Hình học",
+      "topic": "sr2_geometry",
+      "source": "Chuyên đề Ôn hè Toán lớp 2 - lên 3 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Điểm, đường thẳng, đường gấp khúc, chu vi; đếm hình."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Điểm trong/ngoài hình; đoạn thẳng nối hai điểm.",
+            "Chu vi hình tam giác = tổng 3 cạnh; tứ giác = tổng 4 cạnh.",
+            "Hình vuông: 4 cạnh bằng nhau; chu vi = cạnh × 4.",
+            "Đếm hình tam giác, tứ giác trong hình ghép."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_word",
+      "title": "Giải toán có lời văn",
+      "topic": "sr2_word",
+      "source": "Chuyên đề Ôn hè Toán lớp 2 - lên 3 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Tìm số, so sánh, nhân chia trong bài toán thực tế."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Đọc kỹ: thêm → cộng; bớt → trừ; gấp → nhân; chia đều → chia.",
+            "Bài toán nhiều bước: làm từng bước, ghi lời giải.",
+            "Toán tuổi, toán tiền, toán đo lường — luôn ghi đơn vị.",
+            "Kiểm tra đáp số có hợp lý không."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam2_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "sr2_arithmetic"
+      ]
+    },
+    {
+      "id": "exam2_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_1"
+      ]
+    },
+    {
+      "id": "exam2_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_2"
+      ]
+    },
+    {
+      "id": "exam2_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_3"
+      ]
+    },
+    {
+      "id": "exam2_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_4"
+      ]
+    },
+    {
+      "id": "exam2_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_5"
+      ]
+    },
+    {
+      "id": "exam2_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_6"
+      ]
+    },
+    {
+      "id": "exam2_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_7"
+      ]
+    },
+    {
+      "id": "exam2_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_8"
+      ]
+    },
+    {
+      "id": "exam2_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_9"
+      ]
+    },
+    {
+      "id": "exam2_11",
+      "order": 11,
+      "title": "Đề ôn số 11",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_10"
+      ]
+    },
+    {
+      "id": "exam2_12",
+      "order": 12,
+      "title": "Đề ôn số 12",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_11"
+      ]
+    },
+    {
+      "id": "exam2_13",
+      "order": 13,
+      "title": "Đề ôn số 13",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_12"
+      ]
+    },
+    {
+      "id": "exam2_14",
+      "order": 14,
+      "title": "Đề ôn số 14",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_13"
+      ]
+    },
+    {
+      "id": "exam2_15",
+      "order": 15,
+      "title": "Đề ôn số 15",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_14"
+      ]
+    },
+    {
+      "id": "exam2_16",
+      "order": 16,
+      "title": "Đề ôn số 16",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_15"
+      ]
+    },
+    {
+      "id": "exam2_17",
+      "order": 17,
+      "title": "Đề ôn số 17",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_16"
+      ]
+    },
+    {
+      "id": "exam2_18",
+      "order": 18,
+      "title": "Đề ôn số 18",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_17"
+      ]
+    },
+    {
+      "id": "exam2_19",
+      "order": 19,
+      "title": "Đề ôn số 19",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_18"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr2_arithmetic_q1",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Viết số: hai trăm sáu mươi bảy.",
+      "answer": "267",
+      "hint": "2 trăm 6 chục 7 đơn vị = 267."
+    },
+    {
+      "id": "sr2_arithmetic_q2",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Số có 9 trăm, 6 chục, 2 đơn vị viết là?",
+      "answer": "962",
+      "hint": "9 trăm 6 chục 2 đơn vị = 962."
+    },
+    {
+      "id": "sr2_arithmetic_q3",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Số liền trước của 356 là?",
+      "answer": "355",
+      "hint": "356 - 1 = 355."
+    },
+    {
+      "id": "sr2_arithmetic_q4",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Số liền sau của 999 là?",
+      "answer": "1000",
+      "hint": "999 + 1 = 1000."
+    },
+    {
+      "id": "sr2_arithmetic_q5",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "multiple_choice",
+      "question": "Chữ số 8 trong số 856 có giá trị là?",
+      "choices": "8 ở hàng trăm → 800.",
+      "answer": [
+        "800 đơn vị",
+        "80 đơn vị",
+        "8 đơn vị"
+      ],
+      "hint": "800 đơn vị"
+    },
+    {
+      "id": "sr2_arithmetic_q6",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Viết tách số: 754 = ? + ? + ? (dùng dấu +)",
+      "answer": "700 + 50 + 4",
+      "hint": "700 + 50 + 4 = 754."
+    },
+    {
+      "id": "sr2_arithmetic_q7",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Tính nhẩm: 20 × 3 = ?",
+      "answer": "60",
+      "hint": "2 chục × 3 = 6 chục = 60."
+    },
+    {
+      "id": "sr2_arithmetic_q8",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Tìm y: y – 12 = 345. y = ?",
+      "answer": "357",
+      "hint": "345 + 12 = 357."
+    },
+    {
+      "id": "sr2_arithmetic_q9",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Tính: 820 – 486 = ?",
+      "answer": "334",
+      "hint": "Đặt tính trừ có nhớ."
+    },
+    {
+      "id": "sr2_arithmetic_q10",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Tính nhanh: 1+2+3+4+5+6+7+8+9 = ?",
+      "answer": "45",
+      "hint": "(1+9)+(2+8)+…+5 = 45."
+    },
+    {
+      "id": "sr2_arithmetic_q11",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "input",
+      "question": "Tìm y: 6 × y = 34 + 14. y = ?",
+      "answer": "8",
+      "hint": "6y = 48 → y = 8."
+    },
+    {
+      "id": "sr2_arithmetic_q12",
+      "skill": "sr2_arithmetic",
+      "topic": "sr2_arithmetic",
+      "type": "multiple_choice",
+      "question": "Số lớn nhất có ba chữ số là?",
+      "choices": "999 là số lớn nhất 3 chữ số.",
+      "answer": [
+        "999",
+        "990",
+        "1000",
+        "989"
+      ],
+      "hint": "999"
+    },
+    {
+      "id": "sr2_quantity_q1",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "1 m = ? cm",
+      "answer": "100",
+      "hint": "1 mét = 100 xăng-ti-mét."
+    },
+    {
+      "id": "sr2_quantity_q2",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "200 cm = ? m",
+      "answer": "2",
+      "hint": "200 : 100 = 2 m."
+    },
+    {
+      "id": "sr2_quantity_q3",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "5 m 2 cm = ? cm",
+      "answer": "502",
+      "hint": "5m = 500cm; 500 + 2 = 502."
+    },
+    {
+      "id": "sr2_quantity_q4",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "multiple_choice",
+      "question": "Chiếc bút bi dài khoảng?",
+      "choices": "Bút bi dùng cm.",
+      "answer": [
+        "15 cm",
+        "15 m",
+        "15 mm",
+        "15 dm"
+      ],
+      "hint": "15 cm"
+    },
+    {
+      "id": "sr2_quantity_q5",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Một tuần lễ có bao nhiêu ngày?",
+      "answer": "7",
+      "hint": "7 ngày trong tuần."
+    },
+    {
+      "id": "sr2_quantity_q6",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Can to đựng 10 lít, can bé ít hơn 5 lít. Can bé đựng bao nhiêu lít?",
+      "answer": "5",
+      "hint": "10 - 5 = 5 lít."
+    },
+    {
+      "id": "sr2_quantity_q7",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Hùng có 100đ + 200đ + 500đ. Tổng cộng bao nhiêu đồng?",
+      "answer": "800",
+      "hint": "100+200+500=800."
+    },
+    {
+      "id": "sr2_quantity_q8",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Bơm xong lúc 9 giờ sáng + 6 giờ nữa là mấy giờ? (gõ số 1-24)",
+      "answer": "15",
+      "hint": "9 + 6 = 15 giờ = 3 giờ chiều."
+    },
+    {
+      "id": "sr2_quantity_q9",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Bạn nặng 31 kg, Hà nhẹ hơn bạn 3 kg. Hà nặng bao nhiêu kg?",
+      "answer": "28",
+      "hint": "31 - 3 = 28 kg."
+    },
+    {
+      "id": "sr2_quantity_q10",
+      "skill": "sr2_quantity",
+      "topic": "sr2_quantity",
+      "type": "input",
+      "question": "Tàu cách đèn hiệu 4 km, đèn cách bờ 3 km. Tàu cách bờ bao nhiêu km?",
+      "answer": "1",
+      "hint": "4 - 3 = 1 km."
+    },
+    {
+      "id": "sr2_geometry_q1",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Tam giác có mấy cạnh?",
+      "answer": "3",
+      "hint": "Tam giác có 3 cạnh."
+    },
+    {
+      "id": "sr2_geometry_q2",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Tính: 16cm + 20cm + 21cm = ? cm",
+      "answer": "57",
+      "hint": "16+20+21=57."
+    },
+    {
+      "id": "sr2_geometry_q3",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Hình vuông cạnh 5 cm. Chu vi = ? cm",
+      "answer": "20",
+      "hint": "5 × 4 = 20 cm."
+    },
+    {
+      "id": "sr2_geometry_q4",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Tam giác cạnh 5cm, 3cm, 4cm. Chu vi = ? cm",
+      "answer": "12",
+      "hint": "5+3+4=12."
+    },
+    {
+      "id": "sr2_geometry_q5",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Đổi 3dm 6cm = ? cm",
+      "answer": "36",
+      "hint": "3dm = 30cm; 30+6=36."
+    },
+    {
+      "id": "sr2_geometry_q6",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Dây dài 36cm, cắt mỗi đoạn 4cm. Cắt được bao nhiêu đoạn?",
+      "answer": "9",
+      "hint": "36 : 4 = 9 đoạn."
+    },
+    {
+      "id": "sr2_geometry_q7",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Tam giác ABC có AC = 63cm, BC = 47cm. AB = ? cm",
+      "answer": "16",
+      "hint": "63 - 47 = 16 cm."
+    },
+    {
+      "id": "sr2_geometry_q8",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Tam giác đều chu vi 27cm. Mỗi cạnh dài ? cm",
+      "answer": "9",
+      "hint": "27 : 3 = 9 cm."
+    },
+    {
+      "id": "sr2_geometry_q9",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Hình vuông chu vi 40cm. Cạnh dài ? cm",
+      "answer": "10",
+      "hint": "40 : 4 = 10 cm."
+    },
+    {
+      "id": "sr2_geometry_q10",
+      "skill": "sr2_geometry",
+      "topic": "sr2_geometry",
+      "type": "input",
+      "question": "Dây 15m gấp 3 phần bằng nhau, lấy 1 phần. Mỗi phần dài ? m",
+      "answer": "5",
+      "hint": "15 : 3 = 5 m."
+    },
+    {
+      "id": "sr2_word_q1",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Có 17 quả cam, thêm 23 quả. Tổng cộng bao nhiêu quả?",
+      "answer": "40",
+      "hint": "17 + 23 = 40."
+    },
+    {
+      "id": "sr2_word_q2",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Đàn vịt 90 con dưới ao, trên bờ nhiều hơn 20 con. Trên bờ bao nhiêu con?",
+      "answer": "110",
+      "hint": "90 + 20 = 110."
+    },
+    {
+      "id": "sr2_word_q3",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Xe bus 42 hành khách, xuống 12, lên 16. Còn bao nhiêu hành khách?",
+      "answer": "46",
+      "hint": "42 - 12 + 16 = 46."
+    },
+    {
+      "id": "sr2_word_q4",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Mẹ 35 tuổi, con kém mẹ 27 tuổi. Con mấy tuổi?",
+      "answer": "8",
+      "hint": "35 - 27 = 8."
+    },
+    {
+      "id": "sr2_word_q5",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Trại có 458 con, trong đó 242 con lợn. Số gà?",
+      "answer": "216",
+      "hint": "458 - 242 = 216."
+    },
+    {
+      "id": "sr2_word_q6",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Nhà bà 15 con gà mái, trống ít hơn 4 con. Số gà trống?",
+      "answer": "11",
+      "hint": "15 - 4 = 11."
+    },
+    {
+      "id": "sr2_word_q7",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Mỗi con gà 2 chân, tổng 20 chân. Có bao nhiêu con gà?",
+      "answer": "10",
+      "hint": "20 : 2 = 10."
+    },
+    {
+      "id": "sr2_word_q8",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Cửa hàng bán 3 ngày, mỗi ngày 9 lít xăng. Tổng bán bao nhiêu lít?",
+      "answer": "27",
+      "hint": "3 × 9 = 27."
+    },
+    {
+      "id": "sr2_word_q9",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Dây 20m cắt 4 đoạn bằng nhau. Mỗi đoạn dài ? m",
+      "answer": "5",
+      "hint": "20 : 4 = 5 m."
+    },
+    {
+      "id": "sr2_word_q10",
+      "skill": "sr2_word",
+      "topic": "sr2_word",
+      "type": "input",
+      "question": "Đội Hai đắp 350m, đội Một ít hơn 123m. Đội Một đắp bao nhiêu mét?",
+      "answer": "227",
+      "hint": "350 - 123 = 227 m."
+    },
+    {
+      "id": "exam2_1_q1",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "Đề 1 — Số liền sau của 691 là?",
+      "answer": "692",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_1_q2",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "Đề 1 — Tính: 123 + 46 = ?",
+      "answer": "169",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_1_q3",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "Đề 1 — Điền dấu >, < hoặc =: 501 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_1_q4",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "Đề 1 — Cửa hàng có 81 kg gạo, bán 31 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_1_q5",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "Đề 1 — Tìm y: y + 6 = 41. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_2_q1",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "Đề 2 — Số liền sau của 692 là?",
+      "answer": "693",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_2_q2",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "Đề 2 — Tính: 126 + 47 = ?",
+      "answer": "173",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_2_q3",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "Đề 2 — Điền dấu >, < hoặc =: 502 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_2_q4",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "Đề 2 — Cửa hàng có 82 kg gạo, bán 32 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_2_q5",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "Đề 2 — Tìm y: y + 7 = 42. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_3_q1",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "Đề 3 — Số liền sau của 693 là?",
+      "answer": "694",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_3_q2",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "Đề 3 — Tính: 129 + 48 = ?",
+      "answer": "177",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_3_q3",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "Đề 3 — Điền dấu >, < hoặc =: 503 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_3_q4",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "Đề 3 — Cửa hàng có 83 kg gạo, bán 33 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_3_q5",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "Đề 3 — Tìm y: y + 8 = 43. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_4_q1",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "Đề 4 — Số liền sau của 694 là?",
+      "answer": "695",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_4_q2",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "Đề 4 — Tính: 132 + 49 = ?",
+      "answer": "181",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_4_q3",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "Đề 4 — Điền dấu >, < hoặc =: 504 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_4_q4",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "Đề 4 — Cửa hàng có 84 kg gạo, bán 34 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_4_q5",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "Đề 4 — Tìm y: y + 9 = 44. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_5_q1",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "Đề 5 — Số liền sau của 695 là?",
+      "answer": "696",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_5_q2",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "Đề 5 — Tính: 135 + 50 = ?",
+      "answer": "185",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_5_q3",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "Đề 5 — Điền dấu >, < hoặc =: 505 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_5_q4",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "Đề 5 — Cửa hàng có 85 kg gạo, bán 35 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_5_q5",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "Đề 5 — Tìm y: y + 10 = 45. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_6_q1",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "Đề 6 — Số liền sau của 696 là?",
+      "answer": "697",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_6_q2",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "Đề 6 — Tính: 138 + 51 = ?",
+      "answer": "189",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_6_q3",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "Đề 6 — Điền dấu >, < hoặc =: 506 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_6_q4",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "Đề 6 — Cửa hàng có 86 kg gạo, bán 36 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_6_q5",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "Đề 6 — Tìm y: y + 11 = 46. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_7_q1",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "Đề 7 — Số liền sau của 697 là?",
+      "answer": "698",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_7_q2",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "Đề 7 — Tính: 141 + 52 = ?",
+      "answer": "193",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_7_q3",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "Đề 7 — Điền dấu >, < hoặc =: 507 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_7_q4",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "Đề 7 — Cửa hàng có 87 kg gạo, bán 37 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_7_q5",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "Đề 7 — Tìm y: y + 12 = 47. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_8_q1",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "Đề 8 — Số liền sau của 698 là?",
+      "answer": "699",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_8_q2",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "Đề 8 — Tính: 144 + 53 = ?",
+      "answer": "197",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_8_q3",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "Đề 8 — Điền dấu >, < hoặc =: 508 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_8_q4",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "Đề 8 — Cửa hàng có 88 kg gạo, bán 38 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_8_q5",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "Đề 8 — Tìm y: y + 13 = 48. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_9_q1",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "Đề 9 — Số liền sau của 699 là?",
+      "answer": "700",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_9_q2",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "Đề 9 — Tính: 147 + 54 = ?",
+      "answer": "201",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_9_q3",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "Đề 9 — Điền dấu >, < hoặc =: 509 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_9_q4",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "Đề 9 — Cửa hàng có 89 kg gạo, bán 39 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_9_q5",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "Đề 9 — Tìm y: y + 14 = 49. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_10_q1",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "input",
+      "question": "Đề 10 — Số liền sau của 700 là?",
+      "answer": "701",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_10_q2",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "input",
+      "question": "Đề 10 — Tính: 150 + 55 = ?",
+      "answer": "205",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_10_q3",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "input",
+      "question": "Đề 10 — Điền dấu >, < hoặc =: 510 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_10_q4",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "input",
+      "question": "Đề 10 — Cửa hàng có 90 kg gạo, bán 40 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_10_q5",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "input",
+      "question": "Đề 10 — Tìm y: y + 15 = 50. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_11_q1",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "Đề 11 — Số liền sau của 701 là?",
+      "answer": "702",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_11_q2",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "Đề 11 — Tính: 153 + 56 = ?",
+      "answer": "209",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_11_q3",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "Đề 11 — Điền dấu >, < hoặc =: 511 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_11_q4",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "Đề 11 — Cửa hàng có 91 kg gạo, bán 41 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_11_q5",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "Đề 11 — Tìm y: y + 16 = 51. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_12_q1",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "Đề 12 — Số liền sau của 702 là?",
+      "answer": "703",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_12_q2",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "Đề 12 — Tính: 156 + 57 = ?",
+      "answer": "213",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_12_q3",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "Đề 12 — Điền dấu >, < hoặc =: 512 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_12_q4",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "Đề 12 — Cửa hàng có 92 kg gạo, bán 42 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_12_q5",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "Đề 12 — Tìm y: y + 17 = 52. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_13_q1",
+      "skill": "exam2_13",
+      "exam": "exam2_13",
+      "type": "input",
+      "question": "Đề 13 — Số liền sau của 703 là?",
+      "answer": "704",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_13_q2",
+      "skill": "exam2_13",
+      "exam": "exam2_13",
+      "type": "input",
+      "question": "Đề 13 — Tính: 159 + 58 = ?",
+      "answer": "217",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_13_q3",
+      "skill": "exam2_13",
+      "exam": "exam2_13",
+      "type": "input",
+      "question": "Đề 13 — Điền dấu >, < hoặc =: 513 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_13_q4",
+      "skill": "exam2_13",
+      "exam": "exam2_13",
+      "type": "input",
+      "question": "Đề 13 — Cửa hàng có 93 kg gạo, bán 43 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_13_q5",
+      "skill": "exam2_13",
+      "exam": "exam2_13",
+      "type": "input",
+      "question": "Đề 13 — Tìm y: y + 18 = 53. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_14_q1",
+      "skill": "exam2_14",
+      "exam": "exam2_14",
+      "type": "input",
+      "question": "Đề 14 — Số liền sau của 704 là?",
+      "answer": "705",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_14_q2",
+      "skill": "exam2_14",
+      "exam": "exam2_14",
+      "type": "input",
+      "question": "Đề 14 — Tính: 162 + 59 = ?",
+      "answer": "221",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_14_q3",
+      "skill": "exam2_14",
+      "exam": "exam2_14",
+      "type": "input",
+      "question": "Đề 14 — Điền dấu >, < hoặc =: 514 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_14_q4",
+      "skill": "exam2_14",
+      "exam": "exam2_14",
+      "type": "input",
+      "question": "Đề 14 — Cửa hàng có 94 kg gạo, bán 44 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_14_q5",
+      "skill": "exam2_14",
+      "exam": "exam2_14",
+      "type": "input",
+      "question": "Đề 14 — Tìm y: y + 19 = 54. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_15_q1",
+      "skill": "exam2_15",
+      "exam": "exam2_15",
+      "type": "input",
+      "question": "Đề 15 — Số liền sau của 705 là?",
+      "answer": "706",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_15_q2",
+      "skill": "exam2_15",
+      "exam": "exam2_15",
+      "type": "input",
+      "question": "Đề 15 — Tính: 165 + 60 = ?",
+      "answer": "225",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_15_q3",
+      "skill": "exam2_15",
+      "exam": "exam2_15",
+      "type": "input",
+      "question": "Đề 15 — Điền dấu >, < hoặc =: 515 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_15_q4",
+      "skill": "exam2_15",
+      "exam": "exam2_15",
+      "type": "input",
+      "question": "Đề 15 — Cửa hàng có 95 kg gạo, bán 45 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_15_q5",
+      "skill": "exam2_15",
+      "exam": "exam2_15",
+      "type": "input",
+      "question": "Đề 15 — Tìm y: y + 20 = 55. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_16_q1",
+      "skill": "exam2_16",
+      "exam": "exam2_16",
+      "type": "input",
+      "question": "Đề 16 — Số liền sau của 706 là?",
+      "answer": "707",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_16_q2",
+      "skill": "exam2_16",
+      "exam": "exam2_16",
+      "type": "input",
+      "question": "Đề 16 — Tính: 168 + 61 = ?",
+      "answer": "229",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_16_q3",
+      "skill": "exam2_16",
+      "exam": "exam2_16",
+      "type": "input",
+      "question": "Đề 16 — Điền dấu >, < hoặc =: 516 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_16_q4",
+      "skill": "exam2_16",
+      "exam": "exam2_16",
+      "type": "input",
+      "question": "Đề 16 — Cửa hàng có 96 kg gạo, bán 46 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_16_q5",
+      "skill": "exam2_16",
+      "exam": "exam2_16",
+      "type": "input",
+      "question": "Đề 16 — Tìm y: y + 21 = 56. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_17_q1",
+      "skill": "exam2_17",
+      "exam": "exam2_17",
+      "type": "input",
+      "question": "Đề 17 — Số liền sau của 707 là?",
+      "answer": "708",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_17_q2",
+      "skill": "exam2_17",
+      "exam": "exam2_17",
+      "type": "input",
+      "question": "Đề 17 — Tính: 171 + 62 = ?",
+      "answer": "233",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_17_q3",
+      "skill": "exam2_17",
+      "exam": "exam2_17",
+      "type": "input",
+      "question": "Đề 17 — Điền dấu >, < hoặc =: 517 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_17_q4",
+      "skill": "exam2_17",
+      "exam": "exam2_17",
+      "type": "input",
+      "question": "Đề 17 — Cửa hàng có 97 kg gạo, bán 47 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_17_q5",
+      "skill": "exam2_17",
+      "exam": "exam2_17",
+      "type": "input",
+      "question": "Đề 17 — Tìm y: y + 22 = 57. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_18_q1",
+      "skill": "exam2_18",
+      "exam": "exam2_18",
+      "type": "input",
+      "question": "Đề 18 — Số liền sau của 708 là?",
+      "answer": "709",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_18_q2",
+      "skill": "exam2_18",
+      "exam": "exam2_18",
+      "type": "input",
+      "question": "Đề 18 — Tính: 174 + 63 = ?",
+      "answer": "237",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_18_q3",
+      "skill": "exam2_18",
+      "exam": "exam2_18",
+      "type": "input",
+      "question": "Đề 18 — Điền dấu >, < hoặc =: 518 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_18_q4",
+      "skill": "exam2_18",
+      "exam": "exam2_18",
+      "type": "input",
+      "question": "Đề 18 — Cửa hàng có 98 kg gạo, bán 48 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_18_q5",
+      "skill": "exam2_18",
+      "exam": "exam2_18",
+      "type": "input",
+      "question": "Đề 18 — Tìm y: y + 23 = 58. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    },
+    {
+      "id": "exam2_19_q1",
+      "skill": "exam2_19",
+      "exam": "exam2_19",
+      "type": "input",
+      "question": "Đề 19 — Số liền sau của 709 là?",
+      "answer": "710",
+      "hint": "Cộng thêm 1."
+    },
+    {
+      "id": "exam2_19_q2",
+      "skill": "exam2_19",
+      "exam": "exam2_19",
+      "type": "input",
+      "question": "Đề 19 — Tính: 177 + 64 = ?",
+      "answer": "241",
+      "hint": "Đặt tính cộng."
+    },
+    {
+      "id": "exam2_19_q3",
+      "skill": "exam2_19",
+      "exam": "exam2_19",
+      "type": "input",
+      "question": "Đề 19 — Điền dấu >, < hoặc =: 519 ___ 98",
+      "answer": ">",
+      "hint": "Số 3 chữ số luôn lớn hơn 98."
+    },
+    {
+      "id": "exam2_19_q4",
+      "skill": "exam2_19",
+      "exam": "exam2_19",
+      "type": "input",
+      "question": "Đề 19 — Cửa hàng có 99 kg gạo, bán 49 kg. Còn lại bao nhiêu kg?",
+      "answer": "50",
+      "hint": "Trừ số đã bán."
+    },
+    {
+      "id": "exam2_19_q5",
+      "skill": "exam2_19",
+      "exam": "exam2_19",
+      "type": "input",
+      "question": "Đề 19 — Tìm y: y + 24 = 59. y = ?",
+      "answer": "35",
+      "hint": "y = tổng trừ số hạng đã biết."
+    }
+  ]
+}

@@ -118,25 +118,35 @@ export function renderRoute() {
     content = renderSkills(state);
     after = bindSkills;
   } else if (route === "summer") {
-    const kind = parts[1];
-    const entityId = parts[2];
-    const action = parts[3];
-    if (kind === "topic" && entityId) {
+    let packId = summerReview.resolvePackId(parts[1]);
+    let base = 1;
+    if (!packId && (parts[1] === "topic" || parts[1] === "exam")) {
+      packId = "g1-g2";
+      base = 1;
+    } else if (packId) {
+      base = 2;
+    }
+    const kind = parts[base];
+    const entityId = parts[base + 1];
+    const action = parts[base + 2];
+    if (!packId) {
+      content = summerReview.renderPackPicker(state);
+    } else if (kind === "topic" && entityId) {
       if (action === "play") {
-        content = summerReview.renderTopicPlay(entityId, state);
+        content = summerReview.renderTopicPlay(packId, entityId, state);
         after = () => summerReview.bindPlayQuiz();
       } else {
-        content = summerReview.renderTopicLesson(entityId, state);
+        content = summerReview.renderTopicLesson(packId, entityId, state);
       }
     } else if (kind === "exam" && entityId) {
       if (action === "play") {
-        content = summerReview.renderExamPlay(entityId, state);
+        content = summerReview.renderExamPlay(packId, entityId, state);
         after = () => summerReview.bindPlayQuiz();
       } else {
-        content = summerReview.renderExamIntro(entityId, state);
+        content = summerReview.renderExamIntro(packId, entityId, state);
       }
     } else {
-      content = summerReview.renderHub(state);
+      content = summerReview.renderHub(packId, state);
     }
   } else if (route === "review") {
     content = renderErrors(state);
@@ -243,14 +253,17 @@ function renderHome(state) {
   const questPercent = Math.round((state.dailyQuest.progress / state.dailyQuest.target) * 100);
   const weakSkill = getWeakSkills(state)[0];
   const sr = state.summerReview || {};
-  const srTopics = sr.completedTopics?.length || 0;
+  const srPacks = sr.packs || {};
+  const srSummary = Object.keys(srPacks).length
+    ? Object.entries(srPacks).map(([id, p]) => `${p.completedTopics?.length || 0} chủ đề (${id})`).join(" · ")
+    : "Chọn lộ trình ôn hè";
 
   return `
     <section class="summer-banner">
       <div>
-        <span class="tag">Ôn hè · Lớp 1 → 2</span>
-        <h2>Luyện Toán tương tác — 7 chủ đề & 23 đề</h2>
-        <p>Game hóa với sao, combo XP và lộ trình mở khóa. ${srTopics > 0 ? `Đã hoàn thành ${srTopics}/7 chủ đề.` : "Bắt đầu hành trình ôn hè ngay!"}</p>
+        <span class="tag">Ôn hè · Lớp 1→2 & 2→3</span>
+        <h2>Luyện Toán tương tác — chủ đề & đề tổng hợp</h2>
+        <p>Game hóa với sao, combo XP và lộ trình mở khóa. ${srSummary}.</p>
       </div>
       <a class="btn primary" href="#/summer">Vào ôn hè ☀️</a>
     </section>

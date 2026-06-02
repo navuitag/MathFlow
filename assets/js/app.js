@@ -2,16 +2,27 @@ import { loadJson } from "./utils.js";
 import { configureRouter, renderRoute } from "./router.js";
 
 async function boot() {
-  const [skills, lessons, questions, errors, exercises, summerReviewData] = await Promise.all([
+  const [skills, lessons, questions, errors, exercises, summerG1G2, summerG2G3] = await Promise.all([
     loadJson("data/skills.json"),
     loadJson("data/lessons.json"),
     loadJson("data/questions.json"),
     loadJson("data/errors.json"),
     loadJson("data/exercises.json"),
-    loadJson("data/summer-review.json")
+    loadJson("data/summer-review.json"),
+    loadJson("data/summer-review-g2-g3.json")
   ]);
 
-  configureRouter({ skills, lessons, questions, errors, exercises, summerReview: summerReviewData });
+  configureRouter({
+    skills,
+    lessons,
+    questions,
+    errors,
+    exercises,
+    summerPacks: {
+      "g1-g2": summerG1G2,
+      "g2-g3": summerG2G3
+    }
+  });
 
   if (!window.location.hash) {
     window.location.hash = "#/home";

@@ -10,21 +10,44 @@ const XP_EXAM = 50;
 const XP_COMBO_BONUS = 5;
 const XP_PERFECT = 20;
 
-function defaultSummerProgress() {
+function defaultSummerState() {
+  return { packs: {} };
+}
+
+function migrateSummerReview(raw) {
+  if (!raw) return defaultSummerState();
+  if (raw.packs) return raw;
+  return {
+    packs: {
+      "g1-g2": {
+        topicStars: raw.topicStars || {},
+        completedTopics: raw.completedTopics || [],
+        examResults: raw.examResults || {},
+        unlockedExams: raw.unlockedExams || ["exam_1"],
+        bestCombo: raw.bestCombo || 0
+      }
+    }
+  };
+}
+
+function defaultPackProgress(pack) {
+  const firstExam = pack?.exams?.[0]?.id || "exam_1";
   return {
     topicStars: {},
-    topicBest: {},
     completedTopics: [],
     examResults: {},
-    unlockedExams: ["exam_1"],
-    sessionCombo: 0,
+    unlockedExams: [firstExam],
     bestCombo: 0
   };
 }
 
-function getSummerProgress(state) {
-  if (!state.summerReview) state.summerReview = defaultSummerProgress();
-  return state.summerReview;
+function getPackProgress(state, packId, pack) {
+  if (!state.summerReview) state.summerReview = defaultSummerState();
+  state.summerReview = migrateSummerReview(state.summerReview);
+  if (!state.summerReview.packs[packId]) {
+    state.summerReview.packs[packId] = defaultPackProgress(pack);
+  }
+  return state.summerReview.packs[packId];
 }
 
 function isTopicUnlocked(topic, progress, completedTopics) {
@@ -66,6 +89,7 @@ function awardXp(amount, reason) {
 
 export function createSummerReviewModule(ctx) {
   const session = {
+    packId: null,
     mode: null,
     id: null,
     questions: [],
@@ -76,6 +100,7 @@ export function createSummerReviewModule(ctx) {
   };
 
   function resetSession() {
+    session.packId = null;
     session.mode = null;
     session.id = null;
     session.questions = [];
@@ -85,16 +110,71 @@ export function createSummerReviewModule(ctx) {
     session.answers = [];
   }
 
-  function getData() {
-    return ctx.data.summerReview || { topics: [], exams: [], lessons: [], questions: [], meta: {} };
+  function getPacks() {
+    return ctx.data.summerPacks || {};
   }
 
-  function renderHub(state) {
-    const data = getData();
-    const progress = getSummerProgress(state);
+  function getPack(packId) {
+    return getPacks()[packId] || { topics: [], exams: [], lessons: [], questions: [], meta: {} };
+  }
+
+  function packLink(packId, ...parts) {
+    return `#/summer/${packId}${parts.length ? `/${parts.join("/")}` : ""}`;
+  }
+
+  function resolvePackId(candidate) {
+    const packs = getPacks();
+    if (candidate && packs[candidate]) return candidate;
+    return null;
+  }
+
+  function examTags(packId) {
+    if (packId === "g2-g3") {
+      return ["Số học", "Đại lượng", "Hình học", "Lời văn", "Tư duy"];
+    }
+    return ["Số & dãy số", "Cộng trừ", "So sánh", "Lời văn", "Tư duy"];
+  }
+
+  function renderPackPicker(state) {
+    const packs = getPacks();
+    const cards = Object.entries(packs).map(([packId, pack]) => {
+      const progress = getPackProgress(state, packId, pack);
+      const topicDone = progress.completedTopics.length;
+      const examDone = Object.values(progress.examResults).filter((r) => r.passed).length;
+      const stars = Object.values(progress.topicStars).reduce((a, b) => a + b, 0);
+      return `
+        <article class="sr-pack-card card-panel">
+          <span class="tag">Lớp ${pack.meta.gradeFrom} → ${pack.meta.gradeTo}</span>
+          <h2>${escapeHtml(pack.meta.title)}</h2>
+          <p>${escapeHtml(pack.meta.subtitle)}</p>
+          <div class="sr-pack-stats">
+            <span>${topicDone}/${pack.topics.length} chủ đề</span>
+            <span>${examDone}/${pack.exams.length} đề</span>
+            <span>${stars} sao</span>
+          </div>
+          <a class="btn primary" href="${packLink(packId)}">Vào lộ trình →</a>
+        </article>
+      `;
+    }).join("");
+
+    return `
+      <section class="sr-hero">
+        <a class="back-link" href="#/home">← Trang chủ</a>
+        <span class="eyebrow">Ôn hè · Gamification</span>
+        <h1>Chọn lộ trình ôn hè</h1>
+        <p>Mỗi lộ trình có bài học ngắn, luyện tập tương tác, sao thưởng và đề tổng hợp mở khóa dần.</p>
+      </section>
+      <div class="sr-pack-grid">${cards}</div>
+    `;
+  }
+
+  function renderHub(packId, state) {
+    const data = getPack(packId);
+    if (!data.meta?.title) return ctx.notFound("Không tìm thấy lộ trình ôn hè.");
+    const progress = getPackProgress(state, packId, data);
     const completedTopics = progress.completedTopics || [];
     const topicDone = completedTopics.length;
-    const examDone = Object.keys(progress.examResults || {}).length;
+    const examDone = Object.keys(progress.examResults || {}).filter((id) => progress.examResults[id]?.passed).length;
     const totalStars = Object.values(progress.topicStars || {}).reduce((a, b) => a + b, 0);
 
     const topicCards = data.topics
@@ -117,7 +197,7 @@ export function createSummerReviewModule(ctx) {
               </div>
             </div>
             ${unlocked
-    ? `<a class="btn primary sr-topic-btn" href="#/summer/topic/${topic.id}">${done ? "Ôn lại" : "Bắt đầu"}</a>`
+    ? `<a class="btn primary sr-topic-btn" href="${packLink(packId, "topic", topic.id)}">${done ? "Ôn lại" : "Bắt đầu"}</a>`
     : `<span class="sr-lock">🔒 Hoàn thành chủ đề trước</span>`}
           </article>
         `;
@@ -128,7 +208,7 @@ export function createSummerReviewModule(ctx) {
       const result = progress.examResults[exam.id];
       const passed = result && result.correct >= exam.passScore;
       return `
-        <a class="sr-exam-node${unlocked ? "" : " locked"}${passed ? " passed" : ""}" href="${unlocked ? `#/summer/exam/${exam.id}` : "#"}" ${unlocked ? "" : 'aria-disabled="true"'}>
+        <a class="sr-exam-node${unlocked ? "" : " locked"}${passed ? " passed" : ""}" href="${unlocked ? packLink(packId, "exam", exam.id) : "#"}" ${unlocked ? "" : 'aria-disabled="true"'}>
           <span class="sr-exam-num">${exam.order}</span>
           ${passed ? `<span class="sr-exam-badge">✓</span>` : ""}
         </a>
@@ -137,9 +217,9 @@ export function createSummerReviewModule(ctx) {
 
     return `
       <section class="sr-hero">
-        <a class="back-link" href="#/home">← Trang chủ</a>
-        <span class="eyebrow">Luyện tập tương tác · Gamification</span>
-        <h1>${escapeHtml(data.meta.title || "Ôn hè Toán")}</h1>
+        <a class="back-link" href="#/summer">← Chọn lộ trình</a>
+        <span class="eyebrow">Luyện tập tương tác · Lớp ${data.meta.gradeFrom} → ${data.meta.gradeTo}</span>
+        <h1>${escapeHtml(data.meta.title)}</h1>
         <p>${escapeHtml(data.meta.subtitle || "")}</p>
         <div class="sr-hero-stats">
           <article><strong>${topicDone}/${data.topics.length}</strong><span>Chủ đề</span></article>
@@ -151,7 +231,7 @@ export function createSummerReviewModule(ctx) {
 
       <section class="sr-section">
         <header class="section-head">
-          <h2>🗺️ Lộ trình 7 chủ đề</h2>
+          <h2>🗺️ Lộ trình ${data.topics.length} chủ đề</h2>
           <p>Học lý thuyết ngắn → luyện câu hỏi → nhận sao và XP</p>
         </header>
         <div class="sr-topic-grid">${topicCards}</div>
@@ -159,8 +239,8 @@ export function createSummerReviewModule(ctx) {
 
       <section class="sr-section">
         <header class="section-head">
-          <h2>🏆 23 đề tổng hợp</h2>
-          <p>Hoàn thành từng đề để mở khóa đề tiếp theo. Đạt ≥ ${data.exams[0]?.passScore || 4}/5 câu để vượt qua.</p>
+          <h2>🏆 ${data.exams.length} đề tổng hợp</h2>
+          <p>Hoàn thành từng đề để mở khóa đề tiếp theo. Đạt ≥ ${data.exams[0]?.passScore || 4}/${data.exams[0]?.questionCount || 5} câu để vượt qua.</p>
         </header>
         <div class="sr-exam-path">${examPath}</div>
       </section>
@@ -170,26 +250,26 @@ export function createSummerReviewModule(ctx) {
         <ul>
           <li><strong>+10 XP</strong> mỗi câu đúng · <strong>+${XP_COMBO_BONUS} XP</strong> bonus khi combo ≥ 3</li>
           <li><strong>+${XP_TOPIC} XP</strong> khi hoàn thành chủ đề · <strong>+${XP_EXAM} XP</strong> khi vượt đề</li>
-          <li><strong>+${XP_PERFECT} XP</strong> thưởng đề không sai · Sao: 3★ = 100%, 2★ ≥ 75%, 1★ ≥ 50%</li>
+          <li><strong>+${XP_PERFECT} XP</strong> thưởng không sai · Sao: 3★ = 100%, 2★ ≥ 75%, 1★ ≥ 50%</li>
         </ul>
       </section>
     `;
   }
 
-  function renderTopicLesson(topicId, state) {
-    const data = getData();
+  function renderTopicLesson(packId, topicId, state) {
+    const data = getPack(packId);
     const topic = data.topics.find((t) => t.id === topicId);
     const lesson = data.lessons.find((l) => l.id === topicId);
     if (!topic || !lesson) return ctx.notFound("Không tìm thấy chủ đề.");
 
-    const progress = getSummerProgress(state);
+    const progress = getPackProgress(state, packId, data);
     const stars = progress.topicStars[topicId] || 0;
     const qCount = getTopicQuestions(data, topicId).length;
 
     return `
       <section class="lesson-layout sr-lesson">
         <aside class="lesson-sidebar">
-          <a class="back-link" href="#/summer">← Ôn hè</a>
+          <a class="back-link" href="${packLink(packId)}">← Ôn hè</a>
           <span class="sr-topic-icon lg">${topic.emoji}</span>
           <h1>${escapeHtml(topic.title)}</h1>
           <p>${renderStars(stars)} · ${qCount} câu luyện</p>
@@ -214,7 +294,7 @@ export function createSummerReviewModule(ctx) {
               <h2>Sẵn sàng thử thách?</h2>
               <p>Luyện ${qCount} câu — giữ combo để nhận XP thưởng!</p>
             </div>
-            <a class="btn primary" href="#/summer/topic/${topicId}/play">Chơi ngay 🎯</a>
+            <a class="btn primary" href="${packLink(packId, "topic", topicId, "play")}">Chơi ngay 🎯</a>
           </div>
         </div>
       </section>
@@ -239,11 +319,12 @@ export function createSummerReviewModule(ctx) {
     `;
   }
 
-  function renderTopicPlay(topicId, state) {
-    const data = getData();
+  function renderTopicPlay(packId, topicId, state) {
+    const data = getPack(packId);
     const topic = data.topics.find((t) => t.id === topicId);
     if (!topic) return ctx.notFound("Không tìm thấy chủ đề.");
 
+    session.packId = packId;
     if (session.mode === "topic" && session.id === topicId) {
       if (session.index >= session.questions.length) {
         session.index = 0;
@@ -262,26 +343,27 @@ export function createSummerReviewModule(ctx) {
     }
 
     if (session.index >= session.questions.length) {
-      return renderTopicComplete(topicId, state);
+      return renderTopicComplete(packId, topicId, state);
     }
 
     const question = session.questions[session.index];
     return `
       <section class="sr-play-shell">
-        <a class="back-link" href="#/summer/topic/${topicId}">← ${escapeHtml(topic.title)}</a>
+        <a class="back-link" href="${packLink(packId, "topic", topicId)}">← ${escapeHtml(topic.title)}</a>
         ${renderPlayHeader()}
         ${renderQuizCard(question, { workbook: false })}
       </section>
     `;
   }
 
-  function renderExamPlay(examId, state) {
-    const data = getData();
+  function renderExamPlay(packId, examId, state) {
+    const data = getPack(packId);
     const exam = data.exams.find((e) => e.id === examId);
-    const progress = getSummerProgress(state);
+    const progress = getPackProgress(state, packId, data);
     if (!exam) return ctx.notFound("Không tìm thấy đề.");
     if (!isExamUnlocked(exam, progress)) return ctx.notFound("Đề chưa mở khóa. Hoàn thành đề trước hoặc chủ đề đầu tiên.");
 
+    session.packId = packId;
     if (session.mode === "exam" && session.id === examId) {
       if (session.index >= session.questions.length) {
         session.index = 0;
@@ -300,13 +382,13 @@ export function createSummerReviewModule(ctx) {
     }
 
     if (session.index >= session.questions.length) {
-      return renderExamComplete(examId, state);
+      return renderExamComplete(packId, examId, state);
     }
 
     const question = session.questions[session.index];
     return `
       <section class="sr-play-shell">
-        <a class="back-link" href="#/summer">← Ôn hè</a>
+        <a class="back-link" href="${packLink(packId)}">← Ôn hè</a>
         <div class="sr-exam-banner">
           <span class="tag">Đề ôn ${exam.order}</span>
           <span>Cần ≥ ${exam.passScore}/${exam.questionCount} câu để vượt qua</span>
@@ -317,20 +399,20 @@ export function createSummerReviewModule(ctx) {
     `;
   }
 
-  function renderTopicComplete(topicId, state) {
-    const data = getData();
+  function renderTopicComplete(packId, topicId, state) {
+    const data = getPack(packId);
     const topic = data.topics.find((t) => t.id === topicId);
+    const progress = getPackProgress(state, packId, data);
     const total = session.questions.length;
     const stars = starsFromAccuracy(session.correct, total);
-    const isNewBest = stars > (getSummerProgress(state).topicStars[topicId] || 0);
+    const isNewBest = stars > (progress.topicStars[topicId] || 0);
 
     updateState((s) => {
-      const sr = getSummerProgress(s);
+      const sr = getPackProgress(s, packId, data);
       const prevStars = sr.topicStars[topicId] || 0;
       sr.topicStars[topicId] = Math.max(prevStars, stars);
       if (!sr.completedTopics.includes(topicId)) sr.completedTopics.push(topicId);
       sr.bestCombo = Math.max(sr.bestCombo || 0, session.combo);
-      sr.sessionCombo = session.combo;
     });
 
     let bonusXp = 0;
@@ -348,23 +430,23 @@ export function createSummerReviewModule(ctx) {
         <p>${session.correct}/${total} câu đúng · Combo cao nhất: ${session.combo}</p>
         ${bonusXp ? `<p class="sr-xp-bonus">+${bonusXp} XP thưởng!</p>` : ""}
         <div class="hero-actions">
-          ${nextTopic ? `<a class="btn primary" href="#/summer/topic/${nextTopic.id}">Chủ đề tiếp →</a>` : ""}
-          <a class="btn secondary" href="#/summer/topic/${topicId}/play">Chơi lại</a>
-          <a class="btn secondary" href="#/summer">Về lộ trình</a>
+          ${nextTopic ? `<a class="btn primary" href="${packLink(packId, "topic", nextTopic.id)}">Chủ đề tiếp →</a>` : ""}
+          <a class="btn secondary" href="${packLink(packId, "topic", topicId, "play")}">Chơi lại</a>
+          <a class="btn secondary" href="${packLink(packId)}">Về lộ trình</a>
         </div>
       </section>
     `;
   }
 
-  function renderExamComplete(examId, state) {
-    const data = getData();
+  function renderExamComplete(packId, examId, state) {
+    const data = getPack(packId);
     const exam = data.exams.find((e) => e.id === examId);
     const total = session.questions.length;
     const passed = session.correct >= exam.passScore;
     const perfect = session.correct === total;
 
     updateState((s) => {
-      const sr = getSummerProgress(s);
+      const sr = getPackProgress(s, packId, data);
       const prev = sr.examResults[examId];
       if (!prev || session.correct > prev.correct) {
         sr.examResults[examId] = {
@@ -375,9 +457,9 @@ export function createSummerReviewModule(ctx) {
         };
       }
       if (passed) {
-        const nextId = `exam_${exam.order + 1}`;
-        if (!sr.unlockedExams.includes(nextId) && exam.order < 23) {
-          sr.unlockedExams.push(nextId);
+        const nextExam = data.exams.find((e) => e.order === exam.order + 1);
+        if (nextExam && !sr.unlockedExams.includes(nextExam.id)) {
+          sr.unlockedExams.push(nextExam.id);
         }
       }
       sr.bestCombo = Math.max(sr.bestCombo || 0, session.combo);
@@ -398,9 +480,9 @@ export function createSummerReviewModule(ctx) {
         <p>${passed ? "Chúc mừng! Em đã vượt qua đề này." : `Cần ${exam.passScore} câu đúng. Cố gắng thêm nhé!`}</p>
         ${bonusXp ? `<p class="sr-xp-bonus">+${bonusXp} XP thưởng!</p>` : ""}
         <div class="hero-actions">
-          ${passed && nextExam ? `<a class="btn primary" href="#/summer/exam/${nextExam.id}">Đề ${nextExam.order} →</a>` : ""}
-          <a class="btn secondary" href="#/summer/exam/${examId}">Làm lại</a>
-          <a class="btn secondary" href="#/summer">Về lộ trình</a>
+          ${passed && nextExam ? `<a class="btn primary" href="${packLink(packId, "exam", nextExam.id)}">Đề ${nextExam.order} →</a>` : ""}
+          <a class="btn secondary" href="${packLink(packId, "exam", examId)}">Làm lại</a>
+          <a class="btn secondary" href="${packLink(packId)}">Về lộ trình</a>
         </div>
       </section>
     `;
@@ -480,10 +562,10 @@ export function createSummerReviewModule(ctx) {
     if (!route.startsWith("summer")) resetSession();
   }
 
-  function renderExamIntro(examId, state) {
-    const data = getData();
+  function renderExamIntro(packId, examId, state) {
+    const data = getPack(packId);
     const exam = data.exams.find((e) => e.id === examId);
-    const progress = getSummerProgress(state);
+    const progress = getPackProgress(state, packId, data);
     if (!exam) return ctx.notFound("Không tìm thấy đề.");
     if (!isExamUnlocked(exam, progress)) return ctx.notFound("Đề chưa mở khóa.");
 
@@ -492,25 +574,23 @@ export function createSummerReviewModule(ctx) {
 
     return `
       <section class="sr-exam-intro card-panel">
-        <a class="back-link" href="#/summer">← Ôn hè</a>
+        <a class="back-link" href="${packLink(packId)}">← Ôn hè</a>
         <span class="tag">Đề tổng hợp</span>
         <h1>${escapeHtml(exam.title)}</h1>
         <p>${exam.questionCount} câu · Cần ≥ ${exam.passScore} câu đúng để vượt qua · Thưởng ${exam.xp} XP</p>
         ${prev ? `<p>Kết quả trước: ${prev.correct}/${prev.total} ${prev.passed ? "✓" : ""}</p>` : ""}
         <ul class="sr-exam-topics">
-          <li>Số & dãy số</li>
-          <li>Cộng trừ</li>
-          <li>So sánh</li>
-          <li>Lời văn</li>
-          <li>Tư duy</li>
+          ${examTags(packId).map((tag) => `<li>${tag}</li>`).join("")}
         </ul>
-        <a class="btn primary" href="#/summer/exam/${examId}/play">Bắt đầu làm bài ⏱️</a>
+        <a class="btn primary" href="${packLink(packId, "exam", examId, "play")}">Bắt đầu làm bài ⏱️</a>
       </section>
     `;
   }
 
   return {
     resetOnLeave,
+    resolvePackId,
+    renderPackPicker,
     renderHub,
     renderTopicLesson,
     renderTopicPlay,

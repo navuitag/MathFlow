@@ -16,13 +16,7 @@ function baseProgress() {
       progress: 0
     },
     summerReview: {
-      topicStars: {},
-      topicBest: {},
-      completedTopics: [],
-      examResults: {},
-      unlockedExams: ["exam_1"],
-      sessionCombo: 0,
-      bestCombo: 0
+      packs: {}
     },
     lastStudiedDate: new Date().toISOString().slice(0, 10)
   };

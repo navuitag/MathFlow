@@ -1,5 +1,26 @@
 /* Ôn hè Toán lớp 1 → 2 — gamification module */
 
+.sr-pack-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.sr-pack-card h2 {
+  font-size: 1.2rem;
+  margin: 8px 0;
+}
+
+.sr-pack-stats {
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 13px;
+  font-weight: 700;
+  gap: 12px;
+  margin: 12px 0 16px;
+}
+
 .sr-hero {
   background: linear-gradient(135deg, #edf8f4 0%, #f7fbff 55%, #fff8ed 100%);
   border: 1px solid var(--line);
