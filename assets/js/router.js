@@ -63,6 +63,7 @@ export function configureRouter(appData) {
     data,
     getState,
     renderRoute,
+    setRoute,
     notFound,
     escapeHtml
   });

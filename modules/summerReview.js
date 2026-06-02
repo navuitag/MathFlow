@@ -118,6 +118,36 @@ export function createSummerReviewModule(ctx) {
     return getPacks()[packId] || { topics: [], exams: [], lessons: [], questions: [], meta: {} };
   }
 
+  function initTopicSession(packId, topicId, data) {
+    session.packId = packId;
+    session.mode = "topic";
+    session.id = topicId;
+    session.questions = getTopicQuestions(data, topicId);
+    session.index = 0;
+    session.correct = 0;
+    session.combo = 0;
+    session.answers = [];
+  }
+
+  function initExamSession(packId, examId, data) {
+    session.packId = packId;
+    session.mode = "exam";
+    session.id = examId;
+    session.questions = getExamQuestions(data, examId);
+    session.index = 0;
+    session.correct = 0;
+    session.combo = 0;
+    session.answers = [];
+  }
+
+  function navigateFromLink(link) {
+    const href = link?.getAttribute("href") || "";
+    if (!href) return;
+    const route = href.startsWith("#") ? href : `#${href.split("#").pop()}`;
+    if (ctx.setRoute) ctx.setRoute(route);
+    else window.location.hash = route;
+  }
+
   function packLink(packId, ...parts) {
     return `#/summer/${packId}${parts.length ? `/${parts.join("/")}` : ""}`;
   }
@@ -339,22 +369,9 @@ export function createSummerReviewModule(ctx) {
     const topic = data.topics.find((t) => t.id === topicId);
     if (!topic) return ctx.notFound("Không tìm thấy chủ đề.");
 
-    session.packId = packId;
-    if (session.mode === "topic" && session.id === topicId) {
-      if (session.index >= session.questions.length) {
-        session.index = 0;
-        session.correct = 0;
-        session.combo = 0;
-        session.answers = [];
-      }
-    } else {
-      session.mode = "topic";
-      session.id = topicId;
-      session.questions = getTopicQuestions(data, topicId);
-      session.index = 0;
-      session.correct = 0;
-      session.combo = 0;
-      session.answers = [];
+    const continuing = session.mode === "topic" && session.id === topicId && session.questions.length;
+    if (!continuing) {
+      initTopicSession(packId, topicId, data);
     }
 
     if (session.index >= session.questions.length) {
@@ -378,22 +395,9 @@ export function createSummerReviewModule(ctx) {
     if (!exam) return ctx.notFound("Không tìm thấy đề.");
     if (!isExamUnlocked(exam, progress)) return ctx.notFound("Đề chưa mở khóa. Hoàn thành đề trước hoặc chủ đề đầu tiên.");
 
-    session.packId = packId;
-    if (session.mode === "exam" && session.id === examId) {
-      if (session.index >= session.questions.length) {
-        session.index = 0;
-        session.correct = 0;
-        session.combo = 0;
-        session.answers = [];
-      }
-    } else {
-      session.mode = "exam";
-      session.id = examId;
-      session.questions = getExamQuestions(data, examId);
-      session.index = 0;
-      session.correct = 0;
-      session.combo = 0;
-      session.answers = [];
+    const continuing = session.mode === "exam" && session.id === examId && session.questions.length;
+    if (!continuing) {
+      initExamSession(packId, examId, data);
     }
 
     if (session.index >= session.questions.length) {
@@ -436,14 +440,14 @@ export function createSummerReviewModule(ctx) {
     if (bonusXp) awardXp(bonusXp, "topic");
 
     const nextTopic = data.topics.find((t) => t.order === topic.order + 1);
-    const completedTopics = progress.completedTopics || [];
+    const completedTopics = [...new Set([...(progress.completedTopics || []), topicId])];
     const otherTopics = data.topics.filter((t) => {
       if (t.id === topicId || t.id === nextTopic?.id) return false;
       return isTopicUnlocked(t, progress, completedTopics);
     });
 
     const yesTarget = nextTopic
-      ? packLink(packId, "topic", nextTopic.id)
+      ? packLink(packId, "topic", nextTopic.id, "play")
       : packLink(packId);
     const yesLabel = nextTopic
       ? `Có — ${nextTopic.emoji} ${nextTopic.title}`
@@ -463,7 +467,7 @@ export function createSummerReviewModule(ctx) {
       : "";
 
     return `
-      <section class="sr-result sr-topic-complete card-panel">
+      <section class="sr-result sr-topic-complete card-panel" data-pack-id="${escapeHtml(packId)}" data-topic-id="${escapeHtml(topicId)}">
         <div class="sr-result-icon">${stars >= 2 ? "🎉" : stars >= 1 ? "👍" : "💪"}</div>
         <h1>Hoàn thành: ${escapeHtml(topic.title)}</h1>
         <div class="sr-result-stars">${renderStars(stars)}</div>
@@ -616,17 +620,28 @@ export function createSummerReviewModule(ctx) {
     const noBtn = panel.querySelector(".sr-next-actions .btn.secondary");
     if (!yesBtn || !noBtn) return;
 
+    const goNext = () => navigateFromLink(yesBtn);
+    const replay = () => {
+      initTopicSession(panel.dataset.packId, panel.dataset.topicId, getPack(panel.dataset.packId));
+      navigateFromLink(noBtn);
+    };
+
     showModal({
       title: "Hoàn thành chủ đề!",
       body: "Em có muốn chuyển sang chủ đề khác không?",
       actionLabel: yesBtn.textContent.trim(),
-      onAction: () => {
-        window.location.hash = yesBtn.getAttribute("href");
-      },
+      onAction: goNext,
       secondaryLabel: "Không — chơi lại",
-      onSecondary: () => {
-        window.location.hash = noBtn.getAttribute("href");
-      }
+      onSecondary: replay
+    });
+
+    yesBtn.addEventListener("click", (event) => {
+      event.preventDefault();
+      goNext();
+    });
+    noBtn.addEventListener("click", (event) => {
+      event.preventDefault();
+      replay();
     });
   }
 
