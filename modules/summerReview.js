@@ -129,6 +129,9 @@ export function createSummerReviewModule(ctx) {
   }
 
   function examTags(packId) {
+    if (packId === "g5-g6") {
+      return ["Phân số", "Thập phân", "Phần trăm", "Hình học", "Chuyển động"];
+    }
     if (packId === "g3-g4") {
       return ["Số lớn", "Tìm X", "Đo lường", "Diện tích", "Lời văn"];
     }

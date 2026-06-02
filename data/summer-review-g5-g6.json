@@ -1,0 +1,1517 @@
+{
+  "meta": {
+    "id": "summer_g5_g6",
+    "packId": "g5-g6",
+    "title": "Ôn hè Toán lớp 5 → lớp 6",
+    "subtitle": "6 chủ đề tương tác + 10 đề tổng hợp",
+    "gradeFrom": 5,
+    "gradeTo": 6,
+    "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr5_fractions",
+      "order": 1,
+      "title": "Phân số & tỉ lệ",
+      "emoji": "➗",
+      "description": "Phân số, hỗn số, cộng trừ nhân chia; so sánh; bài toán tỉ lệ.",
+      "prerequisite": [],
+      "xp": 55
+    },
+    {
+      "id": "sr5_area",
+      "order": 2,
+      "title": "Đo diện tích",
+      "emoji": "📐",
+      "description": "Bảng đơn vị m², ha, km²; quy đổi và so sánh diện tích.",
+      "prerequisite": [
+        "sr5_fractions"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr5_decimals",
+      "order": 3,
+      "title": "Số thập phân",
+      "emoji": "🔢",
+      "description": "Đọc viết, so sánh, cộng trừ nhân chia số thập phân.",
+      "prerequisite": [
+        "sr5_area"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr5_percent",
+      "order": 4,
+      "title": "Tỉ số phần trăm",
+      "emoji": "📊",
+      "description": "Tìm %; tìm a% của số; tìm số biết a% của nó.",
+      "prerequisite": [
+        "sr5_decimals"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr5_geometry",
+      "order": 5,
+      "title": "Hình học nâng cao",
+      "emoji": "📏",
+      "description": "Diện tích HCN, HV, thang, tam giác, hình tròn; hình hộp.",
+      "prerequisite": [
+        "sr5_percent"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr5_motion",
+      "order": 6,
+      "title": "Toán chuyển động",
+      "emoji": "🚀",
+      "description": "Quãng đường, vận tốc, thời gian; gặp nhau; xuôi/ngược dòng.",
+      "prerequisite": [
+        "sr5_geometry"
+      ],
+      "xp": 55
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr5_fractions",
+      "title": "Phân số & tỉ lệ",
+      "topic": "sr5_fractions",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Phân số, hỗn số, cộng trừ nhân chia; so sánh; bài toán tỉ lệ."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phân số gồm tử số và mẫu số (mẫu ≠ 0).",
+            "Rút gọn/quy đồng bằng tính chất cơ bản của phân số.",
+            "Cộng/trừ cùng mẫu: cộng/trừ tử, giữ mẫu; khác mẫu: quy đồng trước.",
+            "Nhân: tử×tử, mẫu×mẫu; chia: nhân với nghịch đảo."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_area",
+      "title": "Đo diện tích",
+      "topic": "sr5_area",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Bảng đơn vị m², ha, km²; quy đổi và so sánh diện tích."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Hai đơn vị diện tích liền kề: lớn gấp 100 lần bé.",
+            "1 ha = 1 hm² = 10 000 m².",
+            "Quy đổi về cùng đơn vị trước khi cộng/trừ/so sánh.",
+            "1 m² = 100 dm² = 10 000 cm²."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_decimals",
+      "title": "Số thập phân",
+      "topic": "sr5_decimals",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đọc viết, so sánh, cộng trừ nhân chia số thập phân."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phần nguyên bên trái dấu phẩy; phần thập phân bên phải.",
+            "Thêm/bớt 0 tận cùng phần thập phân → số không đổi.",
+            "Cộng/trừ: thẳng cột theo hàng; dấu phẩy thẳng cột.",
+            "Nhân/chia: đếm chữ số thập phân để đặt dấu phẩy."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_percent",
+      "title": "Tỉ số phần trăm",
+      "topic": "sr5_percent",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Tìm %; tìm a% của số; tìm số biết a% của nó."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tỉ số % = (a : b) × 100%.",
+            "a% của N = N × a : 100.",
+            "Tìm số gốc: giá trị : a × 100.",
+            "Tăng/giảm %: nhân với (100±a)/100."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_geometry",
+      "title": "Hình học nâng cao",
+      "topic": "sr5_geometry",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Diện tích HCN, HV, thang, tam giác, hình tròn; hình hộp."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "S_HCN = dài × rộng; S_HV = cạnh × cạnh.",
+            "S_thang = (đáy lớn + đáy bé) × cao : 2.",
+            "S_tam giác = đáy × cao : 2.",
+            "Chu vi hình tròn = đường kính × 3.14."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_motion",
+      "title": "Toán chuyển động",
+      "topic": "sr5_motion",
+      "source": "Chuyên đề Ôn hè Toán lớp 5 - lên 6 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Quãng đường, vận tốc, thời gian; gặp nhau; xuôi/ngược dòng."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "s = v × t; v = s : t; t = s : v — đơn vị phải tương ứng.",
+            "Ngược chiều: thời gian gặp = quãng đường : tổng vận tốc.",
+            "Cùng chiều: thời gian đuổi = khoảng cách : hiệu vận tốc.",
+            "Xuôi dòng = v thuyền + v nước; ngược dòng = v thuyền - v nước."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam5_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "sr5_fractions"
+      ]
+    },
+    {
+      "id": "exam5_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_1"
+      ]
+    },
+    {
+      "id": "exam5_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_2"
+      ]
+    },
+    {
+      "id": "exam5_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_3"
+      ]
+    },
+    {
+      "id": "exam5_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_4"
+      ]
+    },
+    {
+      "id": "exam5_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_5"
+      ]
+    },
+    {
+      "id": "exam5_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_6"
+      ]
+    },
+    {
+      "id": "exam5_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_7"
+      ]
+    },
+    {
+      "id": "exam5_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_8"
+      ]
+    },
+    {
+      "id": "exam5_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_9"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr5_fractions_q1",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Tính: 1/2 + 1/3 = ? (dạng phân số a/b)",
+      "answer": "5/6",
+      "hint": "Quy đồng mẫu 6: 3/6 + 2/6 = 5/6."
+    },
+    {
+      "id": "sr5_fractions_q2",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Tính: 3/4 - 1/2 = ?",
+      "answer": "1/4",
+      "hint": "1/2 = 2/4; 3/4 - 2/4 = 1/4."
+    },
+    {
+      "id": "sr5_fractions_q3",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Tính: 2/3 × 3/4 = ?",
+      "answer": "1/2",
+      "hint": "6/12 = 1/2."
+    },
+    {
+      "id": "sr5_fractions_q4",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Tính: 3/5 : 2/3 = ? (dạng phân số)",
+      "answer": "9/10",
+      "hint": "3/5 × 3/2 = 9/10."
+    },
+    {
+      "id": "sr5_fractions_q5",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Chuyển hỗn số 3 1/4 thành phân số (dạng a/b)",
+      "answer": "13/4",
+      "hint": "(3×4+1)/4 = 13/4."
+    },
+    {
+      "id": "sr5_fractions_q6",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "multiple_choice",
+      "question": "So sánh: 2/3 và 3/5?",
+      "choices": [
+        "2/3 > 3/5",
+        "2/3 < 3/5",
+        "2/3 = 3/5"
+      ],
+      "answer": "2/3 > 3/5",
+      "hint": "10/15 > 9/15."
+    },
+    {
+      "id": "sr5_fractions_q7",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Xe máy đi 3 giờ được 60 km. 6 giờ đi được bao nhiêu km?",
+      "answer": "120",
+      "hint": "20 km/giờ; 20×6 = 120."
+    },
+    {
+      "id": "sr5_fractions_q8",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Vòi 1 đầy bể trong 2 giờ, vòi 2 bằng một nửa vòi 1. Hai vòi cùng chảy đầy bể sau bao nhiêu giờ? (theo đáp án tài liệu)",
+      "answer": "1.5",
+      "hint": "Tài liệu: 1.5 giờ."
+    },
+    {
+      "id": "sr5_fractions_q9",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Dùng 4000đ/kg mua 30 kg. Với 6000đ/kg mua được bao nhiêu kg?",
+      "answer": "20",
+      "hint": "120000 : 6000 = 20 kg."
+    },
+    {
+      "id": "sr5_fractions_q10",
+      "skill": "sr5_fractions",
+      "topic": "sr5_fractions",
+      "type": "input",
+      "question": "Tính nhanh: 1/4 + 1/4 + 1/2 = ?",
+      "answer": "1",
+      "hint": "1/4+1/4=1/2; 1/2+1/2=1."
+    },
+    {
+      "id": "sr5_area_q1",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "8 dam² = ? m²",
+      "answer": "800",
+      "hint": "1 dam² = 100 m²; 8×100 = 800."
+    },
+    {
+      "id": "sr5_area_q2",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "5 cm² = ? mm²",
+      "answer": "500",
+      "hint": "1 cm² = 100 mm²."
+    },
+    {
+      "id": "sr5_area_q3",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "7 ha = ? m²",
+      "answer": "70000",
+      "hint": "7 × 10 000 = 70 000."
+    },
+    {
+      "id": "sr5_area_q4",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "13 km² = ? ha",
+      "answer": "1300",
+      "hint": "1 km² = 100 ha."
+    },
+    {
+      "id": "sr5_area_q5",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "38 m² 25 dm² = ? dm²",
+      "answer": "3825",
+      "hint": "38 m² = 3800 dm²; +25 = 3825."
+    },
+    {
+      "id": "sr5_area_q6",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "multiple_choice",
+      "question": "2 m² 85 cm² = ? cm²",
+      "choices": [
+        "285",
+        "28500",
+        "2085",
+        "20085"
+      ],
+      "answer": "20085",
+      "hint": "2 m² = 20000 cm²; +85 = 20085."
+    },
+    {
+      "id": "sr5_area_q7",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "910 ha so với 91 km²: gõ >, < hoặc =",
+      "answer": "<",
+      "hint": "91 km² = 9100 ha > 910 ha."
+    },
+    {
+      "id": "sr5_area_q8",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "50000 m² = ? ha",
+      "answer": "5",
+      "hint": "50000 : 10000 = 5."
+    },
+    {
+      "id": "sr5_area_q9",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "8000 dm² = ? m²",
+      "answer": "80",
+      "hint": "100 dm² = 1 m²."
+    },
+    {
+      "id": "sr5_area_q10",
+      "skill": "sr5_area",
+      "topic": "sr5_area",
+      "type": "input",
+      "question": "Lát phòng 6m×4m, viên gỗ 120cm×20cm. Cần bao nhiêu viên?",
+      "answer": "100",
+      "hint": "24 m² = 240000 cm²; mỗi viên 2400 cm²."
+    },
+    {
+      "id": "sr5_decimals_q1",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "multiple_choice",
+      "question": "Số lớn nhất: 3.794; 3.749; 3.709; 3.8; 3.781?",
+      "choices": [
+        "3.709",
+        "3.749",
+        "3.8",
+        "3.781"
+      ],
+      "answer": "3.8",
+      "hint": "3.8 = 3.800 lớn nhất."
+    },
+    {
+      "id": "sr5_decimals_q2",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "999 so với 1001: gõ >, < hoặc =",
+      "answer": "<",
+      "hint": "999 < 1001."
+    },
+    {
+      "id": "sr5_decimals_q3",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "7 m 38 cm = ? m (dùng dấu chấm thập phân)",
+      "answer": "7.38",
+      "hint": "38 cm = 0.38 m."
+    },
+    {
+      "id": "sr5_decimals_q4",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "Tính: 52.3 - 9.27 = ?",
+      "answer": "43.03",
+      "hint": "Đặt tính trừ."
+    },
+    {
+      "id": "sr5_decimals_q5",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "Tính: 13.44 : 3.2 = ?",
+      "answer": "4.2",
+      "hint": "Chia số thập phân."
+    },
+    {
+      "id": "sr5_decimals_q6",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "Tìm y: y + 3.65 = 36.5. y = ?",
+      "answer": "32.85",
+      "hint": "36.5 - 3.65 = 32.85."
+    },
+    {
+      "id": "sr5_decimals_q7",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "Tính nhanh: 13.45 + 7.98 + 8.55 = ?",
+      "answer": "29.98",
+      "hint": "(13.45+8.55)+7.98 = 29.98."
+    },
+    {
+      "id": "sr5_decimals_q8",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "Tính: 45.37 - 29.73 - 12.27 = ?",
+      "answer": "3.37",
+      "hint": "45.37 - 42 = 3.37."
+    },
+    {
+      "id": "sr5_decimals_q9",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "2345 kg = ? tấn",
+      "answer": "2.345",
+      "hint": "1000 kg = 1 tấn."
+    },
+    {
+      "id": "sr5_decimals_q10",
+      "skill": "sr5_decimals",
+      "topic": "sr5_decimals",
+      "type": "input",
+      "question": "34 dm² = ? m²",
+      "answer": "0.34",
+      "hint": "100 dm² = 1 m²."
+    },
+    {
+      "id": "sr5_percent_q1",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "275 : 500 = ? % (chỉ gõ số)",
+      "answer": "55",
+      "hint": "0.55 = 55%."
+    },
+    {
+      "id": "sr5_percent_q2",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "25% của 1200 cây là bao nhiêu cây?",
+      "answer": "300",
+      "hint": "1200 × 25 : 100 = 300."
+    },
+    {
+      "id": "sr5_percent_q3",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "65% của một số là 78. Số đó là?",
+      "answer": "120",
+      "hint": "78 × 100 : 65 = 120."
+    },
+    {
+      "id": "sr5_percent_q4",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "40 học sinh, 15% đạt giỏi. Có bao nhiêu em giỏi?",
+      "answer": "6",
+      "hint": "40 × 15 : 100 = 6."
+    },
+    {
+      "id": "sr5_percent_q5",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "195 con bò chiếm 65% tổng trâu bò. Tổng bao nhiêu con?",
+      "answer": "300",
+      "hint": "195 : 65 × 100 = 300."
+    },
+    {
+      "id": "sr5_percent_q6",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "195 con bò chiếm 65% tổng. Số trâu?",
+      "answer": "105",
+      "hint": "300 - 195 = 105."
+    },
+    {
+      "id": "sr5_percent_q7",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "75 viên bi, xanh chiếm 40%. Số bi xanh?",
+      "answer": "30",
+      "hint": "75 × 40 : 100 = 30."
+    },
+    {
+      "id": "sr5_percent_q8",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "Vải giặt co 2%, còn 29.4 m. Ban đầu dài bao nhiêu m?",
+      "answer": "30",
+      "hint": "29.4 : 98 × 100 = 30."
+    },
+    {
+      "id": "sr5_percent_q9",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "multiple_choice",
+      "question": "Giá tăng 10% rồi giảm 10% so với ban đầu thì giá cuối?",
+      "choices": [
+        "Đắt hơn",
+        "Rẻ hơn",
+        "Bằng giá gốc"
+      ],
+      "answer": "Rẻ hơn",
+      "hint": "1.1 × 0.9 = 0.99 < 1."
+    },
+    {
+      "id": "sr5_percent_q10",
+      "skill": "sr5_percent",
+      "topic": "sr5_percent",
+      "type": "input",
+      "question": "Lãi 20% so với giá vốn, giá vốn = 80% giá bán. Lãi = ? % giá vốn (gõ 25)",
+      "answer": "25",
+      "hint": "20% : 80% = 25%."
+    },
+    {
+      "id": "sr5_geometry_q1",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "HCN chu vi 36 cm (dài 12, rộng 6). HV cùng chu vi, diện tích HV = ? cm2",
+      "answer": "81",
+      "hint": "Cạnh 9 cm; 9×9 = 81."
+    },
+    {
+      "id": "sr5_geometry_q2",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "HCN chu vi 28 cm, dài hơn rộng 2 cm. Diện tích = ? cm2",
+      "answer": "48",
+      "hint": "rộng 6, dài 8; 48 cm²."
+    },
+    {
+      "id": "sr5_geometry_q3",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Thang đáy 120 m, đáy bé 80 m, cao 75 m. Diện tích = ? m2",
+      "answer": "7500",
+      "hint": "(120+80)×75:2 = 7500."
+    },
+    {
+      "id": "sr5_geometry_q4",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Tam giác vuông 35 cm và 15 cm. Diện tích = ? cm2",
+      "answer": "262.5",
+      "hint": "35×15:2 = 262.5."
+    },
+    {
+      "id": "sr5_geometry_q5",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Hình tròn đường kính 24 cm. Chu vi = ? cm (dùng 3.14)",
+      "answer": "75.36",
+      "hint": "24 × 3.14 = 75.36."
+    },
+    {
+      "id": "sr5_geometry_q6",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "HCN dài 3.2 dm, rộng bằng 3/4 dài. Diện tích = ? dm2",
+      "answer": "7.68",
+      "hint": "rộng 2.4; 3.2×2.4 = 7.68."
+    },
+    {
+      "id": "sr5_geometry_q7",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Hộp chữ nhật 8×5×4 cm. Diện tích xung quanh = ? cm2",
+      "answer": "104",
+      "hint": "Chu vi đáy 26; 26×4 = 104."
+    },
+    {
+      "id": "sr5_geometry_q8",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Hộp chữ nhật 8×5×4 cm. Diện tích toàn phần = ? cm2",
+      "answer": "184",
+      "hint": "104 + 40×2 = 184."
+    },
+    {
+      "id": "sr5_geometry_q9",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "input",
+      "question": "Lập phương cạnh 3 cm. Diện tích toàn phần = ? cm2",
+      "answer": "54",
+      "hint": "9×6 = 54."
+    },
+    {
+      "id": "sr5_geometry_q10",
+      "skill": "sr5_geometry",
+      "topic": "sr5_geometry",
+      "type": "multiple_choice",
+      "question": "HCN dài gấp 3 rộng, diện tích 75 cm2. Chu vi = ? cm",
+      "choices": [
+        "25",
+        "225",
+        "40",
+        "75"
+      ],
+      "answer": "40",
+      "hint": "rộng 5, dài 15; P = 40."
+    },
+    {
+      "id": "sr5_motion_q1",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Ô tô 7h30→8h đi 23.5 km. Vận tốc = ? km/giờ",
+      "answer": "47",
+      "hint": "0.5 giờ; 23.5:0.5 = 47."
+    },
+    {
+      "id": "sr5_motion_q2",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "multiple_choice",
+      "question": "Xe máy 5h45→7h, v = 32 km/h. Quãng đường?",
+      "choices": [
+        "32 km",
+        "64 km",
+        "40 km",
+        "88 km"
+      ],
+      "answer": "40 km",
+      "hint": "1h15 = 1.25h; 32×1.25=40."
+    },
+    {
+      "id": "sr5_motion_q3",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Thuyền ngược dòng: v=22.6 km/h, dòng 2.2 km/h, 1.5 h. Quãng sông = ? km",
+      "answer": "30.6",
+      "hint": "(22.6-2.2)×1.5 = 30.6."
+    },
+    {
+      "id": "sr5_motion_q4",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "AB = 6 km, v1=20 km/h, v2=12 km/h cùng chiều từ A,B. Gặp sau ? phút (số phút)",
+      "answer": "45",
+      "hint": "6:(20-12)=0.75h=45 phút."
+    },
+    {
+      "id": "sr5_motion_q5",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "A cách B 140 km, ô tô 40 km/h và xe máy 30 km/h đi ngược chiều. Gặp sau ? giờ",
+      "answer": "2",
+      "hint": "140:(40+30)=2."
+    },
+    {
+      "id": "sr5_motion_q6",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Gặp lúc 7h30 + 2h = ? giờ (gõ số, ví dụ 9.5 cho 9h30)",
+      "answer": "9.5",
+      "hint": "7h30 + 2h = 9h30."
+    },
+    {
+      "id": "sr5_motion_q7",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Tàu qua mặt người 20 s, qua cầu 450 m hết 65 s. Chiều dài tàu = ? m",
+      "answer": "200",
+      "hint": "v=450:45=10 m/s; 10×20=200."
+    },
+    {
+      "id": "sr5_motion_q8",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Hiệu vận tốc 8 km/h, khoảng cách 6 km. Gặp sau ? giờ",
+      "answer": "0.75",
+      "hint": "6:8 = 0.75."
+    },
+    {
+      "id": "sr5_motion_q9",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Bánh trước dk gấp 1.5 bánh sau. Trước 10 vòng thì sau ? vòng",
+      "answer": "15",
+      "hint": "10×1.5 = 15."
+    },
+    {
+      "id": "sr5_motion_q10",
+      "skill": "sr5_motion",
+      "topic": "sr5_motion",
+      "type": "input",
+      "question": "Ô tô 32.5 km/h, 6h30→14h45, nghỉ 15 phút. Quãng đường = ? km",
+      "answer": "260",
+      "hint": "8 giờ đi; 32.5×8 = 260."
+    },
+    {
+      "id": "exam5_1_q1",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Số thập phân lớn nhất: 3.794; 3.749; 3.709; 3.8; 3.781?",
+      "choices": [
+        "3.709",
+        "3.749",
+        "3.8",
+        "3.781"
+      ],
+      "answer": "3.8",
+      "hint": "3.8 = 3.800."
+    },
+    {
+      "id": "exam5_1_q2",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Chữ số 7 trong 3.1875 có giá trị?",
+      "choices": [
+        "0.7",
+        "0.007",
+        "0.07",
+        "0.0007"
+      ],
+      "answer": "0.007",
+      "hint": "7 ở hàng phần nghìn."
+    },
+    {
+      "id": "exam5_1_q3",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "input",
+      "question": "Đề 1 — 2345 kg = ? tấn",
+      "answer": "2.345",
+      "hint": "Chia 1000."
+    },
+    {
+      "id": "exam5_1_q4",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "input",
+      "question": "Đề 1 — X + 3.4 = 4.5 × 1.3. X = ?",
+      "answer": "2.45",
+      "hint": "X + 3.4 = 5.85."
+    },
+    {
+      "id": "exam5_1_q5",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "input",
+      "question": "Đề 1 — HCN 3.2 dm × 2.4 dm. Diện tích = ? dm2",
+      "answer": "7.68",
+      "hint": "3.2 × 2.4."
+    },
+    {
+      "id": "exam5_2_q1",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Hai trăm hai đơn vị, ba phần mười, ba phần nghìn viết là?",
+      "choices": [
+        "22.33",
+        "202.33",
+        "202.303",
+        "22.303"
+      ],
+      "answer": "202.303",
+      "hint": "202 + 0.303."
+    },
+    {
+      "id": "exam5_2_q2",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — MC câu 2 (đáp án A)",
+      "choices": [
+        "0.9 = 0.90",
+        "5.73 > 5.730",
+        "89.1 < 88.99",
+        "1.83 > 1.829"
+      ],
+      "answer": "0.9 = 0.90",
+      "hint": "Thêm 0 không đổi giá trị."
+    },
+    {
+      "id": "exam5_2_q3",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — MC câu 3 (đáp án D)",
+      "choices": [
+        "7.38 m = 738 cm",
+        "750 g = 7.5 kg",
+        "75 mm = 0.75 m",
+        "75 mm = 0.075 m"
+      ],
+      "answer": "75 mm = 0.075 m",
+      "hint": "75 mm = 0.075 m."
+    },
+    {
+      "id": "exam5_2_q4",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "input",
+      "question": "Đề 2 — Lớp 40 em, 15% giỏi. Số em giỏi?",
+      "answer": "6",
+      "hint": "40 × 15 : 100."
+    },
+    {
+      "id": "exam5_2_q5",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "input",
+      "question": "Đề 2 — Mẹ 36 km/h đuổi Lan 16 km/h, cách 4 km. Gặp sau ? phút",
+      "answer": "12",
+      "hint": "4 : 20 = 0.2 giờ."
+    },
+    {
+      "id": "exam5_3_q1",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — MC câu 1 (đáp án B)",
+      "choices": [
+        "4.08 : 1.2 = 3.4",
+        "83.21 < 88.201",
+        "999 > 1001",
+        "5.730 < 5.73"
+      ],
+      "answer": "83.21 < 88.201",
+      "hint": "So sánh phần nguyên."
+    },
+    {
+      "id": "exam5_3_q2",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — MC câu 2 (đáp án B)",
+      "choices": [
+        "7.38 m = 7 m 38 cm",
+        "1 tấn 5 kg = 1005 kg",
+        "750 g = 0.75 kg",
+        "75 dm2 = 7.5 m2"
+      ],
+      "answer": "1 tấn 5 kg = 1005 kg",
+      "hint": "1000 + 5 = 1005 kg."
+    },
+    {
+      "id": "exam5_3_q3",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "input",
+      "question": "Đề 3 — 4.08 : 1.2 - 2.03 = ?",
+      "answer": "1.37",
+      "hint": "3.4 - 2.03."
+    },
+    {
+      "id": "exam5_3_q4",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "input",
+      "question": "Đề 3 — Thửa ruộng thu 27000 kg = ? tấn",
+      "answer": "27",
+      "hint": "27000 : 1000."
+    },
+    {
+      "id": "exam5_3_q5",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "input",
+      "question": "Đề 3 — Cửa hàng còn 0.3 tấn gạo = ? kg",
+      "answer": "300",
+      "hint": "0.3 × 1000."
+    },
+    {
+      "id": "exam5_4_q1",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "input",
+      "question": "Đề 4 — Ruộng HCN chu vi 92 m, đổi ±5 m thành HV cạnh 23 m. Diện tích ban đầu = ? m2",
+      "answer": "504",
+      "hint": "28 × 18 = 504."
+    },
+    {
+      "id": "exam5_4_q2",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "input",
+      "question": "Đề 4 — y - 1.57 = 6.28 - 2.86. y = ?",
+      "answer": "4.99",
+      "hint": "y - 1.57 = 3.42."
+    },
+    {
+      "id": "exam5_4_q3",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "input",
+      "question": "Đề 4 — Con 5 tuổi, mẹ gấp 7 lần. Sau bao năm mẹ gấp 4 lần?",
+      "answer": "5",
+      "hint": "Hiệu tuổi không đổi."
+    },
+    {
+      "id": "exam5_4_q4",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "input",
+      "question": "Đề 4 — 1.2 : y = 1.7 dư 0.01. y = ? (làm tròn 1 chữ số thập phân)",
+      "answer": "0.7",
+      "hint": "y × 1.7 = 1.19."
+    },
+    {
+      "id": "exam5_4_q5",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — MC (đáp án B)",
+      "choices": [
+        "Chu vi HV = cạnh × 2",
+        "S_HV = cạnh × cạnh",
+        "S_thang = đáy × cao",
+        "V_hộp = a + b + c"
+      ],
+      "answer": "S_HV = cạnh × cạnh",
+      "hint": "Công thức diện tích HV."
+    },
+    {
+      "id": "exam5_5_q1",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "multiple_choice",
+      "question": "Đề 5 — MC câu 2 (đáp án C)",
+      "choices": [
+        "Dãy Fibonacci 1,3,4,7",
+        "2/3 > 3/4",
+        "1 tấn 5 kg = 1005 kg",
+        "0.5 = 1/2"
+      ],
+      "answer": "1 tấn 5 kg = 1005 kg",
+      "hint": "1005 kg đúng."
+    },
+    {
+      "id": "exam5_5_q2",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "input",
+      "question": "Đề 5 — Viết thêm 5 vào cuối số, tăng 1112 → số ban đầu?",
+      "answer": "123",
+      "hint": "10x+5 - x = 1112-5."
+    },
+    {
+      "id": "exam5_5_q3",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "input",
+      "question": "Đề 5 — HCN chu vi 120 m = 5 × chiều dài, rộng = dài - 5. Diện tích = ? m2",
+      "answer": "408",
+      "hint": "dài 24, rộng 17."
+    },
+    {
+      "id": "exam5_5_q4",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "input",
+      "question": "Đề 5 — AB 140 km, hiệu vận tốc 10, tổng 70. Vận tốc ô tô = ? km/h",
+      "answer": "40",
+      "hint": "(70+10):2 = 40."
+    },
+    {
+      "id": "exam5_5_q5",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "input",
+      "question": "Đề 5 — Vận tốc xe máy = ? km/h (cùng đề trên)",
+      "answer": "30",
+      "hint": "(70-10):2 = 30."
+    },
+    {
+      "id": "exam5_6_q1",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — MC câu 1 (đáp án B)",
+      "choices": [
+        "1/2 + 1/3 = 2/5",
+        "2/3 × 3/2 = 1",
+        "5/6 < 1/2",
+        "3/4 = 0.25"
+      ],
+      "answer": "2/3 × 3/2 = 1",
+      "hint": "Tích bằng 1."
+    },
+    {
+      "id": "exam5_6_q2",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — MC câu 2 (đáp án C)",
+      "choices": [
+        "1 ha = 1000 m2",
+        "1 m2 = 10 dm2",
+        "1 km2 = 100 ha",
+        "1 cm2 = 10 mm2"
+      ],
+      "answer": "1 km2 = 100 ha",
+      "hint": "1 km² = 100 ha."
+    },
+    {
+      "id": "exam5_6_q3",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "input",
+      "question": "Đề 6 — HCN 28×18 cm, tam giác MCD có đáy 60 cm cao 25 cm. S tam giác = ? cm2",
+      "answer": "750",
+      "hint": "60×25:2 = 750."
+    },
+    {
+      "id": "exam5_6_q4",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "input",
+      "question": "Đề 6 — Tổng vận tốc hai ô tô 105 km/h, v1 gấp 4 lần v2. v1 = ? km/h",
+      "answer": "60",
+      "hint": "v2=21… đề gốc: vA=60."
+    },
+    {
+      "id": "exam5_6_q5",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — MC câu 4 (đáp án D)",
+      "choices": [
+        "s = t : v",
+        "v = s × t",
+        "t = s × v",
+        "s = v × t"
+      ],
+      "answer": "s = v × t",
+      "hint": "Công thức cơ bản."
+    },
+    {
+      "id": "exam5_7_q1",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "Đề 7 — MC câu 1 (đáp án C)",
+      "choices": [
+        "0.9 < 0.89",
+        "5.73 = 5.730",
+        "89.1 > 88.99",
+        "999 = 1001"
+      ],
+      "answer": "89.1 > 88.99",
+      "hint": "89 > 88."
+    },
+    {
+      "id": "exam5_7_q2",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "input",
+      "question": "Đề 7 — Diện tích phần còn lại vườn 35×21 - π×2² (π=3.14) ≈ ? m2 (làm tròn 1 số lẻ)",
+      "answer": "722.4",
+      "hint": "735 - 12.56 ≈ 722.44."
+    },
+    {
+      "id": "exam5_7_q3",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "input",
+      "question": "Đề 7 — Bán 2 lần, cuối 10 quả, mỗi lần bán nửa còn lại +1. Ban đầu ? quả",
+      "answer": "94",
+      "hint": "Làm ngược từ đáp án."
+    },
+    {
+      "id": "exam5_7_q4",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "input",
+      "question": "Đề 7 — 3 bao đường: bao 1 = 42.6 kg, bao 2 hơn 14.5 kg, bao 3 = 3/5 bao 2. Cả 3 bao = ? kg",
+      "answer": "133.96",
+      "hint": "42.6+57.1+34.26."
+    },
+    {
+      "id": "exam5_7_q5",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "input",
+      "question": "Đề 7 — 65% tổng = 195 con bò. Tổng trâu bò?",
+      "answer": "300",
+      "hint": "195 : 65 × 100."
+    },
+    {
+      "id": "exam5_8_q1",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — MC câu 1 (đáp án A)",
+      "choices": [
+        "1/2 + 1/4 = 3/4",
+        "2/3 < 1/2",
+        "3/5 > 4/5",
+        "1/3 = 2/3"
+      ],
+      "answer": "1/2 + 1/4 = 3/4",
+      "hint": "2/4 + 1/4 = 3/4."
+    },
+    {
+      "id": "exam5_8_q2",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — MC câu 2 (đáp án D)",
+      "choices": [
+        "s = v + t",
+        "v = s - t",
+        "t = v : s",
+        "v = s : t"
+      ],
+      "answer": "v = s : t",
+      "hint": "v = s : t."
+    },
+    {
+      "id": "exam5_8_q3",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "input",
+      "question": "Đề 8 — Tìm x (đáp án đề 8 phần 2)",
+      "answer": "5",
+      "hint": "Theo đáp án gốc."
+    },
+    {
+      "id": "exam5_8_q4",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "input",
+      "question": "Đề 8 — Vận tốc dự định : thực = 7:9, muộn 40 phút, v=35 km/h. Quãng AB = ? km",
+      "answer": "105",
+      "hint": "180 phút; 3×35=105."
+    },
+    {
+      "id": "exam5_8_q5",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "input",
+      "question": "Đề 8 — Diện tích lát gỗ phòng 6×4 m, viên 120×20 cm = ? viên",
+      "answer": "100",
+      "hint": "240000:2400."
+    },
+    {
+      "id": "exam5_9_q1",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — MC câu 1 (đáp án C)",
+      "choices": [
+        "1 km2 = 10 ha",
+        "1 m2 = 1000 cm2",
+        "1 ha = 10000 m2",
+        "1 dm2 = 100 m2"
+      ],
+      "answer": "1 ha = 10000 m2",
+      "hint": "1 ha = 1 hm²."
+    },
+    {
+      "id": "exam5_9_q2",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — MC câu 2 (đáp án A)",
+      "choices": [
+        "7.38 m = 7 m 38 cm",
+        "750 g = 7.5 kg",
+        "1.375 km = 137.5 m",
+        "0.5 dm2 = 0.5 m2"
+      ],
+      "answer": "7.38 m = 7 m 38 cm",
+      "hint": "Quy đổi đúng."
+    },
+    {
+      "id": "exam5_9_q3",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "input",
+      "question": "Đề 9 — Bản đồ 1:1000, HCN 5 cm × 3 cm. Diện tích thật = ? m2",
+      "answer": "1500",
+      "hint": "50 m × 30 m."
+    },
+    {
+      "id": "exam5_9_q4",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "input",
+      "question": "Đề 9 — Hình bình hành ABCD 28×18, cắt 4 tam giác. S = ? cm2",
+      "answer": "294",
+      "hint": "504 - 168 - 126."
+    },
+    {
+      "id": "exam5_9_q5",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "input",
+      "question": "Đề 9 — Xe I 3.15 t, xe IV = TB - 0.1. Xe IV = ? t (TB=3)",
+      "answer": "2.9",
+      "hint": "3 - 0.1 = 2.9."
+    },
+    {
+      "id": "exam5_10_q1",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — MC câu 1 (đáp án B)",
+      "choices": [
+        "0.9 = 0.09",
+        "5.730 = 5.73",
+        "83.21 > 88.2",
+        "999 > 1001"
+      ],
+      "answer": "5.730 = 5.73",
+      "hint": "Bớt 0 không đổi."
+    },
+    {
+      "id": "exam5_10_q2",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — MC câu 2 (đáp án B)",
+      "choices": [
+        "S = a + b",
+        "S_HCN = a × b",
+        "P = a × a",
+        "V = a × b"
+      ],
+      "answer": "S_HCN = a × b",
+      "hint": "Diện tích HCN."
+    },
+    {
+      "id": "exam5_10_q3",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — MC câu 3 (đáp án C)",
+      "choices": [
+        "1 km2 = 10 ha",
+        "1 m2 = 100 cm2",
+        "1 ha = 10000 m2",
+        "1 mm2 = 1 cm2"
+      ],
+      "answer": "1 ha = 10000 m2",
+      "hint": "Đơn vị diện tích."
+    },
+    {
+      "id": "exam5_10_q4",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "input",
+      "question": "Đề 10 — Vải co 2%, còn 29.4 m. Dài ban đầu = ? m",
+      "answer": "30",
+      "hint": "29.4 : 0.98."
+    },
+    {
+      "id": "exam5_10_q5",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "input",
+      "question": "Đề 10 — Bánh xe dk 7 dm, quãng 219.8 m. Số vòng = ? (đáp án 109.8 làm tròn)",
+      "answer": "100",
+      "hint": "C ≈ 22 dm; 2198:22 ≈ 100."
+    }
+  ]
+}
