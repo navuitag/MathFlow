@@ -261,7 +261,7 @@ function renderHome(state) {
   return `
     <section class="summer-banner">
       <div>
-        <span class="tag">Ôn hè · Lớp 1→2 & 2→3</span>
+        <span class="tag">Ôn hè · Lớp 1→2 · 2→3 · 3→4</span>
         <h2>Luyện Toán tương tác — chủ đề & đề tổng hợp</h2>
         <p>Game hóa với sao, combo XP và lộ trình mở khóa. ${srSummary}.</p>
       </div>

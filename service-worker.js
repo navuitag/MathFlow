@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v18";
+const CACHE_NAME = "mathflow-vn-v19";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -38,7 +38,8 @@ const APP_SHELL = [
   "./data/errors.json",
   "./data/exercises.json",
   "./data/summer-review.json",
-  "./data/summer-review-g2-g3.json"
+  "./data/summer-review-g2-g3.json",
+  "./data/summer-review-g3-g4.json"
 ];
 
 self.addEventListener("install", (event) => {
