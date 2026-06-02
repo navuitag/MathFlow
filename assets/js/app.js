@@ -2,7 +2,7 @@ import { loadJson } from "./utils.js";
 import { configureRouter, renderRoute } from "./router.js";
 
 async function boot() {
-  const [skills, lessons, questions, errors, exercises, summerG1G2, summerG2G3, summerG3G4, summerG5G6, summerG6G7] = await Promise.all([
+  const [skills, lessons, questions, errors, exercises, summerG1G2, summerG2G3, summerG3G4, summerG5G6, summerG6G7, summerG7G8] = await Promise.all([
     loadJson("data/skills.json"),
     loadJson("data/lessons.json"),
     loadJson("data/questions.json"),
@@ -12,7 +12,8 @@ async function boot() {
     loadJson("data/summer-review-g2-g3.json"),
     loadJson("data/summer-review-g3-g4.json"),
     loadJson("data/summer-review-g5-g6.json"),
-    loadJson("data/summer-review-g6-g7.json")
+    loadJson("data/summer-review-g6-g7.json"),
+    loadJson("data/summer-review-g7-g8.json")
   ]);
 
   configureRouter({
@@ -26,7 +27,8 @@ async function boot() {
       "g2-g3": summerG2G3,
       "g3-g4": summerG3G4,
       "g5-g6": summerG5G6,
-      "g6-g7": summerG6G7
+      "g6-g7": summerG6G7,
+      "g7-g8": summerG7G8
     }
   });
 

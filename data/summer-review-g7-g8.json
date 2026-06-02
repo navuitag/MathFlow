@@ -1,0 +1,1487 @@
+{
+  "meta": {
+    "id": "summer_g7_g8",
+    "packId": "g7-g8",
+    "title": "Ôn hè Toán lớp 7 → lớp 8",
+    "subtitle": "6 chủ đề tương tác + 10 đề tổng hợp (10 buổi ôn hè)",
+    "gradeFrom": 7,
+    "gradeTo": 8,
+    "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr7_rational_real",
+      "order": 1,
+      "title": "Số hữu tỉ & Số thực",
+      "emoji": "🔢",
+      "description": "Phép tính hữu tỉ, tìm x; số thập phân tuần hoàn; căn bậc hai; so sánh số thực.",
+      "prerequisite": [],
+      "xp": 50
+    },
+    {
+      "id": "sr7_geometry",
+      "order": 2,
+      "title": "Góc, song song & Tam giác",
+      "emoji": "📐",
+      "description": "Góc đối đỉnh, kề bù; điều kiện song song; tổng góc tam giác; so sánh cạnh-góc.",
+      "prerequisite": [
+        "sr7_rational_real"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr7_statistics",
+      "order": 3,
+      "title": "Thu thập & biểu diễn dữ liệu",
+      "emoji": "📊",
+      "description": "Bảng thống kê, biểu đồ; tỉ lệ phần trăm; đọc dữ liệu thực tế.",
+      "prerequisite": [
+        "sr7_geometry"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr7_proportion",
+      "order": 4,
+      "title": "Tỉ lệ thức & Đại lượng tỉ lệ",
+      "emoji": "⚖️",
+      "description": "Tỉ lệ thức, tìm thành phần chưa biết; tỉ lệ thuận/nghịch; bài toán thực tế.",
+      "prerequisite": [
+        "sr7_statistics"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr7_polynomials",
+      "order": 5,
+      "title": "Đa thức một biến",
+      "emoji": "✖️",
+      "description": "Nhân đơn thức, rút gọn đa thức; giá trị đa thức; tìm nghiệm; bài toán mô hình hóa.",
+      "prerequisite": [
+        "sr7_proportion"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr7_probability_solids",
+      "order": 6,
+      "title": "Xác suất & Hình khối",
+      "emoji": "🎲",
+      "description": "Biến cố chắc chắn/ngẫu nhiên; xác suất; thể tích hình hộp, lăng trụ.",
+      "prerequisite": [
+        "sr7_polynomials"
+      ],
+      "xp": 55
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr7_rational_real",
+      "title": "Số hữu tỉ & Số thực",
+      "topic": "sr7_rational_real",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Phép tính hữu tỉ, tìm x; số thập phân tuần hoàn; căn bậc hai; so sánh số thực."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Nhân/chia hữu tỉ: nhân tử×tử, mẫu×mẫu; đổi dấu khi nhân/chia số âm.",
+            "Số thập phân hữu hạn: mẫu PS chỉ có TSNT 2 và 5.",
+            "√a (a ≥ 0): số không âm có bình phương bằng a.",
+            "a/b = a : b; tìm x trong phương trình hữu tỉ quy về phép nhân/chia."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_geometry",
+      "title": "Góc, song song & Tam giác",
+      "topic": "sr7_geometry",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Góc đối đỉnh, kề bù; điều kiện song song; tổng góc tam giác; so sánh cạnh-góc."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Hai góc đối đỉnh bằng nhau; hai góc kề bù có tổng 180°.",
+            "a // b khi có cặp góc so le trong (hoặc đồng vị) bằng nhau.",
+            "Tổng ba góc tam giác bằng 180°.",
+            "Cạnh lớn hơn đối diện góc lớn hơn."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_statistics",
+      "title": "Thu thập & biểu diễn dữ liệu",
+      "topic": "sr7_statistics",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Bảng thống kê, biểu đồ; tỉ lệ phần trăm; đọc dữ liệu thực tế."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tần số: số lần xuất hiện; tỉ lệ % = (phần/tổng)×100.",
+            "Biểu đồ cột/đoạn: so sánh theo thời gian hoặc nhóm.",
+            "Biểu đồ tròn: thể hiện tỉ lệ phần trăm.",
+            "Giảm giá p%: giá mới = giá gốc × (1 - p/100)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_proportion",
+      "title": "Tỉ lệ thức & Đại lượng tỉ lệ",
+      "topic": "sr7_proportion",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Tỉ lệ thức, tìm thành phần chưa biết; tỉ lệ thuận/nghịch; bài toán thực tế."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "a/b = c/d ⇔ ad = bc (tích chéo bằng nhau).",
+            "Tỉ lệ thuận: y = kx; tỉ lệ nghịch: xy = k.",
+            "Góc tam giác tỉ lệ a:b:c → góc = 180×a/(a+b+c).",
+            "Đổi đơn vị: 1 dặm ≈ 1,6 km; 1 lb ≈ 0,45 kg."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_polynomials",
+      "title": "Đa thức một biến",
+      "topic": "sr7_polynomials",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Nhân đơn thức, rút gọn đa thức; giá trị đa thức; tìm nghiệm; bài toán mô hình hóa."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Nhân đơn thức: nhân hệ số, cộng bậc.",
+            "Đa thức: rút gọn hệ số cùng bậc; sắp xếp theo bậc giảm dần.",
+            "Nghiệm: thay x vào P(x) được 0.",
+            "Mô hình: số thùng còn = 1200 - 40x."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_probability_solids",
+      "title": "Xác suất & Hình khối",
+      "topic": "sr7_probability_solids",
+      "source": "Ôn hè Toán lớp 7 lên 8 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Biến cố chắc chắn/ngẫu nhiên; xác suất; thể tích hình hộp, lăng trụ."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Xác suất = số kết quả thuận lợi / số kết quả đều có thể.",
+            "V_HCN = d×r×c; S_xq hộp = 2(d+r)×c.",
+            "V_lăng trụ = S_đáy × h.",
+            "Biến cố chắc chắn: P = 1; không thể: P = 0."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam7_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "subtitle": "HK1 Đề 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "sr7_rational_real"
+      ]
+    },
+    {
+      "id": "exam7_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "subtitle": "HK1 Đề 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_1"
+      ]
+    },
+    {
+      "id": "exam7_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "subtitle": "HK1 Đề 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_2"
+      ]
+    },
+    {
+      "id": "exam7_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "subtitle": "HK1 Đề 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_3"
+      ]
+    },
+    {
+      "id": "exam7_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "subtitle": "HK1 Đề 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_4"
+      ]
+    },
+    {
+      "id": "exam7_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "subtitle": "HK2 Đề 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_5"
+      ]
+    },
+    {
+      "id": "exam7_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "subtitle": "HK2 Đề 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_6"
+      ]
+    },
+    {
+      "id": "exam7_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "subtitle": "HK2 Đề 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_7"
+      ]
+    },
+    {
+      "id": "exam7_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "subtitle": "HK2 Đề 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_8"
+      ]
+    },
+    {
+      "id": "exam7_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "subtitle": "HK2 Đề 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam7_9"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr7_rational_real_q1",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "Tính: (-6/7)·(-21/12) = ? (dạng a/b rút gọn)",
+      "answer": "3/2",
+      "hint": "Hai số âm → dương; 126/84 = 3/2."
+    },
+    {
+      "id": "sr7_rational_real_q2",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "1/2 + 1/3 = ? (dạng a/b rút gọn)",
+      "answer": "5/6",
+      "hint": "QS mẫu 6: 3/6 + 2/6."
+    },
+    {
+      "id": "sr7_rational_real_q3",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "Căn bậc hai số học của 36 = ?",
+      "answer": "6",
+      "hint": "6² = 36."
+    },
+    {
+      "id": "sr7_rational_real_q4",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "23/40 viết dạng thập phân?",
+      "answer": "0.575",
+      "hint": "23 : 40 = 0.575."
+    },
+    {
+      "id": "sr7_rational_real_q5",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "16/25 có phải STP hữu hạn? (gõ co hoac khong)",
+      "answer": "co",
+      "hint": "Mẫu 25 = 5², chỉ có TSNT 5."
+    },
+    {
+      "id": "sr7_rational_real_q6",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "Tìm x: (-3/2) - 2x + 3/4 = -2",
+      "answer": "5/8",
+      "hint": "-2x = -5/4 → x = 5/8."
+    },
+    {
+      "id": "sr7_rational_real_q7",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "HCN vuông diện tích 6,25 m². Cạnh = ? m",
+      "answer": "2.5",
+      "hint": "√6,25 = 2,5."
+    },
+    {
+      "id": "sr7_rational_real_q8",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "So sánh 5√3 và 3√5: gõ >, < hoặc =",
+      "answer": ">",
+      "hint": "≈ 8,66 > 6,71."
+    },
+    {
+      "id": "sr7_rational_real_q9",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "multiple_choice",
+      "question": "Biết x² = 49 thì x bằng?",
+      "choices": [
+        "x = 49",
+        "x = 7",
+        "x = -7",
+        "x = 7 hoặc x = -7"
+      ],
+      "answer": "x = 7 hoặc x = -7",
+      "hint": "x = ±7."
+    },
+    {
+      "id": "sr7_rational_real_q10",
+      "skill": "sr7_rational_real",
+      "topic": "sr7_rational_real",
+      "type": "input",
+      "question": "Biết √x = 8 thì x = ?",
+      "answer": "64",
+      "hint": "x = 8² = 64."
+    },
+    {
+      "id": "sr7_geometry_q1",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "multiple_choice",
+      "question": "Góc đối đỉnh với ∠AOC là?",
+      "choices": [
+        "∠COB",
+        "∠AOD",
+        "∠AOB",
+        "∠BOD"
+      ],
+      "answer": "∠BOD",
+      "hint": "Đối đỉnh qua O."
+    },
+    {
+      "id": "sr7_geometry_q2",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Tổng ba góc trong một tam giác = ? độ",
+      "answer": "180",
+      "hint": "Định lý cơ bản lớp 7."
+    },
+    {
+      "id": "sr7_geometry_q3",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "∠xOy = 60°. Góc kề bù ∠xOy' = ? độ",
+      "answer": "120",
+      "hint": "60 + 120 = 180."
+    },
+    {
+      "id": "sr7_geometry_q4",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Tam giác DEF: D=30°, E=105°. F = ? độ",
+      "answer": "45",
+      "hint": "180 - 30 - 105 = 45."
+    },
+    {
+      "id": "sr7_geometry_q5",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Tam giác ABC: AB=3, AC=4, BC=5. Góc lớn nhất ở đỉnh nào? (A/B/C)",
+      "answer": "A",
+      "hint": "BC=5 lớn nhất → đối diện góc A."
+    },
+    {
+      "id": "sr7_geometry_q6",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "multiple_choice",
+      "question": "Qua M ngoài đường thẳng a có bao nhiêu đường // a?",
+      "choices": [
+        "Không có",
+        "Đúng 1",
+        "Đúng 2",
+        "Vô số"
+      ],
+      "answer": "Đúng 1",
+      "hint": "Euclid: duy nhất một đường //."
+    },
+    {
+      "id": "sr7_geometry_q7",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "a // b và b // c thì a và c? (gõ // hoac khong //)",
+      "answer": "//",
+      "hint": "Quan hệ // là tương đương."
+    },
+    {
+      "id": "sr7_geometry_q8",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Ba góc tam giác tỉ lệ 2:3:4. Góc nhỏ nhất = ? độ",
+      "answer": "40",
+      "hint": "180×2/9 = 40."
+    },
+    {
+      "id": "sr7_geometry_q9",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Góc vuông = ? độ",
+      "answer": "90",
+      "hint": "Định nghĩa góc vuông."
+    },
+    {
+      "id": "sr7_geometry_q10",
+      "skill": "sr7_geometry",
+      "topic": "sr7_geometry",
+      "type": "input",
+      "question": "Tam giác DEF: D=30°, E=105°. Cạnh dài nhất là? (DE/EF/FD)",
+      "answer": "FD",
+      "hint": "E=105° lớn nhất → đối diện FD."
+    },
+    {
+      "id": "sr7_statistics_q1",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Giảm giá 8% máy tính giá 5 000 000 đ. Giá sau giảm = ? (triệu, gõ 4.6)",
+      "answer": "4.6",
+      "hint": "5 000 000 × 0,92 = 4 600 000."
+    },
+    {
+      "id": "sr7_statistics_q2",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Khảo sát phim: Hành động 7, KHVT 8, Hoạt hình 15 bạn. Tổng 3 loại = ?",
+      "answer": "30",
+      "hint": "7+8+15=30."
+    },
+    {
+      "id": "sr7_statistics_q3",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Trong 30 bạn, 10 thích phim hài. Tỉ lệ % phim hài = ? (gõ 33.3)",
+      "answer": "33.3",
+      "hint": "10/30×100 ≈ 33,3%."
+    },
+    {
+      "id": "sr7_statistics_q4",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Điểm 5, 8, 12, 15, 20. Số trung bình cộng = ?",
+      "answer": "12",
+      "hint": "60/5 = 12."
+    },
+    {
+      "id": "sr7_statistics_q5",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Dãy 5, 8, 12, 15, 20. Khoảng biến thiên = ?",
+      "answer": "15",
+      "hint": "20 - 5 = 15."
+    },
+    {
+      "id": "sr7_statistics_q6",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "20% của 250 = ?",
+      "answer": "50",
+      "hint": "250×0,2 = 50."
+    },
+    {
+      "id": "sr7_statistics_q7",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Tăng 15% giá 200 000 đ → giá mới = ? nghìn (gõ 230)",
+      "answer": "230",
+      "hint": "200×1,15 = 230 nghìn."
+    },
+    {
+      "id": "sr7_statistics_q8",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "multiple_choice",
+      "question": "Biểu đồ nào phù hợp thể hiện tỉ lệ % các nguồn thu?",
+      "choices": [
+        "Biểu đồ cột",
+        "Biểu đồ tròn",
+        "Biểu đồ đoạn",
+        "Bảng số liệu"
+      ],
+      "answer": "Biểu đồ tròn",
+      "hint": "Tròn cho tỉ lệ phần trăm."
+    },
+    {
+      "id": "sr7_statistics_q9",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "multiple_choice",
+      "question": "Biểu đồ nào phù hợp kim ngạch qua các năm?",
+      "choices": [
+        "Biểu đồ tròn",
+        "Biểu đồ đoạn",
+        "Biểu đồ cột đơn",
+        "Bảng tần số"
+      ],
+      "answer": "Biểu đồ đoạn",
+      "hint": "Đoạn thể hiện xu hướng theo thời gian."
+    },
+    {
+      "id": "sr7_statistics_q10",
+      "skill": "sr7_statistics",
+      "topic": "sr7_statistics",
+      "type": "input",
+      "question": "Tủ sách: SGK 80, tham khảo 55, truyện 122, tạp chí 78. Tổng = ?",
+      "answer": "335",
+      "hint": "80+55+122+78=335."
+    },
+    {
+      "id": "sr7_proportion_q1",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "Tìm x: x/20 = 1,5/6",
+      "answer": "5",
+      "hint": "x = 20×1,5/6 = 5."
+    },
+    {
+      "id": "sr7_proportion_q2",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "3 km ≈ ? dặm (1 dặm ≈ 1,6 km, làm tròn 2 CS thập phân)",
+      "answer": "1.88",
+      "hint": "3:1,6 = 1,875 → 1,88."
+    },
+    {
+      "id": "sr7_proportion_q3",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "60 kg ≈ ? pound (1 lb ≈ 0,45 kg, làm tròn đơn vị)",
+      "answer": "133",
+      "hint": "60:0,45 ≈ 133."
+    },
+    {
+      "id": "sr7_proportion_q4",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "Ba góc tam giác tỉ lệ 2:3:4. Góc lớn nhất = ? độ",
+      "answer": "80",
+      "hint": "180×4/9 = 80."
+    },
+    {
+      "id": "sr7_proportion_q5",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "Ba góc tỉ lệ nghịch 2:3:6. Góc nhỏ nhất = ? độ",
+      "answer": "30",
+      "hint": "Tỉ lệ góc 3:2:1 → 30°."
+    },
+    {
+      "id": "sr7_proportion_q6",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "3 đội xe: 2h, 2,5h, 3h hoàn thành. Đội 1 hơn đội 3 là 10 xe. Đội 3 = ? xe",
+      "answer": "20",
+      "hint": "n1:n2:n3 = 15:12:10; n1=30, n3=20."
+    },
+    {
+      "id": "sr7_proportion_q7",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "5 l ≈ ? gallon (1 gal ≈ 3,79 l, làm tròn nghìn)",
+      "answer": "1.319",
+      "hint": "5:3,79 ≈ 1,319."
+    },
+    {
+      "id": "sr7_proportion_q8",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "Tìm x: 25/x = x/4 (x > 0)",
+      "answer": "10",
+      "hint": "x² = 100 → x = 10."
+    },
+    {
+      "id": "sr7_proportion_q9",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "input",
+      "question": "Hoàng 10 phút, Minh 15 phút cùng quãng đường. Minh chậm hơn 10 m/phút. Quãng đường = ? m",
+      "answer": "600",
+      "hint": "v_H=60 m/ph, d=600 m."
+    },
+    {
+      "id": "sr7_proportion_q10",
+      "skill": "sr7_proportion",
+      "topic": "sr7_proportion",
+      "type": "multiple_choice",
+      "question": "Từ a/4 = b/5 có thể suy ra?",
+      "choices": [
+        "a/5 = b/4",
+        "4/a = 5/b",
+        "a/b = 4/5",
+        "5a = 4b"
+      ],
+      "answer": "5a = 4b",
+      "hint": "Tích chéo: 5a = 4b."
+    },
+    {
+      "id": "sr7_polynomials_q1",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "(-2x⁴)·(3/4 x²). Bậc đa thức = ?",
+      "answer": "6",
+      "hint": "-3/2 x⁶, bậc 6."
+    },
+    {
+      "id": "sr7_polynomials_q2",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "Rút gọn: 7x³ - x² + x + 2x² - 7x³ - x - 9 = ? (dạng ax²+b, gõ -x²-9)",
+      "answer": "-x²-9",
+      "hint": "x² - 9."
+    },
+    {
+      "id": "sr7_polynomials_q3",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "(x - 2)(x + 3) = 0. Nghiệm lớn hơn = ?",
+      "answer": "3",
+      "hint": "x = 2 hoặc -3."
+    },
+    {
+      "id": "sr7_polynomials_q4",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "3 - x = 5/2. x = ? (dạng phân số a/b)",
+      "answer": "1/2",
+      "hint": "x = 3 - 5/2 = 1/2."
+    },
+    {
+      "id": "sr7_polynomials_q5",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "x² - 1/4 = 0. x dương = ? (dạng a/b)",
+      "answer": "1/2",
+      "hint": "x = ±1/2."
+    },
+    {
+      "id": "sr7_polynomials_q6",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "Xưởng 1200 thùng, mỗi ngày lấy 40. Sau 10 ngày còn = ? thùng",
+      "answer": "800",
+      "hint": "1200 - 400 = 800."
+    },
+    {
+      "id": "sr7_polynomials_q7",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "Hết 1200 thùng (40/ngày) sau = ? ngày",
+      "answer": "30",
+      "hint": "1200:40 = 30."
+    },
+    {
+      "id": "sr7_polynomials_q8",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "Hội viên: 50000 + 5000x. Đức trả 95000 đ/năm. x = ?",
+      "answer": "9",
+      "hint": "(95000-50000):5000 = 9."
+    },
+    {
+      "id": "sr7_polynomials_q9",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "input",
+      "question": "3x(x-4) - x(5+3x) = 17. x = ?",
+      "answer": "-1",
+      "hint": "-17x = 17 → x = -1."
+    },
+    {
+      "id": "sr7_polynomials_q10",
+      "skill": "sr7_polynomials",
+      "topic": "sr7_polynomials",
+      "type": "multiple_choice",
+      "question": "P(x) = x² - 4x + 3. x = 1 có phải nghiệm?",
+      "choices": [
+        "Có",
+        "Không",
+        "Không xác định",
+        "Chỉ khi x = 3"
+      ],
+      "answer": "Có",
+      "hint": "1 - 4 + 3 = 0."
+    },
+    {
+      "id": "sr7_probability_solids_q1",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Gieo xúc xắc. P(số chẵn) = ? (dạng a/b rút gọn)",
+      "answer": "1/2",
+      "hint": "3/6 = 1/2."
+    },
+    {
+      "id": "sr7_probability_solids_q2",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Gieo xúc xắc. P(chia hết cho 3) = ? (a/b)",
+      "answer": "1/3",
+      "hint": "{3,6} → 2/6."
+    },
+    {
+      "id": "sr7_probability_solids_q3",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Gieo xúc xắc. P(10 chấm) = ?",
+      "answer": "0",
+      "hint": "Không thể."
+    },
+    {
+      "id": "sr7_probability_solids_q4",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Gieo xúc xắc. P(số nguyên tố) = ? (a/b)",
+      "answer": "1/2",
+      "hint": "{2,3,5} → 3/6."
+    },
+    {
+      "id": "sr7_probability_solids_q5",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Tung 2 đồng xu. P(đúng 1 mặt N) = ? (a/b)",
+      "answer": "1/2",
+      "hint": "HT, TH → 2/4."
+    },
+    {
+      "id": "sr7_probability_solids_q6",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "multiple_choice",
+      "question": "Tháng 2 năm 2028 có 29 ngày là biến cố?",
+      "choices": [
+        "Ngẫu nhiên",
+        "Chắc chắn",
+        "Không thể",
+        "Không xác định"
+      ],
+      "answer": "Chắc chắn",
+      "hint": "2028 chia hết cho 4 → nhuận."
+    },
+    {
+      "id": "sr7_probability_solids_q7",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Hộp 6 đỏ, 8 vàng, 6 đen. P(lấy đỏ) = ? (a/b rút gọn)",
+      "answer": "3/10",
+      "hint": "6/20 = 3/10."
+    },
+    {
+      "id": "sr7_probability_solids_q8",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Vòng quay 8 phần (1→8). P(điểm ≥ 7) = ? (a/b)",
+      "answer": "1/4",
+      "hint": "2/8 = 1/4."
+    },
+    {
+      "id": "sr7_probability_solids_q9",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "Hộp chữ nhật 22×16×18 cm. V = ? cm³",
+      "answer": "6336",
+      "hint": "22×16×18."
+    },
+    {
+      "id": "sr7_probability_solids_q10",
+      "skill": "sr7_probability_solids",
+      "topic": "sr7_probability_solids",
+      "type": "input",
+      "question": "HCN 25×15×8 cm. V = ? cm³",
+      "answer": "3000",
+      "hint": "25×15×8 = 3000."
+    },
+    {
+      "id": "exam7_1_q1",
+      "skill": "exam7_1",
+      "exam": "exam7_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — (-6/7)·(-21/12) = ?",
+      "choices": [
+        "3/2",
+        "-3/2",
+        "2/3",
+        "-2/3"
+      ],
+      "answer": "3/2",
+      "hint": "Hai số âm → dương."
+    },
+    {
+      "id": "exam7_1_q2",
+      "skill": "exam7_1",
+      "exam": "exam7_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Kết quả KHÔNG bằng x⁹?",
+      "choices": [
+        "x¹⁰ : x",
+        "x⁵·x⁴",
+        "x³·x³",
+        "(x³)³"
+      ],
+      "answer": "(x³)³",
+      "hint": "(x³)³ = x²⁷."
+    },
+    {
+      "id": "exam7_1_q3",
+      "skill": "exam7_1",
+      "exam": "exam7_1",
+      "type": "input",
+      "question": "Đề 1 — √36 = ?",
+      "answer": "6",
+      "hint": "6² = 36."
+    },
+    {
+      "id": "exam7_1_q4",
+      "skill": "exam7_1",
+      "exam": "exam7_1",
+      "type": "input",
+      "question": "Đề 1 — HCN 25×15×8 cm. V = ? cm³",
+      "answer": "3000",
+      "hint": "Nhân ba kích thước."
+    },
+    {
+      "id": "exam7_1_q5",
+      "skill": "exam7_1",
+      "exam": "exam7_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Góc đối đỉnh với ∠AOC?",
+      "choices": [
+        "∠COB",
+        "∠AOD",
+        "∠AOB",
+        "∠BOD"
+      ],
+      "answer": "∠BOD",
+      "hint": "Đối đỉnh qua O."
+    },
+    {
+      "id": "exam7_2_q1",
+      "skill": "exam7_2",
+      "exam": "exam7_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Khẳng định SAI về số đối?",
+      "choices": [
+        "-1/3 và -1/3 là hai số đối nhau",
+        "Đối của 5/7 là -5/7",
+        "2/3 và -2/3 là đối nhau",
+        "Đối của 2/7 là -2/7"
+      ],
+      "answer": "-1/3 và -1/3 là hai số đối nhau",
+      "hint": "Cùng một số không phải cặp đối."
+    },
+    {
+      "id": "exam7_2_q2",
+      "skill": "exam7_2",
+      "exam": "exam7_2",
+      "type": "input",
+      "question": "Đề 2 — Trong -5/25; 0; 5; 25/4 có ? số hữu tỉ dương",
+      "answer": "2",
+      "hint": "5 và 25/4."
+    },
+    {
+      "id": "exam7_2_q3",
+      "skill": "exam7_2",
+      "exam": "exam7_2",
+      "type": "input",
+      "question": "Đề 2 — Làm tròn 3167,0995 đến hàng phần nghìn",
+      "answer": "3167.1",
+      "hint": "CS thứ 4 = 0 < 5."
+    },
+    {
+      "id": "exam7_2_q4",
+      "skill": "exam7_2",
+      "exam": "exam7_2",
+      "type": "input",
+      "question": "Đề 2 — HCN CD=6, AE=7, EH=8 cm. V = ? cm³",
+      "answer": "336",
+      "hint": "6×7×8."
+    },
+    {
+      "id": "exam7_2_q5",
+      "skill": "exam7_2",
+      "exam": "exam7_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Mặt bên lăng trụ đứng là?",
+      "choices": [
+        "Hình bình hành",
+        "Hình thang cân",
+        "Hình chữ nhật",
+        "Hình thoi"
+      ],
+      "answer": "Hình chữ nhật",
+      "hint": "Mặt bên HCN."
+    },
+    {
+      "id": "exam7_3_q1",
+      "skill": "exam7_3",
+      "exam": "exam7_3",
+      "type": "input",
+      "question": "Đề 3 — √16 = ?",
+      "answer": "4",
+      "hint": "4² = 16."
+    },
+    {
+      "id": "exam7_3_q2",
+      "skill": "exam7_3",
+      "exam": "exam7_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Khẳng định đúng?",
+      "choices": [
+        "Số vô tỉ là STP vô hạn tuần hoàn",
+        "π không phải số vô tỉ",
+        "STP hữu hạn là số vô tỉ",
+        "Số vô tỉ là STP vô hạn không tuần hoàn"
+      ],
+      "answer": "Số vô tỉ là STP vô hạn không tuần hoàn",
+      "hint": "Định nghĩa số vô tỉ."
+    },
+    {
+      "id": "exam7_3_q3",
+      "skill": "exam7_3",
+      "exam": "exam7_3",
+      "type": "input",
+      "question": "Đề 3 — √100 = ? (x dương)",
+      "answer": "10",
+      "hint": "10² = 100."
+    },
+    {
+      "id": "exam7_3_q4",
+      "skill": "exam7_3",
+      "exam": "exam7_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Mặt bên lăng trụ đứng?",
+      "choices": [
+        "Hình tứ giác",
+        "Hình vuông",
+        "Hình chữ nhật",
+        "Hình tam giác"
+      ],
+      "answer": "Hình chữ nhật",
+      "hint": "Các mặt bên HCN."
+    },
+    {
+      "id": "exam7_3_q5",
+      "skill": "exam7_3",
+      "exam": "exam7_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Qua M ngoài a có ... đường // a",
+      "choices": [
+        "Không có",
+        "Đúng 1",
+        "Đúng 2",
+        "Vô số"
+      ],
+      "answer": "Đúng 1",
+      "hint": "Tiên đề Euclid."
+    },
+    {
+      "id": "exam7_4_q1",
+      "skill": "exam7_4",
+      "exam": "exam7_4",
+      "type": "input",
+      "question": "Đề 4 — 2/3 + 1/6 = ? (a/b)",
+      "answer": "5/6",
+      "hint": "4/6 + 1/6."
+    },
+    {
+      "id": "exam7_4_q2",
+      "skill": "exam7_4",
+      "exam": "exam7_4",
+      "type": "input",
+      "question": "Đề 4 — (-4)×(-5) = ?",
+      "answer": "20",
+      "hint": "Cùng dấu → dương."
+    },
+    {
+      "id": "exam7_4_q3",
+      "skill": "exam7_4",
+      "exam": "exam7_4",
+      "type": "input",
+      "question": "Đề 4 — x² = 49. |x| = ?",
+      "answer": "7",
+      "hint": "x = ±7."
+    },
+    {
+      "id": "exam7_4_q4",
+      "skill": "exam7_4",
+      "exam": "exam7_4",
+      "type": "input",
+      "question": "Đề 4 — Giảm 8% giá 5 000 000 → ? triệu",
+      "answer": "4.6",
+      "hint": "×0,92."
+    },
+    {
+      "id": "exam7_4_q5",
+      "skill": "exam7_4",
+      "exam": "exam7_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — Tổng ba góc tam giác?",
+      "choices": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "180°",
+      "hint": "Định lý tam giác."
+    },
+    {
+      "id": "exam7_5_q1",
+      "skill": "exam7_5",
+      "exam": "exam7_5",
+      "type": "input",
+      "question": "Đề 5 — x/20 = 1,5/6. x = ?",
+      "answer": "5",
+      "hint": "Tỉ lệ thức."
+    },
+    {
+      "id": "exam7_5_q2",
+      "skill": "exam7_5",
+      "exam": "exam7_5",
+      "type": "input",
+      "question": "Đề 5 — Ba góc tỉ lệ 2:3:4. Góc lớn nhất = ?°",
+      "answer": "80",
+      "hint": "180×4/9."
+    },
+    {
+      "id": "exam7_5_q3",
+      "skill": "exam7_5",
+      "exam": "exam7_5",
+      "type": "input",
+      "question": "Đề 5 — (x-2)(x+3)=0. Nghiệm dương = ?",
+      "answer": "3",
+      "hint": "x=2 hoặc -3."
+    },
+    {
+      "id": "exam7_5_q4",
+      "skill": "exam7_5",
+      "exam": "exam7_5",
+      "type": "input",
+      "question": "Đề 5 — Gieo xúc xắc P(chẵn) = ? (a/b)",
+      "answer": "1/2",
+      "hint": "3/6."
+    },
+    {
+      "id": "exam7_5_q5",
+      "skill": "exam7_5",
+      "exam": "exam7_5",
+      "type": "input",
+      "question": "Đề 5 — LP cạnh 5 cm. V = ? cm³",
+      "answer": "125",
+      "hint": "5³ = 125."
+    },
+    {
+      "id": "exam7_6_q1",
+      "skill": "exam7_6",
+      "exam": "exam7_6",
+      "type": "input",
+      "question": "Đề 6 — Rút gọn: 3x² + 5x - 2x² + x = ? (ax²+bx)",
+      "answer": "x²+6x",
+      "hint": "Gộp hệ số."
+    },
+    {
+      "id": "exam7_6_q2",
+      "skill": "exam7_6",
+      "exam": "exam7_6",
+      "type": "input",
+      "question": "Đề 6 — 1200 - 40×15 = ? thùng",
+      "answer": "600",
+      "hint": "600 thùng còn."
+    },
+    {
+      "id": "exam7_6_q3",
+      "skill": "exam7_6",
+      "exam": "exam7_6",
+      "type": "input",
+      "question": "Đề 6 — HCN 12×5×3 m. V = ? m³",
+      "answer": "180",
+      "hint": "12×5×3."
+    },
+    {
+      "id": "exam7_6_q4",
+      "skill": "exam7_6",
+      "exam": "exam7_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — Biến cố chắc chắn?",
+      "choices": [
+        "Ngày mai trời mưa",
+        "Mặt Trời mọc từ phía đông",
+        "Xúc xắc ra 7 chấm",
+        "Rút thẻ > 100 từ 1→12"
+      ],
+      "answer": "Mặt Trời mọc từ phía đông",
+      "hint": "Luôn xảy ra."
+    },
+    {
+      "id": "exam7_6_q5",
+      "skill": "exam7_6",
+      "exam": "exam7_6",
+      "type": "input",
+      "question": "Đề 6 — Tam giác D=30°, E=105°. F = ?°",
+      "answer": "45",
+      "hint": "180-135=45."
+    },
+    {
+      "id": "exam7_7_q1",
+      "skill": "exam7_7",
+      "exam": "exam7_7",
+      "type": "input",
+      "question": "Đề 7 — (-2x⁴)(x²) bậc = ?",
+      "answer": "6",
+      "hint": "4+2=6."
+    },
+    {
+      "id": "exam7_7_q2",
+      "skill": "exam7_7",
+      "exam": "exam7_7",
+      "type": "input",
+      "question": "Đề 7 — 3 - x = 5/2. x = ? (a/b)",
+      "answer": "1/2",
+      "hint": "x=1/2."
+    },
+    {
+      "id": "exam7_7_q3",
+      "skill": "exam7_7",
+      "exam": "exam7_7",
+      "type": "input",
+      "question": "Đề 7 — 60 kg ≈ ? lb (làm tròn)",
+      "answer": "133",
+      "hint": "60:0,45."
+    },
+    {
+      "id": "exam7_7_q4",
+      "skill": "exam7_7",
+      "exam": "exam7_7",
+      "type": "input",
+      "question": "Đề 7 — Hộp 22×16×18. V = ? cm³",
+      "answer": "6336",
+      "hint": "Tích ba cạnh."
+    },
+    {
+      "id": "exam7_7_q5",
+      "skill": "exam7_7",
+      "exam": "exam7_7",
+      "type": "input",
+      "question": "Đề 7 — P(x)=x²-4x+3. P(1) = ?",
+      "answer": "0",
+      "hint": "1-4+3=0."
+    },
+    {
+      "id": "exam7_8_q1",
+      "skill": "exam7_8",
+      "exam": "exam7_8",
+      "type": "input",
+      "question": "Đề 8 — 0,1(6) + 1,(3) = ? (dạng a/b rút gọn)",
+      "answer": "3/2",
+      "hint": "1/6+4/3=3/2."
+    },
+    {
+      "id": "exam7_8_q2",
+      "skill": "exam7_8",
+      "exam": "exam7_8",
+      "type": "input",
+      "question": "Đề 8 — √49 = ?",
+      "answer": "7",
+      "hint": "7²=49."
+    },
+    {
+      "id": "exam7_8_q3",
+      "skill": "exam7_8",
+      "exam": "exam7_8",
+      "type": "input",
+      "question": "Đề 8 — a//b, b//c → a và c? (// hoac khong //)",
+      "answer": "//",
+      "hint": "Tính chất //."
+    },
+    {
+      "id": "exam7_8_q4",
+      "skill": "exam7_8",
+      "exam": "exam7_8",
+      "type": "input",
+      "question": "Đề 8 — 6 đỏ, 8 vàng, 6 đen. P(đỏ) = ? (a/b)",
+      "answer": "3/10",
+      "hint": "6/20."
+    },
+    {
+      "id": "exam7_8_q5",
+      "skill": "exam7_8",
+      "exam": "exam7_8",
+      "type": "input",
+      "question": "Đề 8 — LP S_tp=294 cm². V = ? cm³",
+      "answer": "343",
+      "hint": "c=7, V=343."
+    },
+    {
+      "id": "exam7_9_q1",
+      "skill": "exam7_9",
+      "exam": "exam7_9",
+      "type": "input",
+      "question": "Đề 9 — 1/2 - 1/3 = ? (a/b)",
+      "answer": "1/6",
+      "hint": "3/6-2/6."
+    },
+    {
+      "id": "exam7_9_q2",
+      "skill": "exam7_9",
+      "exam": "exam7_9",
+      "type": "input",
+      "question": "Đề 9 — x² - 1/9 = 0. x dương = ? (a/b)",
+      "answer": "1/3",
+      "hint": "x=±1/3."
+    },
+    {
+      "id": "exam7_9_q3",
+      "skill": "exam7_9",
+      "exam": "exam7_9",
+      "type": "input",
+      "question": "Đề 9 — ∠xOy=100°. Góc kề bù = ?°",
+      "answer": "80",
+      "hint": "180-100."
+    },
+    {
+      "id": "exam7_9_q4",
+      "skill": "exam7_9",
+      "exam": "exam7_9",
+      "type": "input",
+      "question": "Đề 9 — Tung 2 xu P(cả hai S) = ? (a/b)",
+      "answer": "1/4",
+      "hint": "1/4 kết quả."
+    },
+    {
+      "id": "exam7_9_q5",
+      "skill": "exam7_9",
+      "exam": "exam7_9",
+      "type": "input",
+      "question": "Đề 9 — HCN đáy 40 cm², cao=8, dài hơn rộng 4. V = ? cm³",
+      "answer": "320",
+      "hint": "r=4,d=8,V=320."
+    },
+    {
+      "id": "exam7_10_q1",
+      "skill": "exam7_10",
+      "exam": "exam7_10",
+      "type": "input",
+      "question": "Đề 10 — 25/x = x/4 (x>0). x = ?",
+      "answer": "10",
+      "hint": "x²=100."
+    },
+    {
+      "id": "exam7_10_q2",
+      "skill": "exam7_10",
+      "exam": "exam7_10",
+      "type": "input",
+      "question": "Đề 10 — Trung bình 6, 10, 14 = ?",
+      "answer": "10",
+      "hint": "30/3=10."
+    },
+    {
+      "id": "exam7_10_q3",
+      "skill": "exam7_10",
+      "exam": "exam7_10",
+      "type": "input",
+      "question": "Đề 10 — 3x(x-4)-x(5+3x)=17. x = ?",
+      "answer": "-1",
+      "hint": "-17x=17."
+    },
+    {
+      "id": "exam7_10_q4",
+      "skill": "exam7_10",
+      "exam": "exam7_10",
+      "type": "input",
+      "question": "Đề 10 — Lăng trụ tam giác đáy 6, cao 10, cao LP 8. V = ? cm³",
+      "answer": "240",
+      "hint": "6×10:2×8=240."
+    },
+    {
+      "id": "exam7_10_q5",
+      "skill": "exam7_10",
+      "exam": "exam7_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — Gieo xúc xắc P(lẻ)?",
+      "choices": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": "1/2",
+      "hint": "3/6."
+    }
+  ]
+}
