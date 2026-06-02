@@ -14,7 +14,7 @@ export function renderQuizCard(question, options = {}) {
       `).join("")}</div>`
     : `
       <form class="answer-form">
-        <input class="answer-input" name="answer" autocomplete="off" placeholder="Nhập đáp án của em">
+        <input class="answer-input" name="answer" autocomplete="off" autofocus placeholder="Nhập đáp án của em">
         <button class="btn primary" type="submit">Kiểm tra</button>
       </form>
     `;
@@ -34,4 +34,11 @@ export function renderQuizCard(question, options = {}) {
       <div class="feedback-panel math-content" aria-live="polite"></div>
     </article>
   `;
+}
+
+/** Đặt con trỏ vào ô nhập đáp án (sau khi render câu hỏi). */
+export function focusAnswerInput(root = document) {
+  const input = root.querySelector(".answer-input:not([disabled])");
+  if (!input) return;
+  requestAnimationFrame(() => input.focus({ preventScroll: true }));
 }

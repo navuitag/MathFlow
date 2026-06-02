@@ -1,6 +1,6 @@
 import { escapeHtml } from "../assets/js/utils.js";
 import { formatMathHtml } from "../assets/js/mathFormat.js";
-import { renderQuizCard } from "../components/quizCard.js";
+import { renderQuizCard, focusAnswerInput } from "../components/quizCard.js";
 import { showModal } from "../components/modal.js";
 import { validateAnswer } from "./quizEngine.js";
 import { updateState } from "../assets/js/state.js";
@@ -421,18 +421,49 @@ export function createSummerReviewModule(ctx) {
     if (bonusXp) awardXp(bonusXp, "topic");
 
     const nextTopic = data.topics.find((t) => t.order === topic.order + 1);
+    const completedTopics = progress.completedTopics || [];
+    const otherTopics = data.topics.filter((t) => {
+      if (t.id === topicId || t.id === nextTopic?.id) return false;
+      return isTopicUnlocked(t, progress, completedTopics);
+    });
+
+    const yesTarget = nextTopic
+      ? packLink(packId, "topic", nextTopic.id)
+      : packLink(packId);
+    const yesLabel = nextTopic
+      ? `Có — ${nextTopic.emoji} ${nextTopic.title}`
+      : "Có — chọn chủ đề khác";
+
+    const otherTopicsHtml = otherTopics.length
+      ? `
+        <p class="sr-other-topics-label">Hoặc chọn chủ đề khác:</p>
+        <div class="sr-other-topics">
+          ${otherTopics.map((t) => `
+            <a class="sr-other-topic-chip" href="${packLink(packId, "topic", t.id)}">
+              ${t.emoji} ${escapeHtml(t.title)}
+            </a>
+          `).join("")}
+        </div>
+      `
+      : "";
 
     return `
-      <section class="sr-result card-panel">
+      <section class="sr-result sr-topic-complete card-panel">
         <div class="sr-result-icon">${stars >= 2 ? "🎉" : stars >= 1 ? "👍" : "💪"}</div>
         <h1>Hoàn thành: ${escapeHtml(topic.title)}</h1>
         <div class="sr-result-stars">${renderStars(stars)}</div>
         <p>${session.correct}/${total} câu đúng · Combo cao nhất: ${session.combo}</p>
         ${bonusXp ? `<p class="sr-xp-bonus">+${bonusXp} XP thưởng!</p>` : ""}
-        <div class="hero-actions">
-          ${nextTopic ? `<a class="btn primary" href="${packLink(packId, "topic", nextTopic.id)}">Chủ đề tiếp →</a>` : ""}
-          <a class="btn secondary" href="${packLink(packId, "topic", topicId, "play")}">Chơi lại</a>
-          <a class="btn secondary" href="${packLink(packId)}">Về lộ trình</a>
+
+        <div class="sr-next-prompt">
+          <h2>Bước tiếp theo</h2>
+          <p class="sr-next-question">Em có muốn chuyển sang chủ đề khác không?</p>
+          <div class="hero-actions sr-next-actions">
+            <a class="btn primary" href="${yesTarget}">${escapeHtml(yesLabel)}</a>
+            <a class="btn secondary" href="${packLink(packId, "topic", topicId, "play")}">Không — chơi lại</a>
+          </div>
+          ${otherTopicsHtml}
+          <a class="back-link sr-back-hub" href="${packLink(packId)}">← Về lộ trình ôn hè</a>
         </div>
       </section>
     `;
@@ -555,6 +586,32 @@ export function createSummerReviewModule(ctx) {
         const hint = btn.dataset.hint;
         if (hint) showModal({ title: "Gợi ý", body: formatMathHtml(hint), actionLabel: "Đã hiểu" });
       });
+    });
+
+    bindTopicCompletePrompt();
+    focusAnswerInput();
+  }
+
+  function bindTopicCompletePrompt() {
+    const panel = document.querySelector(".sr-topic-complete");
+    if (!panel || panel.dataset.promptBound === "1") return;
+    panel.dataset.promptBound = "1";
+
+    const yesBtn = panel.querySelector(".sr-next-actions .btn.primary");
+    const noBtn = panel.querySelector(".sr-next-actions .btn.secondary");
+    if (!yesBtn || !noBtn) return;
+
+    showModal({
+      title: "Hoàn thành chủ đề!",
+      body: "Em có muốn chuyển sang chủ đề khác không?",
+      actionLabel: yesBtn.textContent.trim(),
+      onAction: () => {
+        window.location.hash = yesBtn.getAttribute("href");
+      },
+      secondaryLabel: "Không — chơi lại",
+      onSecondary: () => {
+        window.location.hash = noBtn.getAttribute("href");
+      }
     });
   }
 

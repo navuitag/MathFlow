@@ -1,4 +1,5 @@
 import { buildFlashcardDeck, buildMemoryDeck, buildMemoryPairs } from "./practiceContent.js";
+import { focusAnswerInput } from "../components/quizCard.js";
 
 export function createPracticeModule(ctx) {
   const practiceSession = {
@@ -158,6 +159,7 @@ export function createPracticeModule(ctx) {
       const solution = event.currentTarget.dataset.solution;
       if (solution) ctx.showModal({ title: "Lời giải SBT", body: solution });
     });
+    focusAnswerInput();
   }
 
   function onWorkbookAnswerCorrect(skillId) {
@@ -442,6 +444,7 @@ export function createPracticeModule(ctx) {
       const hint = event.currentTarget.dataset.hint;
       if (hint) ctx.showModal({ title: "Gợi ý", body: hint });
     });
+    focusAnswerInput();
   }
 
   function onPracticeAnswerCorrect(skillId) {
