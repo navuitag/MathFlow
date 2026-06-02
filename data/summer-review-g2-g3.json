@@ -428,13 +428,13 @@
       "topic": "sr2_arithmetic",
       "type": "multiple_choice",
       "question": "Chữ số 8 trong số 856 có giá trị là?",
-      "choices": "8 ở hàng trăm → 800.",
-      "answer": [
+      "choices": [
         "800 đơn vị",
         "80 đơn vị",
         "8 đơn vị"
       ],
-      "hint": "800 đơn vị"
+      "answer": "800 đơn vị",
+      "hint": "8 ở hàng trăm → 800."
     },
     {
       "id": "sr2_arithmetic_q6",
@@ -496,14 +496,14 @@
       "topic": "sr2_arithmetic",
       "type": "multiple_choice",
       "question": "Số lớn nhất có ba chữ số là?",
-      "choices": "999 là số lớn nhất 3 chữ số.",
-      "answer": [
+      "choices": [
         "999",
         "990",
         "1000",
         "989"
       ],
-      "hint": "999"
+      "answer": "999",
+      "hint": "999 là số lớn nhất 3 chữ số."
     },
     {
       "id": "sr2_quantity_q1",
@@ -538,14 +538,14 @@
       "topic": "sr2_quantity",
       "type": "multiple_choice",
       "question": "Chiếc bút bi dài khoảng?",
-      "choices": "Bút bi dùng cm.",
-      "answer": [
+      "choices": [
         "15 cm",
         "15 m",
         "15 mm",
         "15 dm"
       ],
-      "hint": "15 cm"
+      "answer": "15 cm",
+      "hint": "Bút bi dùng cm."
     },
     {
       "id": "sr2_quantity_q5",

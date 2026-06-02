@@ -2,7 +2,8 @@ import { escapeHtml, shuffle } from "../assets/js/utils.js";
 import { formatMathHtml } from "../assets/js/mathFormat.js";
 
 export function renderQuizCard(question, options = {}) {
-  const choices = question.type === "multiple_choice" ? shuffle(question.choices) : [];
+  const choiceList = Array.isArray(question.choices) ? question.choices : [];
+  const choices = question.type === "multiple_choice" ? shuffle(choiceList) : [];
   const answerArea = question.type === "true_false"
     ? `<div class="choice-grid choice-grid--binary">${(question.choices || ["Đúng", "Sai"]).map((choice) => `
         <button class="choice-btn" data-answer="${escapeHtml(choice)}">${formatMathHtml(choice)}</button>

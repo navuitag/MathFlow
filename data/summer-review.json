@@ -1,7 +1,6 @@
 {
   "meta": {
     "id": "summer_g1_g2",
-    "packId": "g1-g2",
     "title": "Ôn hè Toán lớp 1 → lớp 2",
     "subtitle": "7 chủ đề tương tác + 23 đề tổng hợp",
     "gradeFrom": 1,
@@ -577,14 +576,14 @@
       "topic": "sr_numbers",
       "type": "multiple_choice",
       "question": "Số liền sau của 89 là?",
-      "choices": "89 + 1 = 90.",
-      "answer": [
+      "choices": [
         "90",
         "88",
         "91",
         "80"
       ],
-      "hint": "90"
+      "answer": "90",
+      "hint": "89 + 1 = 90."
     },
     {
       "id": "sr_numbers_q4",
@@ -592,14 +591,14 @@
       "topic": "sr_numbers",
       "type": "multiple_choice",
       "question": "Số nào là số tròn chục?",
-      "choices": "30 = 3 chục, hàng đơn vị là 0.",
-      "answer": [
+      "choices": [
         "30",
         "33",
         "35",
         "38"
       ],
-      "hint": "30"
+      "answer": "30",
+      "hint": "30 = 3 chục, hàng đơn vị là 0."
     },
     {
       "id": "sr_numbers_q5",
@@ -616,14 +615,14 @@
       "topic": "sr_numbers",
       "type": "multiple_choice",
       "question": "Số nào là số chẵn?",
-      "choices": "46 có hàng đơn vị là 6.",
-      "answer": [
+      "choices": [
         "46",
         "47",
         "49",
         "51"
       ],
-      "hint": "46"
+      "answer": "46",
+      "hint": "46 có hàng đơn vị là 6."
     },
     {
       "id": "sr_numbers_q7",
@@ -640,14 +639,14 @@
       "topic": "sr_numbers",
       "type": "multiple_choice",
       "question": "Số lớn nhất có 1 chữ số là?",
-      "choices": "9 là số lớn nhất một chữ số.",
-      "answer": [
+      "choices": [
         "9",
         "10",
         "8",
         "99"
       ],
-      "hint": "9"
+      "answer": "9",
+      "hint": "9 là số lớn nhất một chữ số."
     },
     {
       "id": "sr_add_sub_q1",
@@ -745,13 +744,13 @@
       "topic": "sr_compare",
       "type": "multiple_choice",
       "question": "65 ___ 48. Chọn dấu đúng.",
-      "choices": "6 chục > 4 chục.",
-      "answer": [
+      "choices": [
         ">",
         "<",
         "="
       ],
-      "hint": ">"
+      "answer": ">",
+      "hint": "6 chục > 4 chục."
     },
     {
       "id": "sr_compare_q4",
@@ -768,13 +767,13 @@
       "topic": "sr_compare",
       "type": "multiple_choice",
       "question": "25 + 41 ___ 41 + 25",
-      "choices": "Đổi chỗ không đổi tổng.",
-      "answer": [
+      "choices": [
         "=",
         ">",
         "<"
       ],
-      "hint": "="
+      "answer": "=",
+      "hint": "Đổi chỗ không đổi tổng."
     },
     {
       "id": "sr_compare_q6",
@@ -791,14 +790,14 @@
       "topic": "sr_compare",
       "type": "multiple_choice",
       "question": "Số nào lớn nhất: 28, 76, 54, 74?",
-      "choices": "7 chục lớn nhất.",
-      "answer": [
+      "choices": [
         "76",
         "74",
         "54",
         "28"
       ],
-      "hint": "76"
+      "answer": "76",
+      "hint": "7 chục lớn nhất."
     },
     {
       "id": "sr_compare_q8",
@@ -887,14 +886,14 @@
       "topic": "sr_time",
       "type": "multiple_choice",
       "question": "Kim ngắn ở 5, kim dài ở 12. Mấy giờ?",
-      "choices": "Kim ngắn chỉ giờ.",
-      "answer": [
+      "choices": [
         "5 giờ",
         "12 giờ",
         "7 giờ",
         "10 giờ"
       ],
-      "hint": "5 giờ"
+      "answer": "5 giờ",
+      "hint": "Kim ngắn chỉ giờ."
     },
     {
       "id": "sr_time_q2",
@@ -911,14 +910,14 @@
       "topic": "sr_time",
       "type": "multiple_choice",
       "question": "Sau Thứ Tư là thứ mấy?",
-      "choices": "Thứ Tư → Thứ Năm.",
-      "answer": [
+      "choices": [
         "Thứ Năm",
         "Thứ Ba",
         "Thứ Sáu",
         "Chủ nhật"
       ],
-      "hint": "Thứ Năm"
+      "answer": "Thứ Năm",
+      "hint": "Thứ Tư → Thứ Năm."
     },
     {
       "id": "sr_time_q4",
@@ -935,14 +934,14 @@
       "topic": "sr_time",
       "type": "multiple_choice",
       "question": "Lịch dùng để xem gì?",
-      "choices": "Lịch ghi ngày trong tháng.",
-      "answer": [
+      "choices": [
         "Ngày tháng",
         "Cân nặng",
         "Độ dài",
         "Nhiệt độ"
       ],
-      "hint": "Ngày tháng"
+      "answer": "Ngày tháng",
+      "hint": "Lịch ghi ngày trong tháng."
     },
     {
       "id": "sr_time_q6",
@@ -959,14 +958,14 @@
       "topic": "sr_time",
       "type": "multiple_choice",
       "question": "Ngày đầu tuần đi học thường là?",
-      "choices": "Thứ Hai mở đầu tuần học.",
-      "answer": [
+      "choices": [
         "Thứ Hai",
         "Thứ Bảy",
         "Chủ nhật",
         "Thứ Sáu"
       ],
-      "hint": "Thứ Hai"
+      "answer": "Thứ Hai",
+      "hint": "Thứ Hai mở đầu tuần học."
     },
     {
       "id": "sr_time_q8",
@@ -983,14 +982,14 @@
       "topic": "sr_geometry",
       "type": "multiple_choice",
       "question": "Hình nào có 3 cạnh?",
-      "choices": "Tam giác có 3 cạnh.",
-      "answer": [
+      "choices": [
         "Tam giác",
         "Vuông",
         "Tròn",
         "Chữ nhật"
       ],
-      "hint": "Tam giác"
+      "answer": "Tam giác",
+      "hint": "Tam giác có 3 cạnh."
     },
     {
       "id": "sr_geometry_q2",
@@ -1016,14 +1015,14 @@
       "topic": "sr_geometry",
       "type": "multiple_choice",
       "question": "Đo độ dài dùng đơn vị gì?",
-      "choices": "cm = xăng-ti-mét.",
-      "answer": [
+      "choices": [
         "cm",
         "kg",
         "lít",
         "giờ"
       ],
-      "hint": "cm"
+      "answer": "cm",
+      "hint": "cm = xăng-ti-mét."
     },
     {
       "id": "sr_geometry_q5",
@@ -1040,14 +1039,14 @@
       "topic": "sr_geometry",
       "type": "multiple_choice",
       "question": "Hình chữ nhật có mấy góc vuông?",
-      "choices": "4 góc đều vuông.",
-      "answer": [
+      "choices": [
         "4",
         "3",
         "0",
         "2"
       ],
-      "hint": "4"
+      "answer": "4",
+      "hint": "4 góc đều vuông."
     },
     {
       "id": "sr_geometry_q7",
@@ -1064,14 +1063,14 @@
       "topic": "sr_geometry",
       "type": "multiple_choice",
       "question": "Biển báo cấm thường là hình gì?",
-      "choices": "Biển tròn hay gặp.",
-      "answer": [
+      "choices": [
         "Tròn",
         "Vuông",
         "Tam giác",
         "Thoi"
       ],
-      "hint": "Tròn"
+      "answer": "Tròn",
+      "hint": "Biển tròn hay gặp."
     },
     {
       "id": "sr_logic_q1",

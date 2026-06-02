@@ -125,7 +125,7 @@ function buildTopicQuestions() {
     topic.questions.forEach((q, i) => {
       const id = `${topic.id}_q${i + 1}`;
       if (q[0] === "multiple_choice") {
-        questions.push({ id, skill: topic.id, topic: topic.id, type: "multiple_choice", question: q[1], choices: q[4], answer: q[2], hint: q[3] });
+        questions.push({ id, skill: topic.id, topic: topic.id, type: "multiple_choice", question: q[1], choices: q[2], answer: q[3], hint: q[4] });
       } else {
         questions.push({ id, skill: topic.id, topic: topic.id, type: "input", question: q[1], answer: q[2], hint: q[3] });
       }

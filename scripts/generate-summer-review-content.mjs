@@ -196,9 +196,9 @@ function buildTopicQuestions() {
           topic: topic.id,
           type: "multiple_choice",
           question: q[1],
-          choices: q[4],
-          answer: q[2],
-          hint: q[3]
+          choices: q[2],
+          answer: q[3],
+          hint: q[4]
         });
       } else {
         questions.push({
