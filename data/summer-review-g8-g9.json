@@ -1,0 +1,1469 @@
+{
+  "meta": {
+    "id": "summer_g8_g9",
+    "packId": "g8-g9",
+    "title": "Ôn hè Toán lớp 8 → lớp 9",
+    "subtitle": "6 chủ đề tương tác + 10 đề tổng hợp (10 buổi ôn hè)",
+    "gradeFrom": 8,
+    "gradeTo": 9,
+    "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr8_polynomials",
+      "order": 1,
+      "title": "Đa thức & Hằng đẳng thức",
+      "emoji": "✖️",
+      "description": "Đơn thức, đa thức; hằng đẳng thức; phân tích nhân tử; tìm x.",
+      "prerequisite": [],
+      "xp": 50
+    },
+    {
+      "id": "sr8_quadrilaterals",
+      "order": 2,
+      "title": "Tứ giác & Định lý Ta-lét",
+      "emoji": "📐",
+      "description": "Tứ giác đặc biệt; góc tứ giác; đường trung bình; Ta-lét và hình đồng dạng cơ bản.",
+      "prerequisite": [
+        "sr8_polynomials"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr8_statistics",
+      "order": 3,
+      "title": "Dữ liệu & Biểu đồ",
+      "emoji": "📊",
+      "description": "Bảng thống kê, biểu đồ; tỉ lệ phần trăm; đọc và phân tích dữ liệu.",
+      "prerequisite": [
+        "sr8_quadrilaterals"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr8_fractions",
+      "order": 4,
+      "title": "Phân thức đại số",
+      "emoji": "➗",
+      "description": "Điều kiện xác định; rút gọn; cộng trừ phân thức; bài toán thực tế.",
+      "prerequisite": [
+        "sr8_statistics"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr8_linear",
+      "order": 5,
+      "title": "Phương trình & Hàm bậc nhất",
+      "emoji": "📈",
+      "description": "Giải PT bậc nhất; hàm số y=ax+b; bài toán vận tốc, tiền lương.",
+      "prerequisite": [
+        "sr8_fractions"
+      ],
+      "xp": 55
+    },
+    {
+      "id": "sr8_prob_similarity",
+      "order": 6,
+      "title": "Xác suất & Tam giác đồng dạng",
+      "emoji": "🎲",
+      "description": "Xác suất; tam giác đồng dạng; Pythagore; bài toán bóng, hình khối.",
+      "prerequisite": [
+        "sr8_linear"
+      ],
+      "xp": 55
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr8_polynomials",
+      "title": "Đa thức & Hằng đẳng thức",
+      "topic": "sr8_polynomials",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đơn thức, đa thức; hằng đẳng thức; phân tích nhân tử; tìm x."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Đơn thức: tích hệ số và biến; bậc = tổng mũ các biến.",
+            "(a±b)² = a² ± 2ab + b²; a² − b² = (a−b)(a+b).",
+            "Phân tích nhân tử: đặt nhân tử chung, dùng hằng đẳng thức.",
+            "Thu gọn: gộp các hạng tương đương."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr8_quadrilaterals",
+      "title": "Tứ giác & Định lý Ta-lét",
+      "topic": "sr8_quadrilaterals",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Tứ giác đặc biệt; góc tứ giác; đường trung bình; Ta-lét và hình đồng dạng cơ bản."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tổng bốn góc tứ giác = 360°.",
+            "Hình bình hành: đối song song và bằng nhau.",
+            "Hình thang: một cặp cạnh đối song song.",
+            "Ta-lét: DE // BC ⇒ AD/DB = AE/EC."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr8_statistics",
+      "title": "Dữ liệu & Biểu đồ",
+      "topic": "sr8_statistics",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Bảng thống kê, biểu đồ; tỉ lệ phần trăm; đọc và phân tích dữ liệu."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tần số: số lần xuất hiện; tỉ lệ % = phần/tổng × 100.",
+            "Biểu đồ cột/đoạn: so sánh, xu hướng.",
+            "Biểu đồ tròn: tỉ lệ phần trăm.",
+            "Trung bình cộng = tổng giá trị : số phần tử."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr8_fractions",
+      "title": "Phân thức đại số",
+      "topic": "sr8_fractions",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Điều kiện xác định; rút gọn; cộng trừ phân thức; bài toán thực tế."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phân thức P(x)/Q(x): Q(x) ≠ 0.",
+            "Rút gọn: tách nhân tử, đặt ĐK.",
+            "a/b + c/d = (ad+bc)/(bd) với b,d ≠ 0.",
+            "Thời gian = quãng đường : vận tốc."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr8_linear",
+      "title": "Phương trình & Hàm bậc nhất",
+      "topic": "sr8_linear",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Giải PT bậc nhất; hàm số y=ax+b; bài toán vận tốc, tiền lương."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "PT bậc nhất ax+b=0 (a≠0): x = −b/a.",
+            "Hàm bậc nhất: y = ax + b (a≠0).",
+            "Hai đường song song ⇔ cùng hệ số góc a.",
+            "Giao điểm: giải hệ phương trình."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr8_prob_similarity",
+      "title": "Xác suất & Tam giác đồng dạng",
+      "topic": "sr8_prob_similarity",
+      "source": "Ôn hè Toán lớp 8 lên 9 — 10 buổi (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Xác suất; tam giác đồng dạng; Pythagore; bài toán bóng, hình khối."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "P(A) = số kết quả thuận lợi / tổng số kết quả đều có thể.",
+            "ΔA'B'C' ∽ ΔABC: tỉ số k = A'B'/AB.",
+            "Tam giác vuông: c² = a² + b² (Pythagore).",
+            "Bóng nắng: h/H = s/S (đồng dạng)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam8_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "subtitle": "HK1 Đề 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "sr8_polynomials"
+      ]
+    },
+    {
+      "id": "exam8_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "subtitle": "HK1 Đề 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_1"
+      ]
+    },
+    {
+      "id": "exam8_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "subtitle": "HK1 Đề 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_2"
+      ]
+    },
+    {
+      "id": "exam8_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "subtitle": "HK1 Đề 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_3"
+      ]
+    },
+    {
+      "id": "exam8_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "subtitle": "HK1 Đề 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_4"
+      ]
+    },
+    {
+      "id": "exam8_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "subtitle": "HK2 Đề 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_5"
+      ]
+    },
+    {
+      "id": "exam8_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "subtitle": "HK2 Đề 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_6"
+      ]
+    },
+    {
+      "id": "exam8_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "subtitle": "HK2 Đề 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_7"
+      ]
+    },
+    {
+      "id": "exam8_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "subtitle": "HK2 Đề 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_8"
+      ]
+    },
+    {
+      "id": "exam8_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "subtitle": "HK2 Đề 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam8_9"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr8_polynomials_q1",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "multiple_choice",
+      "question": "Biểu thức nào là đa thức nhưng không phải đơn thức?",
+      "choices": [
+        "9x²y",
+        "9x²y + 5xy",
+        "15",
+        "x²y⁵"
+      ],
+      "answer": "9x²y + 5xy",
+      "hint": "Có dấu + giữa hai hạng."
+    },
+    {
+      "id": "sr8_polynomials_q2",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "6xy² · (x² − 3y) = 6x³y² − 18xy³. Hệ số của x³y² = ?",
+      "answer": "6",
+      "hint": "6xy²·x² = 6x³y²."
+    },
+    {
+      "id": "sr8_polynomials_q3",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "(3/2)xy + 5xy − 6 tại x = −2, y = 1 = ?",
+      "answer": "-19",
+      "hint": "−3 − 10 − 6 = −19."
+    },
+    {
+      "id": "sr8_polynomials_q4",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "(x + 3)² = ? (dạng x²+ax+b, gõ x²+6x+9)",
+      "answer": "x²+6x+9",
+      "hint": "a²+2ab+b²."
+    },
+    {
+      "id": "sr8_polynomials_q5",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "Thu gọn: 4x²y − 3x²y + 3x²y − x²y = ? (dạng ax²y)",
+      "answer": "3x²y",
+      "hint": "4−3+3−1=3."
+    },
+    {
+      "id": "sr8_polynomials_q6",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "Phân tích: 5x − 25 = 5( ? ) (gõ x-5)",
+      "answer": "x-5",
+      "hint": "Đặt 5 chung."
+    },
+    {
+      "id": "sr8_polynomials_q7",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "Phân tích: x² − 9 = (x−3)( ? ) (gõ x+3)",
+      "answer": "x+3",
+      "hint": "a²−b²."
+    },
+    {
+      "id": "sr8_polynomials_q8",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "6x² − 72x = 0. Nghiệm dương = ?",
+      "answer": "12",
+      "hint": "6x(x−12)=0."
+    },
+    {
+      "id": "sr8_polynomials_q9",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "103² − 97² = ? (dùng a²−b²)",
+      "answer": "1200",
+      "hint": "(103−97)(103+97)=6×200."
+    },
+    {
+      "id": "sr8_polynomials_q10",
+      "skill": "sr8_polynomials",
+      "topic": "sr8_polynomials",
+      "type": "input",
+      "question": "(2x − 5)² tại x = 5,5 = ?",
+      "answer": "36",
+      "hint": "2×5,5−5=6 → 36."
+    },
+    {
+      "id": "sr8_quadrilaterals_q1",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Tổng bốn góc tứ giác = ? độ",
+      "answer": "360",
+      "hint": "Cơ bản lớp 8."
+    },
+    {
+      "id": "sr8_quadrilaterals_q2",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Tứ giác ABCD: A=110°, B=75°, D=75°. C = ?°",
+      "answer": "100",
+      "hint": "360−260=100."
+    },
+    {
+      "id": "sr8_quadrilaterals_q3",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "multiple_choice",
+      "question": "Hình nào luôn có hai cặp cạnh đối song song?",
+      "choices": [
+        "Hình thang cân",
+        "Hình bình hành",
+        "Hình thang thường",
+        "Hình thoi tùy ý"
+      ],
+      "answer": "Hình bình hành",
+      "hint": "Định nghĩa HBH."
+    },
+    {
+      "id": "sr8_quadrilaterals_q4",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Hình vuông có bao nhiêu trục đối xứng? (gõ 4)",
+      "answer": "4",
+      "hint": "4 trục đối xứng."
+    },
+    {
+      "id": "sr8_quadrilaterals_q5",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Tam giác ABC, M trung điểm AB, N trung điểm AC. MN = ? so với BC (gõ BC/2 hoac 0.5BC)",
+      "answer": "BC/2",
+      "hint": "Đường trung bình."
+    },
+    {
+      "id": "sr8_quadrilaterals_q6",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Hình thoi có góc nhọn bằng bao nhiêu độ nếu là hình vuông? (gõ 90)",
+      "answer": "90",
+      "hint": "Hình vuông là thoi đặc biệt."
+    },
+    {
+      "id": "sr8_quadrilaterals_q7",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "DE // BC, AD=2, DB=3. Tỉ số AE/EC = ? (dạng a/b)",
+      "answer": "2/3",
+      "hint": "Ta-lét."
+    },
+    {
+      "id": "sr8_quadrilaterals_q8",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Tam giác vuông: AB=3, AC=4. BC = ? cm",
+      "answer": "5",
+      "hint": "Pythagore: 5."
+    },
+    {
+      "id": "sr8_quadrilaterals_q9",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "multiple_choice",
+      "question": "Hình chóp tứ giác đều có đáy là?",
+      "choices": [
+        "Tam giác đều",
+        "Hình vuông",
+        "Hình chữ nhật",
+        "Hình thoi bất kỳ"
+      ],
+      "answer": "Hình vuông",
+      "hint": "Đáy vuông, cạnh bên bằng nhau."
+    },
+    {
+      "id": "sr8_quadrilaterals_q10",
+      "skill": "sr8_quadrilaterals",
+      "topic": "sr8_quadrilaterals",
+      "type": "input",
+      "question": "Chóp tam giác đều đáy 10 cm, cao mặt bên 20 cm. S_xq = ? cm²",
+      "answer": "300",
+      "hint": "3×(1/2×10×20)=300."
+    },
+    {
+      "id": "sr8_statistics_q1",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Điểm 6, 8, 9, 10, 12. Trung bình = ?",
+      "answer": "9",
+      "hint": "45/5=9."
+    },
+    {
+      "id": "sr8_statistics_q2",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Dãy 6, 8, 9, 10, 12. Khoảng biến thiên = ?",
+      "answer": "6",
+      "hint": "12−6=6."
+    },
+    {
+      "id": "sr8_statistics_q3",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Giảm 25% giá 125 000 → còn = ? nghìn (gõ 93.75)",
+      "answer": "93.75",
+      "hint": "×0,75."
+    },
+    {
+      "id": "sr8_statistics_q4",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Giảm 20% giá 300 000 → còn = ? nghìn (gõ 240)",
+      "answer": "240",
+      "hint": "×0,8."
+    },
+    {
+      "id": "sr8_statistics_q5",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Tủ sách: SGK 80, tham khảo 55, truyện 122, tạp chí 78. Tổng = ?",
+      "answer": "335",
+      "hint": "Cộng bốn loại."
+    },
+    {
+      "id": "sr8_statistics_q6",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Truyện 122/335 ≈ ? % (làm tròn 1 CS, gõ 36.4)",
+      "answer": "36.4",
+      "hint": "122:335×100."
+    },
+    {
+      "id": "sr8_statistics_q7",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "multiple_choice",
+      "question": "Biểu đồ phù hợp tỉ lệ nguồn thu ngân sách?",
+      "choices": [
+        "Biểu đồ cột",
+        "Biểu đồ tròn",
+        "Biểu đồ đoạn",
+        "Bảng tần số"
+      ],
+      "answer": "Biểu đồ tròn",
+      "hint": "Tròn cho %."
+    },
+    {
+      "id": "sr8_statistics_q8",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "multiple_choice",
+      "question": "Biểu đồ phù hợp kim ngạch qua các năm?",
+      "choices": [
+        "Biểu đồ tròn",
+        "Biểu đồ đoạn",
+        "Biểu đồ cột đơn",
+        "Bảng số liệu"
+      ],
+      "answer": "Biểu đồ đoạn",
+      "hint": "Xu hướng thời gian."
+    },
+    {
+      "id": "sr8_statistics_q9",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Lớp 8C đăng ký: bóng rổ 6+6=12, tổng 32 HS. P(bóng rổ) = ? (a/b rút gọn)",
+      "answer": "3/8",
+      "hint": "12/32=3/8."
+    },
+    {
+      "id": "sr8_statistics_q10",
+      "skill": "sr8_statistics",
+      "topic": "sr8_statistics",
+      "type": "input",
+      "question": "Nam 8+6+2+2=18, nữ 2+6+4+2=14, tổng 32. P(nam) = ? (a/b rút gọn)",
+      "answer": "9/16",
+      "hint": "18/32=9/16."
+    },
+    {
+      "id": "sr8_fractions_q1",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "multiple_choice",
+      "question": "Biểu thức KHÔNG phải phân thức?",
+      "choices": [
+        "x²y + y",
+        "3xy/(2z)",
+        "x/2",
+        "(a+b)/(a−b)"
+      ],
+      "answer": "x²y + y",
+      "hint": "Tổng, không dạng A/B."
+    },
+    {
+      "id": "sr8_fractions_q2",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "(x+y)/(x²−y²) rút gọn = ? (dạng 1/(x-y) hoặc 1/(y-x))",
+      "answer": "1/(x-y)",
+      "hint": "x²−y²=(x−y)(x+y)."
+    },
+    {
+      "id": "sr8_fractions_q3",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "(x−21)/(2x+2023). Mẫu ≠ 0 khi 2x+2023 ≠ 0. x ≠ ? (gõ -1011.5)",
+      "answer": "-1011.5",
+      "hint": "2x=−2023."
+    },
+    {
+      "id": "sr8_fractions_q4",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "(x²−4)/(x+2) rút gọn (x≠−2) = ? (gõ x-2)",
+      "answer": "x-2",
+      "hint": "Tử = (x−2)(x+2)."
+    },
+    {
+      "id": "sr8_fractions_q5",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "1/x + 1/y = ? (dạng (x+y)/(xy))",
+      "answer": "(x+y)/(xy)",
+      "hint": "QS mẫu xy."
+    },
+    {
+      "id": "sr8_fractions_q6",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "Đi 6 km lên dốc với v km/h. Thời gian = ? (dạng 6/v)",
+      "answer": "6/v",
+      "hint": "t = s/v."
+    },
+    {
+      "id": "sr8_fractions_q7",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "Đi 4 km xuống dốc gấp đôi v. Thời gian = ? (dạng 2/v)",
+      "answer": "2/v",
+      "hint": "2v km/h → 4/(2v)."
+    },
+    {
+      "id": "sr8_fractions_q8",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "6/v + 2/v = 8/3 giờ. v = ? km/h",
+      "answer": "3",
+      "hint": "8/v=8/3 → v=3."
+    },
+    {
+      "id": "sr8_fractions_q9",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "90/x ngày hoàn thành 90 sp/ngày x. x=15 thì = ? ngày",
+      "answer": "6",
+      "hint": "90/15=6."
+    },
+    {
+      "id": "sr8_fractions_q10",
+      "skill": "sr8_fractions",
+      "topic": "sr8_fractions",
+      "type": "input",
+      "question": "Thực tế x+5 sp/ngày, sớm 3 ngày: 90/(x+5)=90/x−3. x = ? (gõ 10)",
+      "answer": "10",
+      "hint": "Giải PT phân thức."
+    },
+    {
+      "id": "sr8_linear_q1",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "multiple_choice",
+      "question": "Hàm số bậc nhất?",
+      "choices": [
+        "y = −2x + 3",
+        "y = 3x²",
+        "y = x³",
+        "y = 3"
+      ],
+      "answer": "y = −2x + 3",
+      "hint": "Dạng ax+b, a≠0."
+    },
+    {
+      "id": "sr8_linear_q2",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "y = x − 3. a = ?, b = ? (gõ 1,-3)",
+      "answer": "1,-3",
+      "hint": "a=1, b=−3."
+    },
+    {
+      "id": "sr8_linear_q3",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "2x + 9 = 3 − x. x = ?",
+      "answer": "-2",
+      "hint": "3x=−6."
+    },
+    {
+      "id": "sr8_linear_q4",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "2x − (3 − 5x) = 4(x + 3). x = ?",
+      "answer": "5",
+      "hint": "7x−3=4x+12."
+    },
+    {
+      "id": "sr8_linear_q5",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "y=(m−1)x+2 // y=x+4. m = ?",
+      "answer": "2",
+      "hint": "m−1=1."
+    },
+    {
+      "id": "sr8_linear_q6",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "Hệ số góc đường thẳng y=2024−2x = ? (gõ -2)",
+      "answer": "-2",
+      "hint": "a=−2."
+    },
+    {
+      "id": "sr8_linear_q7",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "C(x)=70x+300 (nghìn). x=6 tháng → C = ? nghìn",
+      "answer": "720",
+      "hint": "420+300."
+    },
+    {
+      "id": "sr8_linear_q8",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "C=930 nghìn → 70x+300=930 → x = ? tháng",
+      "answer": "9",
+      "hint": "70x=630."
+    },
+    {
+      "id": "sr8_linear_q9",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "T=(11/8)R+150 (nghìn). R=28 → T = ? nghìn (gõ 188.5)",
+      "answer": "188.5",
+      "hint": "38,5+150=188,5."
+    },
+    {
+      "id": "sr8_linear_q10",
+      "skill": "sr8_linear",
+      "topic": "sr8_linear",
+      "type": "input",
+      "question": "180 km, gặp sau 2,4h, v_A=2v_B. v_B = ? km/h",
+      "answer": "25",
+      "hint": "2,4(2v+v)=180 → v=25."
+    },
+    {
+      "id": "sr8_prob_similarity_q1",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "Lớp 8C: 30 HS, 3 sinh tháng 8. P(tháng 8) = ? (a/b rút gọn)",
+      "answer": "1/10",
+      "hint": "3/30=1/10."
+    },
+    {
+      "id": "sr8_prob_similarity_q2",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "102 quả cầu: 25 đỏ, 40 tím, 12 vàng, 10 trắng, 15 đen. P(đỏ) = ? (a/b)",
+      "answer": "25/102",
+      "hint": "25/102."
+    },
+    {
+      "id": "sr8_prob_similarity_q3",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "P(tím hoặc vàng) = ? (a/b rút gọn)",
+      "answer": "26/51",
+      "hint": "52/102=26/51."
+    },
+    {
+      "id": "sr8_prob_similarity_q4",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "P(không đen) = ? (a/b rút gọn)",
+      "answer": "29/34",
+      "hint": "87/102=29/34."
+    },
+    {
+      "id": "sr8_prob_similarity_q5",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "Tam giác vuông AB=9, AC=12. BC = ? cm",
+      "answer": "15",
+      "hint": "9²+12²=225, BC=15."
+    },
+    {
+      "id": "sr8_prob_similarity_q6",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "Cột cờ bóng 25 m, cọc 1,8 m bóng 2,5 m. Cao cột = ? m",
+      "answer": "18",
+      "hint": "h/25=1,8/2,5."
+    },
+    {
+      "id": "sr8_prob_similarity_q7",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "Cây bóng 9 m, cọc 1,2 m bóng 0,6 m. Cao cây = ? m",
+      "answer": "18",
+      "hint": "h/9=1,2/0,6."
+    },
+    {
+      "id": "sr8_prob_similarity_q8",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "ΔABC ∽ ΔA'B'C' tỉ số k=2. AB=5 → A'B' = ?",
+      "answer": "10",
+      "hint": "Nhân k."
+    },
+    {
+      "id": "sr8_prob_similarity_q9",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "input",
+      "question": "Gieo 2 xúc xắc. P(tổng ≥ 10) = ? (a/b rút gọn)",
+      "answer": "1/6",
+      "hint": "6 cách/36."
+    },
+    {
+      "id": "sr8_prob_similarity_q10",
+      "skill": "sr8_prob_similarity",
+      "topic": "sr8_prob_similarity",
+      "type": "multiple_choice",
+      "question": "Tam giác vuông, AH cao. ΔABC ∽ ΔHBA vì?",
+      "choices": [
+        "Cạnh-góc-cạnh",
+        "Góc-góc",
+        "Cạnh-cạnh-cạnh",
+        "Hai cạnh góc vuông"
+      ],
+      "answer": "Góc-góc",
+      "hint": "Chung góc B, góc vuông."
+    },
+    {
+      "id": "exam8_1_q1",
+      "skill": "exam8_1",
+      "exam": "exam8_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Đa thức nhưng không phải đơn thức?",
+      "choices": [
+        "9x²y",
+        "9x²y + 5xy",
+        "15",
+        "x²y⁵"
+      ],
+      "answer": "9x²y + 5xy",
+      "hint": "Có dấu cộng."
+    },
+    {
+      "id": "exam8_1_q2",
+      "skill": "exam8_1",
+      "exam": "exam8_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — 6xy²·(2x²−3y) = ?",
+      "choices": [
+        "12x³y − 18xy²",
+        "12x³y + 18xy²",
+        "12x²y − 18xy²",
+        "6x³y² − 18xy³"
+      ],
+      "answer": "12x³y − 18xy²",
+      "hint": "6·x³y − 18xy²."
+    },
+    {
+      "id": "exam8_1_q3",
+      "skill": "exam8_1",
+      "exam": "exam8_1",
+      "type": "input",
+      "question": "Đề 1 — (x+3)² = ? (x²+ax+b)",
+      "answer": "x²+6x+9",
+      "hint": "HĐT bình phương."
+    },
+    {
+      "id": "exam8_1_q4",
+      "skill": "exam8_1",
+      "exam": "exam8_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — (x+y)/(x²−y²) = ?",
+      "choices": [
+        "1/(y−x)",
+        "1/(x−y)",
+        "1/(x+y)",
+        "x−y"
+      ],
+      "answer": "1/(x−y)",
+      "hint": "Rút gọn mẫu."
+    },
+    {
+      "id": "exam8_1_q5",
+      "skill": "exam8_1",
+      "exam": "exam8_1",
+      "type": "input",
+      "question": "Đề 1 — Tứ giác A=110°, B=75°, D=75°. C = ?°",
+      "answer": "100",
+      "hint": "360−260."
+    },
+    {
+      "id": "exam8_2_q1",
+      "skill": "exam8_2",
+      "exam": "exam8_2",
+      "type": "input",
+      "question": "Đề 2 — Phân tích: x² − 16 = (x−4)( ? )",
+      "answer": "x+4",
+      "hint": "a²−b²."
+    },
+    {
+      "id": "exam8_2_q2",
+      "skill": "exam8_2",
+      "exam": "exam8_2",
+      "type": "input",
+      "question": "Đề 2 — Phân tích: x² − y² = (x−y)( ? )",
+      "answer": "x+y",
+      "hint": "Hiệu hai bình phương."
+    },
+    {
+      "id": "exam8_2_q3",
+      "skill": "exam8_2",
+      "exam": "exam8_2",
+      "type": "input",
+      "question": "Đề 2 — 2x+9=3−x. x = ?",
+      "answer": "-2",
+      "hint": "3x=−6."
+    },
+    {
+      "id": "exam8_2_q4",
+      "skill": "exam8_2",
+      "exam": "exam8_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Khẳng định SAI về số đối?",
+      "choices": [
+        "−1/3 và 1/3 là đối nhau",
+        "Đối của 5/7 là −5/7",
+        "2/3 và −2/3 đối nhau",
+        "Đối của 2/7 là −2/7"
+      ],
+      "answer": "−1/3 và 1/3 là đối nhau",
+      "hint": "1/3 và −1/3 mới đối nhau."
+    },
+    {
+      "id": "exam8_2_q5",
+      "skill": "exam8_2",
+      "exam": "exam8_2",
+      "type": "input",
+      "question": "Đề 2 — HCN 6×7×8 cm. V = ? cm³",
+      "answer": "336",
+      "hint": "6×7×8."
+    },
+    {
+      "id": "exam8_3_q1",
+      "skill": "exam8_3",
+      "exam": "exam8_3",
+      "type": "input",
+      "question": "Đề 3 — (3/2)xy+5xy−6, x=−2,y=1 = ?",
+      "answer": "-19",
+      "hint": "−3−10−6."
+    },
+    {
+      "id": "exam8_3_q2",
+      "skill": "exam8_3",
+      "exam": "exam8_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Hình chóp tứ giác đều đúng?",
+      "choices": [
+        "Mặt bên tam giác đều",
+        "Tất cả cạnh bằng nhau",
+        "Cạnh bên bằng nhau, đáy vuông",
+        "Mặt bên tam giác vuông"
+      ],
+      "answer": "Cạnh bên bằng nhau, đáy vuông",
+      "hint": "Định nghĩa chóp tứ giác đều."
+    },
+    {
+      "id": "exam8_3_q3",
+      "skill": "exam8_3",
+      "exam": "exam8_3",
+      "type": "input",
+      "question": "Đề 3 — Chóp tam giác đều: đáy 10, cao mặt bên 20. S_xq = ? cm²",
+      "answer": "300",
+      "hint": "3×100."
+    },
+    {
+      "id": "exam8_3_q4",
+      "skill": "exam8_3",
+      "exam": "exam8_3",
+      "type": "input",
+      "question": "Đề 3 — 6x²−72x=0. x = ? (nghiệm lớn hơn)",
+      "answer": "12",
+      "hint": "x=0 hoặc 12."
+    },
+    {
+      "id": "exam8_3_q5",
+      "skill": "exam8_3",
+      "exam": "exam8_3",
+      "type": "input",
+      "question": "Đề 3 — (x−21)/(2x+2023). ĐK: x ≠ ?",
+      "answer": "-1011.5",
+      "hint": "2x+2023≠0."
+    },
+    {
+      "id": "exam8_4_q1",
+      "skill": "exam8_4",
+      "exam": "exam8_4",
+      "type": "input",
+      "question": "Đề 4 — 103²−97² = ?",
+      "answer": "1200",
+      "hint": "a²−b²."
+    },
+    {
+      "id": "exam8_4_q2",
+      "skill": "exam8_4",
+      "exam": "exam8_4",
+      "type": "input",
+      "question": "Đề 4 — x²−9=0. x dương = ?",
+      "answer": "3",
+      "hint": "x=±3."
+    },
+    {
+      "id": "exam8_4_q3",
+      "skill": "exam8_4",
+      "exam": "exam8_4",
+      "type": "input",
+      "question": "Đề 4 — Giảm 25% giá 125000 → ? nghìn",
+      "answer": "93.75",
+      "hint": "×0,75."
+    },
+    {
+      "id": "exam8_4_q4",
+      "skill": "exam8_4",
+      "exam": "exam8_4",
+      "type": "input",
+      "question": "Đề 4 — Tổng 4 góc tứ giác = ?°",
+      "answer": "360",
+      "hint": "Định lý."
+    },
+    {
+      "id": "exam8_4_q5",
+      "skill": "exam8_4",
+      "exam": "exam8_4",
+      "type": "input",
+      "question": "Đề 4 — Tam giác 3-4-5. Cạnh huyền = ?",
+      "answer": "5",
+      "hint": "Pythagore."
+    },
+    {
+      "id": "exam8_5_q1",
+      "skill": "exam8_5",
+      "exam": "exam8_5",
+      "type": "input",
+      "question": "Đề 5 — 2x−(3−5x)=4(x+3). x = ?",
+      "answer": "5",
+      "hint": "7x−3=4x+12."
+    },
+    {
+      "id": "exam8_5_q2",
+      "skill": "exam8_5",
+      "exam": "exam8_5",
+      "type": "input",
+      "question": "Đề 5 — y=(m−1)x+2 // y=x+4. m = ?",
+      "answer": "2",
+      "hint": "m−1=1."
+    },
+    {
+      "id": "exam8_5_q3",
+      "skill": "exam8_5",
+      "exam": "exam8_5",
+      "type": "input",
+      "question": "Đề 5 — 90/x=90/(x+5)+3. x = ? (kế hoạch sp/ngày)",
+      "answer": "10",
+      "hint": "PT phân thức."
+    },
+    {
+      "id": "exam8_5_q4",
+      "skill": "exam8_5",
+      "exam": "exam8_5",
+      "type": "input",
+      "question": "Đề 5 — Cột bóng 25m, cọc 1,8m bóng 2,5m. Cao cột = ? m",
+      "answer": "18",
+      "hint": "Đồng dạng."
+    },
+    {
+      "id": "exam8_5_q5",
+      "skill": "exam8_5",
+      "exam": "exam8_5",
+      "type": "input",
+      "question": "Đề 5 — P(gieo xúc xắc, số chẵn) = ? (a/b)",
+      "answer": "1/2",
+      "hint": "3/6."
+    },
+    {
+      "id": "exam8_6_q1",
+      "skill": "exam8_6",
+      "exam": "exam8_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — Hàm số bậc nhất?",
+      "choices": [
+        "y = −2x + 3",
+        "y = 3x²",
+        "y = x³",
+        "y = 3"
+      ],
+      "answer": "y = −2x + 3",
+      "hint": "ax+b, a≠0."
+    },
+    {
+      "id": "exam8_6_q2",
+      "skill": "exam8_6",
+      "exam": "exam8_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — y = x − 3. a, b = ?",
+      "choices": [
+        "0, 3",
+        "1, 3",
+        "0, −3",
+        "1, −3"
+      ],
+      "answer": "1, −3",
+      "hint": "y=1·x+(−3)."
+    },
+    {
+      "id": "exam8_6_q3",
+      "skill": "exam8_6",
+      "exam": "exam8_6",
+      "type": "input",
+      "question": "Đề 6 — 2x+9=3−x. x = ?",
+      "answer": "-2",
+      "hint": "x=−2."
+    },
+    {
+      "id": "exam8_6_q4",
+      "skill": "exam8_6",
+      "exam": "exam8_6",
+      "type": "input",
+      "question": "Đề 6 — Hệ số góc y=2024−2x = ?",
+      "answer": "-2",
+      "hint": "a=−2."
+    },
+    {
+      "id": "exam8_6_q5",
+      "skill": "exam8_6",
+      "exam": "exam8_6",
+      "type": "input",
+      "question": "Đề 6 — Tam giác vuông AB=9, AC=12. BC = ? cm",
+      "answer": "15",
+      "hint": "15 cm."
+    },
+    {
+      "id": "exam8_7_q1",
+      "skill": "exam8_7",
+      "exam": "exam8_7",
+      "type": "input",
+      "question": "Đề 7 — 4(x+3)=−7x+17. x = ? (dạng phân số a/b)",
+      "answer": "5/11",
+      "hint": "11x=5."
+    },
+    {
+      "id": "exam8_7_q2",
+      "skill": "exam8_7",
+      "exam": "exam8_7",
+      "type": "input",
+      "question": "Đề 7 — C(x)=70x+300, x=6 → ? nghìn",
+      "answer": "720",
+      "hint": "420+300."
+    },
+    {
+      "id": "exam8_7_q3",
+      "skill": "exam8_7",
+      "exam": "exam8_7",
+      "type": "input",
+      "question": "Đề 7 — 180 km, 2,4h, v_A=2v_B. v_B = ? km/h",
+      "answer": "25",
+      "hint": "7,2v=180."
+    },
+    {
+      "id": "exam8_7_q4",
+      "skill": "exam8_7",
+      "exam": "exam8_7",
+      "type": "input",
+      "question": "Đề 7 — ΔABC vuông A, AB=9, AC=12. BC = ? cm",
+      "answer": "15",
+      "hint": "Pythagore."
+    },
+    {
+      "id": "exam8_7_q5",
+      "skill": "exam8_7",
+      "exam": "exam8_7",
+      "type": "input",
+      "question": "Đề 7 — Lớp 8C 30 HS, P(sinh tháng 8)=1/10. Số bạn tháng 8 = ?",
+      "answer": "3",
+      "hint": "30×1/10=3."
+    },
+    {
+      "id": "exam8_8_q1",
+      "skill": "exam8_8",
+      "exam": "exam8_8",
+      "type": "input",
+      "question": "Đề 8 — (2x−5)² tại x=5,5 = ?",
+      "answer": "36",
+      "hint": "(6)²."
+    },
+    {
+      "id": "exam8_8_q2",
+      "skill": "exam8_8",
+      "exam": "exam8_8",
+      "type": "input",
+      "question": "Đề 8 — Phân tích x²−16 = (x−4)( ? )",
+      "answer": "x+4",
+      "hint": "a²−b²."
+    },
+    {
+      "id": "exam8_8_q3",
+      "skill": "exam8_8",
+      "exam": "exam8_8",
+      "type": "input",
+      "question": "Đề 8 — 5x−25 = 5( ? )",
+      "answer": "x-5",
+      "hint": "Đặt 5."
+    },
+    {
+      "id": "exam8_8_q4",
+      "skill": "exam8_8",
+      "exam": "exam8_8",
+      "type": "input",
+      "question": "Đề 8 — P(2 xúc xắc, tổng chia 3) = ? (a/b)",
+      "answer": "1/3",
+      "hint": "12/36."
+    },
+    {
+      "id": "exam8_8_q5",
+      "skill": "exam8_8",
+      "exam": "exam8_8",
+      "type": "input",
+      "question": "Đề 8 — HCN 22×16×18. V = ? cm³",
+      "answer": "6336",
+      "hint": "Tích ba cạnh."
+    },
+    {
+      "id": "exam8_9_q1",
+      "skill": "exam8_9",
+      "exam": "exam8_9",
+      "type": "input",
+      "question": "Đề 9 — 2x−(3−5x)=4(x+3). x = ?",
+      "answer": "5",
+      "hint": "x=5."
+    },
+    {
+      "id": "exam8_9_q2",
+      "skill": "exam8_9",
+      "exam": "exam8_9",
+      "type": "input",
+      "question": "Đề 9 — (x+y)/(x²−y²) = 1/( ? )",
+      "answer": "x-y",
+      "hint": "Rút gọn."
+    },
+    {
+      "id": "exam8_9_q3",
+      "skill": "exam8_9",
+      "exam": "exam8_9",
+      "type": "input",
+      "question": "Đề 9 — Cây bóng 9m, cọc 1,2m bóng 0,6m. Cao cây = ? m",
+      "answer": "18",
+      "hint": "Tỉ lệ 2:1."
+    },
+    {
+      "id": "exam8_9_q4",
+      "skill": "exam8_9",
+      "exam": "exam8_9",
+      "type": "input",
+      "question": "Đề 9 — 102 quả, 25 đỏ. P(đỏ) = ? (a/b rút gọn)",
+      "answer": "25/102",
+      "hint": "25/102."
+    },
+    {
+      "id": "exam8_9_q5",
+      "skill": "exam8_9",
+      "exam": "exam8_9",
+      "type": "input",
+      "question": "Đề 9 — Tứ giác A=110,B=75,D=75. C = ?°",
+      "answer": "100",
+      "hint": "100°."
+    },
+    {
+      "id": "exam8_10_q1",
+      "skill": "exam8_10",
+      "exam": "exam8_10",
+      "type": "input",
+      "question": "Đề 10 — y=(m+1)x+1 // y=−x+2. m = ?",
+      "answer": "-2",
+      "hint": "m+1=−1."
+    },
+    {
+      "id": "exam8_10_q2",
+      "skill": "exam8_10",
+      "exam": "exam8_10",
+      "type": "input",
+      "question": "Đề 10 — 300000+5000t=2000000. t = ? ngày",
+      "answer": "340",
+      "hint": "5000t=1700000."
+    },
+    {
+      "id": "exam8_10_q3",
+      "skill": "exam8_10",
+      "exam": "exam8_10",
+      "type": "input",
+      "question": "Đề 10 — ΔABC ∽ tỉ số 3, AB=4 → A'B' = ?",
+      "answer": "12",
+      "hint": "4×3."
+    },
+    {
+      "id": "exam8_10_q4",
+      "skill": "exam8_10",
+      "exam": "exam8_10",
+      "type": "input",
+      "question": "Đề 10 — Gieo 2 xúc xắc P(tổng=7) = ? (a/b)",
+      "answer": "1/6",
+      "hint": "6/36."
+    },
+    {
+      "id": "exam8_10_q5",
+      "skill": "exam8_10",
+      "exam": "exam8_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — Biểu thức không phải phân thức?",
+      "choices": [
+        "x/2",
+        "3xy/(2z)",
+        "(a+b)/(a−b)",
+        "x² + y"
+      ],
+      "answer": "x² + y",
+      "hint": "Không dạng tử/mẫu."
+    }
+  ]
+}

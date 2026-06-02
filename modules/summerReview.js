@@ -129,6 +129,9 @@ export function createSummerReviewModule(ctx) {
   }
 
   function examTags(packId) {
+    if (packId === "g8-g9") {
+      return ["Đa thức", "Tứ giác", "Phân thức", "Hàm số", "Xác suất"];
+    }
     if (packId === "g7-g8") {
       return ["Hữu tỉ", "Hình học", "Thống kê", "Tỉ lệ", "Xác suất"];
     }
