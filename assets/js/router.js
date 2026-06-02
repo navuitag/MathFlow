@@ -23,6 +23,7 @@ import { renderMemoryPanel } from "../../components/memoryPanel.js";
 import { showModal } from "../../components/modal.js";
 import { renderVisualization, bindVisualizations } from "../../modules/visualization.js";
 import { createPracticeModule } from "../../modules/practiceModes.js";
+import { createSummerReviewModule } from "../../modules/summerReview.js";
 import { completeLesson } from "../../modules/lessonEngine.js";
 import { submitAnswer } from "../../modules/quizEngine.js";
 import { getGamificationSummary } from "../../modules/gamification.js";
@@ -37,6 +38,7 @@ let data = {
 };
 
 let practice;
+let summerReview;
 
 export function configureRouter(appData) {
   data = appData;
@@ -57,6 +59,13 @@ export function configureRouter(appData) {
     notFound,
     handleAnswer
   });
+  summerReview = createSummerReviewModule({
+    data,
+    getState,
+    renderRoute,
+    notFound,
+    escapeHtml
+  });
   window.addEventListener("hashchange", renderRoute);
 }
 
@@ -69,6 +78,7 @@ export function renderRoute() {
   const sub = parts[2];
 
   practice?.resetOnLeavePractice(route);
+  summerReview?.resetOnLeave(route);
 
   if (!state.onboarded) {
     render(renderOnboarding(state));
@@ -107,6 +117,27 @@ export function renderRoute() {
   } else if (route === "skills") {
     content = renderSkills(state);
     after = bindSkills;
+  } else if (route === "summer") {
+    const kind = parts[1];
+    const entityId = parts[2];
+    const action = parts[3];
+    if (kind === "topic" && entityId) {
+      if (action === "play") {
+        content = summerReview.renderTopicPlay(entityId, state);
+        after = () => summerReview.bindPlayQuiz();
+      } else {
+        content = summerReview.renderTopicLesson(entityId, state);
+      }
+    } else if (kind === "exam" && entityId) {
+      if (action === "play") {
+        content = summerReview.renderExamPlay(entityId, state);
+        after = () => summerReview.bindPlayQuiz();
+      } else {
+        content = summerReview.renderExamIntro(entityId, state);
+      }
+    } else {
+      content = summerReview.renderHub(state);
+    }
   } else if (route === "review") {
     content = renderErrors(state);
   } else if (route === "profile") {
@@ -211,8 +242,18 @@ function renderHome(state) {
   const nextSkill = gradeSkills.find((skill) => !state.completedLessons.includes(skill.id)) || gradeSkills[0] || data.skills[0];
   const questPercent = Math.round((state.dailyQuest.progress / state.dailyQuest.target) * 100);
   const weakSkill = getWeakSkills(state)[0];
+  const sr = state.summerReview || {};
+  const srTopics = sr.completedTopics?.length || 0;
 
   return `
+    <section class="summer-banner">
+      <div>
+        <span class="tag">Ôn hè · Lớp 1 → 2</span>
+        <h2>Luyện Toán tương tác — 7 chủ đề & 23 đề</h2>
+        <p>Game hóa với sao, combo XP và lộ trình mở khóa. ${srTopics > 0 ? `Đã hoàn thành ${srTopics}/7 chủ đề.` : "Bắt đầu hành trình ôn hè ngay!"}</p>
+      </div>
+      <a class="btn primary" href="#/summer">Vào ôn hè ☀️</a>
+    </section>
     <section class="hero-panel">
       <div>
         <span class="eyebrow">Lộ trình hôm nay · ${escapeHtml(state.user.name)} · Lớp ${activeGrade}</span>

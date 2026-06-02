@@ -1,0 +1,2183 @@
+{
+  "meta": {
+    "id": "summer_g1_g2",
+    "title": "Ôn hè Toán lớp 1 → lớp 2",
+    "subtitle": "7 chủ đề tương tác + 23 đề tổng hợp",
+    "gradeFrom": 1,
+    "gradeTo": 2,
+    "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr_numbers",
+      "order": 1,
+      "title": "Số và dãy số",
+      "emoji": "🔢",
+      "description": "Đọc, viết, đếm số 0–100; số liền trước/sau; dãy số.",
+      "prerequisite": [],
+      "xp": 40
+    },
+    {
+      "id": "sr_add_sub",
+      "order": 2,
+      "title": "Cộng trừ trong phạm vi 100",
+      "emoji": "➕",
+      "description": "Cộng, trừ không nhớ; tính nhẩm và đặt tính.",
+      "prerequisite": [
+        "sr_numbers"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr_compare",
+      "order": 3,
+      "title": "So sánh",
+      "emoji": "⚖️",
+      "description": "Dấu >, <, =; so sánh số và biểu thức.",
+      "prerequisite": [
+        "sr_add_sub"
+      ],
+      "xp": 40
+    },
+    {
+      "id": "sr_word",
+      "order": 4,
+      "title": "Toán có lời văn",
+      "emoji": "📖",
+      "description": "Tính tổng, hiệu; bài toán thực tế và tuổi.",
+      "prerequisite": [
+        "sr_compare"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr_time",
+      "order": 5,
+      "title": "Thời gian",
+      "emoji": "🕐",
+      "description": "Đọc giờ, thứ trong tuần, lịch.",
+      "prerequisite": [
+        "sr_word"
+      ],
+      "xp": 40
+    },
+    {
+      "id": "sr_geometry",
+      "order": 6,
+      "title": "Hình học",
+      "emoji": "📐",
+      "description": "Hình vuông, tròn, tam giác; đo cm; đếm hình.",
+      "prerequisite": [
+        "sr_time"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr_logic",
+      "order": 7,
+      "title": "Toán tư duy",
+      "emoji": "🧩",
+      "description": "Dãy số, tính liên tiếp, bài toán suy luận.",
+      "prerequisite": [
+        "sr_geometry"
+      ],
+      "xp": 50
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr_numbers",
+      "title": "Số và dãy số",
+      "topic": "sr_numbers",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 40,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đọc, viết, đếm số 0–100; số liền trước/sau; dãy số."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Số 1 chữ số: 0–9; số tròn chục: 10, 20, …, 90.",
+            "Số bé nhất có 2 chữ số là 10; lớn nhất là 99.",
+            "Số chẵn có hàng đơn vị 0, 2, 4, 6, 8; số lẻ có 1, 3, 5, 7, 9.",
+            "10 đơn vị = 1 chục; số liền trước/sau cách nhau 1 đơn vị."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_add_sub",
+      "title": "Cộng trừ trong phạm vi 100",
+      "topic": "sr_add_sub",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Cộng, trừ không nhớ; tính nhẩm và đặt tính."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Cộng 2 chữ số + 1 chữ số: cộng hàng đơn vị trước.",
+            "Cộng 2 chữ số + 2 chữ số: cộng đơn vị với đơn vị, chục với chục.",
+            "Trừ: trừ hàng đơn vị trước, rồi hàng chục.",
+            "Cộng/trừ có đơn vị cm: giữ nguyên đơn vị cm."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_compare",
+      "title": "So sánh",
+      "topic": "sr_compare",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 40,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Dấu >, <, =; so sánh số và biểu thức."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "9 > 5: chín lớn hơn năm; 6 < 8: sáu bé hơn tám.",
+            "So sánh số 2 chữ số: so hàng chục trước, rồi hàng đơn vị.",
+            "25 > 19 vì 2 chục > 1 chục; 25 < 29 vì chục bằng nhau, 5 < 9.",
+            "Có thể so sánh biểu thức: 88 - 45 và 63 - 20."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_word",
+      "title": "Toán có lời văn",
+      "topic": "sr_word",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Tính tổng, hiệu; bài toán thực tế và tuổi."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Thêm vào → phép cộng; bớt đi → phép trừ.",
+            "Tính tổng: gộp hai số lượng. Tìm còn lại: trừ đi phần đã dùng.",
+            "Toán tuổi: cách đây n năm → trừ n; n năm nữa → cộng n.",
+            "Luôn ghi đáp số kèm đơn vị (quả, con, tuổi…)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_time",
+      "title": "Thời gian",
+      "topic": "sr_time",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 40,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đọc giờ, thứ trong tuần, lịch."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Kim ngắn chỉ giờ, kim dài chỉ phút. Giờ đúng: kim dài ở số 12.",
+            "1 tuần = 7 ngày: Thứ 2 → Chủ nhật.",
+            "Hôm qua = hôm nay - 1 ngày; ngày mai = hôm nay + 1 ngày.",
+            "1 tuần lễ = 7 ngày."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_geometry",
+      "title": "Hình học",
+      "topic": "sr_geometry",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Hình vuông, tròn, tam giác; đo cm; đếm hình."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Hình vuông: 4 cạnh bằng nhau; hình tròn: không góc.",
+            "Hình tam giác: 3 cạnh; đoạn thẳng AB nối 2 điểm A và B.",
+            "Đo độ dài bằng thước có đơn vị cm.",
+            "Điểm M ở trong hình: nằm bên trong; ở ngoài: nằm bên ngoài."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr_logic",
+      "title": "Toán tư duy",
+      "topic": "sr_logic",
+      "source": "Chuyên đề Ôn hè Toán lớp 1 - lên 2 (nội dung tương tác tự biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Dãy số, tính liên tiếp, bài toán suy luận."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Dãy cách 2: 10, 12, 14, 16… (cộng 2).",
+            "Dãy cách 3: 3, 6, 9, 12… (cộng 3).",
+            "Tính nhiều bước: làm từ trái sang phải trừ khi có ngoặc.",
+            "Số thay cho dấu ?: tìm số sao cho phép tính đúng."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "sr_numbers"
+      ]
+    },
+    {
+      "id": "exam_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_1"
+      ]
+    },
+    {
+      "id": "exam_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_2"
+      ]
+    },
+    {
+      "id": "exam_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_3"
+      ]
+    },
+    {
+      "id": "exam_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_4"
+      ]
+    },
+    {
+      "id": "exam_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_5"
+      ]
+    },
+    {
+      "id": "exam_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_6"
+      ]
+    },
+    {
+      "id": "exam_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_7"
+      ]
+    },
+    {
+      "id": "exam_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_8"
+      ]
+    },
+    {
+      "id": "exam_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_9"
+      ]
+    },
+    {
+      "id": "exam_11",
+      "order": 11,
+      "title": "Đề ôn số 11",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_10"
+      ]
+    },
+    {
+      "id": "exam_12",
+      "order": 12,
+      "title": "Đề ôn số 12",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_11"
+      ]
+    },
+    {
+      "id": "exam_13",
+      "order": 13,
+      "title": "Đề ôn số 13",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_12"
+      ]
+    },
+    {
+      "id": "exam_14",
+      "order": 14,
+      "title": "Đề ôn số 14",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_13"
+      ]
+    },
+    {
+      "id": "exam_15",
+      "order": 15,
+      "title": "Đề ôn số 15",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_14"
+      ]
+    },
+    {
+      "id": "exam_16",
+      "order": 16,
+      "title": "Đề ôn số 16",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_15"
+      ]
+    },
+    {
+      "id": "exam_17",
+      "order": 17,
+      "title": "Đề ôn số 17",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_16"
+      ]
+    },
+    {
+      "id": "exam_18",
+      "order": 18,
+      "title": "Đề ôn số 18",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_17"
+      ]
+    },
+    {
+      "id": "exam_19",
+      "order": 19,
+      "title": "Đề ôn số 19",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_18"
+      ]
+    },
+    {
+      "id": "exam_20",
+      "order": 20,
+      "title": "Đề ôn số 20",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_19"
+      ]
+    },
+    {
+      "id": "exam_21",
+      "order": 21,
+      "title": "Đề ôn số 21",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_20"
+      ]
+    },
+    {
+      "id": "exam_22",
+      "order": 22,
+      "title": "Đề ôn số 22",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_21"
+      ]
+    },
+    {
+      "id": "exam_23",
+      "order": 23,
+      "title": "Đề ôn số 23",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam_22"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr_numbers_q1",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "input",
+      "question": "Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị = 78."
+    },
+    {
+      "id": "sr_numbers_q2",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "input",
+      "question": "Viết số: năm mươi tư.",
+      "answer": "54",
+      "hint": "5 chục 4 đơn vị = 54."
+    },
+    {
+      "id": "sr_numbers_q3",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "multiple_choice",
+      "question": "Số liền sau của 89 là?",
+      "choices": "89 + 1 = 90.",
+      "answer": [
+        "90",
+        "88",
+        "91",
+        "80"
+      ],
+      "hint": "90"
+    },
+    {
+      "id": "sr_numbers_q4",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "multiple_choice",
+      "question": "Số nào là số tròn chục?",
+      "choices": "30 = 3 chục, hàng đơn vị là 0.",
+      "answer": [
+        "30",
+        "33",
+        "35",
+        "38"
+      ],
+      "hint": "30"
+    },
+    {
+      "id": "sr_numbers_q5",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "input",
+      "question": "Số liền trước của 60 là?",
+      "answer": "59",
+      "hint": "60 - 1 = 59."
+    },
+    {
+      "id": "sr_numbers_q6",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "multiple_choice",
+      "question": "Số nào là số chẵn?",
+      "choices": "46 có hàng đơn vị là 6.",
+      "answer": [
+        "46",
+        "47",
+        "49",
+        "51"
+      ],
+      "hint": "46"
+    },
+    {
+      "id": "sr_numbers_q7",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "input",
+      "question": "Từ 15 đến 27 (tính cả hai đầu) có bao nhiêu số?",
+      "answer": "13",
+      "hint": "27 - 15 + 1 = 13."
+    },
+    {
+      "id": "sr_numbers_q8",
+      "skill": "sr_numbers",
+      "topic": "sr_numbers",
+      "type": "multiple_choice",
+      "question": "Số lớn nhất có 1 chữ số là?",
+      "choices": "9 là số lớn nhất một chữ số.",
+      "answer": [
+        "9",
+        "10",
+        "8",
+        "99"
+      ],
+      "hint": "9"
+    },
+    {
+      "id": "sr_add_sub_q1",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 45 + 34.",
+      "answer": "79",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "sr_add_sub_q2",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 56 - 20.",
+      "answer": "36",
+      "hint": "6 - 0 = 6; 5 - 2 = 3."
+    },
+    {
+      "id": "sr_add_sub_q3",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 18 + 71.",
+      "answer": "89",
+      "hint": "8 + 1 = 9; 1 + 7 = 8."
+    },
+    {
+      "id": "sr_add_sub_q4",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 74 - 3.",
+      "answer": "71",
+      "hint": "4 - 3 = 1; 7 chục."
+    },
+    {
+      "id": "sr_add_sub_q5",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 23 + 15.",
+      "answer": "38",
+      "hint": "3 + 5 = 8; 2 + 1 = 3."
+    },
+    {
+      "id": "sr_add_sub_q6",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 67 - 25.",
+      "answer": "42",
+      "hint": "7 - 5 = 2; 6 - 2 = 4."
+    },
+    {
+      "id": "sr_add_sub_q7",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "58cm + 40cm = ? cm",
+      "answer": "98",
+      "hint": "58 + 40 = 98."
+    },
+    {
+      "id": "sr_add_sub_q8",
+      "skill": "sr_add_sub",
+      "topic": "sr_add_sub",
+      "type": "input",
+      "question": "Tính: 57 + 2 - 4.",
+      "answer": "55",
+      "hint": "57 + 2 = 59; 59 - 4 = 55."
+    },
+    {
+      "id": "sr_compare_q1",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "input",
+      "question": "Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "6 chục > 6 chục? Cùng chục, 3 > 0."
+    },
+    {
+      "id": "sr_compare_q2",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "input",
+      "question": "Điền dấu >, < hoặc =: 48 ___ 88 - 45",
+      "answer": ">",
+      "hint": "88 - 45 = 43; 48 > 43."
+    },
+    {
+      "id": "sr_compare_q3",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "multiple_choice",
+      "question": "65 ___ 48. Chọn dấu đúng.",
+      "choices": "6 chục > 4 chục.",
+      "answer": [
+        ">",
+        "<",
+        "="
+      ],
+      "hint": ">"
+    },
+    {
+      "id": "sr_compare_q4",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "input",
+      "question": "Điền dấu: 63 - 20 ___ 88 - 45",
+      "answer": "=",
+      "hint": "Cả hai đều bằng 43."
+    },
+    {
+      "id": "sr_compare_q5",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "multiple_choice",
+      "question": "25 + 41 ___ 41 + 25",
+      "choices": "Đổi chỗ không đổi tổng.",
+      "answer": [
+        "=",
+        ">",
+        "<"
+      ],
+      "hint": "="
+    },
+    {
+      "id": "sr_compare_q6",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "input",
+      "question": "Điền dấu: 18 ___ 20 - 10",
+      "answer": ">",
+      "hint": "20 - 10 = 10; 18 > 10."
+    },
+    {
+      "id": "sr_compare_q7",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "multiple_choice",
+      "question": "Số nào lớn nhất: 28, 76, 54, 74?",
+      "choices": "7 chục lớn nhất.",
+      "answer": [
+        "76",
+        "74",
+        "54",
+        "28"
+      ],
+      "hint": "76"
+    },
+    {
+      "id": "sr_compare_q8",
+      "skill": "sr_compare",
+      "topic": "sr_compare",
+      "type": "input",
+      "question": "Điền dấu: 99 ___ 100",
+      "answer": "<",
+      "hint": "99 bé hơn 100."
+    },
+    {
+      "id": "sr_word_q1",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Hà có 30 que tính, Lan có 40 que tính. Cả hai có bao nhiêu que? (chỉ gõ số)",
+      "answer": "70",
+      "hint": "30 + 40 = 70."
+    },
+    {
+      "id": "sr_word_q2",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Có 9 con gà, bán 3 con. Còn lại bao nhiêu con?",
+      "answer": "6",
+      "hint": "9 - 3 = 6."
+    },
+    {
+      "id": "sr_word_q3",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "25",
+      "hint": "85 - 60 = 25."
+    },
+    {
+      "id": "sr_word_q4",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Lớp có 24 bạn trai, 21 bạn gái. Lớp có tất cả bao nhiêu học sinh?",
+      "answer": "45",
+      "hint": "24 + 21 = 45."
+    },
+    {
+      "id": "sr_word_q5",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Hiện nay Mai 6 tuổi. Cách đây 3 năm Mai mấy tuổi?",
+      "answer": "3",
+      "hint": "6 - 3 = 3."
+    },
+    {
+      "id": "sr_word_q6",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Hiện nay Mai 6 tuổi. Ba năm nữa Mai mấy tuổi?",
+      "answer": "9",
+      "hint": "6 + 3 = 9."
+    },
+    {
+      "id": "sr_word_q7",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Vườn có 26 cây cam, ít hơn cây bưởi 15 cây. Vườn có bao nhiêu cây bưởi?",
+      "answer": "41",
+      "hint": "26 + 15 = 41 (bưởi nhiều hơn cam)."
+    },
+    {
+      "id": "sr_word_q8",
+      "skill": "sr_word",
+      "topic": "sr_word",
+      "type": "input",
+      "question": "Nam có 36 viên bi xanh, ít hơn bi đỏ 14 viên. Nam có bao nhiêu viên bi đỏ?",
+      "answer": "50",
+      "hint": "36 + 14 = 50."
+    },
+    {
+      "id": "sr_time_q1",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "multiple_choice",
+      "question": "Kim ngắn ở 5, kim dài ở 12. Mấy giờ?",
+      "choices": "Kim ngắn chỉ giờ.",
+      "answer": [
+        "5 giờ",
+        "12 giờ",
+        "7 giờ",
+        "10 giờ"
+      ],
+      "hint": "5 giờ"
+    },
+    {
+      "id": "sr_time_q2",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "input",
+      "question": "Một tuần có bao nhiêu ngày?",
+      "answer": "7",
+      "hint": "Thứ 2 đến Chủ nhật = 7 ngày."
+    },
+    {
+      "id": "sr_time_q3",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "multiple_choice",
+      "question": "Sau Thứ Tư là thứ mấy?",
+      "choices": "Thứ Tư → Thứ Năm.",
+      "answer": [
+        "Thứ Năm",
+        "Thứ Ba",
+        "Thứ Sáu",
+        "Chủ nhật"
+      ],
+      "hint": "Thứ Năm"
+    },
+    {
+      "id": "sr_time_q4",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "input",
+      "question": "Lan ở quê 1 tuần lễ và thêm 3 ngày. Tổng cộng bao nhiêu ngày?",
+      "answer": "10",
+      "hint": "7 + 3 = 10."
+    },
+    {
+      "id": "sr_time_q5",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "multiple_choice",
+      "question": "Lịch dùng để xem gì?",
+      "choices": "Lịch ghi ngày trong tháng.",
+      "answer": [
+        "Ngày tháng",
+        "Cân nặng",
+        "Độ dài",
+        "Nhiệt độ"
+      ],
+      "hint": "Ngày tháng"
+    },
+    {
+      "id": "sr_time_q6",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "input",
+      "question": "Kim ngắn ở 8, kim dài ở 12: mấy giờ? (chỉ gõ số)",
+      "answer": "8",
+      "hint": "8 giờ đúng."
+    },
+    {
+      "id": "sr_time_q7",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "multiple_choice",
+      "question": "Ngày đầu tuần đi học thường là?",
+      "choices": "Thứ Hai mở đầu tuần học.",
+      "answer": [
+        "Thứ Hai",
+        "Thứ Bảy",
+        "Chủ nhật",
+        "Thứ Sáu"
+      ],
+      "hint": "Thứ Hai"
+    },
+    {
+      "id": "sr_time_q8",
+      "skill": "sr_time",
+      "topic": "sr_time",
+      "type": "input",
+      "question": "Thứ Bảy rồi đến ngày gì?",
+      "answer": "Chủ nhật",
+      "hint": "Cuối tuần."
+    },
+    {
+      "id": "sr_geometry_q1",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "multiple_choice",
+      "question": "Hình nào có 3 cạnh?",
+      "choices": "Tam giác có 3 cạnh.",
+      "answer": [
+        "Tam giác",
+        "Vuông",
+        "Tròn",
+        "Chữ nhật"
+      ],
+      "hint": "Tam giác"
+    },
+    {
+      "id": "sr_geometry_q2",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "input",
+      "question": "Hình tròn có mấy góc?",
+      "answer": "0",
+      "hint": "Hình tròn không có góc."
+    },
+    {
+      "id": "sr_geometry_q3",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "input",
+      "question": "Hình vuông có mấy cạnh?",
+      "answer": "4",
+      "hint": "4 cạnh bằng nhau."
+    },
+    {
+      "id": "sr_geometry_q4",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "multiple_choice",
+      "question": "Đo độ dài dùng đơn vị gì?",
+      "choices": "cm = xăng-ti-mét.",
+      "answer": [
+        "cm",
+        "kg",
+        "lít",
+        "giờ"
+      ],
+      "hint": "cm"
+    },
+    {
+      "id": "sr_geometry_q5",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "input",
+      "question": "Viết tắt xăng-ti-mét là gì?",
+      "answer": "cm",
+      "hint": "centimet = cm."
+    },
+    {
+      "id": "sr_geometry_q6",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "multiple_choice",
+      "question": "Hình chữ nhật có mấy góc vuông?",
+      "choices": "4 góc đều vuông.",
+      "answer": [
+        "4",
+        "3",
+        "0",
+        "2"
+      ],
+      "hint": "4"
+    },
+    {
+      "id": "sr_geometry_q7",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "input",
+      "question": "Thước kẻ thường dài 20 cm hay 20 m?",
+      "answer": "cm",
+      "hint": "Thước kẻ dùng cm."
+    },
+    {
+      "id": "sr_geometry_q8",
+      "skill": "sr_geometry",
+      "topic": "sr_geometry",
+      "type": "multiple_choice",
+      "question": "Biển báo cấm thường là hình gì?",
+      "choices": "Biển tròn hay gặp.",
+      "answer": [
+        "Tròn",
+        "Vuông",
+        "Tam giác",
+        "Thoi"
+      ],
+      "hint": "Tròn"
+    },
+    {
+      "id": "sr_logic_q1",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Điền số tiếp theo: 10, 12, 14, 16, __",
+      "answer": "18",
+      "hint": "Cộng 2 mỗi lần."
+    },
+    {
+      "id": "sr_logic_q2",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Điền số tiếp theo: 3, 6, 9, 12, __",
+      "answer": "15",
+      "hint": "Cộng 3 mỗi lần."
+    },
+    {
+      "id": "sr_logic_q3",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Tính: 13 + 4 - 5.",
+      "answer": "12",
+      "hint": "13 + 4 = 17; 17 - 5 = 12."
+    },
+    {
+      "id": "sr_logic_q4",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Tính: 26 - 5 + 8.",
+      "answer": "29",
+      "hint": "26 - 5 = 21; 21 + 8 = 29."
+    },
+    {
+      "id": "sr_logic_q5",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "5",
+      "hint": "8 - 3 = 5; 10 - 5 = 5."
+    },
+    {
+      "id": "sr_logic_q6",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Tính: 40 + 20 - 40.",
+      "answer": "20",
+      "hint": "40 + 20 = 60; 60 - 40 = 20."
+    },
+    {
+      "id": "sr_logic_q7",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Từ 10 đến 32 (tính cả hai đầu) có bao nhiêu số?",
+      "answer": "23",
+      "hint": "32 - 10 + 1 = 23."
+    },
+    {
+      "id": "sr_logic_q8",
+      "skill": "sr_logic",
+      "topic": "sr_logic",
+      "type": "input",
+      "question": "Tính: 2 + 5 - 3.",
+      "answer": "4",
+      "hint": "2 + 5 = 7; 7 - 3 = 4."
+    },
+    {
+      "id": "exam_1_q1",
+      "skill": "exam_1",
+      "exam": "exam_1",
+      "type": "input",
+      "question": "Đề 1 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_1_q2",
+      "skill": "exam_1",
+      "exam": "exam_1",
+      "type": "input",
+      "question": "Đề 1 — Tính: 45 + 34.",
+      "answer": "79",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_1_q3",
+      "skill": "exam_1",
+      "exam": "exam_1",
+      "type": "input",
+      "question": "Đề 1 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_1_q4",
+      "skill": "exam_1",
+      "exam": "exam_1",
+      "type": "input",
+      "question": "Đề 1 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "25",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_1_q5",
+      "skill": "exam_1",
+      "exam": "exam_1",
+      "type": "input",
+      "question": "Đề 1 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "5",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_2_q1",
+      "skill": "exam_2",
+      "exam": "exam_2",
+      "type": "input",
+      "question": "Đề 2 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_2_q2",
+      "skill": "exam_2",
+      "exam": "exam_2",
+      "type": "input",
+      "question": "Đề 2 — Tính: 45 + 34.",
+      "answer": "66",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_2_q3",
+      "skill": "exam_2",
+      "exam": "exam_2",
+      "type": "input",
+      "question": "Đề 2 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "5",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_2_q4",
+      "skill": "exam_2",
+      "exam": "exam_2",
+      "type": "input",
+      "question": "Đề 2 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "45",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_2_q5",
+      "skill": "exam_2",
+      "exam": "exam_2",
+      "type": "input",
+      "question": "Đề 2 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "3",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_3_q1",
+      "skill": "exam_3",
+      "exam": "exam_3",
+      "type": "input",
+      "question": "Đề 3 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_3_q2",
+      "skill": "exam_3",
+      "exam": "exam_3",
+      "type": "input",
+      "question": "Đề 3 — Tính: 45 + 34.",
+      "answer": "39",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_3_q3",
+      "skill": "exam_3",
+      "exam": "exam_3",
+      "type": "input",
+      "question": "Đề 3 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_3_q4",
+      "skill": "exam_3",
+      "exam": "exam_3",
+      "type": "input",
+      "question": "Đề 3 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "11",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_3_q5",
+      "skill": "exam_3",
+      "exam": "exam_3",
+      "type": "input",
+      "question": "Đề 3 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "5",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_4_q1",
+      "skill": "exam_4",
+      "exam": "exam_4",
+      "type": "input",
+      "question": "Đề 4 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_4_q2",
+      "skill": "exam_4",
+      "exam": "exam_4",
+      "type": "input",
+      "question": "Đề 4 — Tính: 45 + 34.",
+      "answer": "20",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_4_q3",
+      "skill": "exam_4",
+      "exam": "exam_4",
+      "type": "input",
+      "question": "Đề 4 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "22",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_4_q4",
+      "skill": "exam_4",
+      "exam": "exam_4",
+      "type": "input",
+      "question": "Đề 4 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "55",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_4_q5",
+      "skill": "exam_4",
+      "exam": "exam_4",
+      "type": "input",
+      "question": "Đề 4 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "8",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_5_q1",
+      "skill": "exam_5",
+      "exam": "exam_5",
+      "type": "input",
+      "question": "Đề 5 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_5_q2",
+      "skill": "exam_5",
+      "exam": "exam_5",
+      "type": "input",
+      "question": "Đề 5 — Tính: 45 + 34.",
+      "answer": "50",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_5_q3",
+      "skill": "exam_5",
+      "exam": "exam_5",
+      "type": "input",
+      "question": "Đề 5 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "7",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_5_q4",
+      "skill": "exam_5",
+      "exam": "exam_5",
+      "type": "input",
+      "question": "Đề 5 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "10",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_5_q5",
+      "skill": "exam_5",
+      "exam": "exam_5",
+      "type": "input",
+      "question": "Đề 5 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "4",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_6_q1",
+      "skill": "exam_6",
+      "exam": "exam_6",
+      "type": "input",
+      "question": "Đề 6 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_6_q2",
+      "skill": "exam_6",
+      "exam": "exam_6",
+      "type": "input",
+      "question": "Đề 6 — Tính: 45 + 34.",
+      "answer": "0",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_6_q3",
+      "skill": "exam_6",
+      "exam": "exam_6",
+      "type": "input",
+      "question": "Đề 6 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "20",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_6_q4",
+      "skill": "exam_6",
+      "exam": "exam_6",
+      "type": "input",
+      "question": "Đề 6 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "49",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_6_q5",
+      "skill": "exam_6",
+      "exam": "exam_6",
+      "type": "input",
+      "question": "Đề 6 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "B",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_7_q1",
+      "skill": "exam_7",
+      "exam": "exam_7",
+      "type": "input",
+      "question": "Đề 7 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_7_q2",
+      "skill": "exam_7",
+      "exam": "exam_7",
+      "type": "input",
+      "question": "Đề 7 — Tính: 45 + 34.",
+      "answer": "25",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_7_q3",
+      "skill": "exam_7",
+      "exam": "exam_7",
+      "type": "input",
+      "question": "Đề 7 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "90",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_7_q4",
+      "skill": "exam_7",
+      "exam": "exam_7",
+      "type": "input",
+      "question": "Đề 7 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "11",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_7_q5",
+      "skill": "exam_7",
+      "exam": "exam_7",
+      "type": "input",
+      "question": "Đề 7 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "6",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_8_q1",
+      "skill": "exam_8",
+      "exam": "exam_8",
+      "type": "input",
+      "question": "Đề 8 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_8_q2",
+      "skill": "exam_8",
+      "exam": "exam_8",
+      "type": "input",
+      "question": "Đề 8 — Tính: 45 + 34.",
+      "answer": "43",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_8_q3",
+      "skill": "exam_8",
+      "exam": "exam_8",
+      "type": "input",
+      "question": "Đề 8 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_8_q4",
+      "skill": "exam_8",
+      "exam": "exam_8",
+      "type": "input",
+      "question": "Đề 8 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "30",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_8_q5",
+      "skill": "exam_8",
+      "exam": "exam_8",
+      "type": "input",
+      "question": "Đề 8 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "4",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_9_q1",
+      "skill": "exam_9",
+      "exam": "exam_9",
+      "type": "input",
+      "question": "Đề 9 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_9_q2",
+      "skill": "exam_9",
+      "exam": "exam_9",
+      "type": "input",
+      "question": "Đề 9 — Tính: 45 + 34.",
+      "answer": "55",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_9_q3",
+      "skill": "exam_9",
+      "exam": "exam_9",
+      "type": "input",
+      "question": "Đề 9 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "5",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_9_q4",
+      "skill": "exam_9",
+      "exam": "exam_9",
+      "type": "input",
+      "question": "Đề 9 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "45",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_9_q5",
+      "skill": "exam_9",
+      "exam": "exam_9",
+      "type": "input",
+      "question": "Đề 9 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "3",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_10_q1",
+      "skill": "exam_10",
+      "exam": "exam_10",
+      "type": "input",
+      "question": "Đề 10 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_10_q2",
+      "skill": "exam_10",
+      "exam": "exam_10",
+      "type": "input",
+      "question": "Đề 10 — Tính: 45 + 34.",
+      "answer": "39",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_10_q3",
+      "skill": "exam_10",
+      "exam": "exam_10",
+      "type": "input",
+      "question": "Đề 10 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_10_q4",
+      "skill": "exam_10",
+      "exam": "exam_10",
+      "type": "input",
+      "question": "Đề 10 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "25",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_10_q5",
+      "skill": "exam_10",
+      "exam": "exam_10",
+      "type": "input",
+      "question": "Đề 10 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "2",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_11_q1",
+      "skill": "exam_11",
+      "exam": "exam_11",
+      "type": "input",
+      "question": "Đề 11 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_11_q2",
+      "skill": "exam_11",
+      "exam": "exam_11",
+      "type": "input",
+      "question": "Đề 11 — Tính: 45 + 34.",
+      "answer": "51",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_11_q3",
+      "skill": "exam_11",
+      "exam": "exam_11",
+      "type": "input",
+      "question": "Đề 11 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "7",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_11_q4",
+      "skill": "exam_11",
+      "exam": "exam_11",
+      "type": "input",
+      "question": "Đề 11 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "19",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_11_q5",
+      "skill": "exam_11",
+      "exam": "exam_11",
+      "type": "input",
+      "question": "Đề 11 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "4",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_12_q1",
+      "skill": "exam_12",
+      "exam": "exam_12",
+      "type": "input",
+      "question": "Đề 12 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_12_q2",
+      "skill": "exam_12",
+      "exam": "exam_12",
+      "type": "input",
+      "question": "Đề 12 — Tính: 45 + 34.",
+      "answer": "84",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_12_q3",
+      "skill": "exam_12",
+      "exam": "exam_12",
+      "type": "input",
+      "question": "Đề 12 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_12_q4",
+      "skill": "exam_12",
+      "exam": "exam_12",
+      "type": "input",
+      "question": "Đề 12 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "45",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_12_q5",
+      "skill": "exam_12",
+      "exam": "exam_12",
+      "type": "input",
+      "question": "Đề 12 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "6",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_13_q1",
+      "skill": "exam_13",
+      "exam": "exam_13",
+      "type": "input",
+      "question": "Đề 13 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_13_q2",
+      "skill": "exam_13",
+      "exam": "exam_13",
+      "type": "input",
+      "question": "Đề 13 — Tính: 45 + 34.",
+      "answer": "38",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_13_q3",
+      "skill": "exam_13",
+      "exam": "exam_13",
+      "type": "input",
+      "question": "Đề 13 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "5",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_13_q4",
+      "skill": "exam_13",
+      "exam": "exam_13",
+      "type": "input",
+      "question": "Đề 13 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "55",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_13_q5",
+      "skill": "exam_13",
+      "exam": "exam_13",
+      "type": "input",
+      "question": "Đề 13 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "8",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_14_q1",
+      "skill": "exam_14",
+      "exam": "exam_14",
+      "type": "input",
+      "question": "Đề 14 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_14_q2",
+      "skill": "exam_14",
+      "exam": "exam_14",
+      "type": "input",
+      "question": "Đề 14 — Tính: 45 + 34.",
+      "answer": "43",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_14_q3",
+      "skill": "exam_14",
+      "exam": "exam_14",
+      "type": "input",
+      "question": "Đề 14 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": ">",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_14_q4",
+      "skill": "exam_14",
+      "exam": "exam_14",
+      "type": "input",
+      "question": "Đề 14 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "30",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_14_q5",
+      "skill": "exam_14",
+      "exam": "exam_14",
+      "type": "input",
+      "question": "Đề 14 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "3",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_15_q1",
+      "skill": "exam_15",
+      "exam": "exam_15",
+      "type": "input",
+      "question": "Đề 15 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_15_q2",
+      "skill": "exam_15",
+      "exam": "exam_15",
+      "type": "input",
+      "question": "Đề 15 — Tính: 45 + 34.",
+      "answer": "55",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_15_q3",
+      "skill": "exam_15",
+      "exam": "exam_15",
+      "type": "input",
+      "question": "Đề 15 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "10",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_15_q4",
+      "skill": "exam_15",
+      "exam": "exam_15",
+      "type": "input",
+      "question": "Đề 15 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "19",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_15_q5",
+      "skill": "exam_15",
+      "exam": "exam_15",
+      "type": "input",
+      "question": "Đề 15 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "7",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_16_q1",
+      "skill": "exam_16",
+      "exam": "exam_16",
+      "type": "input",
+      "question": "Đề 16 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_16_q2",
+      "skill": "exam_16",
+      "exam": "exam_16",
+      "type": "input",
+      "question": "Đề 16 — Tính: 45 + 34.",
+      "answer": "12",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_16_q3",
+      "skill": "exam_16",
+      "exam": "exam_16",
+      "type": "input",
+      "question": "Đề 16 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "43",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_16_q4",
+      "skill": "exam_16",
+      "exam": "exam_16",
+      "type": "input",
+      "question": "Đề 16 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "19",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_16_q5",
+      "skill": "exam_16",
+      "exam": "exam_16",
+      "type": "input",
+      "question": "Đề 16 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "7",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_17_q1",
+      "skill": "exam_17",
+      "exam": "exam_17",
+      "type": "input",
+      "question": "Đề 17 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_17_q2",
+      "skill": "exam_17",
+      "exam": "exam_17",
+      "type": "input",
+      "question": "Đề 17 — Tính: 45 + 34.",
+      "answer": "14",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_17_q3",
+      "skill": "exam_17",
+      "exam": "exam_17",
+      "type": "input",
+      "question": "Đề 17 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "19",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_17_q4",
+      "skill": "exam_17",
+      "exam": "exam_17",
+      "type": "input",
+      "question": "Đề 17 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "29",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_17_q5",
+      "skill": "exam_17",
+      "exam": "exam_17",
+      "type": "input",
+      "question": "Đề 17 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "3",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_18_q1",
+      "skill": "exam_18",
+      "exam": "exam_18",
+      "type": "input",
+      "question": "Đề 18 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_18_q2",
+      "skill": "exam_18",
+      "exam": "exam_18",
+      "type": "input",
+      "question": "Đề 18 — Tính: 45 + 34.",
+      "answer": "24",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_18_q3",
+      "skill": "exam_18",
+      "exam": "exam_18",
+      "type": "input",
+      "question": "Đề 18 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "10",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_18_q4",
+      "skill": "exam_18",
+      "exam": "exam_18",
+      "type": "input",
+      "question": "Đề 18 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "23",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_18_q5",
+      "skill": "exam_18",
+      "exam": "exam_18",
+      "type": "input",
+      "question": "Đề 18 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "86",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_19_q1",
+      "skill": "exam_19",
+      "exam": "exam_19",
+      "type": "input",
+      "question": "Đề 19 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_19_q2",
+      "skill": "exam_19",
+      "exam": "exam_19",
+      "type": "input",
+      "question": "Đề 19 — Tính: 45 + 34.",
+      "answer": "20",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_19_q3",
+      "skill": "exam_19",
+      "exam": "exam_19",
+      "type": "input",
+      "question": "Đề 19 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "25",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_19_q4",
+      "skill": "exam_19",
+      "exam": "exam_19",
+      "type": "input",
+      "question": "Đề 19 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "13",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_19_q5",
+      "skill": "exam_19",
+      "exam": "exam_19",
+      "type": "input",
+      "question": "Đề 19 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "25",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_20_q1",
+      "skill": "exam_20",
+      "exam": "exam_20",
+      "type": "input",
+      "question": "Đề 20 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_20_q2",
+      "skill": "exam_20",
+      "exam": "exam_20",
+      "type": "input",
+      "question": "Đề 20 — Tính: 45 + 34.",
+      "answer": "9",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_20_q3",
+      "skill": "exam_20",
+      "exam": "exam_20",
+      "type": "input",
+      "question": "Đề 20 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "10",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_20_q4",
+      "skill": "exam_20",
+      "exam": "exam_20",
+      "type": "input",
+      "question": "Đề 20 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "8",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_20_q5",
+      "skill": "exam_20",
+      "exam": "exam_20",
+      "type": "input",
+      "question": "Đề 20 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "11",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_21_q1",
+      "skill": "exam_21",
+      "exam": "exam_21",
+      "type": "input",
+      "question": "Đề 21 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_21_q2",
+      "skill": "exam_21",
+      "exam": "exam_21",
+      "type": "input",
+      "question": "Đề 21 — Tính: 45 + 34.",
+      "answer": "30",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_21_q3",
+      "skill": "exam_21",
+      "exam": "exam_21",
+      "type": "input",
+      "question": "Đề 21 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "86",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_21_q4",
+      "skill": "exam_21",
+      "exam": "exam_21",
+      "type": "input",
+      "question": "Đề 21 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "8",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_21_q5",
+      "skill": "exam_21",
+      "exam": "exam_21",
+      "type": "input",
+      "question": "Đề 21 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "5",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_22_q1",
+      "skill": "exam_22",
+      "exam": "exam_22",
+      "type": "input",
+      "question": "Đề 22 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_22_q2",
+      "skill": "exam_22",
+      "exam": "exam_22",
+      "type": "input",
+      "question": "Đề 22 — Tính: 45 + 34.",
+      "answer": "20",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_22_q3",
+      "skill": "exam_22",
+      "exam": "exam_22",
+      "type": "input",
+      "question": "Đề 22 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "91",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_22_q4",
+      "skill": "exam_22",
+      "exam": "exam_22",
+      "type": "input",
+      "question": "Đề 22 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "24",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_22_q5",
+      "skill": "exam_22",
+      "exam": "exam_22",
+      "type": "input",
+      "question": "Đề 22 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "6",
+      "hint": "Làm trong ngoặc trước."
+    },
+    {
+      "id": "exam_23_q1",
+      "skill": "exam_23",
+      "exam": "exam_23",
+      "type": "input",
+      "question": "Đề 23 — Viết số: bảy mươi tám.",
+      "answer": "78",
+      "hint": "7 chục 8 đơn vị."
+    },
+    {
+      "id": "exam_23_q2",
+      "skill": "exam_23",
+      "exam": "exam_23",
+      "type": "input",
+      "question": "Đề 23 — Tính: 45 + 34.",
+      "answer": "14",
+      "hint": "5 + 4 = 9; 4 + 3 = 7."
+    },
+    {
+      "id": "exam_23_q3",
+      "skill": "exam_23",
+      "exam": "exam_23",
+      "type": "input",
+      "question": "Đề 23 — Điền dấu >, < hoặc =: 63 ___ 60",
+      "answer": "57",
+      "hint": "So sánh hàng chục rồi đơn vị."
+    },
+    {
+      "id": "exam_23_q4",
+      "skill": "exam_23",
+      "exam": "exam_23",
+      "type": "input",
+      "question": "Đề 23 — Mẹ hái 85 quả hồng, bán 60 quả. Còn lại bao nhiêu quả?",
+      "answer": "7",
+      "hint": "85 - 60 = ?"
+    },
+    {
+      "id": "exam_23_q5",
+      "skill": "exam_23",
+      "exam": "exam_23",
+      "type": "input",
+      "question": "Đề 23 — Số thay cho ?: 10 - (8 - 3) = ?",
+      "answer": "8",
+      "hint": "Làm trong ngoặc trước."
+    }
+  ]
+}
