@@ -317,6 +317,7 @@ export function createSummerReviewModule(ctx) {
           <a class="back-link" href="${packLink(packId)}">← Ôn hè</a>
           <span class="sr-topic-icon lg">${topic.emoji}</span>
           <h1>${escapeHtml(topic.title)}</h1>
+          <a class="lesson-mm-link" href="#/mindmap/summer/${encodeURIComponent(packId)}/${encodeURIComponent(topicId)}">🧠 Sơ đồ chủ đề</a>
           <p>${renderStars(stars)} · ${qCount} câu luyện</p>
           <div class="progress-track"><span style="width:${Math.round((stars / 3) * 100)}%"></span></div>
         </aside>

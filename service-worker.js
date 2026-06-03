@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v6";
+const CACHE_NAME = "mathflow-vn-v7";
 const APP_SHELL = [
   "./",
   "./index.html",
