@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "grade": 8,
+    "chapter": "Hằng đẳng thức đáng nhớ và ứng dụng",
+    "sources": [
+      "Bài tập cơ bản Toán 8 — Chương 2 (docx)",
+      "Chuyên đề: Những hằng đẳng thức đáng nhớ (pdf)"
+    ]
+  },
+  "exercises": [
+    {
+      "skill": "g8_identity_square",
+      "source": "chuyen_de",
+      "section": "A. Hằng đẳng thức — Nhận biết",
+      "type": "multiple_choice",
+      "question": "Khai triển (-3x + 2y)^2 bằng hằng đẳng thức bình phương tổng/hiệu.",
+      "choices": ["9x^2 - 12xy + 4y^2", "9x^2 + 12xy + 4y^2", "-9x^2 - 12xy + 4y^2", "9x^2 - 6xy + 4y^2"],
+      "answer": "9x^2 - 12xy + 4y^2",
+      "hint": "(-3x + 2y)^2 = (-3x)^2 + 2·(-3x)·(2y) + (2y)^2.",
+      "solution": "9x^2 - 12xy + 4y^2"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "chuyen_de",
+      "section": "B. Hiệu hai bình phương",
+      "type": "multiple_choice",
+      "question": "Phân tích x^2 - 4y^2 thành nhân tử.",
+      "choices": ["(x - 2y)(x + 2y)", "(x - 2y)^2", "(x + 2y)^2", "x(x - 4y^2)"],
+      "answer": "(x - 2y)(x + 2y)",
+      "hint": "x^2 - 4y^2 = x^2 - (2y)^2.",
+      "solution": "(x - 2y)(x + 2y)"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "btcb",
+      "section": "C. Bình phương tổng",
+      "type": "fill_blank",
+      "question": "Điền hạng còn thiếu: (a + b)^2 = a^2 + ___ + b^2",
+      "answer": "2ab",
+      "hint": "(a + b)^2 = a^2 + 2ab + b^2.",
+      "solution": "2ab"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "btcb",
+      "section": "D. Bình phương hiệu",
+      "type": "fill_blank",
+      "question": "Điền hạng còn thiếu: (a - b)^2 = a^2 - ___ + b^2",
+      "answer": "2ab",
+      "hint": "(a - b)^2 = a^2 - 2ab + b^2.",
+      "solution": "2ab"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "chuyen_de",
+      "section": "E. Tính nhanh",
+      "type": "input",
+      "question": "Tính nhanh: 105^2 - 95^2 (dùng a^2 - b^2).",
+      "answer": "2000",
+      "hint": "105^2 - 95^2 = (105 + 95)(105 - 95) = 200 · 10.",
+      "solution": "2000"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "chuyen_de",
+      "section": "F. Biến đổi",
+      "type": "multiple_choice",
+      "question": "Rút gọn (x + y)^2 - (2 - y)^2.",
+      "choices": ["(x + 2y - 2)(x + 2)", "(x + y - 2)(x + y + 2)", "x^2 + 2y - 4", "(x - 2)(x + 2y)"],
+      "answer": "(x + 2y - 2)(x + 2)",
+      "hint": "Đặt A = x + y, B = 2 - y rồi dùng A^2 - B^2.",
+      "solution": "(x + 2y - 2)(x + 2)"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "btcb",
+      "section": "G. Đúng — Sai",
+      "type": "true_false",
+      "question": "Với mọi a, b ta có: a^2 - b^2 = (a - b)(a + b).",
+      "choices": ["Đúng", "Sai"],
+      "answer": "Đúng",
+      "hint": "Đây là hằng đẳng thức hiệu hai bình phương.",
+      "solution": "Đúng"
+    },
+    {
+      "skill": "g8_identity_square",
+      "source": "chuyen_de",
+      "section": "H. Tính giá trị",
+      "type": "input",
+      "question": "Cho x + y = 1. Tính A = x^3 + 3xy + y^3.",
+      "answer": "1",
+      "hint": "x^3 + y^3 + 3xy = (x + y)(x^2 - xy + y^2) + 3xy; dùng x + y = 1.",
+      "solution": "1"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "chuyen_de",
+      "section": "A. Lập phương tổng",
+      "type": "multiple_choice",
+      "question": "Khai triển (x + 2)^3.",
+      "choices": ["x^3 + 6x^2 + 12x + 8", "x^3 + 6x^2 + 12x + 4", "x^3 + 3x^2 + 6x + 8", "x^3 + 8"],
+      "answer": "x^3 + 6x^2 + 12x + 8",
+      "hint": "(x + 2)^3 = x^3 + 3·x^2·2 + 3·x·2^2 + 2^3.",
+      "solution": "x^3 + 6x^2 + 12x + 8"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "chuyen_de",
+      "section": "B. Lập phương hiệu",
+      "type": "multiple_choice",
+      "question": "Khai triển (x - 3)^3.",
+      "choices": ["x^3 - 9x^2 + 27x - 27", "x^3 - 9x^2 + 27x + 27", "x^3 + 9x^2 - 27x - 27", "x^3 - 27"],
+      "answer": "x^3 - 9x^2 + 27x - 27",
+      "hint": "(x - 3)^3 = x^3 - 3x^2·3 + 3x·9 - 27.",
+      "solution": "x^3 - 9x^2 + 27x - 27"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "btcb",
+      "section": "C. Thu gọn",
+      "type": "multiple_choice",
+      "question": "Rút gọn: 2x^3 - 6x^2 + 6x - 2.",
+      "choices": ["2(x - 1)^3", "2(x + 1)^3", "(2x - 1)^3", "2x(x - 1)^2"],
+      "answer": "2(x - 1)^3",
+      "hint": "Nhận dạng hệ số 2 và bậc 3 của (x - 1)^3.",
+      "solution": "2(x - 1)^3"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "chuyen_de",
+      "section": "D. Lập phương",
+      "type": "input",
+      "question": "Khai triển (2x - 1)^3 (chỉ viết kết quả thu gọn).",
+      "answer": "8x^3 - 12x^2 + 6x - 1",
+      "hint": "(2x)^3 - 3·(2x)^2·1 + 3·2x·1^2 - 1^3.",
+      "solution": "8x^3 - 12x^2 + 6x - 1"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "btcb",
+      "section": "E. Đúng — Sai",
+      "type": "true_false",
+      "question": "(A + B)^3 = A^3 + 3A^2B + 3AB^2 + B^3 với mọi A, B.",
+      "choices": ["Đúng", "Sai"],
+      "answer": "Đúng",
+      "hint": "Hằng đẳng thức lập phương của một tổng.",
+      "solution": "Đúng"
+    },
+    {
+      "skill": "g8_identity_cube",
+      "source": "chuyen_de",
+      "section": "F. Hiệu hai lập phương bậc 3",
+      "type": "multiple_choice",
+      "question": "Rút gọn (x + y)^3 - (x - 2y)^3.",
+      "choices": ["9x^2y - 9xy^2 + 9y^3", "6x^2y + 2y^3", "x^3 + y^3", "3x^2y + 3xy^2"],
+      "answer": "9x^2y - 9xy^2 + 9y^3",
+      "hint": "Khai triển từng lập phương rồi trừ các hạng tương ứng.",
+      "solution": "9x^2y - 9xy^2 + 9y^3"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "chuyen_de",
+      "section": "A. Tổng hai lập phương",
+      "type": "multiple_choice",
+      "question": "Phân tích x^3 + 8 thành nhân tử.",
+      "choices": ["(x + 2)(x^2 - 2x + 4)", "(x + 2)^3", "(x - 2)(x^2 + 2x + 4)", "x(x^2 + 8)"],
+      "answer": "(x + 2)(x^2 - 2x + 4)",
+      "hint": "x^3 + 8 = x^3 + 2^3.",
+      "solution": "(x + 2)(x^2 - 2x + 4)"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "chuyen_de",
+      "section": "B. Hiệu hai lập phương",
+      "type": "multiple_choice",
+      "question": "Phân tích x^3 - 27 thành nhân tử.",
+      "choices": ["(x - 3)(x^2 + 3x + 9)", "(x - 3)^3", "(x + 3)(x^2 - 3x + 9)", "(x - 27)(x^2 + 1)"],
+      "answer": "(x - 3)(x^2 + 3x + 9)",
+      "hint": "x^3 - 27 = x^3 - 3^3.",
+      "solution": "(x - 3)(x^2 + 3x + 9)"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "btcb",
+      "section": "C. Nhân tử chung",
+      "type": "input",
+      "question": "Rút gọn: (x + y)(x^2 - xy + y^2) - (-x + y)(x^2 + xy + y^2).",
+      "answer": "2x^3",
+      "hint": "Vế đầu là x^3 + y^3; vế sau là -( -x^3 + y^3).",
+      "solution": "2x^3"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "chuyen_de",
+      "section": "D. Tính giá trị",
+      "type": "input",
+      "question": "Cho x - y = 4 và xy = 5. Tính B = x^3 - y^3 + (x - y)^2.",
+      "answer": "140",
+      "hint": "x^3 - y^3 = (x - y)(x^2 + xy + y^2); thay x - y = 4, xy = 5.",
+      "solution": "140"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "btcb",
+      "section": "E. Đúng — Sai",
+      "type": "true_false",
+      "question": "a^3 - b^3 = (a - b)(a^2 + ab + b^2) với mọi a, b.",
+      "choices": ["Đúng", "Sai"],
+      "answer": "Đúng",
+      "hint": "Hằng đẳng thức hiệu hai lập phương.",
+      "solution": "Đúng"
+    },
+    {
+      "skill": "g8_identity_sum_diff_cubes",
+      "source": "chuyen_de",
+      "section": "F. Biến đổi",
+      "type": "multiple_choice",
+      "question": "(x - 1)(x^2 + x + 1)(x + 1)(x^2 + x + 1) bằng:",
+      "choices": ["x^6 - 1", "x^6 + 1", "x^3 - 1", "(x^2 - 1)^2"],
+      "answer": "x^6 - 1",
+      "hint": "(x^3 - 1)(x^3 + 1) = x^6 - 1.",
+      "solution": "x^6 - 1"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "btcb",
+      "section": "A. Đặt nhân tử chung",
+      "type": "multiple_choice",
+      "question": "Phân tích 3x^2y + 6xy^2 thành nhân tử.",
+      "choices": ["3xy(x + 2y)", "3x^2y(1 + 2y)", "xy(3x + 6y)", "3(x^2y + 2xy^2)"],
+      "answer": "3xy(x + 2y)",
+      "hint": "Nhân tử chung là 3xy.",
+      "solution": "3xy(x + 2y)"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "btcb",
+      "section": "B. Nhóm hạng tử",
+      "type": "multiple_choice",
+      "question": "Phân tích xy + 2y + 3x + 6 bằng nhóm hạng.",
+      "choices": ["(x + 2)(y + 3)", "(x + 3)(y + 2)", "(xy + 6)(2y + 3x)", "x(y + 3) + 2(y + 3)"],
+      "answer": "(x + 2)(y + 3)",
+      "hint": "Nhóm (xy + 2y) và (3x + 6).",
+      "solution": "(x + 2)(y + 3)"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "chuyen_de",
+      "section": "C. Hằng đẳng thức",
+      "type": "multiple_choice",
+      "question": "Phân tích x^2 + 6x + 9.",
+      "choices": ["(x + 3)^2", "(x - 3)^2", "x(x + 6) + 9", "(x + 9)(x + 1)"],
+      "answer": "(x + 3)^2",
+      "hint": "Nhận dạng hằng đẳng thức bình phương tổng.",
+      "solution": "(x + 3)^2"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "chuyen_de",
+      "section": "D. Hiệu hai bình phương",
+      "type": "multiple_choice",
+      "question": "Phân tích 4x^2 - 9y^2.",
+      "choices": ["(2x - 3y)(2x + 3y)", "(2x - 3y)^2", "(2x + 3y)^2", "2(x^2 - 9y^2)"],
+      "answer": "(2x - 3y)(2x + 3y)",
+      "hint": "4x^2 - 9y^2 = (2x)^2 - (3y)^2.",
+      "solution": "(2x - 3y)(2x + 3y)"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "btcb",
+      "section": "E. Tổng/hiệu lập phương",
+      "type": "multiple_choice",
+      "question": "Phân tích x^3 - 64.",
+      "choices": ["(x - 4)(x^2 + 4x + 16)", "(x - 4)^3", "(x + 4)(x^2 - 4x + 16)", "(x - 8)(x^2 + 8)"],
+      "answer": "(x - 4)(x^2 + 4x + 16)",
+      "hint": "x^3 - 64 = x^3 - 4^3.",
+      "solution": "(x - 4)(x^2 + 4x + 16)"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "chuyen_de",
+      "section": "F. Tính nhanh",
+      "type": "input",
+      "question": "Tính: 98^2 + 2·98·2 + 2^2.",
+      "answer": "10000",
+      "hint": "Dạng (a + b)^2 với a = 98, b = 2.",
+      "solution": "10000"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "btcb",
+      "section": "G. Tìm x",
+      "type": "input",
+      "question": "Tìm x biết x^2 - 5x = 0 (nghiệm dương nhỏ nhất).",
+      "answer": "5",
+      "hint": "x^2 - 5x = x(x - 5) = 0.",
+      "solution": "5"
+    },
+    {
+      "skill": "g8_factorization",
+      "source": "chuyen_de",
+      "section": "H. Đúng — Sai",
+      "type": "true_false",
+      "question": "Phân tích đa thức thành nhân tử là biến đổi đa thức thành tích các đa thức.",
+      "choices": ["Đúng", "Sai"],
+      "answer": "Đúng",
+      "hint": "Định nghĩa trong SGK/SBT.",
+      "solution": "Đúng"
+    }
+  ]
+}

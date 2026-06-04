@@ -398,6 +398,16 @@
   color: #9a5b00;
 }
 
+.tag-btcb {
+  background: #f0ebff;
+  color: #4a2d7a;
+}
+
+.tag-chuyen-de {
+  background: #e8faf0;
+  color: #1a5c3a;
+}
+
 .quiz-section {
   color: var(--muted);
   display: block;

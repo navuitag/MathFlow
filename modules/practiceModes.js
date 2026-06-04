@@ -19,6 +19,11 @@ export function createPracticeModule(ctx) {
     const all = getSkillExercises(skillId);
     if (practiceSession.workbookFilter === "sgk") return all.filter((item) => item.source === "sgk");
     if (practiceSession.workbookFilter === "sbt") return all.filter((item) => item.source === "sbt");
+    if (practiceSession.workbookFilter === "btcb") return all.filter((item) => item.source === "btcb");
+    if (practiceSession.workbookFilter === "chuyen_de") return all.filter((item) => item.source === "chuyen_de");
+    if (practiceSession.workbookFilter === "extra") {
+      return all.filter((item) => item.source === "btcb" || item.source === "chuyen_de");
+    }
     return all;
   }
 
@@ -48,16 +53,26 @@ export function createPracticeModule(ctx) {
   }
 
   function renderWorkbookFilters(skillId, activeFilter) {
-    const counts = { all: 0, sgk: 0, sbt: 0 };
+    const counts = { all: 0, sgk: 0, sbt: 0, btcb: 0, chuyen_de: 0, extra: 0 };
     getSkillExercises(skillId).forEach((item) => {
       counts.all += 1;
-      counts[item.source] = (counts[item.source] || 0) + 1;
+      if (item.source === "btcb" || item.source === "chuyen_de") {
+        counts.extra += 1;
+        counts[item.source] = (counts[item.source] || 0) + 1;
+      } else {
+        counts[item.source] = (counts[item.source] || 0) + 1;
+      }
     });
     const filters = [
       { id: "all", label: `Tất cả (${counts.all})` },
       { id: "sgk", label: `SGK (${counts.sgk})` },
       { id: "sbt", label: `SBT (${counts.sbt})` }
     ];
+    if (counts.extra) {
+      filters.push({ id: "extra", label: `Bổ sung (${counts.extra})` });
+      if (counts.btcb) filters.push({ id: "btcb", label: `BTCB (${counts.btcb})` });
+      if (counts.chuyen_de) filters.push({ id: "chuyen_de", label: `Chuyên đề (${counts.chuyen_de})` });
+    }
     return `
       <div class="workbook-filters" role="group" aria-label="Lọc bài tập">
         ${filters.map((filter) => `
