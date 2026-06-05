@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v9";
+const CACHE_NAME = "mathflow-vn-v10";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -43,6 +43,7 @@ const APP_SHELL = [
   "./data/summer-review.json",
   "./data/summer-review-g2-g3.json",
   "./data/summer-review-g3-g4.json",
+  "./data/summer-review-g4-g5.json",
   "./data/summer-review-g5-g6.json",
   "./data/summer-review-g6-g7.json",
   "./data/summer-review-g7-g8.json",

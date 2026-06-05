@@ -174,6 +174,9 @@ export function createSummerReviewModule(ctx) {
     if (packId === "g3-g4") {
       return ["Số lớn", "Tìm X", "Đo lường", "Diện tích", "Lời văn"];
     }
+    if (packId === "g4-g5") {
+      return ["Số & dãy", "Đơn vị đo", "Phép tính", "Phân số", "Lời văn"];
+    }
     if (packId === "g2-g3") {
       return ["Số học", "Đại lượng", "Hình học", "Lời văn", "Tư duy"];
     }

@@ -1,0 +1,1953 @@
+{
+  "meta": {
+    "id": "summer_g4_g5",
+    "packId": "g4-g5",
+    "title": "Ôn hè Toán lớp 4 → lớp 5",
+    "subtitle": "7 chủ đề tương tác + 10 đề tổng hợp",
+    "gradeFrom": 4,
+    "gradeTo": 5,
+    "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr4_natural",
+      "order": 1,
+      "title": "Số tự nhiên & dãy số",
+      "emoji": "🔢",
+      "description": "Đọc viết số đến hàng triệu; giá trị chữ số; dãy số cách đều; tổng dãy số.",
+      "prerequisite": [],
+      "xp": 50
+    },
+    {
+      "id": "sr4_measure",
+      "order": 2,
+      "title": "Bảng đơn vị đo",
+      "emoji": "📏",
+      "description": "Đổi đơn vị khối lượng, thời gian, độ dài, diện tích; chữ số La Mã.",
+      "prerequisite": [
+        "sr4_natural"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr4_ops",
+      "order": 3,
+      "title": "Bốn phép tính",
+      "emoji": "➕",
+      "description": "Cộng, trừ, nhân, chia số lớn; tính nhanh; tìm x; giá trị biểu thức.",
+      "prerequisite": [
+        "sr4_measure"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr4_divisibility",
+      "order": 4,
+      "title": "Dấu hiệu chia hết",
+      "emoji": "✓",
+      "description": "Chia hết cho 2, 3, 5, 9; tìm chữ số thích hợp; số chia hết nhiều điều kiện.",
+      "prerequisite": [
+        "sr4_ops"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr4_fraction",
+      "order": 5,
+      "title": "Phân số",
+      "emoji": "🍰",
+      "description": "So sánh, rút gọn, quy đồng; phân số bằng nhau; tính với phân số.",
+      "prerequisite": [
+        "sr4_divisibility"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr4_geometry",
+      "order": 6,
+      "title": "Hình học",
+      "emoji": "📐",
+      "description": "Góc; song song vuông góc; diện tích HCN, hình thoi, hình bình hành.",
+      "prerequisite": [
+        "sr4_fraction"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr4_word",
+      "order": 7,
+      "title": "Toán lời văn",
+      "emoji": "📖",
+      "description": "Phân số của số; trung bình; tổng-hiệu; tổng-tỉ; hiệu-tỉ; tuổi mẹ con.",
+      "prerequisite": [
+        "sr4_geometry"
+      ],
+      "xp": 55
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr4_natural",
+      "title": "Số tự nhiên & dãy số",
+      "topic": "sr4_natural",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đọc viết số đến hàng triệu; giá trị chữ số; dãy số cách đều; tổng dãy số."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Mỗi lớp gồm 3 hàng: đơn vị, nghìn, triệu.",
+            "Giá trị chữ số = chữ số × hàng tương ứng.",
+            "Số hạng dãy cách đều = (cuối − đầu) : khoảng cách + 1.",
+            "Tổng dãy cách đều = (đầu + cuối) × số hạng : 2."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_measure",
+      "title": "Bảng đơn vị đo",
+      "topic": "sr4_measure",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đổi đơn vị khối lượng, thời gian, độ dài, diện tích; chữ số La Mã."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "1 kg = 1000 g; 1 tấn = 1000 kg; 1 tạ = 100 kg.",
+            "1 giờ = 60 phút; 1 phút = 60 giây.",
+            "1 m² = 100 dm² = 10 000 cm².",
+            "La Mã: I=1, V=5, X=10, L=50, C=100."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 11 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_ops",
+      "title": "Bốn phép tính",
+      "topic": "sr4_ops",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Cộng, trừ, nhân, chia số lớn; tính nhanh; tìm x; giá trị biểu thức."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tìm số hạng: trừ số hạng kia khỏi tổng.",
+            "Tìm thừa số: chia tích cho thừa số kia.",
+            "Nhân/chia trước, cộng/trừ sau; làm trong ngoặc trước.",
+            "Tính thuận tiện: gom nhóm tạo bội 10, 100, 1000."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_divisibility",
+      "title": "Dấu hiệu chia hết",
+      "topic": "sr4_divisibility",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Chia hết cho 2, 3, 5, 9; tìm chữ số thích hợp; số chia hết nhiều điều kiện."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Chia hết cho 2: tận cùng 0,2,4,6,8.",
+            "Chia hết cho 5: tận cùng 0 hoặc 5.",
+            "Chia hết cho 3 hoặc 9: tổng các chữ số chia hết cho 3 hoặc 9.",
+            "Chia hết cho 2 và 5: tận cùng là 0."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 10 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_fraction",
+      "title": "Phân số",
+      "topic": "sr4_fraction",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "So sánh, rút gọn, quy đồng; phân số bằng nhau; tính với phân số."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phân số bằng nhau khi nhân/chia cùng số tử và mẫu.",
+            "Rút gọn: chia tử và mẫu cho ƯCLN.",
+            "Quy đồng: MSC của các mẫu số.",
+            "So sánh cùng mẫu: tử lớn hơn → phân số lớn hơn."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_geometry",
+      "title": "Hình học",
+      "topic": "sr4_geometry",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Góc; song song vuông góc; diện tích HCN, hình thoi, hình bình hành."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Hình chữ nhật: 2 cặp cạnh song song; 4 góc vuông.",
+            "Hình thoi: 4 cạnh bằng nhau; diện tích = (d₁ × d₂) : 2.",
+            "Hình bình hành: 2 cặp cạnh song song; S = đáy × cao.",
+            "Diện tích HCN = dài × rộng (cùng đơn vị)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr4_word",
+      "title": "Toán lời văn",
+      "topic": "sr4_word",
+      "source": "Chuyên đề Ôn hè Toán lớp 4 - lên 5 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 55,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Phân số của số; trung bình; tổng-hiệu; tổng-tỉ; hiệu-tỉ; tuổi mẹ con."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phân số của số: nhân số với tử rồi chia mẫu.",
+            "Tổng-hiệu: vẽ sơ đồ, tìm 1 phần rồi nhân.",
+            "Tổng-tỉ: tổng : (tỉ₁+tỉ₂) × tỉ cần tìm.",
+            "Hiệu-tỉ: hiệu : (tỉ lớn − tỉ bé) × tỉ tương ứng."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 12 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam4_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "sr4_word"
+      ]
+    },
+    {
+      "id": "exam4_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_1"
+      ]
+    },
+    {
+      "id": "exam4_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_2"
+      ]
+    },
+    {
+      "id": "exam4_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_3"
+      ]
+    },
+    {
+      "id": "exam4_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_4"
+      ]
+    },
+    {
+      "id": "exam4_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_5"
+      ]
+    },
+    {
+      "id": "exam4_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_6"
+      ]
+    },
+    {
+      "id": "exam4_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_7"
+      ]
+    },
+    {
+      "id": "exam4_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_8"
+      ]
+    },
+    {
+      "id": "exam4_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 55,
+      "passScore": 4,
+      "prerequisite": [
+        "exam4_9"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr4_natural_q1",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Viết số: hai mươi lăm nghìn bảy trăm ba mươi tư.",
+      "answer": "25734",
+      "hint": "25 nghìn + 734 = 25 734."
+    },
+    {
+      "id": "sr4_natural_q2",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Số liền sau của 1 283 945 là?",
+      "answer": "1283946",
+      "hint": "1 283 945 + 1 = 1 283 946."
+    },
+    {
+      "id": "sr4_natural_q3",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "multiple_choice",
+      "question": "Giá trị chữ số 9 trong số 795 268 là?",
+      "choices": [
+        "900000",
+        "90000",
+        "9000",
+        "900"
+      ],
+      "answer": "900000",
+      "hint": "9 ở hàng trăm nghìn → 900 000."
+    },
+    {
+      "id": "sr4_natural_q4",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Viết số gồm 29 triệu, 5 chục nghìn, 4 nghìn, 3 đơn vị.",
+      "answer": "29054003",
+      "hint": "29 000 000 + 50 000 + 4 000 + 3."
+    },
+    {
+      "id": "sr4_natural_q5",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Giá trị chữ số 2 trong số 247 365 098 là?",
+      "answer": "200000000",
+      "hint": "2 ở hàng trăm triệu."
+    },
+    {
+      "id": "sr4_natural_q6",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Dãy 2, 3, 4, …, 34 có bao nhiêu số hạng?",
+      "answer": "33",
+      "hint": "(34 − 2) : 1 + 1 = 33."
+    },
+    {
+      "id": "sr4_natural_q7",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Tổng dãy 2, 3, 4, …, 34 = ?",
+      "answer": "594",
+      "hint": "(2 + 34) × 33 : 2 = 594."
+    },
+    {
+      "id": "sr4_natural_q8",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Dãy 1, 4, 7, …, 40 có bao nhiêu số hạng?",
+      "answer": "14",
+      "hint": "(40 − 1) : 3 + 1 = 14."
+    },
+    {
+      "id": "sr4_natural_q9",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Tổng 1 + 4 + 7 + … + 40 = ?",
+      "answer": "287",
+      "hint": "(1 + 40) × 14 : 2 = 287."
+    },
+    {
+      "id": "sr4_natural_q10",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Dãy 1, 3, 5, …, 51 có bao nhiêu số hạng?",
+      "answer": "26",
+      "hint": "(51 − 1) : 2 + 1 = 26."
+    },
+    {
+      "id": "sr4_natural_q11",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "input",
+      "question": "Tổng dãy 1, 3, 5, …, 51 = ?",
+      "answer": "676",
+      "hint": "(1 + 51) × 26 : 2 = 676."
+    },
+    {
+      "id": "sr4_natural_q12",
+      "skill": "sr4_natural",
+      "topic": "sr4_natural",
+      "type": "multiple_choice",
+      "question": "Số tự nhiên nhỏ nhất gồm các chữ số 0, 1, 3, 5 là?",
+      "choices": [
+        "1035",
+        "1305",
+        "10357",
+        "135"
+      ],
+      "answer": "1035",
+      "hint": "Sắp xếp tăng dần, không bắt đầu bằng 0."
+    },
+    {
+      "id": "sr4_measure_q1",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "3 kg 60 g = ? g",
+      "answer": "3060",
+      "hint": "3000 + 60 = 3060 g."
+    },
+    {
+      "id": "sr4_measure_q2",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "10 dag = ? g",
+      "answer": "100",
+      "hint": "1 dag = 10 g."
+    },
+    {
+      "id": "sr4_measure_q3",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "2 phút 10 giây = ? giây",
+      "answer": "130",
+      "hint": "120 + 10 = 130 giây."
+    },
+    {
+      "id": "sr4_measure_q4",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "3 phút = ? giây",
+      "answer": "180",
+      "hint": "3 × 60 = 180 giây."
+    },
+    {
+      "id": "sr4_measure_q5",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "3 km 60 m = ? m",
+      "answer": "3060",
+      "hint": "3000 + 60 = 3060 m."
+    },
+    {
+      "id": "sr4_measure_q6",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "8 hm = ? m",
+      "answer": "800",
+      "hint": "1 hm = 100 m."
+    },
+    {
+      "id": "sr4_measure_q7",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "1 m² = ? dm²",
+      "answer": "100",
+      "hint": "1 m² = 100 dm²."
+    },
+    {
+      "id": "sr4_measure_q8",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "125 dm² = ? m² (dạng số thập phân, ví dụ 1.25)",
+      "answer": "1.25",
+      "hint": "125 : 100 = 1 m² 25 dm²."
+    },
+    {
+      "id": "sr4_measure_q9",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "input",
+      "question": "5 dm² 3 cm² = ? cm²",
+      "answer": "503",
+      "hint": "5 dm² = 500 cm²; + 3 = 503."
+    },
+    {
+      "id": "sr4_measure_q10",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "multiple_choice",
+      "question": "Số 15 viết bằng chữ số La Mã là?",
+      "choices": [
+        "XV",
+        "XIV",
+        "IX",
+        "VX"
+      ],
+      "answer": "XV",
+      "hint": "10 + 5 = XV."
+    },
+    {
+      "id": "sr4_measure_q11",
+      "skill": "sr4_measure",
+      "topic": "sr4_measure",
+      "type": "multiple_choice",
+      "question": "3 tấn 5 tạ = ? kg",
+      "choices": [
+        "3500",
+        "3005",
+        "350",
+        "305"
+      ],
+      "answer": "3500",
+      "hint": "3 tấn = 3000 kg; 5 tạ = 500 kg."
+    },
+    {
+      "id": "sr4_ops_q1",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tìm x: x − 216 = 570. x = ?",
+      "answer": "786",
+      "hint": "x = 570 + 216 = 786."
+    },
+    {
+      "id": "sr4_ops_q2",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính thuận tiện: 68 + 95 + 32 + 5 = ?",
+      "answer": "200",
+      "hint": "(68+32)+(95+5)=100+100=200."
+    },
+    {
+      "id": "sr4_ops_q3",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính nhanh: 32 − 13 − 17 = ?",
+      "answer": "2",
+      "hint": "32 − (13+17) = 2."
+    },
+    {
+      "id": "sr4_ops_q4",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "5893 − 2998 = ?",
+      "answer": "2895",
+      "hint": "Đặt tính trừ có nhớ."
+    },
+    {
+      "id": "sr4_ops_q5",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tìm x: x × 5 = 106570. x = ?",
+      "answer": "21314",
+      "hint": "x = 106570 : 5."
+    },
+    {
+      "id": "sr4_ops_q6",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "450906 : x = 6. x = ?",
+      "answer": "75151",
+      "hint": "x = 450906 : 6."
+    },
+    {
+      "id": "sr4_ops_q7",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính: (25 + 45) : 5 = ?",
+      "answer": "14",
+      "hint": "70 : 5 = 14."
+    },
+    {
+      "id": "sr4_ops_q8",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính thuận tiện: 113 × 54 + 113 × 54 + 113 = ?",
+      "answer": "12317",
+      "hint": "113 × (54+54+1)=113×109."
+    },
+    {
+      "id": "sr4_ops_q9",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tìm x: 4478 + x = 705 × 16. x = ?",
+      "answer": "6802",
+      "hint": "705×16=11280; x=11280−4478."
+    },
+    {
+      "id": "sr4_ops_q10",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tìm x: 5920 : x = 87569 − 87537. x = ?",
+      "answer": "185",
+      "hint": "5920 : x = 32 → x = 185."
+    },
+    {
+      "id": "sr4_ops_q11",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính: (1875 + 125) : 2 = ?",
+      "answer": "1000",
+      "hint": "2000 : 2 = 1000."
+    },
+    {
+      "id": "sr4_ops_q12",
+      "skill": "sr4_ops",
+      "topic": "sr4_ops",
+      "type": "input",
+      "question": "Tính: 117 × (36 + 62) − 17 × (62 + 36) = ?",
+      "answer": "9800",
+      "hint": "(117−17)×98=100×98."
+    },
+    {
+      "id": "sr4_divisibility_q1",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Số nào chia hết cho cả 2 và 5?",
+      "choices": [
+        "2130",
+        "1235",
+        "1256",
+        "3547"
+      ],
+      "answer": "2130",
+      "hint": "Tận cùng 0 → chia hết 2 và 5."
+    },
+    {
+      "id": "sr4_divisibility_q2",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Trong 2010; 1785; 1209; 4250, số chia hết cho 2, 3, 5 là?",
+      "choices": [
+        "2010",
+        "1785",
+        "1209",
+        "4250"
+      ],
+      "answer": "2010",
+      "hint": "2010 tận cùng 0, tổng CS = 3."
+    },
+    {
+      "id": "sr4_divisibility_q3",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Trong 57234; 4110; 77285; 64620, số chia hết cho 2, 3, 5 và 9 là?",
+      "choices": [
+        "57234",
+        "4110",
+        "77285",
+        "64620"
+      ],
+      "answer": "64620",
+      "hint": "64620 tận cùng 0, tổng CS chia 9."
+    },
+    {
+      "id": "sr4_divisibility_q4",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Chữ số * trong 86* chia hết cho 3 (một đáp án):",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "answer": "1",
+      "hint": "8+6+* chia 3 → * có thể 1,4,7."
+    },
+    {
+      "id": "sr4_divisibility_q5",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Số 283*0 chia hết cho 3, hàng chục có thể là?",
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "answer": "5",
+      "hint": "28320, 28350 hoặc 28380."
+    },
+    {
+      "id": "sr4_divisibility_q6",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "input",
+      "question": "Số nhỏ nhất dạng 17x8y chia hết 5 và 9, y=0 thì x = ?",
+      "answer": "2",
+      "hint": "17280: tổng CS=18 chia 9."
+    },
+    {
+      "id": "sr4_divisibility_q7",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Số nào chia hết cho 2, 3 và 5?",
+      "choices": [
+        "30",
+        "12",
+        "10",
+        "15"
+      ],
+      "answer": "30",
+      "hint": "30 tận cùng 0, tổng CS=3."
+    },
+    {
+      "id": "sr4_divisibility_q8",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "Trong 2507; 2010; 7925; 3200, số chia hết cho 2, 3 và 5?",
+      "choices": [
+        "2010",
+        "2507",
+        "7925",
+        "3200"
+      ],
+      "answer": "2010",
+      "hint": "Chỉ 2010 thỏa cả ba điều kiện."
+    },
+    {
+      "id": "sr4_divisibility_q9",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "input",
+      "question": "Chữ số cần điền 13* để chia hết 3 và 5 là?",
+      "answer": "5",
+      "hint": "* = 5 (tận cùng 5, tổng CS chia 3)."
+    },
+    {
+      "id": "sr4_divisibility_q10",
+      "skill": "sr4_divisibility",
+      "topic": "sr4_divisibility",
+      "type": "multiple_choice",
+      "question": "43659 : 63 có thương là?",
+      "choices": [
+        "693",
+        "639",
+        "596",
+        "722"
+      ],
+      "answer": "693",
+      "hint": "Đặt tính chia."
+    },
+    {
+      "id": "sr4_fraction_q1",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Phân số bằng 1/2 là?",
+      "choices": [
+        "2/4",
+        "3/5",
+        "2/3",
+        "3/4"
+      ],
+      "answer": "2/4",
+      "hint": "2/4 = 1/2 sau rút gọn."
+    },
+    {
+      "id": "sr4_fraction_q2",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Phân số tối giản trong 6/9; 4/6; 3/5; 8/12?",
+      "choices": [
+        "3/5",
+        "4/6",
+        "6/9",
+        "8/12"
+      ],
+      "answer": "3/5",
+      "hint": "3/5 không rút gọn thêm được."
+    },
+    {
+      "id": "sr4_fraction_q3",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "MSC quy đồng mẫu số 9 và 12 là?",
+      "choices": [
+        "27",
+        "18",
+        "36",
+        "108"
+      ],
+      "answer": "36",
+      "hint": "MSC(9,12)=36."
+    },
+    {
+      "id": "sr4_fraction_q4",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Phân số lớn nhất trong 1/2; 2/3; 3/4; 5/6?",
+      "choices": [
+        "5/6",
+        "3/4",
+        "2/3",
+        "1/2"
+      ],
+      "answer": "5/6",
+      "hint": "Quy đồng rồi so sánh tử."
+    },
+    {
+      "id": "sr4_fraction_q5",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "1/3 của 12 kg là?",
+      "choices": [
+        "4 kg",
+        "3 kg",
+        "6 kg",
+        "2 kg"
+      ],
+      "answer": "4 kg",
+      "hint": "12 × 1/3 = 4 kg."
+    },
+    {
+      "id": "sr4_fraction_q6",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "input",
+      "question": "Rút gọn 12/18 = ? (dạng a/b tối giản, ví dụ 2/3)",
+      "answer": "2/3",
+      "hint": "Chia tử mẫu cho 6."
+    },
+    {
+      "id": "sr4_fraction_q7",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "input",
+      "question": "Rút gọn 15/25 = ?",
+      "answer": "3/5",
+      "hint": "Chia tử mẫu cho 5."
+    },
+    {
+      "id": "sr4_fraction_q8",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Phân số bé hơn 1 là?",
+      "choices": [
+        "4/5",
+        "7/6",
+        "9/8",
+        "11/10"
+      ],
+      "answer": "4/5",
+      "hint": "Tử < mẫu → PS < 1."
+    },
+    {
+      "id": "sr4_fraction_q9",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Tỉ số 3 và 7 viết dạng phân số là?",
+      "choices": [
+        "3/7",
+        "7/3",
+        "3/10",
+        "7/10"
+      ],
+      "answer": "3/7",
+      "hint": "Tỉ số a:b = a/b."
+    },
+    {
+      "id": "sr4_fraction_q10",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "input",
+      "question": "3/4 + 1/4 = ? (dạng a/b)",
+      "answer": "1/1",
+      "hint": "3/4+1/4=4/4=1."
+    },
+    {
+      "id": "sr4_fraction_q11",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Phân số bằng 2/3 trong 4/6; 6/9; 8/12; 10/15?",
+      "choices": [
+        "4/6",
+        "5/8",
+        "3/7",
+        "2/5"
+      ],
+      "answer": "4/6",
+      "hint": "4/6 = 2/3."
+    },
+    {
+      "id": "sr4_fraction_q12",
+      "skill": "sr4_fraction",
+      "topic": "sr4_fraction",
+      "type": "multiple_choice",
+      "question": "Giá trị biểu thức 36576 : (4 × 2) − 3708 = ?",
+      "choices": [
+        "863",
+        "864",
+        "846",
+        "854"
+      ],
+      "answer": "864",
+      "hint": "36576:8=4572; 4572−3708=864."
+    },
+    {
+      "id": "sr4_geometry_q1",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "multiple_choice",
+      "question": "Hình bình hành có bao nhiêu cặp cạnh song song?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "hint": "HBH có 2 cặp cạnh đối song song."
+    },
+    {
+      "id": "sr4_geometry_q2",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "Hình thoi cạnh 15 cm. Chu vi = ? cm",
+      "answer": "60",
+      "hint": "15 × 4 = 60 cm."
+    },
+    {
+      "id": "sr4_geometry_q3",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "Hình thoi AC=10cm, BD=20cm. Diện tích = ? cm2",
+      "answer": "100",
+      "hint": "(10×20):2=100 cm²."
+    },
+    {
+      "id": "sr4_geometry_q4",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "Hình thoi đường chéo 4cm và 6cm. Diện tích = ? cm2",
+      "answer": "12",
+      "hint": "(4×6):2=12 cm²."
+    },
+    {
+      "id": "sr4_geometry_q5",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "Hình thoi đường chéo 3dm và 6dm. Diện tích = ? dm2",
+      "answer": "9",
+      "hint": "(3×6):2=9 dm²."
+    },
+    {
+      "id": "sr4_geometry_q6",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "Gạch vuông cạnh 30cm, phòng 9m×6m. Cần ? viên (bỏ mạch vữa)",
+      "answer": "1000",
+      "hint": "54m²=540000cm²; :900=1000."
+    },
+    {
+      "id": "sr4_geometry_q7",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "multiple_choice",
+      "question": "Hình bình hành đáy 18cm, cao bằng 1/2 đáy. Diện tích?",
+      "choices": [
+        "180 cm2",
+        "160 cm2",
+        "90 cm2",
+        "162 cm2"
+      ],
+      "answer": "162 cm2",
+      "hint": "Cao 9cm; 18×9=162."
+    },
+    {
+      "id": "sr4_geometry_q8",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "multiple_choice",
+      "question": "Hình bình hành đáy 55dm, cao 34dm. Diện tích?",
+      "choices": [
+        "1870 dm2",
+        "1807 dm2",
+        "1670 dm2",
+        "1580 dm2"
+      ],
+      "answer": "1870 dm2",
+      "hint": "55×34=1870 dm²."
+    },
+    {
+      "id": "sr4_geometry_q9",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "59 dm² 90 cm² = ? cm²",
+      "answer": "5990",
+      "hint": "59×100+90=5990 cm²."
+    },
+    {
+      "id": "sr4_geometry_q10",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "6 m² 9 dm² = ? dm²",
+      "answer": "609",
+      "hint": "6 m²=600 dm²; +9=609."
+    },
+    {
+      "id": "sr4_geometry_q11",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "input",
+      "question": "23 dm² 24 cm² = ? cm²",
+      "answer": "2324",
+      "hint": "23×100+24=2324 cm²."
+    },
+    {
+      "id": "sr4_geometry_q12",
+      "skill": "sr4_geometry",
+      "topic": "sr4_geometry",
+      "type": "multiple_choice",
+      "question": "Nửa chu vi HCN 24cm, chiều dài 15cm. Diện tích?",
+      "choices": [
+        "135 cm2",
+        "90 cm2",
+        "180 cm2",
+        "360 cm2"
+      ],
+      "answer": "135 cm2",
+      "hint": "Rộng 9cm; 15×9=135."
+    },
+    {
+      "id": "sr4_word_q1",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Mẹ 49 tuổi, con bằng 2/7 tuổi mẹ. Con ? tuổi",
+      "answer": "14",
+      "hint": "49×2/7=14."
+    },
+    {
+      "id": "sr4_word_q2",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Tổng hai số 100, tỉ 2:3. Số bé = ?",
+      "answer": "40",
+      "hint": "100:(2+3)×2=40."
+    },
+    {
+      "id": "sr4_word_q3",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Tổng hai số 130, tỉ 4:9. Số lớn = ?",
+      "answer": "90",
+      "hint": "130−40=90."
+    },
+    {
+      "id": "sr4_word_q4",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Hiệu hai số 36, tỉ 8:5. Số thứ nhất = ?",
+      "answer": "96",
+      "hint": "36:(8−5)×8=96."
+    },
+    {
+      "id": "sr4_word_q5",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Mẹ hơn con 27 tuổi, tổng tuổi 48. Tuổi con = ?",
+      "answer": "12",
+      "hint": "(48−27):2 không đúng; mẹ 3×con → 48:4=12."
+    },
+    {
+      "id": "sr4_word_q6",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Tổng tuổi mẹ con 33, mẹ hơn con 27. Tuổi con = ?",
+      "answer": "3",
+      "hint": "(33−27):2=3."
+    },
+    {
+      "id": "sr4_word_q7",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Lớp 35 HS, trai = 2/5 số gái. Số trai = ?",
+      "answer": "10",
+      "hint": "Gái 25, trai 10."
+    },
+    {
+      "id": "sr4_word_q8",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Vải xanh = 2/5 vải đỏ, ngắn hơn 12m. Vải xanh = ? m",
+      "answer": "8",
+      "hint": "Hiệu 3 phần =12 → 1 phần 4m; xanh 8m."
+    },
+    {
+      "id": "sr4_word_q9",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Trung bình 2 thửa: 1070 và 1456 kg. TB mỗi thửa = ? kg",
+      "answer": "1263",
+      "hint": "(1070+1456):2=1263."
+    },
+    {
+      "id": "sr4_word_q10",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Thửa ruộng 60m×(60×2/5)m, 100m² thu 50kg. Thu ? kg",
+      "answer": "1200",
+      "hint": "Rộng 24m; DT=1440m²; 1440/100×50."
+    },
+    {
+      "id": "sr4_word_q11",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Hiệu-tỉ 360, tỉ 7:4. Số bé = ?",
+      "answer": "480",
+      "hint": "360:(7−4)×4=480."
+    },
+    {
+      "id": "sr4_word_q12",
+      "skill": "sr4_word",
+      "topic": "sr4_word",
+      "type": "input",
+      "question": "Vườn chu vi 180m, dài hơn rộng 22m. Diện tích = ? m2",
+      "answer": "1904",
+      "hint": "Nửa CV 90; rộng 34, dài 56; 34×56."
+    },
+    {
+      "id": "exam4_1_q1",
+      "skill": "exam4_1",
+      "exam": "exam4_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Tích 5674 × 125 = ?",
+      "choices": [
+        "709250",
+        "709520",
+        "702950",
+        "705920"
+      ],
+      "answer": "709250",
+      "hint": "5674×125=709250."
+    },
+    {
+      "id": "exam4_1_q2",
+      "skill": "exam4_1",
+      "exam": "exam4_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — MSC quy đồng mẫu số 3/4 và 5/6 là?",
+      "choices": [
+        "27",
+        "18",
+        "12",
+        "36"
+      ],
+      "answer": "18",
+      "hint": "MSC(4,6)=12; quy đồng → 18."
+    },
+    {
+      "id": "exam4_1_q3",
+      "skill": "exam4_1",
+      "exam": "exam4_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Tính: 48×49 + 51×48 = ?",
+      "choices": [
+        "4900",
+        "5100",
+        "4800",
+        "4951"
+      ],
+      "answer": "4800",
+      "hint": "48×(49+51)=4800."
+    },
+    {
+      "id": "exam4_1_q4",
+      "skill": "exam4_1",
+      "exam": "exam4_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — 4 giờ 25 giây = ? giây",
+      "choices": [
+        "14452",
+        "14425",
+        "265",
+        "5785"
+      ],
+      "answer": "14425",
+      "hint": "4×3600+25=14425."
+    },
+    {
+      "id": "exam4_1_q5",
+      "skill": "exam4_1",
+      "exam": "exam4_1",
+      "type": "multiple_choice",
+      "question": "Đề 1 — 4 giờ 24 phút = ? phút",
+      "choices": [
+        "264",
+        "268",
+        "424",
+        "286"
+      ],
+      "answer": "264",
+      "hint": "4×60+24=264."
+    },
+    {
+      "id": "exam4_2_q1",
+      "skill": "exam4_2",
+      "exam": "exam4_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — 15 m² = ? cm²",
+      "choices": [
+        "150",
+        "150000",
+        "15000",
+        "1500"
+      ],
+      "answer": "150000",
+      "hint": "1 m²=10000 cm²."
+    },
+    {
+      "id": "exam4_2_q2",
+      "skill": "exam4_2",
+      "exam": "exam4_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — 3 tấn 5 tạ = ? kg",
+      "choices": [
+        "3500",
+        "3005",
+        "350",
+        "305"
+      ],
+      "answer": "3500",
+      "hint": "3000+500=3500 kg."
+    },
+    {
+      "id": "exam4_2_q3",
+      "skill": "exam4_2",
+      "exam": "exam4_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Tổ 12 bạn, 5 nữ. Tỉ nam:nữ = ?",
+      "choices": [
+        "7/5",
+        "5/7",
+        "7/12",
+        "5/12"
+      ],
+      "answer": "7/5",
+      "hint": "Nam 7, nữ 5."
+    },
+    {
+      "id": "exam4_2_q4",
+      "skill": "exam4_2",
+      "exam": "exam4_2",
+      "type": "multiple_choice",
+      "question": "Đề 2 — 36576:(4×2)−3708 = ?",
+      "choices": [
+        "863",
+        "864",
+        "846",
+        "854"
+      ],
+      "answer": "864",
+      "hint": "36576:8−3708=864."
+    },
+    {
+      "id": "exam4_2_q5",
+      "skill": "exam4_2",
+      "exam": "exam4_2",
+      "type": "input",
+      "question": "Đề 2 — Tổng hai số 100, tỉ 2:3. Số bé = ?",
+      "answer": "40",
+      "hint": "100:(2+3)×2=40."
+    },
+    {
+      "id": "exam4_3_q1",
+      "skill": "exam4_3",
+      "exam": "exam4_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Tích 2309 × 107 = ?",
+      "choices": [
+        "247063",
+        "246063",
+        "247003",
+        "247603"
+      ],
+      "answer": "247063",
+      "hint": "Đặt tính nhân."
+    },
+    {
+      "id": "exam4_3_q2",
+      "skill": "exam4_3",
+      "exam": "exam4_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — 3 giờ 15 phút = ? phút",
+      "choices": [
+        "185",
+        "195",
+        "193",
+        "155"
+      ],
+      "answer": "195",
+      "hint": "3×60+15=195."
+    },
+    {
+      "id": "exam4_3_q3",
+      "skill": "exam4_3",
+      "exam": "exam4_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Tính: 35×49 + 51×35 = ?",
+      "choices": [
+        "3600",
+        "5100",
+        "3500",
+        "5140"
+      ],
+      "answer": "3500",
+      "hint": "35×(49+51)=3500."
+    },
+    {
+      "id": "exam4_3_q4",
+      "skill": "exam4_3",
+      "exam": "exam4_3",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Hình thoi AC=10cm, BD=20cm. Diện tích?",
+      "choices": [
+        "100 cm2",
+        "200 cm2",
+        "300 cm2",
+        "400 cm2"
+      ],
+      "answer": "100 cm2",
+      "hint": "(10×20):2=100."
+    },
+    {
+      "id": "exam4_3_q5",
+      "skill": "exam4_3",
+      "exam": "exam4_3",
+      "type": "input",
+      "question": "Đề 3 — Mẹ hơn con 27 tuổi, sau 3 năm mẹ gấp 4 lần con. Tuổi con hiện nay?",
+      "answer": "6",
+      "hint": "Hiện mẹ 33, con 6."
+    },
+    {
+      "id": "exam4_4_q1",
+      "skill": "exam4_4",
+      "exam": "exam4_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — Số chia hết cho 2, 3, 5 trong 2010;1785;1209;4250?",
+      "choices": [
+        "2010",
+        "1785",
+        "1209",
+        "4250"
+      ],
+      "answer": "2010",
+      "hint": "2010 thỏa cả ba."
+    },
+    {
+      "id": "exam4_4_q2",
+      "skill": "exam4_4",
+      "exam": "exam4_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — 2 yến 5 kg = ? kg",
+      "choices": [
+        "250",
+        "2005",
+        "25",
+        "205"
+      ],
+      "answer": "25",
+      "hint": "2 yến=20kg; +5=25."
+    },
+    {
+      "id": "exam4_4_q3",
+      "skill": "exam4_4",
+      "exam": "exam4_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — Hình bình hành có ? cặp cạnh song song",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "hint": "HBH có 2 cặp."
+    },
+    {
+      "id": "exam4_4_q4",
+      "skill": "exam4_4",
+      "exam": "exam4_4",
+      "type": "multiple_choice",
+      "question": "Đề 4 — 23 dm² 24 cm² = ? cm²",
+      "choices": [
+        "2324",
+        "23024",
+        "23424",
+        "230024"
+      ],
+      "answer": "2324",
+      "hint": "2300+24=2324."
+    },
+    {
+      "id": "exam4_4_q5",
+      "skill": "exam4_4",
+      "exam": "exam4_4",
+      "type": "input",
+      "question": "Đề 4 — Thửa ruộng nửa chu vi 136m, dài = 5/3 rộng. Diện tích = ? m2",
+      "answer": "4335",
+      "hint": "Tìm dài rộng rồi nhân."
+    },
+    {
+      "id": "exam4_5_q1",
+      "skill": "exam4_5",
+      "exam": "exam4_5",
+      "type": "multiple_choice",
+      "question": "Đề 5 — Chữ số * trong 13* để chia hết 3 và 5?",
+      "choices": [
+        "2",
+        "5",
+        "0",
+        "8"
+      ],
+      "answer": "5",
+      "hint": "Tận cùng 5, tổng CS chia 3."
+    },
+    {
+      "id": "exam4_5_q2",
+      "skill": "exam4_5",
+      "exam": "exam4_5",
+      "type": "multiple_choice",
+      "question": "Đề 5 — Hình thoi chéo 3dm và 6dm. Diện tích?",
+      "choices": [
+        "18 dm2",
+        "9 dm2",
+        "9 dm",
+        "18 dm"
+      ],
+      "answer": "9 dm2",
+      "hint": "(3×6):2=9."
+    },
+    {
+      "id": "exam4_5_q3",
+      "skill": "exam4_5",
+      "exam": "exam4_5",
+      "type": "multiple_choice",
+      "question": "Đề 5 — Con dê nhẹ hơn lợn 24kg, dê = 2/5 lợn. Dê nặng ? kg",
+      "choices": [
+        "26",
+        "36",
+        "46",
+        "56"
+      ],
+      "answer": "36",
+      "hint": "Hiệu 3 phần=24."
+    },
+    {
+      "id": "exam4_5_q4",
+      "skill": "exam4_5",
+      "exam": "exam4_5",
+      "type": "input",
+      "question": "Đề 5 — Tổng tuổi mẹ con 48, mẹ gấp 3 con. Tuổi con = ?",
+      "answer": "12",
+      "hint": "48:4=12."
+    },
+    {
+      "id": "exam4_5_q5",
+      "skill": "exam4_5",
+      "exam": "exam4_5",
+      "type": "input",
+      "question": "Đề 5 — Ruộng 60m×24m, 100m² thu 50kg. Thu ? kg",
+      "answer": "1200",
+      "hint": "1440m² → 1200 kg."
+    },
+    {
+      "id": "exam4_6_q1",
+      "skill": "exam4_6",
+      "exam": "exam4_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — 43659 : 63 có thương?",
+      "choices": [
+        "693",
+        "639",
+        "596",
+        "722"
+      ],
+      "answer": "693",
+      "hint": "Đặt tính chia."
+    },
+    {
+      "id": "exam4_6_q2",
+      "skill": "exam4_6",
+      "exam": "exam4_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — 73038 g = ? kg ? g",
+      "choices": [
+        "73;38",
+        "7;3038",
+        "73;83",
+        "7303;8"
+      ],
+      "answer": "73;38",
+      "hint": "73038 g = 73 kg 38 g."
+    },
+    {
+      "id": "exam4_6_q3",
+      "skill": "exam4_6",
+      "exam": "exam4_6",
+      "type": "multiple_choice",
+      "question": "Đề 6 — Khoảng thời gian dài nhất?",
+      "choices": [
+        "85 phút",
+        "2 giờ 5 phút",
+        "1 giờ 5 phút",
+        "128 phút"
+      ],
+      "answer": "128 phút",
+      "hint": "128 phút > 125 phút."
+    },
+    {
+      "id": "exam4_6_q4",
+      "skill": "exam4_6",
+      "exam": "exam4_6",
+      "type": "input",
+      "question": "Đề 6 — Lát phòng 8m×5m, gạch 20cm. Cần ? viên",
+      "answer": "1000",
+      "hint": "40×25=1000 viên."
+    },
+    {
+      "id": "exam4_6_q5",
+      "skill": "exam4_6",
+      "exam": "exam4_6",
+      "type": "input",
+      "question": "Đề 6 — TB 2 thửa 1070 và 1456 kg thóc. TB = ? kg",
+      "answer": "1263",
+      "hint": "(1070+1456):2=1263."
+    },
+    {
+      "id": "exam4_7_q1",
+      "skill": "exam4_7",
+      "exam": "exam4_7",
+      "type": "input",
+      "question": "Đề 7 — Số liền sau 1 283 945 = ?",
+      "answer": "1283946",
+      "hint": "+1."
+    },
+    {
+      "id": "exam4_7_q2",
+      "skill": "exam4_7",
+      "exam": "exam4_7",
+      "type": "multiple_choice",
+      "question": "Đề 7 — Số chia hết 2,3,5,9 trong 57234;4110;77285;64620?",
+      "choices": [
+        "57234",
+        "4110",
+        "77285",
+        "64620"
+      ],
+      "answer": "64620",
+      "hint": "64620 thỏa tất cả."
+    },
+    {
+      "id": "exam4_7_q3",
+      "skill": "exam4_7",
+      "exam": "exam4_7",
+      "type": "input",
+      "question": "Đề 7 — 3 giờ 15 phút = ? phút",
+      "answer": "195",
+      "hint": "195 phút."
+    },
+    {
+      "id": "exam4_7_q4",
+      "skill": "exam4_7",
+      "exam": "exam4_7",
+      "type": "input",
+      "question": "Đề 7 — 2 tấn 65 kg = ? kg",
+      "answer": "2065",
+      "hint": "2000+65=2065."
+    },
+    {
+      "id": "exam4_7_q5",
+      "skill": "exam4_7",
+      "exam": "exam4_7",
+      "type": "input",
+      "question": "Đề 7 — Tính thuận tiện (32+55)×8+8×12+8 = ?",
+      "answer": "800",
+      "hint": "Gom nhân 8."
+    },
+    {
+      "id": "exam4_8_q1",
+      "skill": "exam4_8",
+      "exam": "exam4_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — Giá trị chữ số 5 trong 75 136 217?",
+      "choices": [
+        "500000",
+        "5000000",
+        "50000",
+        "5000"
+      ],
+      "answer": "5000000",
+      "hint": "5 ở hàng triệu lớp triệu thứ 2."
+    },
+    {
+      "id": "exam4_8_q2",
+      "skill": "exam4_8",
+      "exam": "exam4_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — 7 dm² 2 cm² = ? cm²",
+      "choices": [
+        "72",
+        "702",
+        "7002",
+        "70022"
+      ],
+      "answer": "702",
+      "hint": "7 dm²=700 cm²; +2=702."
+    },
+    {
+      "id": "exam4_8_q3",
+      "skill": "exam4_8",
+      "exam": "exam4_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — Số chia hết 2,3,5 trong 2507;2010;7925;3200?",
+      "choices": [
+        "2010",
+        "2507",
+        "7925",
+        "3200"
+      ],
+      "answer": "2010",
+      "hint": "2010 thỏa điều kiện."
+    },
+    {
+      "id": "exam4_8_q4",
+      "skill": "exam4_8",
+      "exam": "exam4_8",
+      "type": "multiple_choice",
+      "question": "Đề 8 — Hiệu 9, tỉ 2:1. Số bé = ?",
+      "choices": [
+        "18",
+        "9",
+        "27",
+        "15"
+      ],
+      "answer": "9",
+      "hint": "9:(2−1)×1=9."
+    },
+    {
+      "id": "exam4_8_q5",
+      "skill": "exam4_8",
+      "exam": "exam4_8",
+      "type": "input",
+      "question": "Đề 8 — Tổng tuổi mẹ con 33, mẹ hơn con 27. Tuổi mẹ = ?",
+      "answer": "30",
+      "hint": "Con 3, mẹ 30."
+    },
+    {
+      "id": "exam4_9_q1",
+      "skill": "exam4_9",
+      "exam": "exam4_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — Số 5 triệu, 7 chục nghìn, 6 trăm viết là?",
+      "choices": [
+        "5070600",
+        "5007600",
+        "5700600",
+        "5706000"
+      ],
+      "answer": "5070600",
+      "hint": "5 070 600."
+    },
+    {
+      "id": "exam4_9_q2",
+      "skill": "exam4_9",
+      "exam": "exam4_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — Số lớn nhất: 5785; 6874; 6784; 6487?",
+      "choices": [
+        "5785",
+        "6784",
+        "6874",
+        "6487"
+      ],
+      "answer": "6874",
+      "hint": "6874 lớn nhất."
+    },
+    {
+      "id": "exam4_9_q3",
+      "skill": "exam4_9",
+      "exam": "exam4_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — TB cộng 36; 42; 57 = ?",
+      "choices": [
+        "35",
+        "305",
+        "145",
+        "45"
+      ],
+      "answer": "45",
+      "hint": "135:3=45."
+    },
+    {
+      "id": "exam4_9_q4",
+      "skill": "exam4_9",
+      "exam": "exam4_9",
+      "type": "multiple_choice",
+      "question": "Đề 9 — 1 tấn 2 kg = ? kg",
+      "choices": [
+        "12",
+        "102",
+        "1002",
+        "10002"
+      ],
+      "answer": "1002",
+      "hint": "1000+2=1002."
+    },
+    {
+      "id": "exam4_9_q5",
+      "skill": "exam4_9",
+      "exam": "exam4_9",
+      "type": "input",
+      "question": "Đề 9 — Vườn chu vi 180m, dài hơn rộng 22m. Diện tích = ? m2",
+      "answer": "1904",
+      "hint": "Rộng 34, dài 56."
+    },
+    {
+      "id": "exam4_10_q1",
+      "skill": "exam4_10",
+      "exam": "exam4_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — 59 dm² 90 cm² = ? cm²",
+      "choices": [
+        "9950",
+        "9905",
+        "9590",
+        "5990"
+      ],
+      "answer": "5990",
+      "hint": "5900+90=5990."
+    },
+    {
+      "id": "exam4_10_q2",
+      "skill": "exam4_10",
+      "exam": "exam4_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — HBH đáy 55dm, cao 34dm. Diện tích?",
+      "choices": [
+        "1580 dm2",
+        "1670 dm2",
+        "1807 dm2",
+        "1870 dm2"
+      ],
+      "answer": "1870 dm2",
+      "hint": "55×34=1870."
+    },
+    {
+      "id": "exam4_10_q3",
+      "skill": "exam4_10",
+      "exam": "exam4_10",
+      "type": "multiple_choice",
+      "question": "Đề 10 — Lớp 18 nữ, 12 nam. Nam chiếm ? phần cả lớp",
+      "choices": [
+        "12/30",
+        "18/30",
+        "12/18",
+        "2/5"
+      ],
+      "answer": "12/30",
+      "hint": "12/30 = 2/5."
+    },
+    {
+      "id": "exam4_10_q4",
+      "skill": "exam4_10",
+      "exam": "exam4_10",
+      "type": "input",
+      "question": "Đề 10 — Khối 70 HS, nam = 3/7 khối. Số nữ = ?",
+      "answer": "40",
+      "hint": "Nam 30, nữ 40."
+    },
+    {
+      "id": "exam4_10_q5",
+      "skill": "exam4_10",
+      "exam": "exam4_10",
+      "type": "input",
+      "question": "Đề 10 — Tổng-hiệu: hiệu 360, tỉ 7:4. Số lớn = ?",
+      "answer": "840",
+      "hint": "Bé 480, lớn 840."
+    }
+  ]
+}
