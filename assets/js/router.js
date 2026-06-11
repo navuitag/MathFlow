@@ -24,6 +24,7 @@ import { showModal } from "../../components/modal.js";
 import { renderVisualization, bindVisualizations } from "../../modules/visualization.js";
 import { createPracticeModule } from "../../modules/practiceModes.js";
 import { createSummerReviewModule } from "../../modules/summerReview.js";
+import { createSpecialTopicsModule } from "../../modules/specialTopics.js";
 import { chapterMindMapHref, createMindMapModule } from "../../modules/mindMap.js";
 import { completeLesson } from "../../modules/lessonEngine.js";
 import { submitAnswer } from "../../modules/quizEngine.js";
@@ -46,6 +47,7 @@ let data = {
 
 let practice;
 let summerReview;
+let specialTopics;
 let mindMap;
 let mindMapGroupMode = MINDMAP_CONFIG.defaultGroupMode;
 
@@ -73,6 +75,11 @@ export function configureRouter(appData) {
     getState,
     renderRoute,
     setRoute,
+    notFound,
+    escapeHtml
+  });
+  specialTopics = createSpecialTopicsModule({
+    data,
     notFound,
     escapeHtml
   });
@@ -183,6 +190,19 @@ export function renderRoute() {
       }
     } else {
       content = summerReview.renderHub(packId, state);
+    }
+  } else if (route === "special-topic") {
+    if (id === "overview" && sub) {
+      content = specialTopics.renderOverview(sub);
+      after = () => specialTopics.bindViewer();
+    } else if (id && (sub === "pdf" || sub === "image")) {
+      content = specialTopics.renderTopicViewer(id, sub);
+      after = () => specialTopics.bindViewer();
+    } else if (id) {
+      content = specialTopics.renderTopicViewer(id, "pdf");
+      after = () => specialTopics.bindViewer();
+    } else {
+      content = specialTopics.renderCatalog();
     }
   } else if (route === "review") {
     content = renderErrors(state);
@@ -302,6 +322,14 @@ function renderHome(state) {
         <p>Game hóa với sao, combo XP và lộ trình mở khóa. ${srSummary}.</p>
       </div>
       <a class="btn primary" href="#/summer">Vào ôn hè ☀️</a>
+    </section>
+    <section class="summer-banner st-home-banner">
+      <div>
+        <span class="tag">Chuyên đề · 17 chủ đề</span>
+        <h2>Tài liệu chuyên đề Toán — xem PDF & sơ đồ</h2>
+        <p>Hằng đẳng thức, phân thức, phương trình, hình học… xem trực tiếp trên trình duyệt.</p>
+      </div>
+      <a class="btn secondary" href="#/special-topic">Mở thư viện 📚</a>
     </section>
     <section class="hero-panel">
       <div>

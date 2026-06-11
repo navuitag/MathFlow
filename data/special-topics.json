@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "title": "Chuyên đề Toán",
+    "subtitle": "20 chuyên đề — xem PDF và sơ đồ trực tiếp trên hệ thống",
+    "topicCount": 17,
+    "source": "Bộ tài liệu chuyên đề trong thư mục special-topic/"
+  },
+  "overviews": [
+    {
+      "id": "overview-20-chuyen-de-toan",
+      "title": "Tổng quan 20 chuyên đề Toán",
+      "file": "special-topic/00.20-chuyen-de-toan.png"
+    },
+    {
+      "id": "overview-bieu-thuc-va-gia-tri-bieu-thuc",
+      "title": "Biểu thức và giá trị biểu thức",
+      "file": "special-topic/00.Bieu-thuc-va-Gia-tri-bieu-thuc.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": "algebra",
+      "title": "Đại số",
+      "emoji": "📐"
+    },
+    {
+      "id": "geometry",
+      "title": "Hình học",
+      "emoji": "📏"
+    }
+  ],
+  "topics": [
+    {
+      "id": "cd01",
+      "order": 1,
+      "code": "CD01",
+      "title": "Hằng đẳng thức",
+      "slug": "Hang-dang-thuc",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "01.CD01_Hang-dang-thuc",
+      "pdf": "special-topic/01.CD01_Hang-dang-thuc/01.Hang-dang-thuc.pdf",
+      "image": "special-topic/01.CD01_Hang-dang-thuc/01.Hang-dang-thuc.png"
+    },
+    {
+      "id": "cd02",
+      "order": 2,
+      "code": "CD02",
+      "title": "Phân tích đa thức thành nhân tử",
+      "slug": "Phan-tich-da-thuc-thanh-nhan-tu",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "02.CD02_Phan-tich-da-thuc-thanh-nhan-tu",
+      "pdf": "special-topic/02.CD02_Phan-tich-da-thuc-thanh-nhan-tu/02.Phan-tich-da-thuc-thanh-nhan-tu.pdf",
+      "image": "special-topic/02.CD02_Phan-tich-da-thuc-thanh-nhan-tu/02.Phan-tich-da-thuc-thanh-nhan-tu.png"
+    },
+    {
+      "id": "cd03",
+      "order": 3,
+      "code": "CD03",
+      "title": "Phân thức đại số",
+      "slug": "Phan-thuc-dai-so",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "03.CD03_Phan-thuc-dai-so",
+      "pdf": "special-topic/03.CD03_Phan-thuc-dai-so/03.Phan-thuc-dai-so.pdf",
+      "image": "special-topic/03.CD03_Phan-thuc-dai-so/03.Phan-thuc-dai-so.png"
+    },
+    {
+      "id": "cd04",
+      "order": 4,
+      "code": "CD04",
+      "title": "Biểu thức đại số",
+      "slug": "Bieu-thuc-dai-so",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "04.CD04_Bieu-thuc-dai-so",
+      "pdf": "special-topic/04.CD04_Bieu-thuc-dai-so/04.Bieu-thuc-dai-so.pdf",
+      "image": "special-topic/04.CD04_Bieu-thuc-dai-so/04.Bieu-thuc-dai-so.png"
+    },
+    {
+      "id": "cd05",
+      "order": 5,
+      "code": "CD05",
+      "title": "Phương trình chứa ẩn ở mẫu",
+      "slug": "Phuong-trinh-chua-an-o-mau",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "05.CD05_Phuong-trinh-chua-an-o-mau",
+      "pdf": "special-topic/05.CD05_Phuong-trinh-chua-an-o-mau/05.Phuong-trinh-chua-an-o-mau.pdf",
+      "image": "special-topic/05.CD05_Phuong-trinh-chua-an-o-mau/05.Phuong-trinh-chua-an-o-mau.png"
+    },
+    {
+      "id": "cd06",
+      "order": 6,
+      "code": "CD06",
+      "title": "Phương trình tích",
+      "slug": "Phuong-trinh-tich",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "06.CD06_Phuong-trinh-tich",
+      "pdf": "special-topic/06.CD06_Phuong-trinh-tich/06.Phuong-trinh-tich.pdf",
+      "image": "special-topic/06.CD06_Phuong-trinh-tich/06.Phuong-trinh-tich.png"
+    },
+    {
+      "id": "cd07",
+      "order": 7,
+      "code": "CD07",
+      "title": "Phương trình bậc nhất hai ẩn số",
+      "slug": "Phuong-trinh-bac-nhat-2-an-so",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "07.CD07_Phuong-trinh-bac-nhat-2-an-so",
+      "pdf": "special-topic/07.CD07_Phuong-trinh-bac-nhat-2-an-so/07.Phuong-trinh-bac-nhat-2-an-so.pdf",
+      "image": "special-topic/07.CD07_Phuong-trinh-bac-nhat-2-an-so/07.Phuong-trinh-bac-nhat-2-an-so.png"
+    },
+    {
+      "id": "cd08",
+      "order": 8,
+      "code": "CD08",
+      "title": "Đồ thị hàm số",
+      "slug": "Do-thi-ham-so",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "08.CD08_Do-thi-ham-so",
+      "pdf": "special-topic/08.CD08_Do-thi-ham-so/08.Do-thi-ham-so.pdf",
+      "image": "special-topic/08.CD08_Do-thi-ham-so/08.Do-thi-ham-so.png"
+    },
+    {
+      "id": "cd09",
+      "order": 9,
+      "code": "CD09",
+      "title": "Căn bậc hai",
+      "slug": "Can-bac-hai",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "09.CD09_Can-bac-hai",
+      "pdf": "special-topic/09.CD09_Can-bac-hai/09.Can-bac-hai.pdf",
+      "image": "special-topic/09.CD09_Can-bac-hai/09.Can-bac-hai.png"
+    },
+    {
+      "id": "cd10",
+      "order": 10,
+      "code": "CD10",
+      "title": "Biến đổi căn thức",
+      "slug": "Bien-doi-can-thuc",
+      "category": "algebra",
+      "categoryTitle": "Đại số",
+      "folder": "10.CD10_Bien-doi-can-thuc",
+      "pdf": "special-topic/10.CD10_Bien-doi-can-thuc/10.Bien-doi-can-thuc.pdf",
+      "image": "special-topic/10.CD10_Bien-doi-can-thuc/10.Bien-doi-can-thuc.png"
+    },
+    {
+      "id": "cd11",
+      "order": 11,
+      "code": "CD11",
+      "title": "Tam giác",
+      "slug": "Tam-giac",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "11.CD11_Tam-giac",
+      "pdf": "special-topic/11.CD11_Tam-giac/11.Tam-giac.pdf",
+      "image": "special-topic/11.CD11_Tam-giac/11.Tam-giac.png"
+    },
+    {
+      "id": "cd12",
+      "order": 12,
+      "code": "CD12",
+      "title": "Tam giác đồng dạng",
+      "slug": "Tam-giac-dong-dang",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "12.CD12_Tam-giac-dong-dang",
+      "pdf": "special-topic/12.CD12_Tam-giac-dong-dang/12.Tam-giac-dong-dang.pdf",
+      "image": "special-topic/12.CD12_Tam-giac-dong-dang/12.Tam-giac-dong-dang.png"
+    },
+    {
+      "id": "cd13",
+      "order": 13,
+      "code": "CD13",
+      "title": "Định lý Pythagoras",
+      "slug": "Dinh-ly-Pythagoras",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "13.CD13_Dinh-ly-Pythagoras",
+      "pdf": "special-topic/13.CD13_Dinh-ly-Pythagoras/13.Dinh-ly-Pythagoras.pdf",
+      "image": "special-topic/13.CD13_Dinh-ly-Pythagoras/13.Dinh-ly-Pythagoras.png"
+    },
+    {
+      "id": "cd14",
+      "order": 14,
+      "code": "CD14",
+      "title": "Đường tròn",
+      "slug": "Duong-tron",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "14.CD14_Duong-tron",
+      "pdf": "special-topic/14.CD14_Duong-tron/14.Duong-tron.pdf",
+      "image": "special-topic/14.CD14_Duong-tron/14.Duong-tron.png"
+    },
+    {
+      "id": "cd15",
+      "order": 15,
+      "code": "CD15",
+      "title": "Tiếp tuyến đường tròn",
+      "slug": "Tiep-tuyen-duong-tron",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "15.CD15_Tiep-tuyen-duong-tron",
+      "pdf": "special-topic/15.CD15_Tiep-tuyen-duong-tron/15.Tiep-tuyen-duong-tron.pdf",
+      "image": "special-topic/15.CD15_Tiep-tuyen-duong-tron/15.Tiep-tuyen-duong-tron.png"
+    },
+    {
+      "id": "cd16",
+      "order": 16,
+      "code": "CD16",
+      "title": "Tứ giác nội tiếp",
+      "slug": "Tu-giac-noi-tiep",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "16.CD16_Tu-giac-noi-tiep",
+      "pdf": "special-topic/16.CD16_Tu-giac-noi-tiep/16.Tu-giac-noi-tiep.pdf",
+      "image": "special-topic/16.CD16_Tu-giac-noi-tiep/16.Tu-giac-noi-tiep.png"
+    },
+    {
+      "id": "cd17",
+      "order": 17,
+      "code": "CD17",
+      "title": "Hình học tổng hợp",
+      "slug": "Hinh-hoc-tong-hop",
+      "category": "geometry",
+      "categoryTitle": "Hình học",
+      "folder": "17.CD17_Hinh-hoc-tong-hop",
+      "pdf": "special-topic/17.CD17_Hinh-hoc-tong-hop/17.Hinh-hoc-tong-hop.pdf",
+      "image": "special-topic/17.CD17_Hinh-hoc-tong-hop/17.Hinh-hoc-tong-hop.png"
+    }
+  ]
+}
