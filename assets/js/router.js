@@ -325,7 +325,7 @@ function renderHome(state) {
     </section>
     <section class="summer-banner st-home-banner">
       <div>
-        <span class="tag">Chuyên đề · 17 chủ đề</span>
+        <span class="tag">Chuyên đề · ${data.specialTopics?.meta?.topicCount || 18} chủ đề</span>
         <h2>Tài liệu chuyên đề Toán — xem PDF & sơ đồ</h2>
         <p>Hằng đẳng thức, phân thức, phương trình, hình học… xem trực tiếp trên trình duyệt.</p>
       </div>

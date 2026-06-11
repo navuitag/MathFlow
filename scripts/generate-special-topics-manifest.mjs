@@ -24,7 +24,8 @@ const SLUG_TITLES = {
   "Duong-tron": "Đường tròn",
   "Tiep-tuyen-duong-tron": "Tiếp tuyến đường tròn",
   "Tu-giac-noi-tiep": "Tứ giác nội tiếp",
-  "Hinh-hoc-tong-hop": "Hình học tổng hợp"
+  "Hinh-hoc-tong-hop": "Hình học tổng hợp",
+  "Xac-suat-Thong-ke": "Xác suất và thống kê"
 };
 
 const OVERVIEW_TITLES = {
@@ -34,7 +35,8 @@ const OVERVIEW_TITLES = {
 
 const CATEGORY_BY_ORDER = [
   { max: 10, id: "algebra", title: "Đại số", emoji: "📐" },
-  { max: 17, id: "geometry", title: "Hình học", emoji: "📏" }
+  { max: 17, id: "geometry", title: "Hình học", emoji: "📏" },
+  { max: 99, id: "statistics", title: "Xác suất & thống kê", emoji: "📊" }
 ];
 
 function titleFromSlug(slug) {

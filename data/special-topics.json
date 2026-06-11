@@ -2,7 +2,7 @@
   "meta": {
     "title": "Chuyên đề Toán",
     "subtitle": "20 chuyên đề — xem PDF và sơ đồ trực tiếp trên hệ thống",
-    "topicCount": 17,
+    "topicCount": 18,
     "source": "Bộ tài liệu chuyên đề trong thư mục special-topic/"
   },
   "overviews": [
@@ -27,6 +27,11 @@
       "id": "geometry",
       "title": "Hình học",
       "emoji": "📏"
+    },
+    {
+      "id": "statistics",
+      "title": "Xác suất & thống kê",
+      "emoji": "📊"
     }
   ],
   "topics": [
@@ -233,6 +238,18 @@
       "folder": "17.CD17_Hinh-hoc-tong-hop",
       "pdf": "special-topic/17.CD17_Hinh-hoc-tong-hop/17.Hinh-hoc-tong-hop.pdf",
       "image": "special-topic/17.CD17_Hinh-hoc-tong-hop/17.Hinh-hoc-tong-hop.png"
+    },
+    {
+      "id": "cd18",
+      "order": 18,
+      "code": "CD18",
+      "title": "Xác suất và thống kê",
+      "slug": "Xac-suat-Thong-ke",
+      "category": "statistics",
+      "categoryTitle": "Xác suất & thống kê",
+      "folder": "18.CD18_Xac-suat-Thong-ke",
+      "pdf": "special-topic/18.CD18_Xac-suat-Thong-ke/18.Xac-suat-Thong-ke.pdf",
+      "image": "special-topic/18.CD18_Xac-suat-Thong-ke/18.Xac-suat-Thong-ke.png"
     }
   ]
 }
