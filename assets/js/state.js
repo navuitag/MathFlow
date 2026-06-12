@@ -18,6 +18,10 @@ function baseProgress() {
     summerReview: {
       packs: {}
     },
+    studyMinutesToday: 0,
+    studyMinutesTotal: 0,
+    studyLastDate: null,
+    studyDailyLog: [],
     lastStudiedDate: new Date().toISOString().slice(0, 10)
   };
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v19";
+const CACHE_NAME = "mathflow-vn-v20";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -14,6 +14,7 @@ const APP_SHELL = [
   "./assets/js/router.js",
   "./assets/js/state.js",
   "./assets/js/profileStore.js",
+  "./assets/js/studyTime.js",
   "./assets/js/utils.js",
   "./assets/js/mathFormat.js",
   "./assets/js/specialTopicMathFix.js",
