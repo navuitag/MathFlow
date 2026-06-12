@@ -155,3 +155,11 @@ Trạng thái người dùng (`localStorage` key: `mathflow_vn_state`):
 
 - `dac_ta_ky_thuat_duolingo_toan_thcs_vn.md` — Đặc tả kỹ thuật.
 - `tai_lieu_thiet_ke_chi_tiet_duolingo_toan_thcs_vn.md` — Thiết kế chi tiết.
+
+---
+
+## Tác giả
+
+- **Nguyễn Anh Vũ**
+- Email: [navuitag@gmail.com](mailto:navuitag@gmail.com)
+- Điện thoại: [0986201079](tel:+84986201079)

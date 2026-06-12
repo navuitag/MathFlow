@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v21";
+const CACHE_NAME = "mathflow-vn-v22";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -18,6 +18,8 @@ const APP_SHELL = [
   "./assets/js/edtechApps.js",
   "./components/edtechHub.js",
   "./assets/css/edtech-hub.css",
+  "./assets/js/author.js",
+  "./assets/css/author.css",
   "./assets/js/utils.js",
   "./assets/js/mathFormat.js",
   "./assets/js/specialTopicMathFix.js",
