@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v12";
+const CACHE_NAME = "mathflow-vn-v16";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -16,6 +16,7 @@ const APP_SHELL = [
   "./assets/js/profileStore.js",
   "./assets/js/utils.js",
   "./assets/js/mathFormat.js",
+  "./assets/js/specialTopicMathFix.js",
   "./modules/lessonEngine.js",
   "./modules/quizEngine.js",
   "./modules/errorEngine.js",
@@ -25,6 +26,7 @@ const APP_SHELL = [
   "./modules/mindMap.js",
   "./modules/summerReview.js",
   "./modules/specialTopics.js",
+  "./modules/specialTopicStudy.js",
   "./assets/css/summer-review.css",
   "./assets/css/special-topics.css",
   "./modules/progress.js",
@@ -42,6 +44,7 @@ const APP_SHELL = [
   "./data/errors.json",
   "./data/exercises.json",
   "./data/special-topics.json",
+  "./data/special-topic-study.json",
   "./data/workbook-g8-ch2-extra.json",
   "./data/summer-review.json",
   "./data/summer-review-g2-g3.json",

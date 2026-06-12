@@ -1,0 +1,17543 @@
+BÀI 7. CĂN BẬC HAI VÀ CĂN BẬC BA CỦA SỐ THỰC
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1 CĂN BẬC HAI
+Tìm hiểu khái niệm căn bậc hai
+Căn bậc hai của số thực không âm a là số thực x sao cho x 2 = a .
+Nhận xét
+- Số âm không có căn bậc hai;
+- Số 0 có một căn bậc hai duy nhất là 0 ;
+- Số dương a có đúng hai căn bậc hai đối nhau là
+
+a (căn bậc hai số học của a ) và − a .
+
+Ví dụ 1. Tìm căn bậc hai của 81.
+Tính căn bậc hai của một số bằng máy tính cầm tay
+Để tính các căn bậc hai của một số a > 0 , chỉ cần tính
+sử dụng MTCT.
+
+a . Có thể dễ dàng làm điều này bằng cách
+
+Ví dụ 2. Sử dụng MTCT, tính căn bậc hai của 11,1 (làm tròn đến chứ số thập phân thứ hai).
+Tính chất của căn bậc hai
+Tính chất:
+
+a 2 = a với mọi số thực a.
+
+Ví dụ 3. Không sử dụng MTCT, tính:
+a) 1 − 2 + (1 + 2) 2 ;
+
+b)
+
+(−3) 2 + 3 .
+
+2. CĂN THỨC BẬC HAI
+Căn thức bậc hai
+Tổng quát, ta có định nghĩa:
+•
+Căn thức bậc hai là biểu thức có dạng A , trong đó A là một biểu thức đại số. A được gọi
+là biểu thức lấy căn hoặc biểu thức dưới dấu căn.
+•
+A xác định khi A lấy giá trị không âm và ta thường viết là A ≥ 0 . Ta nói A ≥ 0 là điều
+kiện xác định (hay điều kiện có nghĩa) của A .
+Ví dụ 4. Xét căn thức
+
+2x +1 .
+
+a) Tìm điểu kiện xác định của căn thức.
+b) Tính giá trị của căn thức đã cho tại x = 0 và x = 4 .
+Hằng đẳng thức
+
+A2 =| A |
+
+Tương tự như căn bậc hai của một số thực không âm, với A là một biểu thức, ta cũng có:
+•
+
+Với A ≥ 0 ta có
+
+A ≥ 0;( A ) 2 =
+A;
+
+A2 =| A | .
+
+•
+
+Ví dụ 5. Rút gọn các biểu thức sau:
+b) 1 − 2x + x 2 với x > 2 .
+
+a) ( 1 − x ) 2 với x < 0 ;
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.1. Tìm căn bậc hai của mỗi số sau (làm tròn đến chữ số thập phân thứ hai):
+a) 24,5 ;
+
+b)
+
+9
+.
+10
+
+3.2. Để chuẩn bị trồng cây trên vỉa hè, người ta để lại những ô đất hình tròn có diện tích khoảng
+2 m 2 . Em hãy ước lượng (với độ chính xác 0,005 ) đường kính của các ô đất đó khoảng bao nhiêu
+mét?
+3.3. Tìm điều kiện xác định của
+3.4. Tính:
+
+5,12 ;
+
+x + 10 và tính giá trị của cǎn thức tại x = −1 .
+
+(−4,9) 2 ; − (−0, 001) 2 .
+
+3.5. Rút gọn các biểu thức sau:
+a)
+
+b) 3 x 2 − x + 1 ( x < 0) ;
+
+(2 − 5) 2 ;
+
+c)
+
+x 2 − 4 x + 4 ( x < 2) .
+
+3.6. Không dùng MTCT, chứng tỏ biểu thức A có giá trị là số nguyên:
+
+A = (1 + 2 2) 2 − (1 − 2 2) 2 .
+C. CÁC DẠNG TOÁN
+Dạng 1: So Sánh Hai Số
+1. Phương pháp
+Áp dụng: Với a ≥ 0, b ≥ 0 ta có: a < b ⇔ a < b .
+2. Ví dụ minh
+Ví dụ 1: So sánh:
+a) 3 và
+
+5
+
+b) 8 và
+
+c) 9 và
+
+63
+
+Ví dụ 2: So sánh các số :
+a. 2 31 và 10
+b. 2 + 3 và 3 + 2 .
+Ví dụ 3. Không dùng máy tính hoặc bảng số, hãy so sánh 8 và
+
+65 .
+
+Ví dụ 4. Không dùng máy tính hoặc bảng số, hãy so sánh 15 − 1 và 10 .
+Ví dụ 5. Với a < 0 thì số nào lớn hơn trong hai số
+
+−a và
+
+−2a ?
+
+Dạng 2. Tìm x thỏa điều kiện cho trước
+
+79
+
+1. Phương pháp giải
+Với a ≥ 0 :
+•
+
+x 2 = a khi x = ± a .
+
+•
+
+x = a khi x = a 2 .
+
+•
+
+x < a khi 0 ≤ x < a 2 .
+
+2. Ví dụ minh họa
+Ví dụ 1: Dùng máy tính bỏ túi, tính giá trị gần đúng của nghiệm mỗi phương trình sau ( làm tròn đến
+chữ số thập phân thứ ba):
+a) x 2 = 4,5 .
+
+c) x 2 = 7,5 .
+
+b) x 2 = 5 .
+
+d) x 2 = 9,12 .
+
+Ví dụ 2: Tìm x sao cho :
+a. x 2 = 16
+b. x 2 =
+
+9
+25
+
+c. x 2 = −4
+Ví dụ 3. số x không âm, biết:
+a)
+
+x = 15;
+
+b) 2 x = 14;
+
+c)
+
+x < 2;
+
+d)
+
+2 x < 4.
+
+Ví dụ 4. Tính cạnh của một hình vuông, biết diện tích của nó bằng diện tích của hình chữ nhật có
+chiều rộng 3,5 m và chiều dài 14 m.
+
+Dạng 3. Tìm điều kiện để A có nghĩa
+1. Phương pháp giải
+①
+
+A có nghĩa ⇔ A ≥ 0.
+
+②
+
+2. Ví dụ minh họa.
+
+1
+có nghĩa ⇔ A > 0.
+A
+
+Ví dụ 1: Với giá trị nào của a thì mỗi căn thức sau có nghĩa:
+a).
+
+a
+;
+3
+
+b).
+
+4 − a;
+
+c).
+
+−5a ;
+
+d).
+
+3a + 7.
+
+Ví dụ 2: Tìm x, để mỗi căn thức sau có nghĩa:
+b)
+
+a). 2 x + 7;
+
+c)
+
+−3 x + 4;
+
+1
+;
+−1 + x
+
+d) 1 + x 2 .
+
+Ví dụ 3: Với giá trị nào của a thì mỗi căn thức sau có nghĩa:
+a).
+
+1
+;
+a2
+
+a2 + 1
+;
+1 − 2a
+
+b)
+
+c)
+
+a 2 − 1;
+
+d) 4 − a 2 .
+
+Dạng 4. Tính giá trị biểu thức
+1. Phương pháp giải
+Áp dụng:
+
+ A neu A ≥ 0
+A2 = 
+− A neu A < 0.
+
+2. Ví dụ minh họa
+Ví dụ 1: Tính:
+a).
+
+( 0,1)2 ;
+
+b)
+2
+
+c). − ( −1,3) ;
+
+( −0,3)2 ;
+2
+
+d) −0, 4 ( −0, 4 ) .
+
+Ví dụ 2: Tính:
+a). 16. 25 + 196 : 49;
+
+b). 36 : 2.32.18 − 169;
+
+c).
+
+d).
+
+81;
+
+32 + 42 .
+
+Dạng 5. Rút gọn biểu thức
+1. Phương pháp giải:
+khi A ≥ 0
+A
+A
+= 
+− A khi A < 0
+Xét các trường hợp A ≥ 0 , A < 0 để bỏ dấu giá trị tuyệt đối.
+
+① Áp dụng
+②
+
+2
+A=
+
+A xác định ( có nghĩa) ⇔ A ≥ 0 .
+
+2. Ví dụ minh họa.
+Ví dụ 1. Rút gọn các biểu thức sau:
+a).
+
+( 4 − 15 ) + 15 ;
+
+b).
+
+c).
+
+7+4 3 + 7−4 3 ;
+
+d). 49a 2 , với a < 0 .
+
+2
+
+Ví dụ 2. Rút gọn các biểu thức sau:
+a). 25a 2 + 3a , với a < 0 ;
+b). 16a 4 + 6a 2 ;
+
+( 2 − 3 ) + (1 − 3 ) ;
+2
+
+2
+
+c). 3 9a 6 − 6a 3 , với a ≤ 0 ;
+d). a 2 + 6a + 9 + a 2 − 6a + 9 , với −3 ≤ a ≤ 3 .
+Ví dụ 3. Rút gọn các biểu thức sau:
+a).
+
+a −2
+, với a ≥ 0, a ≠ 4 ;
+a−4
+
+b).
+
+a + 2 a +1
+, với a ≥ 0, a ≠ 1 ;
+a −1
+
+Dạng 6. Giải phương trình
+1. Phương pháp giải
+Áp dụng:
+
+ A= B
+2
+.
+A=
+B2 ⇔ 
+ A = −B
+
+A2 = A ;
+
+2. Ví dụ minh họa
+Ví dụ 1. Tìm x biết:
+a).
+
+x2 = 5 ;
+
+b).
+
+25 x 2 = 10 ;
+
+b).
+
+4 x 2 − 28 x + 49 =
+7;
+
+c).
+
+x − 10 x + 25 =
+3.
+
+0;
+a). 4 x 2 − 64 =
+
+b).
+
+x 4 − 7 =;
+0
+
+2
+c). 9 x=
+2x +1 ;
+
+d).
+
+x 2 − 4 x + 4 − x 2 + 4 x + 4 =.
+0
+
+Ví dụ 2. Giải các phương trình sau:
+
+Ví dụ 3. Tính cạnh của hình vuông, biết diện tích hình vuông đó bằng diện tích tam giác vuông có
+hai cạnh góc vuông là 12,8 m và 40 m .
+Dạng 7: Phân Tích Đa Thức Thành Nhân Tử
+1. Phương pháp giải:
+ÁP dụng các công thức:
+
+A=
+
+( A ) (với A ≥ 0 ) .
+2
+
+A2 − B 2 = ( A − B )( A + B ) .
+2. Ví dụ minh họa.
+Ví dụ 1. Phân tích thành nhân tử:
+a). x 2 − 2 .
+
+b). x 2 − 7 .
+
+c). x 2 + 2 15 x + 15 .
+
+d). 4 x 2 − 4 3 x + 3 .
+Dạng 8: Chứng minh đẳng thức
+
+1. Phương pháp giải.
+Áp dụng
+Các hằng đẳng thức đáng nhớ.
+
+và A =
+
+( A ) để biến đổi vế trái thành vế phải hoặc ngược lại.
+2
+
+2. Ví dụ minh họa.
+Ví dụ 1. Chứng minh:
+a).
+
+( 5 − 1) =6 − 2 5 .
+2
+
+b).
+
+6−2 5 − 5 =
+−1 .
+
+D. LUYỆN TẬP
+Bài 1. Dùng máy tính bỏ túi, tính giá trị gần đúng của nghiệm mỗi phương trình sau ( làm tròn đến
+chữ số thập phân thứ ba):
+b) x 2 = 2,5;
+
+a) x 2 = 5 ;
+
+c) x 2 = 5 .
+
+Bài 2. So sánh
+a) 2 và 1 + 2 ;
+
+b) 1 và
+
+3 −1;
+
+c) 3 11 và 12 ;
+
+d) −10 và −2 31 .
+
+Bài 3. Tìm x không âm, biết
+a) x = 5 ;
+b) x = 2 ;
+Bài 4. Cho a > 0 . Chứng minh:
+
+c)
+
+x = −2 .
+
+a) Nếu a > 1 thì a > a :
+b) Nếu a < 1 thi a < a .
+Bài 5. Biểu thức sau xác định với giá trị nào của x ?
+a).
+
+−3 x + 2 ;
+
+b).
+
+4
+;
+2x + 3
+
+c).
+
+2
+;
+x2
+
+d).
+
+x ( x + 2)
+
+e).
+
+9x2 − 6x + 1
+
+f).
+
+2x −1
+2− x
+
+g).
+
+5 x 2 − 3x − 8
+
+h).
+
+5x2 + 4 x + 7 .
+
+b).
+
+( −2 ) ;
+
+c).
+
+( 3 − 2) ;
+
+f).
+
+( 0,1 − 0,1) ;
+
+i).
+
+9−4 5 ;
+
+b).
+
+1 10
+x , với x < 0 ;
+2
+
+Bài 6. Tính:
+a). −0,8 ( −0,125 ) ;
+2
+
+6
+
+2
+
+d).
+
+( 2 2 − 3) ;
+
+e).
+
+1 
+ 1
+−
+
+ ;
+3
+ 2
+
+g).
+
+4−2 3 ;
+
+h).
+
+3+ 2 2 ;
+
+2
+
+2
+
+2
+
+j). 16 − 6 7 .
+Bài 7. Rút gọn biểu thức:
+a). 2 x 2 , với x < 0 ;
+
+c).
+
+( a − 5) , với a ≤ 5 ;
+2
+
+d).
+
+( x − 10 ) , với x ≤ 10 ;
+10
+
+e). x − 4 + x 2 − 8 x + 16 , với x < 4 ;
+f).
+
+( x − y ) ( x − y ) , với 0 ≤ x ≤ y .
+2
+
+2
+
+Bài 8. Rút gọn biểu thức:
+a).
+
+3− x
+, ( x ≥ 0, x ≠ 9 ) ;
+x −9
+
+b).
+
+x −5 x +6
+, ( x ≥ 0, x ≠ 9 ) ;
+x −3
+
+c). 6 − 2 x − 9 − 6 x + x 2 , ( x < 3) .
+Bài 9. Tìm x biết
+a).
+
+3 x ;
+( x − 3) =−
+
+b).
+
+25 − 20 x + 4 x 2 + 2 x =
+5;
+
+c).
+
+1
+1 1
+x2 − x +
+= −x ;
+2
+16 4
+
+d).
+
+x − 2 x − 1=
+
+g).
+
+x + 2 x − 1 =.
+2
+
+2
+
+e). 1 − 12 x + 36 x 2 =
+5;
+
+x −1 −1 ;
+
+Bài 10. Phân tích đa thức thành nhân tử.
+a). x 2 − 11 ;
+
+b). x 2 − 2 2 x + 2 ;
+
+c). x − 5 (với x > 0 ) ;
+
+d). 5 − 7x 2 (với x > 0 ) .
+
+e). 3 + 4x (với x < 0 ) ;
+Bài 11. Chứng minh đẳng thức:
+a). 9 + 4 5 =
+
+( 5 + 2) ;
+2
+
+b).
+
+9+4 5 − 5 =
+2;
+
+c).
+
+23 + 8 7 − 7 =
+4;
+
+d). a + 4 a − 2 + 2 + a − 4 a − 2 + 2 =
+4 (với 2 ≤ a ≤ 6 ).
+
+BÀI 8. KHAI CĂN BẬC HAI VỚI PHÉP NHÂN VÀ PHÉP CHIA.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1 KHAI CĂN BẬC HAI VÀ PHÉP NHÂN
+Liên hệ giửa phép khai căn bậc hai và phép nhân
+Với A, B là các biểu thức không âm, ta có
+
+A⋅ B =
+AB .
+
+Chú ý. Kết quả trên có thể mở rộng cho nhiểu biểu thức không âm, chẳng hạn:
+A ⋅ B ⋅ C , ( A ≥ 0, B ≥ 0, C ≥ 0 ).
+
+A ⋅ B ⋅ C=
+
+Ví dụ 1. Tính:
+a)
+
+27 ⋅ 3 ;
+
+b)
+
+Ví dụ 2. Rút gọn
+Ví dụ 3. Tính
+
+5( 125 + 5) .
+
+5 x ⋅ 20 x với x ≥ 0 .
+
+22 ⋅ 32 ⋅ 52 .
+
+Chú ý: Nếu A ≥ 0, B ≥ 0, C ≥ 0 thì
+Ví dụ 4. Rút gọn biểu thức
+
+A2 B 2C 2 = ABC .
+
+25a 2b 2 (vơi a ≥ 0, b < 0 ).
+
+2. KHAI CĂN BẬC HAI VÀ PHÉP CHIA
+Liên hệ giửa phép khai căn bậc hai và phép chia
+Nếu A, B là các biểu thức với A ≥ 0, B > 0 thì
+
+A
+=
+B
+
+A
+.
+B
+
+Ví dụ 5
+a) Tính
+
+8: 2.
+
+b) Rút gọn
+
+52a 3 : 13a
+
+(a > 0) .
+
+Ví dụ 6
+a) Viết số dưới dấu căn thành một phân số thập phân rồi tính 1, 69 .
+b) Rút gọn a ⋅
+
+2
+(a > 0) .
+a2
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.7. Tính:
+a) 12 ⋅ ( 12 + 3) ;
+
+b)
+
+3.8. Rút gọn biểu thức
+
+2 a 2 − b2 ⋅
+
+(
+
+8 ⋅ ( 50 − 2) ;
+
+)
+
+c) ( 3 + 2) 2 − 2 6 .
+
+3
+( với a ≥ b > 0) .
+a+b
+
+3.9. Tính:
+a)
+
+99 : 11 ;
+
+b)
+
+7,84 ;
+
+c) 1815 : 15 .
+
+3.10. Rút gọn
+
+−3 16a + 5a 16ab 2
+( với a > 0, b > 0) .
+2 a
+
+3.11. Kích thước màn hình ti vi hình chữ nhật được xác định bởi độ dài đường chéo. Một loại ti vi
+có tỉ lệ hai cạnh màn hình là 4: 3.
+a) Gọi x (inch) là chiều rộng của màn hình ti vi. Viết công thức tính độ dài đường chéo d (inch)
+của màn hình ti vi theo x .
+b) Tính chiều rộng và chiều dài (theo centimét) của màn hình ti vi loại 40 inch.
+C. CÁC DẠNG TOÁN
+Dạng 1. Thực hiện phép tính
+1. Phương pháp giải
+Sử dụng các quy tắc khai phương một tích và quy tắc nhân các căn bậc hai
+Nếu A ≥ 0, B ≥ 0 thì
+
+A ≥ 0, B > 0 thì
+
+A
+=
+B
+
+AB = A. B
+A
+B
+
+2. Ví dụ minh họa.
+Ví dụ 1. Áp dụng quy tắc khai phương một tích, hãy tính:
+a). 0,16.81 ;
+
+b). 34. ( −5 ) ;
+2
+
+c). 16,9.250 ;
+
+d). 52.44 .
+
+Ví dụ 2. Áp dụng quy tắc nhân các căn bậc hai, hãy tính:
+a).
+
+5. 80 ;
+
+b).
+
+c).
+
+0, 6. 5, 4 ;
+
+d). 8,1. 5. 4,5 .
+
+2, 45. 40. 50 ;
+
+Ví dụ 3. Khai phương tích 13.25.52 được:
+a). 2600.
+
+b).130.
+
+c). 13.
+
+d). 260.
+
+Hãy chọn kết quả đúng.
+Ví dụ 4. Biến đổi các biểu thức dưới dấu căn thành dạng tích rồi tính
+
+252 − 242 ;
+
+b).
+
+262 − 102 ;
+
+c). 137 2 − 882 ;
+
+d).
+
+4812 − 4802 .
+
+b).
+
+2
+
+a).
+
+Ví dụ 5. Tính :
+a).
+
+289
+.
+225
+
+14
+.
+25
+
+c).
+
+0, 25
+.
+9
+
+b).
+
+15
+.
+735
+
+Ví dụ 6. Tính :
+a).
+
+2
+18
+
+d)
+
+8,1
+.
+1, 6
+
+c).
+
+12500
+.
+500
+
+d).
+
+65
+.
+23.35
+
+Ví dụ 7. Tính :
+a). 1
+
+9 4
+.5 .0, 01 .
+16 5
+
+b) 1, 44.1, 21 − 1, 44.0, 4 .
+
+1652 − 1242
+c).
+.
+164
+
+d)
+
+1492 − 762
+.
+457 2 − 3842
+
+Dạng 2. Rút gọn biểu thức và tính giá trị biểu thức
+1. Phương pháp giải
+Áp dụng các quy tắc AB = A. B ( A ≥ 0, B ≥ 0 )
+Thay giá trị của biến vào biểu thức đã rút gọn.
+Áp dụng phép khai phương một thương:
+
+A
+=
+B
+
+A
+( A ≥ 0, B > 0 )
+B
+
+khi A ≥ 0
+ A,
+.
+= 
+A
+khi A < 0
+ − A,
+Xét các trường hợp A ≥ 0, A < 0 để bỏ dấu giá trị tuyệt đối.
+Áp dụng
+
+2
+A=
+
+2. Ví dụ minh họa.
+Ví dụ 1. Rút gọn biểu thức sau:
+
+0, 49a 2 với a ≤ 0 ;
+
+b).
+
+c). 19.76 ( 2 − a ) với a > 2 ;
+
+d).
+
+a).
+
+2
+
+4
+
+2
+a
+  ( 6 − 2a ) với a > 3 ;
+2
+
+2
+1
+. a 2 ( a 2 − b 2 ) với a > b ≥ 0 .
+a −b
+
+Ví dụ 2. Rút gọn các biểu thức sau:
+
+2a 5a
+.
+với a ≥ 0 ;
+5 18
+
+a).
+
+c). 21a − 11a . 44a với a ≥ 0 ;
+
+99
+với a > 0 ;
+a
+
+b). 11a .
+
+d). ( 4 + a ) − 0, 4. 160a 2
+2
+
+Ví dụ 3. Rút gọn và tìm giá trị (làm tròn đến chữ số thập phân thứ ba) của các căn thức sau:
+a).
+
+9 ( 4 + 20 x + 25 x 2 ) tại x = − 5 ;
+
+b).
+
+2a 2 ( 2b 2 − 12b + 18 ) tại a =
+−3, b =3 .
+
+2
+
+Ví dụ 4. Rút gọn các biểu thức sau:
+a).
+
+y
+x
+
+x2
+với x > 0, y ≠ 0 .
+y4
+
+b). 2 y 2
+
+x4
+với y < 0 .
+4 y2
+
+25 x 2
+c). 5 xy
+với x < 0, y > 0 .
+y6
+
+d) 0, 2x3 y 3
+
+16
+với x ≠ 0, y ≠ 0 .
+x4 y8
+
+Ví dụ 5. Rút gọn các biểu thức sau:
+a). ab
+
+2
+
+b).
+
+9 + 12a + 4a 2
+với b < 0, a > −1,5 .
+b2
+
+c).
+
+27 ( a − 3)
+với a > 3 .
+48
+2
+
+3
+với a < 0, b ≠ 0 .
+2 4
+ab
+
+d). ( a − b )
+
+ab
+
+(a − b)
+
+2
+
+với a < b < 0 .
+
+Dạng 3. Chứng minh đẳng thức, bất đẳng thức
+1. Phương pháp giải
+Áp dụng hằng đẳng thức
+
+A2 − B 2 = ( A − B )( A + B ) và =
+A2 A , ( A ≥ 0 )
+Sử dụng phương pháp biến đổi tương đương.
+ Ta biến đổi bất đẳng thức cần chứng minh tương đương với bất đẳng thức đúng.
+ Bất đẳng thức đúng thường có dạng A2 ≥ 0.
+2. Ví dụ minh họa.
+Ví dụ 1: Chứng minh:
+
+)
+)(
+(
+b) ( 2006 − 2005 ) và ( 2006 + 2005 ) là hai số nghịch đảo
+a) 2 − 3 2 + 3 =
+1
+
+Ví dụ 2:
+a). So sánh
+
+25 − 16 và
+
+25 − 16;
+
+b). Chứng minh rằng, với a > b > 0 thì
+
+a − b < a − b.
+
+Ví dụ 3: Mỗi khẳng định sau đúng hay sai? Vì sao?
+a). 0,01 = 0,0001;
+b). −0,5 = −0,25;
+c). 39 < 7 và
+
+(
+
+39 > 6;
+
+)
+
+(
+
+)
+
+d). 4 − 13 .2 x < 3. 4 − 13 ⇔ 2 x < 3.
+Dạng 4. Tìm x thỏa đẳn thức cho trước
+1. Phương pháp giải
+Đặt điều kiện để căn thức có nghĩa
+
+A có nghĩa khi và chỉ khi A ≥ 0
+
+Áp sụng tính chất
+
+A ) A, ( A ≥ 0 ) , A = A
+(=
+2
+
+2
+
+2. Ví dụ minh họa.
+Ví dụ 1: Tìm x biết
+a) 16 x = 8
+c)
+
+9 ( x − 1) =
+21
+
+b)
+
+4x = 5
+
+d)
+
+4 (1 − x ) − 6 =
+0
+2
+
+Ví dụ 2: Giải phương trình:
+
+0;
+a). 2.x − 50 =
+b).
+
+2.x − 8 =
+0;
+
+c).
+
+3.x 2 − 12 =
+0;
+
+d).
+
+x2
+− 20 =
+0.
+5
+
+b).
+
+4 x2 + 4 x + 1 =
+6.
+
+Ví dụ 3: Tìm x, biết:
+a).
+
+9;
+( x − 3)2 =
+
+D. LUYỆN TẬP
+Bài 1. Tính :
+a) 1, 2.270;
+
+55.77.35 .
+
+b) ( 3 − 2) 2 ;
+
+(3 2 − 1)(3 2 + 1);
+
+ 8
+50 
+c) 
+− 24 +
+ ⋅ 6;
+3 
+ 3
+
+( 6 + 2)( 3 − 2)
+
+ 3
+2
+−
+
+
+3 
+ 2
+
+2
+
+Bài 2. Thực hiện phép tính
+a)
+
+1
+1
+⋅ 2 ⋅ 125 ⋅ ;
+8
+5
+
+b)
+
+( 2 − 3) 2 ⋅ 11 + 6 2 ;
+
+2 −1 ⋅
+
+2 ( a − b) 2 b 5 9
+c3
+c) −
+⋅
+98b
+3
+c
+4 2(a − b)
+1 
+
+d)  6 − 3 3 + 5 2 −
+12 6
+2 
+
+
+
+b
+a
+1 
+ ab .
+−
++
+e)  ab + 2
+
+a
+b
+ab 
+
+
+
+2 +1 .
+
+( 3 − 3) 2 ⋅
+
+1
+.
+3− 3
+
+ am n ab
+a2
+g) 
+−
+mn
++
+ b m n
+b2
+
+
+m 2 2 n
+.
+a b ⋅
+n 
+m
+
+Bài 3. Rút gọn rồi tính
+a)
+
+21,82 − 18, 22 ;
+
+b)
+
+6,82 − 3, 22 ;
+
+c) 146,52 − 109.52 + 27 ⋅ 256
+
+Bài 4. Rút gọn biểu thức
+a)
+c)
+
+e)
+
+15 − 6
+;
+35 − 14
+
+x + xy
+y + xy
+2 15 − 2 10 + 6 − 3
+2 5 − 2 10 − 3 + 6
+
+b)
+
+10 + 15
+8 + 12
+
+d)
+
+a + a b − b −b a
+ab − 1
+
+f)
+
+2 + 3 + 6 + 8 + 16
+2+ 3+ 4
+
+Bài 5. Rút gọn biểu thức
+a)
+
+9(3 − a ) 2 voi a > 3 :
+
+b)
+
+a 2 (a − 2) 2 vei a < 0 .
+
+Bài 6. Chứng minh đẳng thức
+a)
+
+9 − 17 ⋅ 9 + 17 =
+8;
+
+2 
+ 1
+b) 
++
+201
+ (15 + 2 6) =
+ 5−2 6 5+ 2 6 
+Bài 7. Tìm x biết
+a)
+
+9 x = 15 ;
+
+b)
+
+4x2 = 8
+
+d)
+
+9(2 − 3 x) 2 =
+6:
+
+e)
+
+x2 − 4 − x − 2 =
+0.
+
+Bài 8. Tìm x - y biết :
+
+1
+1
++
+=4 − x − y
+x
+y
+Bài 9. Cho a ≥ 0, b ≥ 0, c ≥ 0 . Chứng minh rang :
+a)
+
+a+b
+≥ ab (bất đang thức Côsi) ;
+2
+
+b) a + b + c ≥ ab + bc + ca ;
+c) a + b +
+
+1
+≥ a+ b.
+2
+
+c)
+
+4( x + 1) =8 ;
+
+Bài 10. Tính
+a).
+
+2
+
+6
+
+7
+; và
+81
+
+150
+
+
+
+;
+
+
+
+b). 5 7  7 5 : 35;
+
+
+
+
+
+c). 2 8  3 3  1 : 6.
+1 1 3
+ 4 1
+2
+
+Bài 11. Tính 
+
+4,5 
+50  :
+ 15 8
+ 2 2 2
+5
+
+Bài 12. Rút gọn biểu thức
+a).
+
+b).
+
+x x y y
+
+
+
+x y
+
+2
+
+ x  y ;
+
+x  2 x 1
+x  2 x 1
+
+,  x  0
+2
+
+x 1  y  2 y  1
+c).
+.
+, x  1, y  1, y  0 .
+4
+
+ x 1
+
+y 1
+
+
+
+
+
+Bài 13. Rút gọn và tính:
+a). A =
+
+b). B =
+
+a − 2 ab + b
+a− b
+
+x −3
+x+ 3
+
+:
+
+=
+=
+a 36;
+b 25.
+(với a > b > 0 ) tại
+
+x− 3
+(với x > 3 ) tại x = 81.
+x
+
+( x − 5) − x 2 − 25 ( x < 4)
+=
+C
+c).
+, tại x = 3.
+2
+x−4
+(4 − x)
+4
+
+x3 + 3x 2
+d). M =
+3 x − 27 +
+( x ≥ 0) , tại x = 3.
+x+3
+
+Bài 14. Giải phương trình
+a).
+
+4x −1
+=3;
+x +1
+
+c).
+
+49 x − 98 − 14
+
+Bài 15
+
+x−2
+= 3 x − 2 +8;
+49
+
+b).
+
+4x −1
+=3 ;
+x +1
+
+d).
+
+25 x − 25 −
+
+15 x − 1
+=6 + x − 1 .
+2
+9
+
+a). Cho a > 0. Chứng minh a +
+
+1
+≥ 2;
+a
+
+b). Cho a ≥ 0, b ≥ 0. Chứng minh
+c). Cho a, b > 0. Chứng minh
+d). Chứng minh
+
+x2 + 2
+x2 + 1
+
+a+b
+a+ b
+≥
+;
+2
+2
+
+a+ b≤
+
+≥ 2 với mọi x.
+
+a
+b
++
+;
+b
+a
+
+LUYỆN TẬP CHUNG SAU KHI HỌC BÀI 7&8
+A. CÁC VÍ DỤ
+Ví dụ 1. Không dùng MTCT, tính giá trị của biểu thức: A = (1 − 3) 2 − 3
+Ví dụ 2. Tính:
+a) (2 + 5)(2 − 5) ;
+
+b) ( 5 + 2)( 5 − 2) .
+
+Ví dụ 3. Cho biểu
+thức P
+=
+
+x x +1
+− 1 với x ≥ 0 .
+x − x +1
+
+a) Viết x x + 1 thành tổng hai lập phương rồi phân tích thành nhân tử để rút gọn biểu thức đã
+cho.
+b) Tính giá trị của P tại x = 100 .
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.12. Rút gọn các biểu thức sau:
+a)
+
+( 3 − 2) 2 + (1 − 2) 2 ;
+
+b)
+
+( 7 − 3) 2 + ( 7 + 3) 2 .
+
+b)
+
+−3 18 + 5 50 − 128
+.
+7 2
+
+3.13. Thực hiện phép tính:
+a)
+
+3( 192 − 75) ;
+
+3.14. Chứng minh rằng:
+a) (1 − 2) 2 =
+3− 2 2 ;
+3.15. Cho căn thức
+
+b) ( 3 + 2) 2 =
+5+ 2 6 .
+
+x2 − 4x + 4 .
+
+a) Hãy chứng tỏ rằng căn thức xác định với mọi giá trị của x .
+b) Rút gọn căn thức đã cho với x ≥ 2 .
+c) Chứng tỏ rằng vói mọi x ≥ 2 , biểu thức
+
+x − x 2 − 4 x + 4 có giá trị không đổi.
+
+2E
+,
+m
+trong đó E là động năng của vật (tính bằng Joule, kí hiệu là J) và m( kg) là khối lượng của vật
+(Theo sách Vật ll đại cương, NXB Giáo dục Việt Nam, 2016). Tính tốc độ bay của một vật khi
+biết vật đó có khối lượng 2,5 kg và động năng 281, 25 J .
+3.16. Trong Vật lí, tốc độ ( m / s ) của một vật đang bay được cho bởi công thức v =
+
+C. BÀI TẬP THÊM
+Bài 1. Rút gọn biểu thức:
+
+(
+
+) (
+
+)
+
+2
+
+1. A = 2 27 + 5 12 − 3 48.
+
+3. C= 3 2 4 − 2 + 3 1 − 2 2 .
+
+2. B = 147 + 75 − 4 27.
+
+4. D = 2 5 − 125 − 80 + 605.
+
+Bài 2. Tìm số thực x thỏa mãn:
+1.
+
+−2 x 2 − 9 =
+2.
+
+4. −3 x + 4 =
+12 .
+
+2.
+
+x2 + 1 + 2 =
+0.
+
+5.
+
+2.
+( x − 7 )( x + 7 ) =
+
+6.
+
+9 ( x − 1) − 19 =
+2.
+
+3. 3 x − 1 =
+4.
+
+Bài 3. Với giá trị nào của x thì các căn thức sau có nghĩa
+1.
+
+−3 x .
+
+2.
+
+3. 7 − 6 x
+
+2x − 4
+
+Bài 4. Với giá trị nào của x thì các căn thức sau có nghĩa
+1.
+
+x
++ x−2 .
+x−2
+
+2.
+
+3.
+
+1
+3 − 2x
+
+4.
+
+x
++ x−2 .
+x+2
+−2
+.
+x +1
+
+Bài 5. Rút gọn các biểu thức sau
+1. 11 − 6 2 − 11 + 6 2 .
+2.
+
+(2 − 5) 2 + 14 − 6 5
+
+3. (2 + 7) 11 − 4 7
+4.
+
+(3 + 2) 2 + 6 − 4 2
+
+5.
+
+9−3 8 −
+
+6.
+
+3 −1
++ 5−2 6 − 2− 3
+2
+
+2− 3
+2 + 2+ 3
+
++
+
+2+ 3
+2 − 2− 3
+
+Bài 6. Rút gọn các biểu thức sau
+
+4.
+
+−3 x + 2
+
+1.
+
+48 − 2 75 + 108 −
+
+1
+147;
+7
+
+4. 11 − 6 2 − 11 + 6 2 ;
+
+2. ( 44 + 11) 11;
+
+5.
+
+1 3 2
+;
+−
+6
+3
+
+3.
+
+24 − 6
+
+7.
+
+(3 + 2) 2 + 6 − 4 2 ;
+
+(2 − 5) 2 + 14 − 6 5 ;
+
+6. (2 + 7) 11 − 4 7 ;
+8. 9 − 3 8 −
+
+3 −1
++ 5−2 6 − 2− 3
+2
+
+Bài 7. Áp dụng quy tắc khai phương một thương, hãy tính:
+1.
+
+121
+;
+9
+
+2.
+
+14
+;
+169
+
+3.
+
+3
+
+6
+;
+25
+
+4.
+
+4
+
+21
+.
+25
+
+Bài 8. Áp dụng quy tắc chia hai căn bậc hai, hãy tính:
+1.
+
+999
+;
+444
+
+2.
+
+160
+;
+0, 4
+
+3.
+
+9+6 2
+;
+3
+
+4. 2 + 3 :
+
+1
+.
+2
+
+Bài 9. Rút gọn các biểu thức sau:
+1.
+
+96 x 5
+( x > 0) ;
+24 x
+
+2.
+
+18 ( x + 1)
+
+3
+
+2x + 2
+
+( x > −1) ;
+
+3.
+
+2.
+
+a+
+
+3x 4 y 4
+27 x 2 y 4
+
+( x < 0, y > 0 ) .
+
+Bài 10. Chứng minh các bất đẳng thức sau:
+1.
+
+a+b
+a+ b
+≥
+, với a, b ≥ 0;
+2
+2
+
+1
+≥ 2 , với a > 0
+a
+
+BÀI 9. BIẾN ĐỔI ĐƠN GIẢN VÀ RÚT GỌN BIỂU THỨC CHỨA CĂN THỨC BẬC HAI.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. ĐƯA THỪA SỐ RA NGOÀI DẤU CĂN
+Cách đưa thừa số ra ngoài dấu căn
+Nếu a là một số và b là một số không âm thi
+
+|a| b.
+a2 ⋅ b =
+
+Chú ý. Phép biến đổi trên gọi là phép đưa thừa số ra ngoài dấu căn.
+Ví dụ 1. Viết nhân tử số của biểu thức dưới dấu căn thành tích các luỹ thừa rồi đưa thừa số ra ngoài
+dấu căn:
+a)
+
+45 ;
+
+b)
+
+243a (a ≥ 0) .
+
+Chú ý. Khi tính toán với những căn thức bậc hai mà biểu thức dưới dấu căn có mẫu, ta thường khử
+mẫu của biểu thức lấy căn (tức là biến đổi căn thức bậc hai đó thành một biểu thức mà trong căn
+thức không còn mẫu) như trong ví dụ sau:
+
+4
+.
+7
+
+Ví dụ 2. Khử mẫu của biểu thức lấy căn
+
+2. ĐƯA THỪA SỐ VÀO TRONG DẤU CĂN
+Cách đưa một thừa số vào trong đấu căn
+- Nếu a và b là hai số không âm thì a b = a 2b .
+- Nếu a là số âm và b là số không âm thì a b = − a 2b .
+Chú ý. Các phép biến đổi trên gọi là phép đưa thừa số vào trong dấu căn.
+Ví dụ 3. Đưa thừa số vào trong dấu căn:
+a) 5 2 ;
+
+b) −2 a
+
+(a ≥ 0) .
+
+Ví dụ 4. Không sử dụng MTCT, có thể so sánh được hai số a = 3 2 và b = 2 3 hay không?
+3. TRỤC CĂN THỨC Ở MẪU
+Tính toán với các biểu thức có chứa căn ở mẫu thường phức tạp và ta thường tìm cách trục các căn
+thức ở mẫu (tức là biến đổi biểu thức thành một biểu thức mới không chứa căn ở mẫu).
+Cách trục căn thức ở mẫu
+ Với các biểu thức A, B và B > 0 , ta có
+
+A
+A B
+=
+.
+B
+B
+
+C
+C ( A − B)
+C
+C ( A + B)
+ Với các biểu thức A, B, C mà A ≥ 0, A ≠=
+=
+;
+.
+B 2 , ta có
+2
+A− B
+A − B2
+A+B
+A−B
+ Với các biểu thức A, B, C mà A ≥ 0, B ≥ 0, A ≠ B , ta có:
+C
+A+ B
+
+C( A − B )
+C
+C( A + B )
+=
+;
+.
+A− B
+A− B
+A− B
+
+Ví dụ 5. Trục căn thức ở mẵu của các biểu thức:
+a)
+
+2
+3 5
+
+;
+
+b)
+
+a
+.
+3− 2 2
+
+4. RÚT GỌN BIỂU THỬC CHỨA CĂN THỨC BẬC HAI
+Khi rút gọn biểu thức có chứa căn thức bậc hai, ta cẩn phối hợp các phép tính (cộng, trừ, nhân, chia)
+và các phép biến đổi đã học (đưa thừa số ra ngoài hoặc vào trong dấu căn; khử mẫu của biểu thức
+lấy căn; trục căn thức ở mẫu).
+Ví dụ 6. Rút gọn biểu thức A = 2 3 − 75 + (1 − 3) 2 .
+Ví dụ 7. a) Trục căn thức ở mẫu của các biểu thức:
+
+=
+P
+b) Sử dụng kết quả câu a , rút gọn biểu thức
+
+x2 −1 x2 − x
+;
+với x > 1 .
+x −1 x +1
+
+x2 −1 x2 − x
+−
+với x > 1 .
+x −1
+x +1
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.17. Đưa thừa số ra ngoài dấu căn:
+a)
+
+75 ;
+
+b)
+
+27 a (a ≥ 0) ;
+
+c)
+
+50 2 + 100 ;
+
+d)
+
+9 5 − 18 .
+
+3.18. Đưa thừa số vào trong dấu căn:
+a) 3 2 ;
+c) 4
+
+b) −2 7 ;
+
+15
+;
+2
+
+d) −5
+
+16
+.
+5
+
+3.19. Khử mẫu trong dấu căn:
+a) 2a ⋅
+
+3
+;
+5
+
+5
+( x > 0) ;
+x
+
+c) −
+
+5 48 − 3 27 + 2 12
+;
+3
+
+c)
+
+b) −3 x ⋅
+
+3a
+(a ≥ 0, b > 0) .
+b
+
+3.20. Trục căn thức ở mẫu:
+a)
+
+4+3 5
+;
+5
+
+b)
+
+1
+;
+5 −2
+
+c)
+
+3+ 3
+;
+1− 3
+
+d)
+
+2
+.
+3+ 2
+
+3.21. Rút gọn các biểu thức sau:
+a) 2
+
+2
+3
+−4
+;
+3
+2
+
+b)
+
+1
+4 2 −4
++
+.
+3+ 2 2 2− 2
+
+1 
+ 1
+−
+x
+ ( x ≥ 0, x ≠ 9) .
+ x +3 3− x 
+
+3.22. Rút gọn biểu thức
+=
+A
+C. CÁC DẠNG TOÁN
+
+Dạng 1: Đưa thừa số ra ngoài dấu căn và đưa thừa số vào trong dấu căn
+1. Phương pháp giải
+① Đưa thừa số ra ngoài dấu căn:
+Tìm cách đưa biểu thức trong căn về dạng tích A2 B .
+
+Thực hiện việc đưa thừa số ra ngoài dấu căn bằng cách áp dụng
+
+A2 B  A B (với B  0 ).
+
+② Đưa thừa số vào trong dấu căn:
+Chú ý đến dấu của thừa số trước dấu căn.
+Nếu A  0 thì A B  A2 B .
+
+Nếu A  0 thì A B   A2 B .
+2. Ví dụ minh họa.
+Ví dụ 1. Viết các số hoặc biểu thức dưới dấu căn thành dạng tích một cách thích hợp rồi đưa thừa
+số ra ngoài dấu căn :
+a).
+
+54 .
+
+b). 108 .
+
+c). 0,1 2000 .
+
+d) −0, 05 28800 .
+
+e).
+
+7.63.a 2
+
+Ví dụ 2. Đưa thừa số vào trong dấu căn (với x  0 và y  0 ):
+a). 3 5 .
+
+b). −5 2 .
+
+c). −
+
+2
+xy .
+3
+
+d). x
+
+2
+.
+x
+
+Dạng 2. Khử mẫu của biểu thức lấy căn
+1. Phương pháp giải
+Bằng cách nhân tử và mẫu của biểu thức trong căn cho mẫu số rồi rút mẫu ra ngoài căn bằng
+A
+AB
+AB
+( Với A, B mà AB ≥ 0 và B ≠ 0).
+công thức:= =
+2
+B
+B
+B
+2. Ví dụ minh họa.
+Ví dụ 1. Khử mẫu của biểu thức lấy căn
+a).
+
+1
+;
+600
+
+b). ab
+
+11
+;
+540
+
+a a b
+;
+;
+b b a
+
+3
+;
+50
+
+5
+;
+98
+
+1 1
++ ;
+b b2
+
+(1 − 3 ) .
+2
+
+27
+
+9a 3
+2
+; 3 xy
+.
+36b
+xy
+
+(Giả thiết các biểu thức có nghĩa).
+Dạng 3. Trục căn ở mẫu
+1. Phương pháp giải
+
+Áp dụng
+①.
+
+A
+A B
+=
+;
+B
+B
+
+(
+
+)
+
+A B C
+A
+=
+.
+B −C
+B± C
+Nhận xét. Ta gọi B + C và
+
+②.
+
+(
+
+)
+
+A B C
+A
+=
+;
+B − C2
+B ±C
+
+③.
+
+B − C là hai biểu thức liên hợp.
+
+2. Ví dụ minh họa.
+Ví dụ 1. Trục căn ở mẫu với giả thiết các biểu thức chữ đều có nghĩa.
+a).
+
+5
+5
+1
+2 2 +2 y+b y
+;
+;
+;
+với b ≠ 0; y > 0.
+;
+10 2 5 3 20
+5 2
+b y
+
+b).
+
+3
+;
+3 +1
+
+b
+2
+p
+2+ 3
+1
+;
+;
+với b ≥ 0;
+với p ≥ 0, p ≠ .
+4
+3 −1 2 − 3 3 + b
+2 p −1
+
+c).
+
+2
+;
+6+ 5
+
+3
+;
+10 + 7
+
+1
+với x > 0, y > 0, x ≠ y;
+x− y
+
+2ab
+với a ≥ 0, b ≥ 0, a ≠ b.
+a− b
+
+Dạng 4. Rút gọn biểu thức
+1. Phương pháp Lời giải
+Đưa thừa số ra ngoài dấu căn rồi rút gọn các căn thức đồng dạng
+
+p A + q A − r A = ( p + q − r) A .
+Thực hiện các phép biến đổi căn thức:
+①. A2 = A .
+
+②.
+
+A
+=
+B
+
+AB
+(với A ≥ 0, B > 0 ).
+B
+
+③. A2 B = A B
+
+(
+
+(với B ≥ 0 )..
+
+A B C
+A
+=
+B −C
+B± C
+2. Các ví dụ
+
+④
+
+) ( B ≥ 0, C ≥ 0, B ≠ C )..
+
+Ví dụ 1. Rút gọn các biểu thức sau với x ≥ 0 :
+a). 2 3 x − 4 3 x + 27 − 3 3 x
+
+b). 3 2 x − 5 8 x + 7 18 x + 28 .
+
+Ví dụ 2. Rút gọn
+3( x + y ) 2
+2
+
+a).
+
+2
+2
+x − y2
+
+b).
+
+2
+5a 2 (1 − 4a + 4a 2 ) với a > 0,5.
+2a − 1
+
+với x ≥ 0, y ≥ 0 và x ≠ y .
+
+Ví dụ 3: Rút gọn các biểu thức sau (giả sử các biểu thức chữ đều có nghĩa):
+
+a). 18
+
+( 2 − 3) ;
+
+c)
+
+a a
++ ;
+b3 b 4
+
+1
+;
+ab
+
+d)
+
+a + ab
+.
+a+ b
+
+b). ab 1 +
+
+2
+
+2 2
+
+Ví dụ 4: Rút gọn các biểu thức sau (giả sử các biểu thức chữ đều có nghĩa):
+2 + 2 15 − 5 2 3 − 6 a − a p − 2 p
+;
+;
+;
+;
+.
+1+ 2 1− 3
+8 − 2 1− a
+p −2
+
+Ví dụ 5. Rút gọn biểu thức sau (với a > 0, b > 0 );
+a). 5 a − 4b 25a 3 + 5 16ab 2 − 2 9a
+b). 5a 64ab3 − 3 12a 3b3 + 2ab 9ab − 5b 81a 3b .
+Ví dụ 6. Cho biểu thức:
+
+=
+B
+
+16 x + 16 − 9 x + 9 + 4 x + 4 + x + 1 với x ≥ −1.
+
+a). Rút gọn biểu thức B ;
+b). Tìm x sao cho B có giá trị bằng 16 .
+Ví dụ 7. Rút gọn biểu thức
+a).
+
+a
+a b
++ ab +
+với a > 0 và b > 0 ;
+b
+b a
+
+b).
+
+4m − 8mx + 4mx 2
+m
+với m > 0 và x ≠ 1 .
+.
+1 − 2x + x2
+81
+
+Ví dụ 8. Rút gọn rồi so sánh giá trị của M với 1 , biết:
+1 
+a +1
+ 1
+với a > 0 và a ≠ 1 .
+=
++
+M 
+:
+a −1  a − 2 a +1
+a− a
+
+B
+Ví dụ 9. Cho=
+
+2 x −9
+x + 3 2 x +1
+−
+−
+x −5 x +6
+x − 2 3− x
+
+a). Xác định x để cho B có nghĩa;
+b). Rút gọn B ;
+c). Tìm x để B > 1 ;
+d). Tìm x nguyên để B là số nguyên.
+Dạng 5: Chứng Minh Đẳng Thức
+1. Phương pháp giải:
+Thực hiện các phép biến đổi căn thức và các hằng đẳng thức đáng nhớ để biến đổi vế trái bằng
+vế phải hoặc vế phải bằng vế trái của đẳng thức.
+2. Ví dụ minh họa.
+
+Ví dụ 1: Chứng minh các đẳng thức sau:
+a).
+
+3
+2
+3
+6
+6+2
+−4
+=.
+2
+3
+2
+6
+
+ 6
+
+2x
+1
+b).  x
+với x > 0 .
+6
+2
+x
++
++
+ : 6 x =
+ x
+3
+3
+
+
+
+Ví dụ 2: Chứng minh các đẳng thức sau:
+2
+
+ 1− a a
+ 1− a 
++ a  
+1 với a > 0 và a ≠ 1 .
+a). 
+ =
+−
+1
+a
+−
+a
+1
+
+
+
+b).
+
+a+b
+a 2b 4
+=a
+b2
+a 2 + 2ab + b 2
+
+với a + b > 0 và b ≠ 0 .
+
+Ví dụ 3: Chứng minh biểu thức sau không phụ thuộc vào biến a :
+
+
+1
+1
+a2 + 1   1 
++
+−
+. 1+ 
+
+2  
+ 2 + 2 a 2 − 2 a 1− a   a 
+
+với a > 0, a ≠ 1 .
+
+Dạng 5. Phân tích thành nhân tử
+1. Phương pháp giải
+Áp dụng:
+① A=
+
+( A ) (với A ≥ 0 ).
+2
+
+②
+
+2. Ví dụ minh họa.
+
+A2 B = A B
+
+(với B ≥ 0 ).
+
+Ví dụ 1: Phân tích thành nhân tử (với a, b, x, y là các số không âm).
+a). ab + b a + a + 1;
+
+b).
+
+x3 − y 3 + x 2 y − xy 2 .
+
+b).
+
+6 + 55 − 10 − 33.
+
+Ví dụ 2: Phân tích thành nhân tử
+a). 1 + 2 + 3 + 6;
+
+Dạng 6. Giải phương trình
+1. Phương pháp giải
+① Đặt điều kiện để phương trình có nghĩa:
+
+② Đưa thừa số ra ngoài dấu căn:
+
+A có nghĩa ⇔ A ≥ 0 .
+
+2
+
+A B= A B.
+
+③ Rút gọn các căn thức đồng dạng.
+④ Biến đổi phương trình về dạng: A = B ⇔ A = B 2
+2. Ví dụ minh họa.
+
+Ví dụ 1. Giải phương trình:
+a). 18 x + 9 + x + 3 −
+b).
+
+1
+4 x + 12 =
+9;
+2
+
+25 x − 50 − 16 x − 32 − 9 x − 18 =12 − 4 x − 2 .
+
+Ví dụ 2. Tìm x, biết:
+a). 2 9 x − 27 −
+
+1
+1
+25 x − 75 −
+49 x − 147 =
+20;
+5
+7
+
+b).
+
+3 x −5 2 x −7
+−
++1 = x;
+2
+3
+
+c).
+
+9 x 2 + 45 −
+
+d).
+
+4,5 x + 50 x − 32 x + 72 x − 5
+
+1
+x 2 + 5 1 25 x 2 + 125
+−
+=
+16 x 2 + 80 + 3
+9;
+12
+16
+4
+9
+
+x
+− 12 =
+0.
+2
+
+D. LUYỆN TẬP
+Bài 1. Đưa thừa số ra ngoài dấu căn:
+a).
+
+96.125 .
+
+b).
+
+a 4b5 .
+
+c).
+
+a 6b11 .
+
+d).
+
+a 3 (1 − a ) ( a > 1) .
+
+Bài 2. Đưa thừa số vào trong dấu căn:
+a). x 13 với x ≥ 0 .
+b). x 2 với x < 0 .
+c). x −
+
+11
+với x < 0 .
+x
+
+Bài 3. Rút gọn các biểu thức
+a).
+
+50 − 32 + 3 8 ;
+
+b).
+
+25a + 2 160a − 3 10a với a ≥ 0 .
+
+(
+) 7 − 84 .
+d). ( 63 − 8 − 7 ) 7 + 2 14 .
+
+c). 2 7 + 3
+
+Bài 4. Khai triển và rút gọn biểu thức (với x ≥ 0; y ≥ 0 )
+
+( 2 x − 1)( 2 x + 2 x + 1) .
+b). ( x + 2 y )( x − 2 xy + 4 y ) .
+c). ( x + y )( 2 x − y )
+a).
+
+Bài 5. Chứng minh rằng:
+
+4
+
+a).
+
+( x y − y x )( 2 y + 2 x )= x − y với x > 0, y > 0 .
+2 xy
+
+b). x + 2 5 x − 25 =
+
+( 5 + x − 5 ) với x ≥ 5 .
+2
+
+Bài 6. Khử mẫu các biểu thức dưới dấu căn rồi thực hiện phép tính: 2
+
+3
+1
+1
++
+−
+.
+20
+60
+15
+
+Bài 7. Trục căn ở mẫu:
+a).
+
+9
+3
+
+b).
+
+3
+;
+5− 2
+
+c).
+
+2 +1
+;
+2 −1
+
+d).
+
+5− 3
+5+ 3
+
+e).
+
+1− a a
+;
+1− a
+
+f).
+
+1
+.
+18 + 8 − 2 2
+
+g).
+
+2
+;
+1+ 2 − 3
+
+h).
+
+1
+3+ 2− 5
+
+Bài 8. Rút gọn biểu thức:
+
+=
+a). A
+
+1
+1
++
+;
+7+4 3 7−4 3
+
+b). B =
+
+Bài 9. Chứng minh đẳng thức:
+a).
+
+a
+b
+2b
+−
+−
+= 1 (a ≥ 0,b ≥ 0,a ≠ 0);
+a− b
+a + b a −b
+
+b).
+
+a b + b ab + b 2 − 2 ab 2
+a −b
+a a+2 b +b
+
+(
+
+)
+
+( a + b=) b ( a > b > 0)
+
+Bài 10. Giải phương trình:
+a).
+
+1
+3
+x −1
+9 x − 9 + 24
+x −1 −
+=−17;
+2
+2
+64
+
+b). 3 x − 7 x + 4 =
+0;
+c). −5 x + 7 x + 12 =
+0;
+Bài 11. Xét biểu thức:
+a2 + a
+2a + a
+−
++1
+A=
+a − a +1
+a
+a). Rút gọn A ;
+b). Biết a ≥ 1 , hãy so sánh A và A ;
+c). Tìm a để A = 2 ;
+
+15
+4
+12
++
+−
+− 6.
+6 +1
+6 − 2 3− 6
+
+d). Tìm giá trị nhỏ nhất của A .
+
+ 3
+  3
+Bài 12. Xét biểu thức:=
++ 1− a  : 
++ 1
+B 
+ a +1
+  1 − a2
+
+a). Rút gọn B ;
+b). Tìm giá trị của B nếu a =
+c). Với giá trị nào của a thì
+
+3
+2+ 3
+
+;
+
+B > B.
+
+Bài 13. Rút gọn biểu thức:
+
+a 1
+−
+128a (với a ≥ 0 )
+2 4
+
+a). 3 2a − 18a 3 + 4
+b). 2 y x − y + x
+c).
+
+1
+a
+−x
+− x 3 − x 2 y ( với x > y > 0 )
+x− y
+ax − ay
+
+a+ b
+a− b
++
+(với a ≥ 0, b ≥ 0, a ≠ b )
+a− b
+a+ b
+
+Bài 14. Rút gọn biểu thức:
+a).
+
+2 −1
+2
+2 +1
+−
++
+2 +2 2+ 2
+2
+
+b).
+
+2+ 5
+2 + 3+ 5
+
++
+
+Bài 15. Chứng minh đẳng thức :
+a)
+
+a2 + x2 + a2 − x2
+a2 + x2 − a2 − x2
+
+a4
+a2
+−
+1
+=
+; với | a |>| x |
+x4
+x2
+
+−
+
+2
+
+2
+
+ 5+ 2 6   5−2 6 
+4 6
+b) 
+ − 
+ =
+ 3+ 2  3− 2
+x x−y y
+
+c) 
++ xy  : ( x + y ) 2 = 1 ( x > 0, y > 0, x ≥ y )
+
+
+x− y
+
+
+
+Bài 16. Cho biểu thức: A =
+
+x +1
+2 x
+2+5 x
++
++
+4− x
+x −2
+x +2
+
+a). Rút gọn A nếu x ≥ 0 và x ≠ 4 ;
+b). Tìm x để A = 2 .
+Bài 17. Cho biểu thức:
+=
+B
+a). Rút gọn B;
+b). Tính B nếu
+
+a 3
+= ;
+b 2
+
+
+
+a
+b
+với a > b > 0.
+− 1 +
+:
+2
+2
+a −b 
+a − b  a − a 2 − b2
+a
+
+2
+
+2
+
+2− 5
+2 − 3− 5
+
+c). Tìm điều kiện của a, b để B < 1
+ x −2
+x + 2  (1 − x )
+=
+−
+C 
+Bài 18. Cho biểu thức:
+ .
+2
+ x −1 x + 2 x +1
+
+2
+
+a). Rút gọn C nếu x ≥ 0, x ≠ 1;
+b). Tìm x để C dương;
+c). Tìm giá trị lớn nhất của C.
+Bài 19. Chứng minh biểu thức sau không phụ thuộc vào biến:
+
+
+x− y  2 x
+ 2 xy +
++
+.
+ x− y 2 x + y  x + y
+
+
+
+(
+
+)
+
+y
+y− x
+
+với x > 0, y > 0, x ≠ y.
+
+BÀI 10. CĂN BẬC BA VÀ CĂN THỨC BẬC BA.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. CĂN BẬC BA
+Căn bậc ba của một số thực
+Tổng quát, ta định nghĩa:
+Căn bậc ba của số thực a là số thực x thoả mãn x 3 = a .
+Chú ý. Mỗi số a đều có duy nhất một căn bậc ba. Căn bậc ba của số a được kí hiệu là 3 a . Trong
+kí hiệu 3 a , số 3 được gọi là chỉ số của căn. Phép tìm căn bậc ba của một số gọi là phép khai căn
+bậc ba.
+Ví dụ 1
+a) Chứng tỏ rằng 3 64 = 4 .
+
+a )3
+Nhận xét. Từ định nghĩa căn bậc ba, ta có ( 3 =
+Ví dụ 1 như sau: 3 =
+64
+
+b) Tính 3 0 và 3 −27 .
+3
+
+=
+a 3 a với mọi số thực a . Do đó có thể giải
+
+3
+
+=
+43 4 .
+
+Tính căn bậc ba của một số bằng máy tính cầm tay
+Ta có thể sử dụng loại MTCT thích hợp để tính căn bậc ba của một số. Chẳng hạn, để tính 3 12 và
+3
+
+3375 ta làm như sau:
+
+Chú ý. Màn hình MTCT chỉ hiển thị được một số hữu hạn chữ số nên các kết quả là số thập phân
+vô hạn (tuần hoàn hay không tuẩn hoàn) đểu được làm tròn, chẳng hạn: 3 12 ≈ 2, 289428485 .
+Ví dụ 2. Sử dụng MTCT, tính 3 3, 25 rồi làm tròn kết quả đến chữ số thập phân thứ hai.
+2. CĂN THỨC BẬC BA
+Nhận biết căn thức bậc ba
+Tương tự như căn thức bậc hai, ta có định nghĩa sau:
+Căn thức bậc ba là biểu thức có dạng 3 A , trong đó A là một biểu thức đại số.
+Chú ý
+
+A )3
+- Tương tự căn bậc ba của một số, ta cũng có ( 3 =
+
+3
+
+=
+A3 A ( A là một biểu thức).
+
+- Để tính giá trị của 3 A tại những giá trị cho trước của biến, ta thay các giá trị cho trước của biến
+vào cǎn thức rồi tính giá trị của biểu thức số nhận được.
+
+Ví dụ 3. Tính giá trị của căn thức 3 2 x + 5 tại:
+b) x = −6,5 .
+
+a) x = 60 ;
+Ví dụ 4. Rút gọn biểu thức − x + 5 + 3 x 3 + 3 x 2 + 3 x + 1 .
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.23. Tính:
+a) 3 216 ;
+
+b) 3 −512 ;
+
+c) 3 −0, 001 ;
+
+d) 3 1,331 .
+
+3.24. Sử dụng MTCT, tính các căn bậc ba sau đây (làm tròn kết quả đến chữ số thập phân thứ hai):
+a) 3 2,1 ;
+
+b) 3 −18 ;
+
+c) 3 −28 ;
+
+d) 3 0,35 .
+
+3.25. Một người thợ muốn làm một thùng tôn hình lập phương có thể tích bằng 730dm3 . Em hãy
+ước lượng chiều dài cạnh thùng khoảng bao nhiêu dm?
+3.26. Rút gọn các biểu thức sau:
+a) 3 (1 − 2)3
+
+b) 3 (2 2 + 1)3 ;
+
+c) ( 3 2 + 1)3 .
+
+3.27. Rút gọn rồi tính giá trị của biểu thức 3 27 x 3 − 27 x 2 + 9 x − 1 tại x = 7 .
+C. CÁC DẠNG TOÁN
+Dạng 1. Thực hiện phép tính và rút gọn biểu thức
+1. Phương pháp giải
+
+( )
+
+3
+
+3
+Áp dụng
+; 3 a 3 a.
+=
+a
+a=
+
+2. Ví dụ minh họa.
+Ví dụ 1: Hãy tìm 3 512; 3 −729; 3 0, 064; 3 −0, 216; 3 −0, 008.
+Ví dụ 2: Tính:
+a). 3 27 − 3 −8 − 3 125;
+
+b).
+
+3
+
+135 3
+− 54. 3 4.
+3
+5
+
+Ví dụ 3: Thực hiện phép tính
+a). A =
+
+( 9 + 6 + 4 )( 3 − 2 )
+3
+
+3
+
+3
+
+3
+
+Ví dụ 4. Rút gọn biểu thức
+a) 3 x3 + 1 + 3 x ( x + 1) ;
+
+b). B = 3 2 + 5 + 3 2 − 5.
+
+3
+
+b)
+
+x +1
+3
+
+x2 − 3 x + 1
+
+Dạng 2. Giải phương trình
+1. Phương pháp giải
+Áp dụng:
+
+3
+
+A = B ⇔ A = B3 .
+
+2. Ví dụ minh họa.
+Ví dụ 1. Giải các phương trình
+
+2.
+a). 3 2 x + 1 =
+−2 .
+b). 3 1 − 2 x =
+x.
+c). 3 x − 2 + 2 =
+Ví dụ 2. Giải phương trình
+a) 3 x + 7 − 3 =;
+1
+b) 3 1 − x 2 + 2 =.
+0
+Ví dụ 3. Giải phương trình
+a) 3 1000 x − 3 64 x − 3 27 x =
+15 ;
+b) 3 x − 3 + 3 =.
+x
+D. LUYỆN TẬP
+Bài 1. Tính các căn bậc ba sau
+1. 3 64
+
+5.
+
+3
+
+500 3
++ 12 ⋅ 3 18
+3
+4
+
+3
+
+12 ⋅ 3 6 3 32
+− 3
+3
+576
+4
+
+2. 3 −512 .
+3. 3 0, 064
+
+6.
+
+4. 3 −0, 216
+Bài 2. Thực hiện phép tính
+a). 3
+
+1 3
+⋅ −18 ⋅ 3 3 .
+2
+
+b). 3
+
+( 2 + 1)(3 + 2 2 ); ( 4 − 2 3 )( 3 − 1) .
+3
+
+1
+1
+
+c).  3 2 − 3 16  ⋅ 3 4 .
+4
+2
+
+1
+1
+1
+d).  3 9 − 2 3 3 + 3 3  : 2 3 .
+3
+3
+2
+e).
+
+( 9 − 6 + 4 )( 3 + 2 ) .
+3
+
+3
+
+3
+
+3
+
+3
+
+Bài 3. Thực hiện phép tính 3 −64 − 3 125 + 3 216
+
+a).
+
+( 4 + 1) − ( 4 − 1)
+3
+
+3
+
+3
+
+3
+
+
+1
+b). 12 3 2 + 3 16 − 2 3 2  5 3 4 − 3 3  .
+2
+
+
+(
+
+)
+
+Bài 4. Cho x 
+
+2
+3
+
+3
+
+2 2 2 4
+
+và y 
+
+Bài 5. Trục căn ở mẫu số biểu diễn
+
+6
+3
+
+3
+
+2 2 2  4
+1
+
+3
+
+16  3 12  3 9
+
+Bài 6. Rút gọn các biểu thức sau:
+1. A = 3 20 + 14 2 + 3 20 − 14 2 .
+2. B = 3 182 + 33125 + 3 182 − 33125 .
+Bài 7. Rút gon các biểu thức sau:
+ 1
+  a
+1
+3
+
+1. A =  − 6 + 3 a 2  +  2 6 a 5 − 3 a 2   ⋅ a 3 a
+a
+a
+ 
+ a
+ a
+2. B =
+
+a 2 + 3 a 4b 2 + b 2 + 3 a 2b 4
+
+Bài 8. Giải phương trình:
+a). 3 x3 + 9 x 2 =+
+x 3;
+b). 3 5 + x − x =
+5.
+Bài 9. Giải các phương trình sau
+
+15
+1. 3 1000 x − 3 64 x − 3 27 x =
+2. 3 x − 3 + 3 =
+x
+Bài 10. Giải các phương trình sau
+1. 3 2 x − 1 + 3 x −=
+1
+
+3
+
+3x − 2 .
+
+2. 3 x + 5 + 3 x + 6=
+
+3
+
+2 x + 11
+
+. Tính xy 3  x 3 y .
+
+LUYỆN TẬP CHUNG SAU KHI HỌC BÀI 9&10
+A. CÁC VÍ DỤ
+
+( 3 + 1) 2 − 3( 3 + 1) 2 + 4 .
+
+Ví dụ 1. Rút gọn biểu thức A=
+Ví dụ 2. Cho biểu thức
+=
+P
+
+x
+x
+với x > 1 .
++
+x +1
+x −1
+
+a) Rút gọn P .
+b) Sử dụng kết quả câu a, tính giá trị của P khi x = 101 .
+Ví dụ 3. Người ta cần làm một thùng hình lập phương bằng bìa cứng không có nắp trên và có
+thể tích 216dm3 để đựng đồ. Tính diện tích bìa cứng cần dùng để làm thùng đựng đó (coi diện
+tích các mép nối là không đáng kể).
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.28. Rút gọn các biểu thức sau:
+a)
+
+c)
+
+5+3 5
+1
+;
+−
+5
+5 −2
+( 3 + 2) 2 + ( 3 − 2) 2
+2 12
+
+( 7 − 2) 2 − 63 +
+
+b)
+
+;
+
+d)
+
+3
+
+( 2 + 1)3 − 1
+50
+
+56
+;
+2
+
+.
+
+3.29. Tính giá trị của các biểu thức sau:
+5 15
+− 2 245 ;
+3
+
+b)
+
+12 − 4
+21 + 7
+−
++ 7;
+3 −1
+3 +1
+
+3− 3
++ 3(2 3 − 1) + 12 ;
+1− 3
+
+d)
+
+3 −1
+2
+6
+.
++
+−
+2
+3 −1
+6
+
+a) 3 45 +
+c)
+
+3.30. Giả sử lực F của gió khi thổi theo phương vuông góc với bể mặt cánh buồm của một con
+thuyển tỉ lệ thuận với bình phương tốc độ của gió, hệ số tỉ lệ là 30 . Trong đó, lực F được tính
+bằng N (Newton) và tốc độ được tính bẳng m / s .
+a) Khi tốc độ của gió là 10 m / s thì lực F là bao nhiêu Newton?
+
+b) Nếu cánh buồm chỉ có thể chịu được một áp lực tối đa là 12000 N thì con thuyển đó có thể đi
+được trong gió với tốc độ gió tối đa là bao nhiêu?
+3.31. Rút gọn các biểu thức sau:
+a) 3 (− x − 1)3 ;
+
+b) 3 8 x3 − 12 x 2 + 6 x − 1 .
+
+C. BÀI TẬP THÊM
+Bài 1. Rút gọn các biểu thức sau:
+
+1
++ 4,5 + 12,5 ;
+2
+
+a). 5
+
+1 1
+20 + 5 ;
++
+5 2
+
+b).
+
+c).
+
+20 − 45 + 3 18 + 72 ;
+
+d). 0,1 200 + 2 0, 08 + 0, 4 50 .
+
+Bài 2. Rút gọn biểu thức sau:
+a).
+
+1
+33
+1
+48 − 2 75 −
++5 1 ;
+2
+3
+11
+
+b). 150 + 1, 6 60 + 4,5 2
+
+c).
+
+( 28 − 2 3 + 7 ) 7 + 84 ;
+
+d).
+
+( 6 + 5 ) − 120
+2
+
+Bài 3. Rút gọn biểu thức sau:
+
+5+ 2
+
+a). 11 + 6 2 ;
+
+b).
+
+13 2 − 4 6
+;
+24 − 4 3
+
+d).
+
+6 + 14
+;
+2 3 + 28
+
+c).
+
+3 5 −3 2
+
+e).
+
+x − 2 x +1
+(với x ≥ 0 )..
+x + 2 x +1
+
+g).
+
+2− 3
+;
+2
+
+f).
+
+2 + 3 + 6 + 8 + 16
+;
+2+ 3+ 4
+
+h).
+
+8 − 15
+.
+30 − 2
+
+;
+
+Bài 4. Tính
+a) 3 162 ⋅ 3 −2 ⋅ 3
+
+2
+;
+3
+
+Bài 5. Tính
+a) ( 3 3 + 3 2)3 ;
+b) ( 3 5 − 3 3)( 3 25 + 3 15 + 3 9) .
+
+b) 3 2 : 3 16 − 3 22
+
+1 3 1
+: 53
+2
+3
+
+2
+− 6;
+3
+
+Bài 6. Rút gọn biểu thức
+a) 3 3 ⋅ (5 3 18 − 3 3 144) + 3 5 ⋅ 3 50 ;
+
+
+1
+b) (12 3 2 + 3 16 − 2 3 2)  5 3 4 − 3 3 
+2
+
+Bài 7. Tìm x , biết :
+a) 2 3 27 x +
+
+13
+−343 x + 3 −729 x =
+2;
+7
+
+b) 3 x 3 − 9 x 2 =−
+x 3.
+
+M
+Bài 8. Tính =
+
+3
+
+5 2 +7 − 3 5 2 −7 .
+
+1  x +2
+ 1
+Bài 9. Cho biểu thức
+V 
+=
++
+  với x > 0; x ≠ 4
+
+x −2
+x
+ x +2
+
+1. Rút gọn biểu thức V
+2. Tìm giá trị của x để V =
+
+1
+3
+
+ 1
+  ( x + 1) 2 
+3 x +5
++
+Bài 10. Cho A =
+ x − 1 x x − x − x + 1   4 x − 1
+
+
+
+1. Rút gọn biểu thức A
+
+(
+
+)
+
+2. Đặt B = x − x + 1 A . Chứng minh B > 1 với x > 0, x ≠ 1
+P
+Bài 11. Cho biểu thức =
+
+15 x − 11 3 x − 2 2 x + 3
++
++
+3+ x
+x + 2 x − 3 1− x
+
+1. Rút gọn biểu thức 𝑃𝑃.
+
+2. Tìm tất cả các giá trị nguyên của 𝑥𝑥 để 𝑃𝑃 là một số nguyên.
+
+x+2 + 3 
+1
+2− x
+2
+
+
+Bài 12. Cho biểu thức P =
++
++
+
+
+ 
+x + 1 − 3   3 − x + 2 x + 2 − 3 x + 6 
+ x + 2 − x +1
+1. Tìm điều kiện của 𝑥𝑥 để biểu thức 𝑃𝑃 xác định.
+
+2. Rút gọn và tìm giá trị lớn nhất của biểu thức P .
+
+BÀI TẬP CUỐI CHƯƠNG III
+A. TRẮC NGHIỆM
+3.32. Căn bậc hai của 4 là
+A. 2.
+
+B. -2 .
+
+C. 2 và -2 .
+
+D. 2 và − 2 .
+
+C. 7 và -7 .
+
+D. 7 và − 7 .
+
+C. 17 − 4 .
+
+D. −4 − 17 .
+
+3.33. Căn bậc hai số học của 49 là
+A. 7 .
+
+B. -7 .
+
+3.34. Rút gọn biểu thức 3 (4 − 17)3 ta được
+A. 4 + 17 .
+
+B. 4 − 17 .
+
+3.35. Độ dài đường kính (mét) của hình tròn có diện tích 4 m 2 sau khi làm tròn kết quả đến
+chữ số thập phân thứ hai bằng
+A. 2,26 .
+
+B. 2,50 .
+
+C. 1,13 .
+
+D. 1,12 .
+
+3.36. Một vật rơi tự do từ độ cao 396,9 m . Biết quãng đường chuyển động S (mét) của vật
+phụ thuộc vào thời gian t (giây) bởi công thức S = 4,9t 2 . Vật chạm đất sau
+A. 8 giây.
+
+B. 5 giây.
+
+C. 11 giây.
+
+D. 9 giây.
+
+B. TỰ LUẬN
+3.37. Không sử dụng MTCT, tính giá trị của biểu thức A=
+3.38. Cho biểu thức =
+A
+a) Rút gọn biểu thức A .
+
+( 3 − 2) 2 + 4(2 + 3) 2 −
+
+1
+.
+2− 3
+
+x +2
+4
+−
+( x > 0, x ≠ 4) .
+x −2
+x +2
+
+b) Tính giá trị của A tại x = 14 .
+
+3.39. Biết rằng nhiệt lượng toả ra trên dây dẫn được tính bởi công thức Q = I 2 Rt , trong đó
+Q là nhiệt lượng tính bằng đơn vị Joule ( J ) ; R là điện trở tính bằng đơn vị Ohm (Ω), I là
+cường độ dòng điện tính bằng đơn vị Ampe (A), t là thời gian tính bằng giây (s). Dòng diện
+chạy qua một dây dẫn có R= 10Ω trong thời gian 5 giây.
+a) Thay dấu "?" trong bảng sau bằng các giá trị thích hợp.
+
+b) Cường độ dòng điện là bao nhiêu Ampe để nhiệt lượng toả ra trên dây dẫn đạt 800 J ?
+
+C. BÀI TẬP THÊM
+Bài 1. Rút gọn các biểu thức sau :
+a)
+
+9 25
+49
+1
+:
+: 3 :
+−
+16 36
+8
+8
+
+45,82 − 44, 22 − 6 ( 2 + 1) 2 + ( 2 − 1) 2  .
+
+b)
+
+Bài 2. Rút gọn các biểu thức sau :
+1 1652 − 1242
+32
+;
+a)
++4
+2
+34
+164
+176 − 1122
+
+5
+
+b)
+
+( 6 − 1) + 2 − 3 .
+6 +1
+
+2+ 3
+
+Bài 3. Rút gọn các biểu thức :
+a)
+
+3 + 3 5 − 2 − 10
+;
+6+2 5
+
+b)
+
+P
+Bài 4. Rút gọn biểu thức=
+
+x x+x y−y x−y y
+x− y+ y x − y y
+
+.
+
+x + 3 2 x +1
+2 x −9
+−
+−
+.
+x −5 x +6
+x − 2 3− x
+
+2 x
+x + 1 3 − 11 x
+.
++
++
+9− x
+x +3
+x −3
+
+Bài 5. Cho biểu thức P =
+a) Rút gọn P .
+
+b) Tính giá trị của P với x =
+
+7+4 3
+.
+4
+
+1
+5
+6 
+6
+.
++
+−
+:
+
+x −3 9− x  x + 2
+ x +3
+
+
+
+Bài 6. Cho biểu thức P = 
+
+a) Rút gọn P .
+b) Tìm các giá trị nguyên của x để P có giá trị nguyên.
+2
+
+2  1
+1 
+x+ y
+.
+:
+−
+−
+
+xy  x
+y  x − 2 xy + y
+
+Bài 7. Cho biểu thức=
+P
+
+Chứng minh rằng với mọi giá trị của x và y làm cho biểu thức P có nghĩa thì giá trị của
+P không phụ thuộc vào x và y .
+x
+1 
+ x+3
++
+:
+.
+
+x +3 x −3
+ x −9
+
+=
+P 
+Bài 8. Cho biểu thức
+
+a) Rút gọn P .
+1
+3
+
+b) Chứng minh rằng P > .
+1
+x+2  2
+.
+−
+:
+ x +1 x x +1  x
+
+
+Bài 9. Cho biểu thức
+=
+P 
+a) Rút gọn P .
+
+b) Chứng minh rằng biểu thức P luôn luôn âm với mọi giá trị của x làm P xác định.
+x x+x
+1
+1
++
++
+.
+x −1 + x
+x −1 − x
+x +1
+
+Bài 10. Cho biểu thức P =
+
+a) Rút gọn P .
+b) Chứng minh rằng biểu thức P luôn luôn không âm với mọi giá trị của x làm P xác
+định.
+ 1
+x 
++
+: 
+.
+x+ x  x
+x + 1 
+x
+
+Bài 11. Cho =
+biểu thức P
+a) Rút gọn P .
+
+b) Tìm giá trị lớn nhất của P .
+Bài 12. Giải phương trình
+a)
+
+25(3 x − 1) 2 =
+10 ;
+
+b)
+
+x +3
+=
+x −3
+
+x +5
+.
+x −2
+
+Bài 13. Giải phương trình
+a) 5 x − (2 x − 1) 2 =
+2;
+
+b)
+
+x + 2 x −1 =
+x.
+
+BÀI 7. CĂN BẬC HAI VÀ CĂN BẬC BA CỦA SỐ THỰC
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1 CĂN BẬC HAI
+Tìm hiểu khái niệm căn bậc hai
+Căn bậc hai của số thực không âm a là số thực x sao cho x 2 = a .
+Nhận xét
+- Số âm không có căn bậc hai;
+- Số 0 có một căn bậc hai duy nhất là 0 ;
+- Số dương a có đúng hai căn bậc hai đối nhau là
+
+a (căn bậc hai số học của a ) và − a .
+
+Ví dụ 1. Tìm căn bậc hai của 81.
+Lời giải
+Ta có
+
+81 = 9 nên 81 có hai căn bậc hai là 9 và − 9 .
+
+Tính căn bậc hai của một số bằng máy tính cầm tay
+Để tính các căn bậc hai của một số a > 0 , chỉ cần tính
+sử dụng MTCT.
+
+a . Có thể dễ dàng làm điều này bằng cách
+
+Ví dụ 2. Sử dụng MTCT, tính căn bậc hai của 11,1 (làm tròn đến chứ số thập phân thứ hai).
+Lời giải
+Bấm các phím
+màn hình hiện kết quả là 3,33166625 . Làm tròn kết
+quả đến chữ số thập phân thứ hai ta được 11,1 ≈ 3,33 .
+Vậy căn bậc hai của 11,1 (làm tròn đến chứ số thập phân thứ hai) là 3,33 và −3,33 .
+Tính chất của căn bậc hai
+Tính chất:
+
+a 2 = a với mọi số thực a.
+
+Ví dụ 3. Không sử dụng MTCT, tính:
+a) 1 − 2 + (1 + 2) 2 ;
+
+b)
+
+(−3) 2 + 3 .
+
+Lời giải
+a) Ta có
+
+(1 + 2) 2 =
+|1 + 2 |=
+1 + 2 nên 1 − 2 + (1 + 2) 2 =−
+1 2 + (1 + 2) =
+2.
+
+b) Ta có
+
+(−3) 2 =−
+| 3 |=3 nên
+
+2. CĂN THỨC BẬC HAI
+Căn thức bậc hai
+
+(−3) 2 + 3 = 3 + 3 = 6 .
+
+Tổng quát, ta có định nghĩa:
+•
+Căn thức bậc hai là biểu thức có dạng A , trong đó A là một biểu thức đại số. A được gọi
+là biểu thức lấy căn hoặc biểu thức dưới dấu căn.
+•
+A xác định khi A lấy giá trị không âm và ta thường viết là A ≥ 0 . Ta nói A ≥ 0 là điều
+kiện xác định (hay điều kiện có nghĩa) của A .
+Ví dụ 4. Xét căn thức
+
+2x +1 .
+
+a) Tìm điểu kiện xác định của căn thức.
+b) Tính giá trị của căn thức đã cho tại x = 0 và x = 4 .
+Lời giải
+
+1
+a) Điều kiện xác định của căn thức là 2 x + 1 ≥ 0 hay x ≥ − .
+2
+b) Tại x = 0 (thoả mãn điểu kiện xác định) căn thức có giá trị là
+Tại x = 4 (thoả mãn điểu kiện xác định) căn thức có giá trị là
+Hằng đẳng thức
+
+2 ⋅ 0 + 1 =.
+1
+
+2 ⋅ 4 +1 =
+3.
+
+A2 =| A |
+
+Tương tự như căn bậc hai của một số thực không âm, với A là một biểu thức, ta cũng có:
+•
+
+Với A ≥ 0 ta có
+
+•
+
+A2 =| A | .
+
+A ≥ 0;( A ) 2 =
+A;
+
+Ví dụ 5. Rút gọn các biểu thức sau:
+a) ( 1 − x ) 2 với x < 0 ;
+
+b) 1 − 2x + x 2 với x > 2 .
+Lời giải
+
+a) Từ giả thiết x < 0 suy ra 1 − x > 0 . Do đó ( 1 − x ) 2 =1 − x. ← hằng đẳng thức ( A ) 2 = A với
+mọi A ≥ 0
+b) Áp dụng hằng đẳng thức bình phương của một hiệu và hằng đẳng thức
+
+A 2 = A , ta có
+
+1 − 2 x + x 2 = (1 − x) 2 =
+|1 − x | .
+Do giả thiết x > 2 suy ra 1 − x < 0 nên |1 − x |=−(1 − x) =x − 1 . Vì vậy
+
+1 − 2 x + x 2 = (1 − x) 2 =x − 1 , với x > 2
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.1. Tìm căn bậc hai của mỗi số sau (làm tròn đến chữ số thập phân thứ hai):
+a) 24,5 ;
+
+b)
+Lời giải
+
+9
+.
+10
+
+Sử dụng MTCT:
+a) Bấm các phím
+
+màn hình hiện kết quả là 4,949747468 .
+
+Làm tròn kết quả đến chữ số thập phân thứ hai ta được
+
+24,5 ≈ 4,95 .
+
+Vậy số 24,5 có hai căn bậc hai là 4,95 và −4,95 .
+b) Bấm các phím
+0,9486832981 .
+
+màn hình hiện kết quả là
+
+9
+≈ 0,95 .
+10
+
+Làm tròn kết quả đến chữ số thập phân thứ hai ta được
+Vậy số
+
+9
+có hai căn bậc hai là 0,95 và −0,95 .
+10
+
+3.2. Để chuẩn bị trồng cây trên vỉa hè, người ta để lại những ô đất hình tròn có diện tích khoảng
+2 m 2 . Em hãy ước lượng (với độ chính xác 0,005 ) đường kính của các ô đất đó khoảng bao nhiêu
+mét?
+Lời giải
+Công thức tính diện tích hình tròn bán kính R là S = π R 2 .
+Theo bài, ta có: π R 2 = 2 , suy ra R 2 =
+
+2
+
+π
+
+, do đó R =
+
+Khi đó, đường kính của các ô đất đó là: d = 2
+
+2
+
+π
+
+2
+
+π
+
+(do R > 0 ).
+
+.
+
+Sử dụng MTCT, Màn hình hiện kết quả là 1,595769122.
+Làm tròn kết quả với độ chính xác 0,005 (làm tròn kết quả đến chữ số thập phân thứ hai) ta được
+
+d 2
+=
+
+2
+
+π
+
+≈ 1, 60 .
+
+Vậy ta ước lượng được đường kính của các ô đất đó khoảng 1, 60 m .
+3.3. Tìm điều kiện xác định của
+
+x + 10 và tính giá trị của cǎn thức tại x = −1 .
+Lời giải
+
+Điều kiện xác định của biểu thức
+
+x + 10 là x + 10 ≥ 0 hay x ≥ −10 .
+
+Thay x = −1 (thỏa mãn điều kiện) vào biểu thức
+Vậy giá trị của căn thức
+3.4. Tính:
+
+5,12 ;
+
+x + 10 ta được: −1 + 10=
+
+x + 10 là 3 khi x = −1 .
+
+(−4,9) 2 ; − (−0, 001) 2 .
+Lời giải
+
+9= 3
+
+Ta có:
+2
+5,1
+=
+| 5,1|
+= 5,1
+
+(−4,9) 2 =
+| −4,9 |=
+4,9
+− (−0, 001) 2 =− | −0, 001|=−0, 001
+3.5. Rút gọn các biểu thức sau:
+a)
+
+b) 3 x 2 − x + 1 ( x < 0) ;
+
+(2 − 5) 2 ;
+
+c)
+
+x 2 − 4 x + 4 ( x < 2) .
+
+Lời giải
+a)
+
+(2 − 5) 2 =
+| 2 − 5 |= 5 − 2( vì 2 − 5 < 0) .
+
+1 3 | x | − x + 1 . Vì x < 0 nên | x |= − x .
+b) 3 x 2 − x +=
+Vậy 3 x 2 − x + 1 =3 | x | − x + 1 =−3 x − x + 1 =−4 x + 1 .
+c)
+
+x 2 − 4 x + 4 = ( x − 2) 2 =| x − 2 | . Vì x < 2 nên x − 2 < 0 , do đó | x − 2 |= 2 − x .
+x 2 − 4 x + 4 = ( x − 2) 2 =| x − 2 |= 2 − x .
+
+Vậy
+
+3.6. Không dùng MTCT, chứng tỏ biểu thức A có giá trị là số nguyên:
+
+A = (1 + 2 2) 2 − (1 − 2 2) 2 .
+Lời giải
+Ta có:
+
+A = (1 + 2 2) 2 − (1 − 2 2) 2 =|1 + 2 2 | − |1 − 2 2 | =
+1 + 2 2 − (2 2 − 1) =
+1+ 2 2 − 2 2 +1 =
+2
+Vậy giá trị của biểu thức A là số nguyên.
+C. CÁC DẠNG TOÁN
+Dạng 1: So Sánh Hai Số
+1. Phương pháp
+Áp dụng: Với a ≥ 0, b ≥ 0 ta có: a < b ⇔ a < b .
+2. Ví dụ minh
+Ví dụ 1: So sánh:
+a) 3 và
+
+5
+
+b) 8 và
+Lời giải
+
+a) Ta có 3 = 9 và 9 > 5 ⇒ 9 > 5 . Vậy 3 > 5 .
+
+63
+
+c) 9 và
+
+79
+
+b) Ta có 8 = 64 và 64 > 63 ⇒ 64 > 63 . Vậy 8 > 63 .
+c) Ta có 9 = 81 và 81 > 79 ⇒ 81 > 79 . Vậy 9 > 79 .
+Ví dụ 2: So sánh các số :
+a. 2 31 và 10
+
+b. 2 + 3 và 3 + 2 .
+Lời giải
+
+a. Áp dụng định lí a > b0 ⇔ a > b .
+
+31 > 5 hay 2 31 > 10
+
+Ta có 31 > 25 nên
+
+7+4 3
+b. Áp dụng định li a > b0 ⇔ a 2 > b 2 . Ta có: (2 + 3) 2 =
+(3 + 2) 2 =+
+11 6 2
+(4 3) 2 48;(6
+2) 2 72 )
+=
+=
+Nhưng 4 3 < 6 2 (vì
+nên 7 + 4 3 < 11 + 6 2 . Vậy 2 + 3 < 3 + 2 .
+Ví dụ 3. Không dùng máy tính hoặc bảng số, hãy so sánh 8 và
+
+65 .
+
+Lời giải
+Cách 1: Ta có 8 = 64 . Vì
+
+(
+
+)
+
+64 < 65 nên 8 < 65 .
+
+2
+
+=
+65
+65 nên 82 <
+Cách=
+2: Vì 82 64;
+
+( 65 ) , suy ra 8 < 65 .
+2
+
+Cách giải này dựa vào tính chất: Nếu a, b > 0 và a 2 < b 2 thì a < b .
+Như vậy, để so sánh hai số dương ta có thể so sánh các bình phương của chúng.
+Ví dụ 4. Không dùng máy tính hoặc bảng số, hãy so sánh 15 − 1 và 10 .
+Lời giải
+Ta có 15 − 1 < 16 − 1 = 4 − 1 = 3;
+
+10 > 9 = 2 . Vậy 15 − 1 < 10 .
+
+Ví dụ 5. Với a < 0 thì số nào lớn hơn trong hai số
+
+−a và
+
+−2a ?
+
+Lời giải
+Ta có −1 > −2 nên −a < −2a ( vì a < 0 ).Do đó
+
+−a < −2a .
+
+Dạng 2. Tìm x thỏa điều kiện cho trước
+1. Phương pháp giải
+Với a ≥ 0 :
+•
+
+x 2 = a khi x = ± a .
+
+•
+
+x = a khi x = a 2 .
+
+•
+
+x < a khi 0 ≤ x < a 2 .
+
+2. Ví dụ minh họa
+Ví dụ 1: Dùng máy tính bỏ túi, tính giá trị gần đúng của nghiệm mỗi phương trình sau ( làm tròn đến
+chữ số thập phân thứ ba):
+a) x 2 = 4,5 .
+
+c) x 2 = 7,5 .
+
+b) x 2 = 5 .
+Lời giải
+
+a) Nghiệm của phương trình x 2 = a ( với a ≥ 0 ) là các căn bậc hai của a .
+Phương trình x 2 = 4,5 có hai nghiệm là x1 = 4,5 và x2 = − 4,5 .
+Dùng máy tính ta tìm được x1 ≈ 2,121 và x2 ≈ −2,121 .
+b) x 2 = 5 có hai nghiệm x = ± 5 ≈ ±2, 236 .
+c) x 2 = 7,5 có hai nghiệm x = ± 7,5 ≈ ±2, 739 .
+d) x 2 = 9,12 có hai nghiệm x = ± 9,12 ≈ ±3, 020 .
+Ví dụ 2: Tìm x sao cho :
+a. x 2 = 16
+b. x 2 =
+
+9
+25
+
+c. x 2 = −4
+Lời giải
+
+a. x 2 = 16 thì x = 4 hay x = −4
+b. x 2 =
+
+3
+3
+9
+thì x = hay x =
+5
+5
+25
+
+c. x 2 = −4 thì không tôn tại số thực x .
+Ví dụ 3. số x không âm, biết:
+a)
+
+x = 15;
+
+b) 2 x = 14;
+
+c)
+
+x < 2;
+
+d)
+
+2 x < 4.
+
+Lời giải
+
+x = 15 ⇔ x =
+
+152 ⇔ x = 225. Vậy x = 225 .
+
+a)
+
+Ta có
+
+b)
+
+2 x=
+14 ⇔ x =
+7 ⇔ x = 49 ⇔ x =
+49. Vậy x = 49.
+
+c)
+
+x < 2 ⇔ x < 2. Kết hợp điều kiện 0 ≤ x < 2.
+
+d)
+
+2 x < 4 ⇔ 2 x < 16 ⇔ 0 ≤ 2 x < 16 ⇔ 0 ≤ x < 8. Vậy 0 ≤ x < 8.
+
+d) x 2 = 9,12 .
+
+Ví dụ 4. Tính cạnh của một hình vuông, biết diện tích của nó bằng diện tích của hình chữ nhật có
+chiều rộng 3,5 m và chiều dài 14 m.
+
+Lời giải
+
+Diện tích hình chữ nhật là 3,5.14 = 49(m 2 ).
+Gọi cạnh của hình vuông là x ( x > 0 ) .
+Ta có: x 2 = 49 ⇔ x = 7.
+Vậy cạnh của hình vuông là 7m.
+Dạng 3. Tìm điều kiện để A có nghĩa
+1. Phương pháp giải
+
+A có nghĩa ⇔ A ≥ 0.
+
+①
+
+②
+
+2. Ví dụ minh họa.
+
+1
+có nghĩa ⇔ A > 0.
+A
+
+Ví dụ 1: Với giá trị nào của a thì mỗi căn thức sau có nghĩa:
+a).
+
+a
+;
+3
+
+b).
+
+4 − a;
+
+3a + 7.
+
+c).
+
+−5a ;
+
+d).
+
+c)
+
+1
+;
+−1 + x
+
+d) 1 + x 2 .
+
+Lời giải
+
+a)
+
+a
+a
+có nghĩa ⇔ ≥ 0 ⇔ a ≥ 0.
+3
+3
+
+b)
+
+−5a có nghĩa ⇔ −5a ≥ 0 ⇔ a ≤ 0.
+
+c)
+
+4 − a có nghĩa ⇔ 4 − a ≥ 0 ⇔ a ≤ 4.
+
+d)
+
+7
+3a + 7 có nghĩa ⇔ 3a + 7 ≥ 0 ⇔ a ≥ − .
+3
+
+Ví dụ 2: Tìm x, để mỗi căn thức sau có nghĩa:
+a). 2 x + 7;
+
+b)
+
+−3 x + 4;
+Lời giải
+
+a)
+b)
+
+7
+2 x + 7 có nghĩa ⇔ 2 x + 7 ≥ 0 ⇔ x ≥ − .
+2
+
+4
+−3 x + 4 có nghĩa ⇔ −3 x + 4 ≥ 0 ⇔ 3x ≤ 4 ⇔ x ≤ .
+3
+
+c)
+
+1
+có nghĩa ⇔ −1 + x > 0 ⇔ x > 1.
+−1 + x
+
+d) Vì 1 + x 2 > 0 với mọi x nên 1 + x 2 có nghĩa với mọi x
+Ví dụ 3: Với giá trị nào của a thì mỗi căn thức sau có nghĩa:
+a).
+
+1
+;
+a2
+
+b)
+
+a2 + 1
+;
+1 − 2a
+
+c)
+
+a 2 − 1;
+
+d) 4 − a 2 .
+
+Lời giải
+
+a)
+
+1
+1
+có nghĩa ⇔ 2 ≥ 0 ⇔ a ≠ 0.
+2
+a
+a
+
+b)
+
+1
+a2 + 1
+có nghĩa ⇔ 1 − 2a > 0 (vì a 2 + 1 > 0, ∀a ∈  ). ⇔ a < .
+2
+1 − 2a
+
+c)
+
+2
+2
+a 2 − 1 có nghĩa ⇔ a − 1 ≥ 0 ⇔ a ≥ 1 ⇔| a |≥ 1 ⇔ a ≤ −1 hoặc a ≥ 1.
+
+d)
+
+2
+2
+4 − a 2 có nghĩa ⇔ 4 − a ≥ 0 ⇔ a ≤ 4 ⇔| a |≤ 2 ⇔ −2 ≤ a ≤ 2.
+
+Dạng 4. Tính giá trị biểu thức
+1. Phương pháp giải
+ A neu A ≥ 0
+A2 = 
+− A neu A < 0.
+
+Áp dụng:
+
+2. Ví dụ minh họa
+Ví dụ 1: Tính:
+a).
+
+( 0,1)2 ;
+
+b)
+2
+
+c). − ( −1,3) ;
+
+( −0,3)2 ;
+2
+
+d) −0, 4 ( −0, 4 ) .
+Lời giải
+
+a)
+
+= 0,1.
+( 0,1=
+)2 | 0,1|
+
+b)
+
+| −0,3 |=
+0,3.
+( −0,3)2 =
+2
+
+c) − ( −1,3) =− | −1,3 |=−1,3.
+2
+
+d) −0, 4 ( −0, 4 ) =
+−0, 4. | −0, 4 |=
+−0,16.
+Ví dụ 2: Tính:
+a). 16. 25 + 196 : 49;
+
+b). 36 : 2.32.18 − 169;
+
+c).
+
+d).
+
+81;
+Giải:
+
+32 + 42 .
+
+a) Ta có 16. 25 + 196 : 49 = 4.5 + 14 : 7 = 20 + 2 = 22.
+b) 36 : 2.32.18 − 169 =
+36 : 182 − 13 =
+36 :18 − 13 =−
+2 13 =
+−11.
+c)
+
+81
+=
+
+d)
+
+32 + 42 =
+
+=
+9 3.
+25 = 5.
+
+Dạng 5. Rút gọn biểu thức
+1. Phương pháp giải:
+khi A ≥ 0
+A
+= 
+A
+− A khi A < 0
+Xét các trường hợp A ≥ 0 , A < 0 để bỏ dấu giá trị tuyệt đối.
+
+① Áp dụng
+②
+
+2
+A=
+
+A xác định ( có nghĩa) ⇔ A ≥ 0 .
+
+2. Ví dụ minh họa.
+Ví dụ 1. Rút gọn các biểu thức sau:
+a).
+
+( 4 − 15 ) + 15 ;
+
+b).
+
+c).
+
+7+4 3 + 7−4 3 ;
+
+d). 49a 2 , với a < 0 .
+
+2
+
+( 2 − 3 ) + (1 − 3 ) ;
+2
+
+2
+
+Lời giải
+
+a) Ta có
+
+4 15 + 15 = 4 .
+4 15 + 15 =−
+( 4 − 15 ) + 15 =−
+2
+
+( Vì 4 − 15 > 0 nên 4 − 15 =
+4 − 15 )
+b) Ta có
+
+( 2 − 3 ) + (1 − 3 ) = 2 − 3 + 1 − 3 = ( 2 − 3 ) + − (1 − 3 ) =2 − 3 + 3 − 1 = 1
+2
+
+2
+
+( Vì 2 − 3 > 0 nên 2 − 3 =−
+2
+3 và 1 − 3 < 0 nên 1 − 3 = 3 − 1 )
+c) Ta có
+=
+d) Ta có
+
+( 3 ) + 2. 3.2 + 2 + ( 3 ) − 2. 3.2 + 2
+2
+
+7 + 4 3 + 7 − 4=
+3
+
+( 3 + 2) + ( 3 − 2) =
+2
+
+49a 2 =
+
+2
+
+2
+
+3+2 + 3−2 =
+
+2
+
+( 3 + 2) + ( 2 − 3 ) =
+
+2
+
+3 + 2 + 2 − 3= 4 .
+
+( 7a ) = 7a = −7a . ( Vì a < 0 nên 7a < 0 , suy ra 7a = −7a )
+2
+
+Ví dụ 2. Rút gọn các biểu thức sau:
+a). 25a 2 + 3a , với a < 0 ;
+c). 3 9a 6 − 6a 3 , với a ≤ 0 ;
+d). a 2 + 6a + 9 + a 2 − 6a + 9 , với −3 ≤ a ≤ 3 .
+
+b). 16a 4 + 6a 2 ;
+
+Lời giải
+
+a). Ta có
+
+2
+25a=
++ 3a
+
+a
+( 5a ) + 3=
+2
+
+−5a + 3a =
+−2a .
+5a + 3a =
+
+(Vì a < 0 nên 5a < 0 , suy ra 5a = −5a )
+4
+b). Ta có 16a=
++ 6a 2
+
+4a + 6a = 4a + 6a = 10a .
+a
+( 4a ) + 6=
+2 2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+(Vì a 2 ≥ 0 , với mọi a nên 4a 2 ≥ 0 , với mọi a , suy ra 4a 2 = 4a 2 )
+
+3. ( 3a 3 ) − 6a 3 =
+−15a 3 .
+6a 3 3 3a 3 − 6a 3 =−
+c). Ta có 3 9=
+a 6 − 6a 3 3 ( 3a 3 ) −=
+2
+
+(Vì a ≤ 0 nên 3a 3 ≤ 0 , suy ra 3a 3 = −3a 3 )
+d). Ta có
+
+( a + 3) + ( a − 3) = a + 3 + a − 3 = ( a + 3) + ( 3 − a )
+2
+
+a 2 + 6a + 9 + a 2 − 6a + 9 =
+
+2
+
+= a +3+3− a = 6.
+
+(Vì −3 ≤ a ≤ 3 nên a + 3 ≥ 0 và a − 3 ≤ 0 , do đó a + 3 = a + 3 và a − 3 = 3 − a )
+Ví dụ 3. Rút gọn các biểu thức sau:
+a).
+
+a −2
+, với a ≥ 0, a ≠ 4 ;
+a−4
+
+b).
+
+a + 2 a +1
+, với a ≥ 0, a ≠ 1 ;
+a −1
+
+Lời giải
+
+=
+4
+a). Với a ≥ 0, a ≠ 4 ta có a −
+
+a −2
+=
+a−4
+
+a −2
+
+( a − 2)( a + 2)
+
+=
+
+( a ) − 2 =( a + 2)( a − 2) nên:
+2
+
+2
+
+1
+.
+a +2
+
+a + 2 a +1
+=
+b). Với a ≥ 0, a ≠ 1 ta có
+a −1
+
+( a ) + 2 a + 1 = ( a + 1) = a + 1 .
+( a ) − 1 ( a + 1)( a − 1) a − 1
+2
+
+2
+
+2
+
+Dạng 6. Giải phương trình
+1. Phương pháp giải
+Áp dụng:
+
+A2 = A ;
+
+ A= B
+2
+.
+A=
+B2 ⇔ 
+ A = −B
+
+2. Ví dụ minh họa
+Ví dụ 1. Tìm x biết:
+a).
+
+x2 = 5 ;
+
+b).
+
+25 x 2 = 10 ;
+
+b).
+
+4 x 2 − 28 x + 49 =
+7;
+
+c).
+
+x − 10 x + 25 =
+3.
+
+Lời giải
+
+a). Ta có
+
+ x=5
+. Vậy x ∈ {−5;5} .
+x2 = 5 ⇔ x =
+5⇔
+ x = −5
+
+b). Ta có
+
+25 x 2 = 10 ⇔
+
+c). Ta có
+
+4 x 2 − 28 x + 49 =
+7⇔
+
+ x=2
+ 5 x = 10
+. Vậy x ∈ {−2; 2} .
+⇔
+ x = −2
+5 x = −10
+
+10 ⇔ 5 x =
+10 ⇔ 
+(5x ) =
+2
+
+7
+ 2x − 7 =
+ 2 x − 7 =−7
+
+7 ⇔ 2x − 7 =
+7⇔
+( 2x − 7) =
+2
+
+x = 7
+ 2 x = 14
+.
+⇔
+⇔
+x = 0
+ 2x = 0
+Vậy x ∈ {0;7} .
+d). Ta có
+
+
+
+x −5 =
+3
+
+3 ⇔ x −5 =
+3⇔
+( x − 5) =
+ x − 5 =−3
+2
+
+x − 10 x + 25 =
+3⇔
+
+
+
+ x =8
+ x = 64
+.
+⇔
+⇔
+ x=4
+ x = 2
+Vậy x ∈ {4;64} .
+Ví dụ 2. Giải các phương trình sau:
+
+0;
+a). 4 x 2 − 64 =
+
+b).
+
+x4 − 7 =
+0;
+
+2
+c). 9 x=
+2x +1 ;
+
+d).
+
+x2 − 4 x + 4 − x2 + 4 x + 4 =
+0.
+
+Giải:
+ x=4
+0 ⇔ 4x2 =
+a). Ta có 4 x 2 − 64 =
+. Vậy S =
+64 ⇔ x 2 =
+16 ⇔ 
+ x = −4
+
+ x= 7
+
+b). Ta có
+
+x4 − 7 =
+0⇔
+
+7⇔x =
+7⇔ x =
+7 ⇔
+(x ) =
+
+c). Ta có
+
+2
+9 x=
+2x +1 ⇔
+
+2 x + 1 ⇔ 3 x =2 x + 1
+( 3x ) =
+
+2 2
+
+2
+
+2
+
+{−4; 4} .
+
+ x = − 7
+
+. Vậy S =
+
+{− 7; 7} .
+
+2
+
+ x ≥ 0
+  3x ≥ 0
+ 
+
+ x =1
+ x =1
+x 2x +1
+3=
+ 1 
+
+⇔
+. Vậy S = − ;1 .
+⇔  x < 0 ⇔ 
+1
+  3x < 0
+x = −
+ 5 
+
+
+5
+
+1
+
+
+ −3 x = 2 x + 1
+  x = − 5
+d). Ta có
+⇔
+
+x2 − 4 x + 4 − x2 + 4 x + 4 =
+0 ⇔ x 2 − 4 x + 4=
+
+( x − 2) = ( x + 2)
+2
+
+2
+
+x2 + 4 x + 4
+
+ x−2= x+2
+0 x = −4
+ x ∈∅
+⇔
+⇔
+⇔x=
+0 . Vậy S = {0} .
+⇔ x−2 = x+2 ⇔ 
+ 2x = 0
+x=0
+ x − 2 =− ( x + 2 )
+
+Ví dụ 3. Tính cạnh của hình vuông, biết diện tích hình vuông đó bằng diện tích tam giác vuông có
+hai cạnh góc vuông là 12,8 m và 40 m .
+Lời giải
+
+Gọi x ( x > 0, m ) là cạnh hình vuông, khi đó diện tích hình vuông bằng: S hv = x 2 ( m 2 ) .
+1
+Diện tích tam giác vuông là: Stgv =
+⋅12,8.40 =
+256 ( m 2 ) .
+2
+
+x
+Theo giả thiết ta có: S hv = Stgv ⇔ x 2 =
+256 ⇔=
+
+256
+= 16 ( m ) .
+
+Vậy cạnh của hình vuông là 16 m .
+Dạng 7: Phân Tích Đa Thức Thành Nhân Tử
+1. Phương pháp giải:
+ÁP dụng các công thức:
+
+A=
+
+( A ) (với A ≥ 0 ) .
+2
+
+A2 − B 2 = ( A − B )( A + B ) .
+
+2. Ví dụ minh họa.
+Ví dụ 1. Phân tích thành nhân tử:
+a). x 2 − 2 .
+
+b). x 2 − 7 .
+
+c). x 2 + 2 15 x + 15 .
+
+d). 4 x 2 − 4 3 x + 3 .
+Giải:
+
+a). Ta có x 2 − 2 = x 2 −
+
+( 2 ) = ( x − 2 )( x + 2 ) .
+
+b). Ta có x 2 − 7 = x 2 −
+
+2
+
+( 7 ) = ( x − 7 )( x + 7 ) .
+2
+
+c). Ta có x 2 + 2 15 x + 15 = x 2 + 2.x. 15 +
+d). Ta có 4 x 2 − 4 3 x + 3=
+
+( 15 ) = ( x + 15 ) .
+2
+
+2
+
+( 2 x ) − 2.2 x. 3 + ( 3 ) = ( 2 x − 3 ) .
+2
+
+2
+
+2
+
+Dạng 8: Chứng minh đẳng thức
+1. Phương pháp giải.
+Áp dụng
+Các hằng đẳng thức đáng nhớ.
+và A =
+
+( A ) để biến đổi vế trái thành vế phải hoặc ngược lại.
+2
+
+2. Ví dụ minh họa.
+
+Ví dụ 1. Chứng minh:
+a).
+
+( 5 − 1) =6 − 2 5 .
+2
+
+b).
+
+6−2 5 − 5 =
+−1 .
+
+Giải:
+a). Ta có
+
+( 5 − 1) = ( 5 ) − 2. 5.1 + 1 = 5 − 2 5 + 1 = 6 − 2 5 .
+2
+
+2
+
+2
+
+b). Áp dụng câu a, ta có:
+
+(
+
+)
+
+2
+
+6 − 2 5 − 5 = 5 − 1 − 5 =5 − 1 − 5 =5 − 1 − 5 =
+−1 .
+
+D. LUYỆN TẬP
+Bài 1. Dùng máy tính bỏ túi, tính giá trị gần đúng của nghiệm mỗi phương trình sau ( làm tròn đến
+chữ số thập phân thứ ba):
+b) x 2 = 2,5;
+
+a) x 2 = 5 ;
+
+c) x 2 = 5 .
+Lời giải
+
+a) x1 = 5 ≈ 2, 236 ; x2 = − 5 ≈ −2, 236
+b) x1 = 2,5 ≈ 1,581; x2 = − 2,5 ≈ −1,581
+c) x1 =
+
+5 ≈ 1, 495; x2 = −
+
+5 ≈ −1, 495
+
+Bài 2. So sánh
+
+3 −1;
+
+a) 2 và 1 + 2 ;
+
+b) 1 và
+
+a) 2 < 1 + 2 ;
+
+b) 1 > 3 − 1
+
+c) 3 11 và 12 ;
+Lời giải
+
+d) −10 và −2 31 .
+
+c) 3 11 < 12 ;
+
+d) −10 > −2 31
+
+Bài 3. Tìm x không âm, biết
+
+x = 5;
+
+b)
+
+a) x = 25
+
+b) x = 2 ;
+
+a)
+
+x = 2;
+
+c)
+
+x = −2 .
+Lời giải
+
+c) Không có x .
+
+Bài 4. Cho a > 0 . Chứng minh:
+a) Nếu a > 1 thì a > a :
+b) Nếu a < 1 thi a < a .
+Lời giải
+
+a
+a) a −=
+
+a ( a − 1) > 0 nếu a > 1 .
+
+a
+b) a −=
+
+a ( a − 1) < 0 nếu 0 < a < 1 .
+
+Bài 5. Biểu thức sau xác định với giá trị nào của x ?
+a).
+
+−3 x + 2 ;
+
+b).
+
+4
+;
+2x + 3
+
+c).
+
+2
+;
+x2
+
+d).
+
+x ( x + 2)
+
+e).
+
+9x2 − 6x + 1
+
+g).
+
+5 x 2 − 3x − 8
+
+h).
+
+5x2 + 4 x + 7 .
+
+f).
+
+2x −1
+2− x
+
+Giải:
+2
+a) Đk: −3 x + 2 ≥ 0 ⇔ −3 x ≥ −2 ⇔ x ≤ .
+3
+ 4
+≥0
+−3
+
+⇔ 2 x + 3 > 0 ⇔ 2 x > −3 ⇔ x > .
+b) Đk:  2 x + 3
+2
+2 x + 3 ≠ 0
+
+2
+ ≥0
+⇔ x 2 > 0 ⇔ x ≠ 0.
+c) Đk:  x 2
+ x2 ≠ 0
+
+
+ x ≥ 0
+ x ≥ 0
+
+
+x ≥ 0
+x + 2 ≥ 0
+ x ≥ −2
+⇔
+⇔
+.
+d) Đk: x ( x + 2 ) ≥ 0 ⇔ 
+ x ≤ 0
+ x ≤ 0
+ x ≤ −2
+
+
+  x + 2 ≤ 0
+  x ≤ −2
+e) Đk: 9 x 2 − 6 x + 1 ≥ 0 ⇔ ( 3 x − 1) ≥ 0, ∀x.
+2
+
+
+1
+ x ≥ 2
+ 2 x − 1 ≥ 0
+
+
+1
+≤x<2
+2x −1
+1
+  x < 2
+2 − x > 0
+
+
+≥0⇔
+⇔
+⇔ 2
+⇔ ≤ x<2.
+f) Đk:
+ 2 x − 1 ≤ 0
+
+2− x
+2
+  x ≤ 1
+
+ x ∈∅
+2
+
+ 2 − x < 0
+ x > 2
+
+
+g) Đk: 5 x 2 − 3 x + 8 ≥ 0 ⇔ 5 x 2 − ( 8 − 5 ) x + 8 ≥ 0 ⇔ ( 5 x 2 − 8 x ) + ( 5 x − 8 ) ≥ 0 ⇔ ( 5 x − 8 )( x + 1) ≥ 0
+
+ 5 x − 8 ≥ 0
+
+8
+
+x≥
+x +1 ≥ 0
+
+
+⇔
+⇔
+5 .
+ 5 x − 8 ≤ 0
+
+
+ x ≤ −1
++
+≤
+x
+1
+0
+ 
+h) Đk: 5 x 2 + 4 x + 7 ≥ 0 ⇔ 25 x 2 + 20 x + 35 ≥ 0
+
+⇔ ( 25 x 2 + 2.5 x.2 + 4 ) + 31 ≥ 0 ⇔ ( 5 x + 2 ) + 31 ≥ 0, ∀x.
+2
+
+Bài 6. Tính:
+a). −0,8 ( −0,125 ) ;
+2
+
+d).
+
+(
+
+2 2 −3
+
+)
+
+2
+
+b).
+
+( −2 ) ;
+
+e).
+
+1 
+ 1
+−
+
+ ;
+3
+ 2
+
+6
+
+c).
+
+( 3 − 2) ;
+
+f).
+
+( 0,1 − 0,1) ;
+
+2
+
+;
+
+2
+
+2
+
+g).
+
+3+ 2 2 ;
+
+h).
+
+4−2 3 ;
+
+i).
+
+9−4 5 ;
+
+j). 16 − 6 7 .
+Giải:
+a) −0,8 ( −0,125 ) =
+−0,8 −0,125 =
+−0,8.0,125 =
+−0,1.
+2
+
+b)
+
+( −2 ) = ( −2 )
+6
+
+3.2
+
+3 2
+
+= ( −2 )  =−
+( 2 ) =23 =8.
+
+
+3
+
+( 3 − 2) = 3 − 2 = 2 − 3.
+d) ( 2 2 − 3) = 2 2 − 3 = 3 − 2 2.
+2
+
+c)
+
+2
+
+2
+
+e)
+
+1 
+1
+1
+1
+1
+ 1
+−
+−
+=
+−
+.
+
+ =
+3
+2
+3
+2
+3
+ 2
+
+( 0,1 − 1) = 0,1 (1 − 0,1 ) =
+g) 4 − 2 3 = 3 − 2 3.1 + 1 = ( 3 − 1) =
+3 − 1 = 3 − 1.
+h) 3 + 2 2 = 2 + 2. 2.1 + 1= ( 2 + 1) =
+2 + 1 = 2 + 1.
+i) 9 − 4 5 = 5 − 2. 5.2 + 4 = ( 5 − 2 ) =
+5 − 2 = 5 − 2.
+j) 16 − 6 7 = ( 7 − 2. 7.3 + 9 ) = ( 7 − 3) = 7 − 3 = 3 − 7.
+f)
+
+( 0,1 − 0,1) = 0,1 − 0,1 =
+2
+
+0,1
+
+0,1 − 1.
+
+2
+
+2
+
+2
+
+2
+
+Bài 7. Rút gọn biểu thức:
+a). 2 x 2 , với x < 0 ;
+c).
+
+( a − 5) , với a ≤ 5 ;
+2
+
+e). x − 4 + x 2 − 8 x + 16 , với x < 4 ;
+f).
+
+( x − y ) ( x − y ) , với 0 ≤ x ≤ y .
+2
+
+2
+
+Giải:
+a) 2 x 2 = 2 x = −2 x.
+1 10 1 5.2 1
+x =
+x =
+2
+2
+2
+c) Ta có:
+• a ≤ 5⇒ a −5 ≤ 0
+
+b)
+
+•
+
+( x ) = 12 x = − 12 x .
+5 2
+
+( a − 5) = a − 5 =5 − a
+
+d) Ta có:
+
+2
+
+5
+
+5
+
+b).
+
+1 10
+x , với x < 0 ;
+2
+
+d).
+
+( x − 10 ) , với x ≤ 10 ;
+10
+
+• x ≤ 10 ⇒ x − 10 ≤ 0 ⇒ ( x − 10 ) ≤ 0 ⇒ (10 − x ) ≥ 0.
+5
+
+5
+
+5 2
+
+( x − 10 ) = ( x − 10 )  =( x − 10 ) =(10 − x ) =(10 − x ) .
+10
+
+•
+
+5
+
+5
+
+5
+
+e) Ta có:
+• x < 4⇒ x−4<0
+
+( x − 4) = x − 4 + x − 4 = x − 4 − ( x − 4) = 0
+2
+
+• x − 4 + x 2 − 8 x + 16 = x − 4 +
+
+f) Ta có:
+• 0≤ x≤ y⇒ x− y ≤0⇔ y−x≥0
+
+( x − y) ( x + y) =
+2
+
+•
+
+2
+
+
+
+
+( x − y )( x + y ) =
+2
+
+ x2 − y 2 
+
+
+
+2
+
+=( x − y ) =x − y =
+− ( x − y ) =−
+y x.
+2
+
+Bài 8. Rút gọn biểu thức:
+a).
+
+3− x
+, ( x ≥ 0, x ≠ 9 ) ;
+x −9
+
+b).
+
+x −5 x +6
+, ( x ≥ 0, x ≠ 9 ) ;
+x −3
+
+c). 6 − 2 x − 9 − 6 x + x 2 , ( x < 3) .
+Giải:
+a).
+
+3− x
+=
+x −9
+
+3− x
+
+b).
+
+x −5 x +6
+=
+x −3
+
+( x − 3)( x + 3)
+
+= −
+
+( x − 3)( x − 2=)
+x −3
+
+c). 6 − 2 x − 9 − 6 x + x 2 =6 − 2 x −
+
+1
+.
+x +3
+
+x − 2.
+
+( 3 − x ) =6 − 2 x − 3 − x =6 − 2 x − 3 + x =3 − x.
+2
+
+Bài 9. Tìm x biết
+a).
+
+3 x ;
+( x − 3) =−
+
+b).
+
+25 − 20 x + 4 x 2 + 2 x =
+5;
+
+c).
+
+1
+1 1
+= −x ;
+x2 − x +
+2
+16 4
+
+d).
+
+x − 2 x − 1=
+
+g).
+
+x + 2 x −1 =
+2.
+
+2
+
+e). 1 − 12 x + 36 x 2 =
+5;
+Giải:
+a).
+
+3 x
+( x − 3) =−
+2
+
+x −1 −1 ;
+
+Ta có biến đổi: x − 3 = 3 − x
+Ta có hai trường hợp:
+TH 1: Nếu x ≥ 3 thì x − 3 = 3 − x ⇔ x = 3 (TM )
+TH 2: Nếu x < 3 thì 3 − x = 3 − x ⇔ 0 = 0 (TM )
+Vậy tất cả x ≤ 3 đều thỏa mãn.
+b).
+
+25 − 20 x + 4 x 2 + 2 x =
+5
+
+5 − 2x
+(5 − 2x ) =
+2
+
+Ta có biến đổi:
+
+⇔ 5 − 2 x =5 − 2 x
+
+Ta có hai trường hợp:
+
+c).
+
+TH 1: Nếu x ≤
+
+5
+thì 5 − 2 x =5 − 2 x ⇔ 0 =0 (TM )
+2
+
+TH 2: Nếu x >
+
+5
+5
+thì 2 x − 5 = 5 − 2 x ⇔ x = (L)
+2
+2
+
+Vậy tất cả x ≤
+
+5
+đều thỏa mãn.
+2
+
+1
+1 1
+x2 − x +
+= −x
+2
+16 4
+Ta có biến đổi:
+
+2
+
+1
+1
+1 1
+
+x−  = −x ⇔ x− = −x
+4
+4
+4 4
+
+
+Tương tự ta có: tất cả x ≤
+d).
+
+x − 2 x − 1=
+
+1
+đều thỏa mãn.
+4
+
+x −1 −1 .
+
+Điều kiện: x ≥ 1
+Ta có biến đổi:
+
+( x − 1 − 1) =
+2
+
+x −1 −1 ⇔
+
+x − 1 − 1=
+
+x −1 −1
+
+Ta có hai trường hợp:
+
+x − 1 − 1=
+
+Nếu:
+
+x −1 ≥ 1 ⇒ x ≥ 2 :
+
+Nếu:
+
+x − 1 < 1 ⇒ x < 2 : 1 − x − 1=
+
+x − 1 − 1 (TM)
+x − 1 − 1 ⇔ x= 2 ( l ) (TM)
+
+Vậy: x ≥ 2 đều thỏa mãn.
+e). 1 − 12 x + 36 x 2 =
+5.
+Ta có biến đổi:
+
+(1 − 6 x ) = 5 ⇔ 1 − 6 x = 5
+2
+
+Ta có hai trường hợp:
+Nếu: x ≤
+
+1
+2
+thì 1 − 6 x =
+− (TM)
+5⇔ x=
+3
+6
+
+Nếu: x >
+
+1
+thì 6 x − 1 = 5 ⇔ x = 1 (TM)
+6
+2
+và x = 1 là giá trị cần tìm.
+3
+
+Vậy: x = −
+g).
+
+x + 2 x −1 =
+2.
+Điều kiện: x ≥ 1
+Ta có biến đổi:
+
+( x − 1 + 1) = 2 ⇔ x − 1 + 1 = 2
+2
+
+Ta có hai trường hợp:
+TH1:
+
+x −1 +1 = 2 ⇔ x −1 = 1 ⇒ x −1 = 1 ⇔ x = 2
+
+TH2:
+
+x − 1 + 1 =−2 ⇔ x − 1 =−3 (VL ) .
+
+Vậy: x = 2 là giá trị cần tìm.
+Bài 10. Phân tích đa thức thành nhân tử.
+a). x 2 − 11 ;
+
+b). x 2 − 2 2 x + 2 ;
+
+c). x − 5 (với x > 0 ) ;
+
+d). 5 − 7x 2 (với x > 0 ) .
+
+e). 3 + 4x (với x < 0 ) ;
+Giải:
+
+(
+
+)(
+
+)
+
+a). x 2 − 11 = x − 11 x + 11 .
+
+(x − 2) .
+c). x − 5= ( x + 5 )( x − 5 ) (với x > 0 )
+d). 5 − 7 x = ( 5 − 7 x )( 5 + 7 x ) (với x > 0 )
+2
+
+b). x 2 − 2 2 x + 2 =
+
+2
+
+e). 3 + 4 x =
+
+2
+
+2
+
+3 − 4x =
+
+( 3 − 4 x )( 3 + 4 x ) (với x < 0 )
+
+Bài 11. Chứng minh đẳng thức:
+a). 9 + 4 5 =
+b).
+
+( 5 + 2) ;
+2
+
+9+4 5 − 5 =
+2;
+
+c).
+
+23 + 8 7 − 7 =
+4;
+
+4 (với 2 ≤ a ≤ 6 ).
+d). a + 4 a − 2 + 2 + a − 4 a − 2 + 2 =
+Lời giải
+
+a). 9 + 4 5 =
+
+( 5 + 2)
+
+2
+
+(
+
+2
+
+VT =
+5 + 2. 5.2 + 4 =+
+5 2. 5.2 + 22 =+
+5 2
+
+VT
+)=
+2
+
+b). Ta có biến đổi:
+2
+
+5 2. 5.2 + 4 − 5 = 5 + 2. 5.2 + 22 − 5
+VT =+
+=
+
+( 5 + 2) − 5 = 5 + 2 − 5 = 5 + 2 − 5 =2 =VP
+2
+
+2
+
+c). VT =16 + 2.4. 7 + 7 − 7 =42 + 2.4. 7 + 7 − 7
+
+(
+
+= 4+ 7
+d). VT =
+
+) − 7 =4 + 7 − 7 =4 + 7 − 7 =4 =VP
+2
+
+a − 2 + 2. a − 22 + 4 + a − 2 − 2. a − 2.2 + 4
+=
+
+a−2 +2 +
+
+a − 2 − 2 = a − 2 + 2 + 2 − a − 2 = 4 = VP (Vì 2 ≤ a ≤ 6 )
+
+BÀI 8. KHAI CĂN BẬC HAI VỚI PHÉP NHÂN VÀ PHÉP CHIA.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1 KHAI CĂN BẬC HAI VÀ PHÉP NHÂN
+Liên hệ giửa phép khai căn bậc hai và phép nhân
+Với A, B là các biểu thức không âm, ta có
+
+A⋅ B =
+AB .
+
+Chú ý. Kết quả trên có thể mở rộng cho nhiểu biểu thức không âm, chẳng hạn:
+A ⋅ B ⋅ C , ( A ≥ 0, B ≥ 0, C ≥ 0 ).
+
+A ⋅ B ⋅ C=
+
+Ví dụ 1. Tính:
+a)
+
+27 ⋅ 3 ;
+
+b)
+
+5( 125 + 5) .
+
+Lời giải
+a) Ta có:
+
+27 ⋅ 3=
+
+b) Ta có:
+
+5( 125 + 5) =
+
+Ví dụ 2. Rút gọn
+
+27 ⋅ 3=
+
+81= 9 .
+5 ⋅ 125 + 5 ⋅ 5 =
+
+5 ⋅125 + 25 = 25 + 5 = 30 .
+
+5 x ⋅ 20 x với x ≥ 0 .
+Lời giải
+
+Ta có
+
+5 x ⋅ 20 x = 5 x ⋅ 20 x = 100 x 2 = (10 x) 2 =|10 x |= 10 x với x ≥ 0 .
+
+Ví dụ 3. Tính
+
+22 ⋅ 32 ⋅ 52 .
+
+Lời giải
+22 ⋅ 32 ⋅ 52 =
+
+22 ⋅ 32 ⋅ 52 = 2 ⋅ 3 ⋅ 5 = 30.
+
+Chú ý: Nếu A ≥ 0, B ≥ 0, C ≥ 0 thì
+Ví dụ 4. Rút gọn biểu thức
+
+A2 B 2C 2 = ABC .
+
+25a 2b 2 (vơi a ≥ 0, b < 0 ).
+
+Lời giải
+Theo giả thiết a ≥ 0, b < 0 , do đó 25a 2b 2 = 52 ⋅ a 2 ⋅ (−b) 2 = 52 ⋅ a 2 ⋅ (−b) 2 =5 ⋅ a ⋅ (−b) =−5ab.
+2. KHAI CĂN BẬC HAI VÀ PHÉP CHIA
+Liên hệ giửa phép khai căn bậc hai và phép chia
+Nếu A, B là các biểu thức với A ≥ 0, B > 0 thì
+
+A
+=
+B
+
+A
+.
+B
+
+Ví dụ 5
+a) Tính
+
+8: 2.
+
+b) Rút gọn
+
+52a 3 : 13a
+
+(a > 0) .
+
+Lời giải
+a)
+
+8: =
+2
+
+b)
+
+52a 3 : =
+13a
+
+=
+4 2.
+
+8 :=
+2
+
+=
+a)
+52a 3 : (13
+
+=
+4a 2
+
+=
+a ) 2 2a ( do a > 0) .
+(2
+
+Ví dụ 6
+a) Viết số dưới dấu căn thành một phân số thập phân rồi tính 1, 69 .
+b) Rút gọn a ⋅
+
+2
+(a > 0) .
+a2
+Lời giải
+
+69
+a) Ta có 1,=
+
+169 132
+=
+nên =
+1, 69
+100 102
+
+b) Do a > 0 nên a ⋅
+
+132
+=
+102
+
+132 13
+== 1,3 .
+102 10
+
+2
+2
+2
+=
+a⋅
+=
+a⋅
+=2 .
+2
+a
+a
+a2
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.7. Tính:
+a) 12 ⋅ ( 12 + 3) ;
+
+b)
+
+8 ⋅ ( 50 − 2) ;
+
+c) ( 3 + 2) 2 − 2 6 .
+
+Lời giải
+a) 12 ⋅ ( 12 + 3) = 12 ⋅ 12 + 12 ⋅ 3 =
+
+12 ⋅12 + 12 ⋅ 3=
+
+122 + 36
+
+= 12 + 62 = 12 + 6 = 18.
+
+b)
+
+8 ⋅ ( 50 − 2) = 8 ⋅ 50 − 8 ⋅ 2 =
+
+400 − 16 =
+
+202 − 42 = 20 − 4 = 16.
+
+c) ( 3 + 2) 2 − 2 6= ( 3) 2 + 2 3 ⋅ 2 + ( 2) 2 − 2 6 =
+3 + 2 3⋅ 2 + 2 − 2 6 =
+5+ 2 6 −2 6 =
+5
+3.8. Rút gọn biểu thức
+
+(
+
+)
+
+2 a 2 − b2 ⋅
+
+3
+( với a ≥ b > 0) .
+a+b
+Lời giải
+
+Với a ≥ b > 0 , ta có:
+
+(
+
+)
+
+2 a 2 − b2 ⋅
+
+3
+=
+a+b
+
+2(a − b)(a + b) ⋅
+
+3
+=
+a+b
+
+6(a − b).
+
+3.9. Tính:
+a)
+
+99 : 11 ;
+
+b)
+
+7,84 ;
+
+c) 1815 : 15 .
+Lời giải
+
+a)
+
+99 : =
+11
+
+99
+=
+11
+
+99
+= =
+9 =
+32 3 .
+11
+
+b) =
+7,84
+
+784
+=
+100
+
+: 15
+c) 1815=
+3.10. Rút gọn
+
+784
+=
+100
+
+1815
+=
+15
+
+282 28
+== 2,8 .
+102 10
+
+1815
+==
+121 =
+112 11 .
+15
+
+−3 16a + 5a 16ab 2
+( với a > 0, b > 0) .
+2 a
+
+Lời giải
+Với a > 0, b > 0 , ta có:
+−3 16a + 5a 16ab 2 −3 ⋅ 16 ⋅ a + 5a ⋅ 16 ⋅ a ⋅ b 2
+=
+2 a
+2 a
+
+−3 ⋅ 4 ⋅ a + 5a ⋅ 4 ⋅ a ⋅ | b | −12 a + 20a a ⋅ b 2 a (−6 + 10ab)
+=
+=−6 + 10ab.
+=
+2 a
+2 a
+2 a
+3.11. Kích thước màn hình ti vi hình chữ nhật được xác định bởi độ dài đường chéo. Một loại ti vi
+có tỉ lệ hai cạnh màn hình là 4: 3.
+a) Gọi x (inch) là chiều rộng của màn hình ti vi. Viết công thức tính độ dài đường chéo d (inch)
+của màn hình ti vi theo x .
+b) Tính chiều rộng và chiều dài (theo centimét) của màn hình ti vi loại 40 inch.
+Lời giải
+a) Hình vẽ dưới đây mô tả màn hình ti vi hình chữ nhật có chiều rộng là x (inch)
+
+Vì ti vi có tỉ lệ hai cạnh màn hình là 4: 3 nên chiều dài của ti vi là:
+
+4
+x (inch).
+3
+
+2
+
+16 2
+25 2
+4 
+Theo định lí Pythagore, ta có: d =  x  + x 2=
+x + x 2=
+x .
+9
+9
+3 
+2
+
+Suy ra d=
+
+25 2
+x =
+9
+
+25
+⋅ x2 =
+9
+
+2
+
+5
+5
+x (inch) (do d > 0 và x > 0 ).
+  ⋅ | x =|
+3
+3
+
+Vậy công thức tính độ dài đường chéo d của màn hình ti vi là d =
+b) Màn hình ti vi loại 40 inch tức là d = 40 .
+
+5
+x (inch).
+3
+
+Do đó
+
+5
+5
+=
+:
+24 .
+x = 40 , suy =
+ra x 40
+3
+3
+
+60,96 cm ; chiều dài của màn
+Vì vậy, chiều rộng của màn hình ti vi đó là 24 inch ≈ 24.2,54 cm =
+4
+32 inch ≈ 32.2,54 cm =
+81, 28 cm .
+hình ti vi đó là ⋅ 24 =
+3
+C. CÁC DẠNG TOÁN
+Dạng 1. Thực hiện phép tính
+1. Phương pháp giải
+Sử dụng các quy tắc khai phương một tích và quy tắc nhân các căn bậc hai
+
+AB = A. B
+
+Nếu A ≥ 0, B ≥ 0 thì
+A
+=
+B
+
+A ≥ 0, B > 0 thì
+
+A
+B
+
+2. Ví dụ minh họa.
+Ví dụ 1. Áp dụng quy tắc khai phương một tích, hãy tính:
+b). 34. ( −5 ) ;
+2
+
+a). 0,16.81 ;
+
+c). 16,9.250 ;
+
+d). 52.44 .
+
+Lời giải
+a) Ta có:
+
+0,16.81
+=
+
+b) Ta có:
+
+34. ( −5 ) = 34 . ( −5 ) = 32. −5 = 9.5 = 45 .
+
+0,16.=
+81 0,=
+4.9 3, 6 .
+
+2
+
+2
+
+c) Ta có: 16,9.250
+=
+d) Ta có:
+
+52=
+.44
+
+169. =
+25 13.5
+= 65 .
+
+169.25
+=
+
+2
+52 . =
+44 5.4
+=
+80 .
+
+Ví dụ 2. Áp dụng quy tắc nhân các căn bậc hai, hãy tính:
+a).
+
+5. 80 ;
+
+b).
+
+c).
+
+0, 6. 5, 4 ;
+
+d). 8,1. 5. 4,5 .
+
+2, 45. 40. 50 ;
+
+Giải
+a) Ta có:
+
+5.=
+80
+
+=
+5.80
+
+=
+400 20 .
+
+b) Ta có:
+
+2, 45. 40.
+=
+50
+
+2, 45.40.50
+=
+
+c) Ta có:
+
+0, 6.=
+5, 4
+
+d) Ta có:
+
+8,1. =
+5. 4,5
+
+0, =
+6.5, 4
+
+=
+4900 70 .
+
+=
+3, 24 1,8 .
+
+8,1.5.4,5
+=
+
+=
+182, 25 13,5 .
+
+Ví dụ 3. Khai phương tích 13.25.52 được:
+a). 2600.
+
+b).130.
+
+c). 13.
+
+Hãy chọn kết quả đúng.
+Lời giải
+
+=
+Ta có: 13.25.52
+
+=
+16900 130 (chọn B).
+
+d). 260.
+
+Ví dụ 4. Biến đổi các biểu thức dưới dấu căn thành dạng tích rồi tính
+
+252 − 242 ;
+
+b).
+
+262 − 102 ;
+
+c). 137 2 − 882 ;
+
+d).
+
+4812 − 4802 .
+
+a).
+
+Lời giải
+a) Ta có:
+
+252 − 242 =
+
+( 25 − 24 )( 25 + 24 ) =
+
+b) Ta có:
+
+262 − 102 =
+
+( 26 − 10 )( 26 + 10 ) = 16.36 = 4.6 = 24 .
+
+49 = 7 .
+
+c) Ta có: 137 2 − 882 =
+
+(137 − 88)(137 + 88) =
+
+d) Ta có:
+
+( 481 − 480 )( 481 + 480 ) =
+
+4812 − 4802 =
+
+49.225 = 7.15 = 105 .
+961 = 31 .
+
+Ví dụ 5. Tính :
+
+289
+.
+225
+
+a).
+
+2
+
+b).
+
+14
+.
+25
+
+c).
+
+0, 25
+.
+9
+
+Lời giải
+289
+a) Ta có: =
+225
+
+289 17
+.
+=
+225 15
+
+14
+2=
+25
+
+b) Ta có
+
+64
+=
+25
+
+64 8
+=
+.
+25 5
+
+0, 25
+c) Ta có: =
+9
+
+0, 25 0,5
+.
+=
+9
+9
+
+8,1
+d) =
+1, 6
+
+81 9
+.
+=
+16 4
+
+81
+=
+16
+
+Ví dụ 6. Tính :
+a).
+
+2
+18
+
+b).
+
+15
+.
+735
+
+c).
+
+12500
+.
+500
+
+d).
+
+65
+.
+23.35
+
+Lời giải
+a) Ta có:
+
+2
+=
+18
+
+2
+=
+18
+
+1 1
+.
+=
+9 3
+
+b) Ta có
+
+15
+=
+735
+
+15
+=
+735
+
+c) Ta có:
+
+12500
+=
+500
+
+1 1
+.
+=
+49 7
+
+12500
+=
+500
+
+=
+25 5 .
+
+d)
+
+8,1
+.
+1, 6
+
+d)
+
+65
+=
+23.35
+
+25.35
+=
+23.35
+
+=
+4 2.
+
+Ví dụ 7. Tính :
+a). 1
+c).
+
+9 4
+.5 .0, 01 .
+16 5
+
+b) 1, 44.1, 21 − 1, 44.0, 4 .
+
+1652 − 1242
+.
+164
+
+1492 − 762
+.
+457 2 − 3842
+
+d)
+Lời giải
+
+a) Ta có: 1
+
+9 4
+.5 =
+.0, 01
+16 5
+
+25 49
+5 7
+7
+.
+=
+. 0, 01 =
+. .0,1
+.
+16 9
+4 3
+24
+
+1, 44. (1, 21 − 0, 4 )=
+
+b) Ta có 1, 44.1, 21 − 1, 44.0, 4=
+c) Ta có:
+d)
+
+1652 − 1242
+=
+164
+
+1492 − 762
+=
+457 2 − 3842
+
+124 )
+(165 − 124 )(165 +=
+
+73.225
+=
+73.841
+
+164
+
+1, 44.0,81=
+41.289
+=
+164
+
+1, 44. 0,81= 1, 2.0,9= 1, 08 .
+
+289 17
+.
+=
+4
+2
+
+225 15
+.
+=
+841 29
+
+Dạng 2. Rút gọn biểu thức và tính giá trị biểu thức
+1. Phương pháp giải
+Áp dụng các quy tắc AB = A. B ( A ≥ 0, B ≥ 0 )
+Thay giá trị của biến vào biểu thức đã rút gọn.
+Áp dụng phép khai phương một thương:
+
+A
+=
+B
+
+A
+( A ≥ 0, B > 0 )
+B
+
+khi A ≥ 0
+ A,
+.
+A
+= 
+khi A < 0
+ − A,
+Xét các trường hợp A ≥ 0, A < 0 để bỏ dấu giá trị tuyệt đối.
+Áp dụng
+
+2
+A=
+
+2. Ví dụ minh họa.
+Ví dụ 1. Rút gọn biểu thức sau:
+
+0, 49a 2 với a ≤ 0 ;
+
+b).
+
+c). 19.76 ( 2 − a ) với a > 2 ;
+
+d).
+
+a).
+
+2
+
+Lời giải
+a) Ta có:
+
+0, 49a 2 = 0, 7 a = −0, 7 a (do a ≤ 0 ).
+
+4
+
+2
+a
+  ( 6 − 2a ) với a > 3 ;
+2
+2
+1
+. a 2 ( a 2 − b 2 ) với a > b ≥ 0 .
+a −b
+
+b) Ta có:
+
+a 2 .2 3 − a a 2 ( a − 3)
+2
+a
+a
+(do a > 3 ).
+a
+=
+)   6 − 2=
+  ( 6 − 2a =
+4
+2
+2
+2
+4
+
+2
+
+c) Ta có: 19.76 ( 2 − a ) =
+
+1444 ( 2 − a ) = 38 2 − a = 38 ( a − 2 ) (do a > 2 ).
+
+2
+
+d) Ta có:
+
+2
+
+2
+1
+1
+1
+. a 2 ( a 2 − b2 ) =
+. a . a 2 − b2 =
+.a. ( a − b )( a + b ) = a ( a + b )
+a −b
+a −b
+a −b
+
+(do a > b ≥ 0 ).
+Ví dụ 2. Rút gọn các biểu thức sau:
+a).
+
+2a 5a
+.
+với a ≥ 0 ;
+5 18
+
+99
+với a > 0 ;
+a
+
+b). 11a .
+
+d). ( 4 + a ) − 0, 4. 160a 2
+2
+
+c). 21a − 11a . 44a với a ≥ 0 ;
+Lời giải
+a) Ta có:
+
+2a 5a
+.=
+5 18
+
+99
+.
+b) Ta có: 11a=
+a
+
+10a 2
+=
+90
+
+a2 a
+(do a ≥ 0 ).
+=
+9 3
+
+99
+11=
+a.
+a
+
+=
+1089 33 .
+
+c) Ta có: 21a − 11a . 44a = 21a − 484a 2 = 21a − 22a = −a (do a ≥ 0 )
+d) Ta có: ( 4 + a ) − 0, 4. 160a 2 =( 4 + a ) − 64a 2 =( 4 + a ) − 8 a =16 + a 2 + 8a − 8 a
+2
+
+2
+
+2
+
+Nếu a ≥ 0 thì ( 4 + a ) − 0, 4. 160a 2 =16 + a 2 .
+2
+
+Nếu a < 0 thì ( 4 + a ) − 0, 4. 160a 2 = 16 + a 2 + 16a .
+2
+
+Ví dụ 3. Rút gọn và tìm giá trị (làm tròn đến chữ số thập phân thứ ba) của các căn thức sau:
+a).
+
+9 ( 4 + 20 x + 25 x 2 ) tại x = − 5 ;
+
+b).
+
+2a 2 ( 2b 2 − 12b + 18 ) tại a =
+−3, b =3 .
+
+2
+
+Lời giải
+a) Ta có: 9 ( 4 + 20 x + 25 x 2 ) = 9. ( 2 + 5 x ) = 3 ( 2 + 5 x ) .
+2
+
+4
+
+2
+
+Thay x = − 5 vào biểu thức đã rút gọn, ta được:
+
+(
+
+3 ( 2 + 5 x ) =3 2 − 5 5
+2
+
+(
+
+)
+
+b) Ta có: 2a 2 2b 2 − 12b + 18=
+
+4a 2 ( b 2 − 6b + 9=
+)
+
+) =3 (129 − 20 5 ) ≈ 252,836 .
+2
+
+4a 2 . ( b − 3)= 2 a . b − 3
+
+Thay a =
+−3, b =3 vào biểu thức đã rút gọn, ta được:
+
+2
+
+)
+
+(
+
+2 a . b − 3 = 2 −3 . 3 − 3 = 6 3 − 3 ≈ 7, 608 .
+Ví dụ 4. Rút gọn các biểu thức sau:
+a).
+
+y
+x
+
+c). 5 xy
+
+x2
+với x > 0, y ≠ 0 .
+y4
+
+b). 2 y 2
+
+x4
+với y < 0 .
+4 y2
+
+25 x 2
+với x < 0, y > 0 .
+y6
+
+d) 0, 2x 3 y 3
+
+16
+với x ≠ 0, y ≠ 0 .
+x4 y8
+
+Lời giải
+
+y x2 y x
+y x 1
+=
+=
+. 2 =
+.
+( do x > 0, y ≠ 0 ).
+4
+x y
+x y
+x y2 y
+
+a) Ta có:
+
+b) Ta có 2 y 2
+
+2
+2
+x4
+x4
+2
+2 x
+2 x
+2
+y
+2
+y
+2
+y
+.
+=
+=
+=
+= − x2 y .
+2
+2
+4y
+4y
+2y
+−2 y
+
+5x
+25 x 2
+25 x 2
+25 x 2
+−5 x
+= 5 xy.
+= 5 xy. 3 = 5 xy. 3 = − 2 (do x < 0, y > 0 ).
+c) Ta có:. 5 xy
+y6
+y
+y
+y
+y6
+16
+4
+0,8 x
+d) 0, =
+2 x 3 y 3 4 8 0,=
+2 x3 y 3 . 2 4
+.
+x y
+x y
+y
+
+Ví dụ 5. Rút gọn các biểu thức sau:
+a). ab
+c).
+
+2
+
+27 ( a − 3)
+với a > 3 .
+48
+2
+
+3
+với a < 0, b ≠ 0 .
+2 4
+ab
+
+b).
+
+9 + 12a + 4a 2
+với b < 0, a > −1,5 .
+b2
+
+d). ( a − b )
+
+ab
+
+(a − b)
+
+2
+
+với a < b < 0 .
+
+Lời giải
+a) Ta có: ab 2
+
+3
+3
+3
+= ab 2 . 2 = ab 2 .
+= − 3 ( do a < 0, b ≠ 0 ).
+ab
+−ab 2
+ab
+2 4
+
+3 a − 3 3 ( a − 3)
+9 ( a − 3)
+= =
+(do a > 3 ).
+16
+4
+4
+
+b) Ta có
+
+27 ( a − 3)
+=
+48
+
+c) Ta có:
+
+9 + 12a + 4a 2
+=
+b2
+
+2
+
+d) ( a − b )
+
+ab
+
+(a − b)
+
+2
+
+2
+
+2a )
+( 3 +=
+2
+
+b2
+
+=
+(a − b)
+
+ab
+
+(a − b)
+
+2
+
+3 + 2a 3 + 2a
+. (do b < 0, a > −1,5 ).
+=
+b
+−b
+ab
+ab
+=
+=
+=
+− ab (do a < b < 0)
+(a − b)
+(a − b)
+a −b
+b−a
+
+Dạng 3. Chứng minh đẳng thức, bất đẳng thức
+1. Phương pháp giải
+Áp dụng hằng đẳng thức
+
+A2 − B 2 = ( A − B )( A + B ) và =
+A2 A , ( A ≥ 0 )
+Sử dụng phương pháp biến đổi tương đương.
+ Ta biến đổi bất đẳng thức cần chứng minh tương đương với bất đẳng thức đúng.
+ Bất đẳng thức đúng thường có dạng A2 ≥ 0.
+2. Ví dụ minh họa.
+Ví dụ 1: Chứng minh:
+
+)
+(
+)(
+b) ( 2006 − 2005 ) và ( 2006 + 2005 ) là hai số nghịch đảo
+a) 2 − 3 2 + 3 =
+1
+
+Ví dụ 2:
+a). So sánh
+
+25 − 16 và
+
+25 − 16;
+
+b). Chứng minh rằng, với a > b > 0 thì
+
+a − b < a − b.
+
+Lời giải
+a) Ta có
+
+25 − 16 = 9 = 3;
+
+25 − 16 = 5 − 4 = 1
+
+Mà 1 < 3 do đó 25 − 16 < 25 − 16.
+b) Với a > b > 0 thì a − b > 0.
+Ta có:
+
+a − b < a −b ⇔ a < a −b + b ⇔
+
+( a) < ( a −b + b)
+2
+
+2
+
+⇔ a < a − b + 2 b ( a − b ) + b ⇔ 0 < 2 b ( a − b ) (luôn đúng).
+
+Vậy
+
+a − b < a − b.
+
+Ví dụ 3: Mỗi khẳng định sau đúng hay sai? Vì sao?
+a). 0,01 = 0,0001;
+b). −0,5 = −0,25;
+c). 39 < 7 và
+
+(
+
+39 > 6;
+
+)
+
+(
+
+)
+
+d). 4 − 13 .2 x < 3. 4 − 13 ⇔ 2 x < 3.
+Lời giải
+a) Đúng, vì 0,012 = 0,0001.
+b) Sai, vì
+c) Đúng, vì
+
+−0,25 không có nghĩa.
+
+( 39 ) < 7 và ( 39 ) > 6 .
+2
+
+2
+
+2
+
+2
+
+d) Đúng, vì nhân hai vế của bất phương trình với cùng một số dương
+bất đẳng thức.
+Dạng 4. Tìm x thỏa đẳn thức cho trước
+
+1
+4 − 13
+
+thì không đổi chiều
+
+1. Phương pháp giải
+Đặt điều kiện để căn thức có nghĩa
+
+A có nghĩa khi và chỉ khi A ≥ 0
+Áp sụng tính chất
+
+A ) A, ( A ≥ 0 ) , A = A
+(=
+2
+
+2
+
+2. Ví dụ minh họa.
+Ví dụ 1: Tìm x biết
+a) 16 x = 8
+
+9 ( x − 1) =
+21
+
+c)
+
+b)
+
+4x = 5
+
+d)
+
+4 (1 − x ) − 6 =
+0
+2
+
+Lời giải
+a) Điều kiện x ≥ 0
+
+16 x = 8 ⇔ 16 x = 82 ⇔ 16 x = 64 ⇔ x = 64 :16 ⇔ x = 4(tm)
+Vậy phương trình đã cho có nghiệm x = 4 .
+b) Điều kiện: x ≥ 0
+
+5
+4 x = 5 ⇔ 4 x = 5 ⇔ x = 5 : 4 ⇔ x = (tm)
+4
+Vậy phương trình đã cho có nghiệm x =
+
+5
+.
+4
+
+c) Điều kiện:
+
+9( x − 1) ≥ 0 ⇔ x − 1 ≥ 0 ⇔ x ≥ 1
+Ta có:
+9( x − 1) = 21 ⇔ 9( x − 1) = 212 ⇔ 9( x − 1) = 441
+
+⇔ x − 1= 441: 9 ⇔ x − 1= 49 ⇔ x = 49 + 1 ⇔ x = 50(tm)
+Vậy phương trình đã cho có nghiệm x = 50 .
+Ví dụ 2: Giải phương trình:
+
+0;
+a). 2.x − 50 =
+
+c).
+
+3.x 2 − 12 =
+0;
+
+b).
+
+d).
+
+x2
+0.
+− 20 =
+5
+
+2.x − 8 =
+0;
+Lời giải
+
+a) Ta có
+b)
+
+2.x − 50 = 0 ⇔ 2.x = 5 2 ⇔ x = 5. Vậy x = 5.
+
+2.x − 8 = 0 ⇔ x =
+
+8
+= 4 = 2. Vậy x = 2.
+2
+
+3.x 2 − 12 =0 ⇔ 3 x 2 = 12 ⇔ x 2 =
+
+c)
+
+12
+= 4 =2.
+3
+
+⇔x=
+± 2. Vậy x1 =
+2.
+− 2, x2 =
+
+x2
+x2
+− 20 =0 ⇔
+= 20 ⇔ x 2 = 5. 20 =10 .
+5
+5
+
+d)
+
+⇔ x =± 10. Vậy x1 =
+− 10, x2 =
+10.
+Ví dụ 3: Tìm x, biết:
+
+9;
+( x − 3)2 =
+
+a).
+
+b).
+
+4 x2 + 4 x + 1 =
+6.
+
+Lời giải
+a) Ta có
+
+=
+x − 3 9 =
+ x 12
+⇔
+.
+ x − 3 =−9
+ x =−6
+
+( x − 3)2 = 9 ⇔ x − 3 = 9 ⇔ 
+
+Vậy x1 = 12, x2 = −6.
+b)
+
+( 2 x + 1)2 = 6 ⇔ 2 x + 1 = 6
+
+4 x2 + 4 x + 1 = 6 ⇔
+
+5
+
+x=
+
+ 2 x + 1 =6
+5
+7
+2 .
+⇔
+⇔
+Vậy x1 = , x2 = − .
+2
+2
+ 2 x + 1 =−6
+x = − 7
+
+2
+D. LUYỆN TẬP
+Bài 1. Tính :
+a) 1, 2.270;
+
+55.77.35 .
+
+b) ( 3 − 2) 2 ;
+
+(3 2 − 1)(3 2 + 1);
+
+ 8
+50 
+− 24 +
+c) 
+ ⋅ 6;
+3 
+ 3
+
+( 6 + 2)( 3 − 2)
+
+ 3
+2
+−
+
+
+3 
+ 2
+
+2
+
+Lời giải
+a )18;
+
+385
+
+b)5 − 2 6;
+1
+c) 2;
+6
+
+17;
+
+2( 3 + 2)( 3 − 2) =
+2
+
+Bài 2. Thực hiện phép tính
+a)
+
+1
+1
+⋅ 2 ⋅ 125 ⋅ ;
+8
+5
+
+2 −1 ⋅
+
+2 +1 .
+
+b)
+
+( 2 − 3) 2 ⋅ 11 + 6 2 ;
+
+c) −
+
+2 ( a − b) 2 b 5 9
+c3
+98b
+⋅
+3
+4 2(a − b)
+c
+
+( 3 − 3) 2 ⋅
+
+1
+.
+3− 3
+
+1 
+
+d)  6 − 3 3 + 5 2 −
+12 6
+2 
+
+
+
+b
+a
+1 
+ ab .
+−
++
+e)  ab + 2
+
+a
+b
+ab 
+
+
+ am n ab
+a2
+g) 
+mn
+−
++
+ b m n
+b2
+
+
+m 2 2 n
+.
+a b ⋅
+n 
+m
+
+Lời giải
+5
+a ) ;1;
+2
+
+c) −
+
+b)11 + 6 2 = ( 2 + 3) 2 , ket qua 7;
+
+3− 3
+
+21
+c(a − b)b3 .
+2
+
+d) 12 − 18 2 + 16 3
+e) ab + 2b − a + 1;
+g) a 3bn − a 3b3 + a 4
+Bài 3. Rút gọn rồi tính
+a)
+
+21,82 − 18, 22 ;
+
+b)
+
+c) 146,52 − 109.52 + 27 ⋅ 256
+
+6,82 − 3, 22 ;
+
+Lời giải
+a ) 12 . b) 6
+
+c) 128
+
+Bài 4. Rút gọn biểu thức
+a)
+c)
+
+e)
+
+15 − 6
+;
+35 − 14
+
+x + xy
+y + xy
+2 15 − 2 10 + 6 − 3
+2 5 − 2 10 − 3 + 6
+
+b)
+
+10 + 15
+8 + 12
+
+d)
+
+a + a b − b −b a
+ab − 1
+
+f)
+
+2 + 3 + 6 + 8 + 16
+2+ 3+ 4
+Lời giải
+
+3
+;
+7
+
+a)
+
+b)
+
+5
+;
+2
+
+f ) Tach 16= 4=
+
+c)
+
+x
+;
+y
+
+a− b
+;
+ab − 1
+
+d)
+
+e)
+
+3− 2
+1− 2
+
+4+ 4
+
+( 2 + 3 + 4) + ( 4 + 6 + 8) = ( 2 + 3 + 4)(1 + 2)
+
+Kết quả : 1 + 2 .
+Bài 5. Rút gọn biểu thức
+a)
+
+9(3 − a ) 2 voi a > 3 :
+
+b)
+
+a 2 (a − 2) 2 vei a < 0 .
+
+Lời giải
+a) 3(a − 3)
+
+b) −a (2 − a )
+
+Bài 6. Chứng minh đẳng thức
+a)
+
+9 − 17 ⋅ 9 + 17 =
+8;
+
+2 
+ 1
+b) 
++
+201
+ (15 + 2 6) =
+ 5−2 6 5+ 2 6 
+Lời giải
+a) VT =
+
+81 − 17 − 64 = 8
+
+b) VT =
+(15 − 2 6)(15 + 2 6) =
+201
+Bài 7. Tìm x biết
+a)
+
+9 x = 15 ;
+
+b)
+
+4x2 = 8
+
+d)
+
+9(2 − 3 x) 2 =
+6:
+
+e)
+
+x2 − 4 − x − 2 =
+0.
+
+c)
+
+4( x + 1) =8 ;
+
+Lời giải
+4
+25; b) x =
+1; d ) x =
+0, x =
+; e) x =
+2
+a) x =
+±4; c) x =
+3
+
+Bài 8. Tìm x - y biết :
+
+1
+1
++
+=4 − x − y
+x
+y
+Lời giải
+
+1
+1
+1
+1
+
+ 
++
+=4 − x − y ⇔  x +
+− 2 +  y +
+− 2  =0
+
+x
+y
+x
+y
+
+ 
+
+
+⇔
+
+( x − 1) 2 ( y − 1) 2
++
+= 0 ⇔ x − y =1
+x
+y
+
+Bài 9. Cho a ≥ 0, b ≥ 0, c ≥ 0 . Chứng minh rang :
+a)
+
+a+b
+≥ ab (bất đang thức Côsi) ;
+2
+
+b) a + b + c ≥ ab + bc + ca ;
+c) a + b +
+
+1
+≥ a+ b.
+2
+
+Lời giải
+a+b
+1
+− ab =
+( a − b )2 ≥ 0
+2
+2
+1
+=
+b) a + b + c − ab − bc − ca =
+( a − b ) 2 + ( b − c ) 2 + ( c − a ) 2  ≥ 0;
+
+2
+a)
+
+2
+
+2
+
+1
+1 
+1
+
+c) a + b + − a − b=  1 −  +  b −  ≥ 0 .
+2
+2 
+2
+
+
+Bài 10. Tính
+a).
+
+2
+
+7
+; và
+81
+
+
+
+6
+150
+
+;
+
+
+
+b). 5 7  7 5 : 35;
+
+
+
+
+
+c). 2 8  3 3  1 : 6.
+Lời giải
+a) Ta có
+
+2
+
+
+
+7
+169
+169 13
+
+
+ .
+81
+81
+9
+81
+
+
+
+b) Ta có 5 7  7 5 : 35 
+
+
+
+5 7
+
+
+
+c) Ta có 2 8  3 3  1 : 6 
+
+
+
+35
+2 8
+6
+
+
+
+6
+
+và
+7 5
+35
+3 3
+6
+
+150
+
+
+
+5
+5
+1
+6
+
+
+
+
+1 1 3
+2
+ 4 1
+
+Bài 11. Tính 
+
+4,5 
+50  :
+ 15 8
+ 2 2 2
+5
+
+Lời giải
+Tính
+
+1 1 3
+2
+
+4,5 
+50
+2 2 2
+5
+
+6
+1
+1
+
+ .
+150
+25 5
+
+
+7
+
+7
+
+ 5  7.
+
+4 3 3 2
+6
+
+
+.
+3
+2
+6
+
+1 1 3 9 2
+1
+9
+
+
+
+2 2 
+25.2 
+2 2 2 2 5
+2 2 2 2
+
+
+
+2
+
+  0
+
+1 9  2 2
+2 2
+
+1 1 3
+ 4 1
+2
+
+Vậy 
+
+4,5 
+50  :
+0
+ 15 8
+ 2 2 2
+5
+
+Bài 12. Rút gọn biểu thức
+a).
+
+x x y y
+x y
+
+
+
+x  2 x 1
+
+b).
+
+2
+
+ x  y ;
+
+x  2 x 1
+
+,  x  0
+2
+
+x 1  y  2 y  1
+c).
+.
+, x  1, y  1, y  0 .
+
+
+
+4
+
+ x 1
+
+y 1
+
+
+
+Lời giải
+a).
+
+x x y y
+x y
+
+
+
+x y
+
+
+
+
+
+x y
+
+2
+
+
+
+
+
+x x y y
+x y
+
+
+
+ x  2 xy  y x  y 
+x y
+
+x x  y y  x x  x y  2 x 2 y  2 xy 2  y x  y y
+x y
+x y  2 x y  2 y x  y x
+
+
+
+b).
+
+2
+
+ x  y ;
+
+x x y y
+
+Ta có
+
+
+
+
+
+x y
+xy
+
+
+
+x y y x
+x y
+
+ x  y   xy.
+x y
+
+x  2 x 1
+x  2 x 1
+
+
+
+2
+
+   x 1 .
+ x 1 x 1
+x 1
+
+2
+
+2
+
+4
+
+2
+
+y 1
+x 1  y  2 y  1
+x 1  y 1
+x 1  y 1
+c).
+
+
+
+.
+.
+.
+.
+y 1
+
+4
+
+ x 1
+
+Bài 13. Rút gọn và tính:
+
+y 1
+
+4
+
+ x 1
+
+y 1
+
+2
+
+ x 1
+
+x 1
+
+a). A =
+
+a − 2 ab + b
+
+b). B =
+
+a− b
+x −3
+x+ 3
+
+:
+
+=
+a 36;
+=
+b 25.
+(với a > b > 0 ) tại
+x− 3
+(với x > 3 ) tại x = 81.
+x
+
+( x − 5) − x 2 − 25 ( x < 4)
+c). C =
+, tại x = 3.
+2
+x−4
+(4 − x)
+4
+
+d). M =
+3 x − 27 +
+
+x3 + 3x 2
+( x ≥ 0) , tại x = 3.
+x+3
+
+Lời giải
+a) Với a > b > 0 ta có
+
+=
+A
+
+a − 2 ab + b
+=
+a− b
+
+a − 2ab + b
+=
+a− b
+
+b)
+( a− =
+2
+
+a− b
+
+a− b
+
+(1)
+
+a 36;
+b 25 thỏa mãn điều kiện.
+=
+=
+Ta thấy
+=
+a 36;
+=
+b 25 vào (1) ta có A = 36 − 25 = 1 =
+1.
+Thay
+b) Với x > 3 ta có;
+
+B
+
+x −3
+x− 3
+=
+:
+x
+x+ 3
+
+x −3
+x− 3
+=
+:
+x+ 3
+x
+
+x
+( x − 3)( x + 3)
+=
+.
+x+ 3
+x− 3
+
+Ta thấy x = 81 thỏa mãn điều kiện.
+
+B
+Thay x = 81 vào (1) ta có=
+
+81 9 .
+=
+
+c) Với x < 4 ta có
+4
+( x − 5) x 2 − 25 ( x − 5) x 2 − 25
+C=
+−
+=
+−
+2
+4− x
+x−4
+x−4
+(4 − x)
+2
+2
+2
+x − 5)
+(
+x 2 − 25 ( x − 5 ) + x − 25 2 x 2 − 10 x
+(1)
+=
++
+=
+=
+2
+
+( x − 5) − x 2 − 25=
+2
+x−4
+(4 − x)
+4
+
+4− x
+
+4− x
+
+4− x
+
+4− x
+
+Ta thấy x = 3 thỏa mãn điều kiện.
+Thay x = 3 vào (1) ta có C =
+d) Với x ≥ 0 ta có
+
+2.32 − 10.3
+= −12 .
+4−3
+
+x (1)
+
+x 2 ( x + 3)
+x3 + 3x 2
+3 x − 27 +
+3 x − 27 +
+3 x − 27 + x 2
+M=
+=
+=
+x+3
+x+3
+3 x − 27 + x =
+3 x − 27 + x =
+4 x − 27 (1)
+=
+Ta thấy x = 3 thỏa mãn điều kiện.
+Thay x = 3 vào (1) ta có M = 4 3 − 27 = 4 3 − 3 3 = 3 .
+Bài 14. Giải phương trình
+a).
+
+4x −1
+=3;
+x +1
+
+c).
+
+49 x − 98 − 14
+
+x−2
+= 3 x − 2 +8;
+49
+
+b).
+
+4x −1
+=3 ;
+x +1
+
+d).
+
+25 x − 25 −
+
+15 x − 1
+=6 + x − 1 .
+2
+9
+
+Lời giải
+a) ĐKXĐ: x < −1 hoặc x ≥
+Ta có
+
+1
+.
+4
+
+4x −1
+4x −1
+=3 ⇔
+=9 ⇔ 4 x − 1 =9 x + 9 ⇔ x =−2 (thỏa mãn ĐKXĐ).
+x +1
+x +1
+
+Vậy phương trình có nghiệm là x = −2 .
+b) ĐKXĐ: x ≥
+Ta có
+
+1
+.
+4
+
+4x −1
+=3 ⇔
+x +1
+
+4x −1
+4x −1
+=3 ⇔
+= 9 ⇔ x = −2 (không thỏa mãn ĐKXĐ).
+x +1
+x +1
+
+Vậy phương trình vô nghiệm.
+c) ĐKXĐ: x ≥ 2 .
+
+49 x − 98 − 14
+
+x−2
+= 3 x −2 +8
+49
+
+⇔ 49( x − 2) −
+
+14 x − 2
+= 3 x −2 +8
+49
+
+Ta có
+
+⇔ 7 x − 2 − 2 x − 2= 3 x − 2 + 8
+⇔ 2 x−2 =
+8
+⇔ x−2 =
+4
+⇔ x−2=
+16
+⇔x=
+18
+Ta thấy x = 18 (thỏa mãn ĐKX Đ).
+Vậy phương trình có nghiệm x = 18.
+d) ĐKXĐ: x ≥ 1 .
+
+25 x − 25 −
+
+Ta có
+
+⇔ 25 ( x − 1) −
+
+15 x − 1
+=6 + x − 1
+2
+9
+
+15 x − 1
+.
+=6 + x − 1
+2
+9
+
+5 x −1
+= 6 + x − 1 ⇔ 5 x − 1 = 12 + 2 x − 1 ⇔ 3 x − 1 = 12
+2
+⇔ x − 1 = 4 ⇔ x − 1 = 16 ⇔ x = 17.
+⇔ 5 x −1 −
+
+Ta thấy x = 17 thỏa mãn ĐKXĐ.
+Vậy phương trình có nghiệm là x = 17.
+Bài 15
+a). Cho a > 0. Chứng minh a +
+
+1
+≥ 2;
+a
+
+a+b
+a+ b
+≥
+;
+2
+2
+
+b). Cho a ≥ 0, b ≥ 0. Chứng minh
+c). Cho a, b > 0. Chứng minh
+d). Chứng minh
+
+x2 + 2
+x2 + 1
+
+a+ b≤
+
+a
+b
++
+;
+b
+a
+
+≥ 2 với mọi x.
+Giải
+
+( a − 1) ≥ 0 (đúng với mọi a > 0 ).
+1
+a 2 + 1 − 2a
+a). Ta có a + ≥ 2 ⇔
+≥0⇔
+a
+a
+a
+2
+
+b). Với a ≥ 0 , b ≥ 0 ta có
+2
+
+2
+
+ a+b   a + b 
+a+ b
+a + b a + b + 2 ab
+⇔ 
+≥
+ ≥ 
+ ⇔
+2
+2
+2
+2
+4
+
+ 
+
+
+a+b
+≥
+2
+
+⇔ 2 ( a + b ) ≥ a + b + 2 ab ⇔ a + b − 2 ab ≥ 0 ⇔
+
+( a − b ) ≥ 0 (đúng).
+2
+
+c). Với a > 0, b > 0 ta có
+a
+
+b
+
+( b − a ) − b( b − a ) ≤ 0
+⇔ ( b − a ) ( a − b ) ≤ 0 ⇔ ( b − a )( a − b )( a + b ) ≤ 0
+a+ b≤
+
+⇔−
+
+d). Ta có
+
+b
+
++
+
+a
+
+⇔ a b +b a ≤ a a +b b ⇔ a
+
+( b − a ) ( a + b ) ≤ 0 (đúng).
+
+x2 + 2
+x2 + 1
+
+2
+
+≥ 2 ⇔ x 2 + 2 ≥ 2 x 2 + 1 ⇔ ( x 2 + 1) − 2 x 2 + 1 + 1 ≥ 0 ⇔
+
+(
+
+)
+
+2
+
+x2 + 1 −1 ≥ 0
+
+LUYỆN TẬP CHUNG SAU KHI HỌC BÀI 7&8
+
+A. CÁC VÍ DỤ
+Ví dụ 1. Không dùng MTCT, tính giá trị của biểu thức: A = (1 − 3) 2 − 3
+Lời giải
+Ta có A =−
+|1 3 | − 3 =
+( 3 − 1) − 3 =
+−1 . ← hằng đẳng thức
+
+A2 =| A | .
+
+Ví dụ 2. Tính:
+a) (2 + 5)(2 − 5) ;
+
+b) ( 5 + 2)( 5 − 2) .
+Lời giải
+
+Sử dụng hằng đẳng thức hiệu của hai bình phương, ta được:
+a) (2 + 5)(2 − 5) =22 − ( 5) 2 =4 − 5 =−1 .
+b) ( 5 + 2)( 5 − 2) = ( 5) 2 − ( 2) 2 = 5 − 2 = 3 .
+Chú ý. Tổng quát, ta có
+( A + B )( A − B ) =A2 − B với A, B là hai biểu thức, B ≥ 0 .
+( A + B )( A − B ) =−
+A B với A, B là hai biểu thức không âm.
+
+Ta nói A + B và A − B ; A + B và
+Ví dụ 3. Cho biểu
+=
+thức P
+
+A − B là những cặp biểu thức liên hợp.
+
+x x +1
+− 1 với x ≥ 0 .
+x − x +1
+
+a) Viết x x + 1 thành tổng hai lập phương rồi phân tích thành nhân tử để rút gọn biểu thức đã
+cho.
+b) Tính giá trị của P tại x = 100 .
+Lời giải
+a) Ta có x x + 1 = ( x )3 + 13 = ( x + 1) ( x ) 2 − x ⋅1 + 12  = ( x + 1)( x − x + 1) .
+Từ đó P
+= ( x + 1) −=
+1
+
+x.
+
+b) Tại x = 100 (thoả mãn điểu kiện) thì
+=
+P
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.12. Rút gọn các biểu thức sau:
+
+=
+100 10 .
+
+a)
+
+( 3 − 2) 2 + (1 − 2) 2 ;
+
+( 7 − 3) 2 + ( 7 + 3) 2 .
+
+b)
+Lời giải
+
+a)
+
+( 3 − 2) 2 + (1 − 2) 2 = | 3 − 2 | + |1 − 2 |=
+
+3 − 2 + 2 − 1=
+
+3 − 1.
+
+b) ( 7 − 3) 2 + ( 7 + 3) 2 = | 7 − 3 | + | 7 + 3 | = 3 − 7 + 7 + 3 = 6.
+3.13. Thực hiện phép tính:
+a)
+
+3( 192 − 75) ;
+
+b)
+
+−3 18 + 5 50 − 128
+.
+7 2
+
+Lời giải
+a) 3( 192 − 75) = 3 ⋅ 192 − 3 ⋅ 75
+576 − 225 =
+
+242 − 152 = 24 − 15 = 9.
+
+=
+
+3 ⋅192 − 3 ⋅ 75 =
+
+b)
+
+−3 18 + 5 50 − 128 −3 9 ⋅ 2 + 5 25 ⋅ 2 − 64 ⋅ 2 −3 ⋅ 3 ⋅ 2 + 5 ⋅ 5 ⋅ 2 − 8 ⋅ 2
+=
+=
+7 2
+7 2
+7 2
+
+=
+
+−3 ⋅ 9 ⋅ 2 + 5 ⋅ 25 ⋅ 2 − 64 ⋅ 2 −9 2 + 25 2 − 8 2
+=
+=
+7 2
+7 2
+
+2(−9 + 25 − 8)
+=
+7 2
+
+2 ⋅8 8
+=
+.
+7 2 7
+
+3.14. Chứng minh rằng:
+a) (1 − 2) 2 =
+3− 2 2 ;
+
+b) ( 3 + 2) 2 =
+5+ 2 6 .
+Lời giải
+
+a) (1 − 2) 2 = 12 − 2 ⋅1 ⋅ 2 + ( 2) 2 = 1 − 2 2 + 2 = 3 − 2 2 .
+Vậy (1 − 2) 2 =
+3− 2 2 .
+b) ( 3 + 2) 2 = ( 3) 2 + 2 ⋅ 3 ⋅ 2 + ( 2) 2 = 3 + 2 3 ⋅ 2 + 2 = 5 + 2 6
+Vậy ( 3 + 2) 2 =
+5+ 2 6 .
+3.15. Cho căn thức
+
+x2 − 4x + 4 .
+
+a) Hãy chứng tỏ rằng căn thức xác định với mọi giá trị của x .
+b) Rút gọn căn thức đã cho với x ≥ 2 .
+c) Chứng tỏ rằng vói mọi x ≥ 2 , biểu thức
+
+x − x 2 − 4 x + 4 có giá trị không đổi.
+
+Lời giải
+a) Điều kiện xác định của căn thức
+đúng với mọi x.
+Vậy căn thức
+
+x 2 − 4 x + 4 là x 2 − 4 x + 4 ≥ 0 , hay ( x − 2) 2 ≥ 0 , điều này
+
+x 2 − 4 x + 4 xác định với mọi giá trị của x .
+
+b) Với x ≥ 2 ta có: x 2 − 4 x + 4 = ( x − 2) 2 =| x − 2 |= x − 2 (vì x ≥ 2 nên x − 2 ≥ 0 ).
+Vậy
+
+x 2 − 4 x + 4 = x − 2 với x ≥ 2 .
+
+c) Theo câu b , với x ≥ 2 ta có:
+Khi đó:
+
+x − x2 − 4x + 4 =
+
+x2 − 4x + 4 = x − 2 .
+
+x − ( x − 2) =
+
+Vậy với mọi x ≥ 2 , biểu thức
+
+2.
+
+x − x + 2=
+
+x − x 2 − 4 x + 4 có giá trị không đổi.
+
+2E
+,
+m
+trong đó E là động năng của vật (tính bằng Joule, kí hiệu là J) và m( kg) là khối lượng của vật
+(Theo sách Vật ll đại cương, NXB Giáo dục Việt Nam, 2016). Tính tốc độ bay của một vật khi
+biết vật đó có khối lượng 2,5 kg và động năng 281, 25 J .
+
+3.16. Trong Vật lí, tốc độ ( m / s ) của một vật đang bay được cho bởi công thức v =
+
+Lời giải
+Vận tốc bay của một vật có khối lượng 2,5 kg và động năng 281, 25 J là:
+v
+=
+
+2 ⋅ 281, 25
+=
+2,5
+
+562,5
+=
+2,5
+
+5625
+=
+25
+
+5625 75
+=
+= 15.
+5
+25
+
+Vậy vận tốc bay của vật đó là 15 m / s .
+C. BÀI TẬP THÊM
+
+Bài 1. Rút gọn biểu thức:
+
+(
+
+) (
+
+).
+
+1. A = 2 27 + 5 12 − 3 48.
+
+3. C= 3 2 4 − 2 + 3 1 − 2 2
+
+147 + 75 − 4 27.
+
+4. D = 2 5 − 125 − 80 + 605.
+
+2. B =
+
+Lời giải
+1. A = 2 27 + 5 12 − 3 48 = 6 3 + 10 3 − 12 3 = 4 3.
+2. B =
+
+147 + 75 − 4 27 = 7 3 + 5 3 − 12 3 = 0.
+
+2
+
+(
+
+) (
+
+3. C= 3 2 4 − 2 + 3 1 − 2 2
+
+(
+
+)
+
+)
+
+2
+
+8 12 2 − 6 + 27 − 12 =
+2 21.
+= 12 2 − 6 + 3 1 − 4 2 +=
+4. D = 2 5 − 125 − 80 + 605 = 2 5 − 5 5 − 4 5 + 11 5 = 4 5.
+Bài 2. Tìm số thực x thỏa mãn:
+1.
+
+−2 x 2 − 9 =
+2.
+
+4. −3 x + 4 =
+12 .
+
+2.
+
+0.
+x2 + 1 + 2 =
+
+5.
+
+2.
+( x − 7 )( x + 7 ) =
+
+6.
+
+9 ( x − 1) − 19 =
+2.
+
+3. 3 x − 1 =
+4.
+
+Lời giải
+1. Điều kiện xác định −2 x 2 − 9 ≥ 0 (vô lí).
+Vậy không tồn tại x thỏa mãn đề bài.
+2. Điều kiện xác định x 2 + 1 ≥ 0 (luôn đúng).
+Ta có
+
+x2 + 1 + 2 =
+0 ⇔ x 2 + 1 =−2 (vô lí vì
+
+x 2 + 1 > 0 với mọi x ).
+
+Vậy không tồn tại x thỏa mãn đề bài.
+3. Điều kiện xác định 3 x − 1 ≥ 0 ⇔ x ≥
+Ta có
+
+1
+.
+3
+
+3 x − 1 = 4 ⇔ 3 x − 1 = 16 ⇔ x =
+
+Vậy x =
+
+17
+3
+
+4. Điều kiện xác định −3 x + 4 ≥ 0 ⇔ x ≤
+Ta có
+
+17
+(thỏa mãn điều kiện).
+3
+
+4
+.
+3
+
+140
+−3 x + 4 =
+12 ⇔ −3 x + 4 =
+144 ⇔ x =
+−
+(thỏa mãn điều kiện).
+3
+
+Vậy x = −
+
+140
+.
+3
+
+ x ≥ 0
+ x − 7
+
+5. Điều kiện xác định 
+
+(
+
+Ta có
+
+)(
+
+x ≥ 0
+⇔
+⇔ x ≥ 49
+x +7 ≥0
+ x − 49 ≥ 0
+
+)
+
+( x − 7 )( x + 7 ) = 2 ⇔ x − 49 = 4 ⇔ x = 53 (thỏa mãn điều kiện).
+
+Vậy x = 53 .
+6. Điều kiện xác định 9 ( x − 1) ≥ 0 ⇔ x ≥ 1.
+Ta có
+
+9 ( x − 1) − 19 = 2 ⇔ 9 ( x − 1) = 21 ⇔ 9 ( x − 1) = 441 ⇔ x − 1 = 49 ⇔ x = 50
+
+(thỏa mãn điều kiện).
+Vậy x = 50 .
+
+Bài 3. Với giá trị nào của x thì các căn thức sau có nghĩa
+1.
+
+−3 x .
+
+2.
+
+3. 7 − 6 x
+
+2x − 4
+Lời giải
+
+1.
+
+−3 x có nghĩa ⇔ −3 x ≥ 0 ⇔ x ≤ 0 .
+
+2.
+
+2 x − 4 có nghĩa ⇔ 2 x − 4 ≥ 0 ⇔ 2 x ≥ 4 ⇔ x ≥ 2 .
+
+3.
+
+7 − 6 x có nghĩa ⇔ 7 − 6 x ≥ 0 ⇔ 6 x ≤ 7 ⇔ x ≤
+
+4.
+
+2
+−3 x + 2 có nghĩa ⇔ −3 x + 2 ≥ 0 ⇔ 3 x ≤ 2 ⇔ x ≤ .
+3
+
+7
+.
+6
+
+Bài 4. Với giá trị nào của x thì các căn thức sau có nghĩa
+1.
+
+x
++ x−2 .
+x−2
+
+2.
+
+3.
+
+1
+3 − 2x
+
+4.
+
+x
++ x−2 .
+x+2
+−2
+.
+x +1
+Lời giải
+
+1.
+
+x − 2 ≠ 0
+x ≠ 2
+x
++ x − 2 có nghĩa ⇔ 
+⇔
+⇔ x > 2.
+x−2
+x ≥ 2
+x − 2 ≥ 0
+
+2.
+
+x + 2 ≠ 0
+ x ≠ −2
+x
++ x − 2 có nghĩa ⇔ 
+⇔
+⇔ x ≥ 2.
+x+2
+x ≥ 2
+x − 2 ≥ 0
+
+4.
+
+−3 x + 2
+
+3.
+
+ 1
+≥0
+1
+3
+
+⇔ 3 − 2x > 0 ⇔ x < .
+có nghĩa ⇔  3 − 2 x
+2
+3 − 2x
+3 − 2 x ≠ 0
+
+4.
+
+ −2
+≥0
+−2
+
+⇔ x + 1 < 0 ⇔ x < −1 .
+có nghĩa ⇔  x + 1
+x +1
+ x + 1 ≠ 0
+
+Bài 5. Rút gọn các biểu thức sau
+1.
+
+11 − 6 2 − 11 + 6 2 .
+
+2.
+
+(2 − 5) 2 + 14 − 6 5
+
+3. (2 + 7) 11 − 4 7
+4.
+
+(3 + 2) 2 + 6 − 4 2
+
+5.
+
+9−3 8 −
+
+3 −1
++ 5−2 6 − 2− 3
+2
+
+2− 3
+
+6.
+
+2 + 2+ 3
+
++
+
+2+ 3
+2 − 2− 3
+Lời giải
+
+1.
+
+11 − 6 2 − 11 + 6 2 = (3 − 2) 2 − (3 + 2) 2 =3 − 2 − 3 − 2 =−2 2 .
+
+2.
+
+( 2 − 5 ) + 14 − 6 5 =
+2
+
+(
+
+3. 2 + 7
+
+5 − 2 + (3 − 5) 2 =
+
+5 − 2 + 3 − 5= 1.
+
+) 11 − 4 7 = (2 + 7) ( 7 − 2) = ( 7 + 2)( 7 − 2) = 7 − 4 = 3 .
+2
+
+4.
+
+3
+2 + (2 − 2) =+
+3
+2 +2− 2 =
+5.
+(3 + 2 ) + 6 − 4 2 =+
+
+5.
+
+9−3 8 −
+
+=
+
+6+3− 2 6 3 −
+
+2
+
+2
+
+3 −1
++ 5−2 6 − 2− 3
+2
+6− 2
+8−4 3
++ 3+ 2− 2 3 2 −
+2
+2
+
+=
+
+( 6 − 2) 2
+6− 2
+2
+( 6 − 3) −
++ ( 3 − 2) −
+2
+2
+
+=
+
+6− 3−
+
+2
+
+6− 2
+6− 2
++ 3− 2−
+2
+2
+
+= 0.
+6.
+
+=
+
+2− 3
+2 + 2+ 3
+
++
+
+2+ 3
+2 − 2− 3
+
+=
+
+2 2− 6
+2+ 4+2 3
+
++
+
+2 2+ 6
+2− 4−2 3
+
+2 2 − 6 2 2 + 6 (2 2 − 6)(3 − 3) + (2 2 + 6)(3 + 3)
+=3 2 .
++
+=
+3+ 3
+3− 3
+(3 + 3)(3 − 3)
+
+Bài 6. Rút gọn các biểu thức sau
+1.
+
+48 − 2 75 + 108 −
+
+1
+147;
+7
+
+2. ( 44 + 11) 11;
+
+1 3 2
+;
+−
+6
+3
+
+3.
+
+24 − 6
+
+7.
+
+(3 + 2) 2 + 6 − 4 2 ;
+
+4.
+
+11 − 6 2 − 11 + 6 2 ;
+
+5.
+
+(2 − 5) 2 + 14 − 6 5 ;
+
+6. (2 + 7) 11 − 4 7 ;
+
+8. 9 − 3 8 −
+
+Lời giải
+1.
+
+48 − 2 75 + 108 −
+
+1
+1
+147= 4 3 − 2 ⋅ 5 3 + 6 3 − ⋅ 7 3
+7
+7
+
+1 
+
+= 3  4 − 2 ⋅ 5 + 6 − ⋅ 7  =− 3
+7 
+
+
+(2 11 + 11) 11 =
+3 11 ⋅ 11 =
+3 ⋅11 =
+33.
+2. ( 44 + 11) 11 =
+3.
+
+24 − 6
+
+1 3 2
+−
+= 2 6 − 6 − 6 = 0.
+6
+3
+
+3 −1
++ 5−2 6 − 2− 3
+2
+
+4.
+11 − 6 2 − 11 + 6 2 =
+=
+
+(3 − 2 ) − (3 + 2 )
+2
+
+9 + 2 − 2.3. 2 − 9 + 2 + 2.3. 2
+2
+
+=3 − 2 − (3 + 2)
+= −2 2
+5.
+
+( 2 − 5 ) + 14 − 6 =5 ( 5 − 2) + 9 + 5 − 2.3. 5
+= 5 − 2 + (3 − 5 )
+2
+
+2
+
+2
+
+5 − 2+3− 5
+
+=
+= 1.
+6.
+
+( 2 + 7 ) 11 − 4 7
+
+(2 + 7 ) 7 + 4 − 2 ⋅ 2 7
+=
+( 2 + 7 ) ( 7 − 2)
+= ( 2 + 7 )( 7 − 2 ) = 7 − 4 = 3.
+=
+
+2
+
+7.
+
+(3 + 2 ) + 6 − 4 2 = 3 + 2 + 4 + 2 − 2 ⋅ 2 2
+3
+2 + (2 − 2 )
+=+
+2
+
+2
+
+= 3 + 2 + 2 − 2 = 5.
+
+3 −1
++ 5−2 6 − 2− 3
+2
+
+8.
+
+9−3 8 −
+
+=
+
+6+3− 2 6 ⋅ 3 −
+
+6− 2
+8−4 3
++ 3+ 2− 2 3⋅ 2 −
+2
+2
+
+( 6 − 2)
+6− 2
+= ( 6 − 3) −
++ ( 3 − 2) −
+2
+2
+2
+
+=
+
+6− 3−
+
+2
+
+6− 2
+6− 2
++ 3− 2−
+= 0.
+2
+2
+
+Bài 7. Áp dụng quy tắc khai phương một thương, hãy tính:
+
+2
+
+1.
+
+121
+;
+9
+
+14
+;
+169
+
+2.
+
+3.
+
+6
+;
+25
+
+3
+
+4.
+
+4
+
+21
+.
+25
+
+Lời giải
+1. =
+
+121
+9
+
+121 11
+.
+=
+3
+9
+
+3.
+
+6
+3=
+25
+
+81
+=
+25
+
+81 9
+.
+=
+25 5
+
+144
+109
+
+144 12
+.
+=
+169 13
+
+4.
+
+21
+=
+4
+25
+
+121
+=
+25
+
+121 11
+.
+=
+5
+25
+
+2. =
+
+Bài 8. Áp dụng quy tắc chia hai căn bậc hai, hãy tính:
+
+1.
+
+999
+;
+444
+
+160
+;
+0, 4
+
+2.
+
+3.
+
+9+6 2
+;
+3
+
+4. 2 + 3 :
+
+1
+.
+2
+
+Lời giải
+1.
+
+999
+=
+444
+
+999
+=
+444
+
+9
+=
+4
+
+160
+0, 4
+
+160
+0, 4
+
+1600
+=
+4
+
+2. = =
+
+9 3
+=
+.
+4 2
+1600 40
+=
+= 20 .
+2
+4
+
+3.
+
+9+6 2
+9+6 2
+=
+= 3 + 2 2 = ( 2 + 1) 2 = 2 + 1 .
+3
+3
+
+4.
+
+2+ 3 :
+
+1
+=
+2
+
+(
+
+)
+
+2+ 3 :
+
+1
+= 4+2 3 =
+2
+
+(
+
+) = 3 +1 .
+
+3 +1
+
+2
+
+Bài 9. Rút gọn các biểu thức sau:
+1.
+
+96 x 5
+( x > 0) ;
+24 x
+
+2.
+
+18 ( x + 1)
+
+3
+
+2x + 2
+
+( x > −1) ;
+
+3.
+
+3x 4 y 4
+27 x 2 y 4
+
+( x < 0, y > 0 ) .
+
+Lời giải
+1.
+
+96 x 5
+=
+24 x
+
+96 x 5
+=
+24 x
+
+2.
+
+18 ( x + 1)
+=
+2x + 2
+3
+
+=
+4 x4 2 x2 .
+
+18 ( x + 1)
+=
+2( x + 1) 2
+3
+
+18 ( x + 1)
+=
+2
+2 ( x + 1)
+3
+
+=
+9 ( x + 1) 3 x + 1 (với x > −1 ).
+
+3x 4 y 4
+=
+27 x 2 y 4
+
+3.
+
+3x 4 y 4
+=
+27 x 2 y 4
+
+x2
+=
+9
+
+x2 − x
+(với x < 0, y > 0 ).
+=
+3
+9
+
+Bài 10. Chứng minh các bất đẳng thức sau:
+
+a+b
+a+ b
+≥
+, với a, b ≥ 0;
+2
+2
+
+1.
+
+2.
+
+a+
+
+1
+≥ 2 , với a > 0
+a
+
+Lời giải
+1. Ta có
+
+( a − b ) ≥ 0 ⇔ a + b ≥ 2 ab ⇔ 2 ( a + b ) ≥ a + b + 2 ab ⇔ 2 ( a + b ) ≥ ( a + b )
+2
+
+⇔
+
+a + b ( a + b )2
+≥
+⇔
+2
+4
+
+a+b
+( a + b )2
+≥
+2
+4
+
+Mà:
+
+(
+⇒
+
+)
+
+2
+
+a+ b
+=
+4
+
++ b)
+( a=
+2
+
+4
+
+a+ b
+⋅
+2
+
+a+b
+a+ b
+≥
+, với a, b ≥ 0
+2
+2
+
+2. Ta có
+
+( a ) +1 = a +1.
+1
+1
+= a+
+=
+a+
+2
+
+a
+
+a
+
+a
+
+a
+
+Mà:
+
+2.
+( a − 1) ≥ 0 ⇔ a + 1 ≥ 2 a ⇒ a + 1a ≥ 2 aa =
+2
+
+2
+
+BÀI 9. BIẾN ĐỔI ĐƠN GIẢN VÀ RÚT GỌN BIỂU THỨC CHỨA CĂN THỨC BẬC HAI.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. ĐƯA THỪA SỐ RA NGOÀI DẤU CĂN
+Cách đưa thừa số ra ngoài dấu căn
+
+a2 ⋅ b =
+|a| b.
+
+Nếu a là một số và b là một số không âm thi
+
+Chú ý. Phép biến đổi trên gọi là phép đưa thừa số ra ngoài dấu căn.
+Ví dụ 1. Viết nhân tử số của biểu thức dưới dấu căn thành tích các luỹ thừa rồi đưa thừa số ra ngoài
+dấu căn:
+a)
+
+45 ;
+
+b)
+
+243a (a ≥ 0) .
+
+Lời giải
+a) Ta có 45= 32 ⋅ 5 nên
+
+45=
+
+b) Ta có 243= 3 ⋅ 92 nên
+
+243a =
+
+32 ⋅ 5= 3 5 ;
+92 ⋅ 3a = 9 3a .
+
+Chú ý. Khi tính toán với những căn thức bậc hai mà biểu thức dưới dấu căn có mẫu, ta thường khử
+mẫu của biểu thức lấy căn (tức là biến đổi căn thức bậc hai đó thành một biểu thức mà trong căn
+thức không còn mẫu) như trong ví dụ sau:
+Ví dụ 2. Khử mẫu của biểu thức lấy căn
+
+4
+.
+7
+Lời giải
+
+Nhân cả tử và mẫu của biểu thức lấy căn với 7 và đưa thừa số ra ngoài dấu căn, ta được
+
+4
+=
+7
+
+4⋅7
+=
+72
+
+2
+
+2 7
+2
+⋅7
+.
+ =
+7
+7
+
+2. ĐƯA THỪA SỐ VÀO TRONG DẤU CĂN
+Cách đưa một thừa số vào trong đấu căn
+- Nếu a và b là hai số không âm thì a b = a 2b .
+- Nếu a là số âm và b là số không âm thì a b = − a 2b .
+Chú ý. Các phép biến đổi trên gọi là phép đưa thừa số vào trong dấu căn.
+Ví dụ 3. Đưa thừa số vào trong dấu căn:
+a) 5 2 ;
+
+b) −2 a
+
+(a ≥ 0) .
+
+Lời giải
+a) 5 2=
+
+52 ⋅ 2=
+
+50 ;
+
+b) −2 a =− 22 ⋅ a =− 4a .
+
+Ví dụ 4. Không sử dụng MTCT, có thể so sánh được hai số a = 3 2 và b = 2 3 hay không?
+Lời giải
+Ta có 3 2=
+
+32 ⋅ 2=
+
+18; 2 3=
+
+22 ⋅ 3=
+
+12 . Vì 12 < 18 nên 2 3 < 3 2 .
+
+3. TRỤC CĂN THỨC Ở MẪU
+Tính toán với các biểu thức có chứa căn ở mẫu thường phức tạp và ta thường tìm cách trục các căn
+thức ở mẫu (tức là biến đổi biểu thức thành một biểu thức mới không chứa căn ở mẫu).
+Cách trục căn thức ở mẫu
+ Với các biểu thức A, B và B > 0 , ta có
+
+A
+A B
+.
+=
+B
+B
+
+C
+C ( A − B)
+C
+C ( A + B)
+B 2 , ta có
+ Với các biểu thức A, B, C mà A ≥ 0, A ≠=
+=
+;
+.
+2
+A− B
+A − B2
+A+B
+A−B
+ Với các biểu thức A, B, C mà A ≥ 0, B ≥ 0, A ≠ B , ta có:
+C
+A+ B
+
+C( A − B )
+C
+C( A + B )
+=
+;
+.
+A− B
+A− B
+A− B
+
+Ví dụ 5. Trục căn thức ở mẵu của các biểu thức:
+a)
+
+2
+3 5
+
+;
+
+b)
+
+a
+.
+3− 2 2
+
+Lời giải
+a) Nhân cả tử và mã̃u của biểu thức đã cho với
+
+2
+2 5
+2 5 2 5
+5 , ta được: =
+.
+=
+=
+2
+3⋅5
+15
+3 5 3( 5)
+
+b) Biểu thức liên hợp của mẫu là 3 + 2 2 . Nhân cả tử và mẫu của biểu thức đã cho với 3 + 2 2 , ta
+được:
+a
+a (3 + 2 2)
+a (3 + 2 2) a (3 + 2 2)
+=
+= 2
+=
+= (3 + 2 2)a .
+9−8
+3 − 2 2 (3 − 2 2)(3 + 2 2) 3 − (2 2) 2
+
+4. RÚT GỌN BIỂU THỬC CHỨA CĂN THỨC BẬC HAI
+Khi rút gọn biểu thức có chứa căn thức bậc hai, ta cẩn phối hợp các phép tính (cộng, trừ, nhân, chia)
+và các phép biến đổi đã học (đưa thừa số ra ngoài hoặc vào trong dấu căn; khử mẫu của biểu thức
+lấy căn; trục căn thức ở mẫu).
+Ví dụ 6. Rút gọn biểu thức A = 2 3 − 75 + (1 − 3) 2 .
+Lời giải
+Đưa thừa số ra ngoài dấu căn, ta có:
+
+75 =
+
+Do đó A =2 3 − 5 3 + 3 − 1 =−1 − 2 3 .
+
+3 ⋅ 52 = 5 3 ; (1 − 3) 2 =−
+1 3 =3 − 1.
+
+Ví dụ 7. a) Trục căn thức ở mẫu của các biểu thức:
+
+P
+=
+b) Sử dụng kết quả câu a , rút gọn biểu thức
+
+x2 −1 x2 − x
+;
+với x > 1 .
+x −1 x +1
+
+x2 −1 x2 − x
+−
+với x > 1 .
+x −1
+x +1
+
+Lời giải
+a) Ta có
+
+(
+
+)
+
+2
+
+x − 1 ( x + 1) ( x − 1)( x + 1)( x + 1)
+x2 −1
+=
+=
+= ( x + 1)( x + 1) = x x + x + x + 1;
+x −1
+x − 1 ( x − 1)( x + 1)
+
+(
+
+)
+
+x 2 − x ( x − 1) x( x − 1)( x − 1)
+x2 − x
+=
+=
+= x( x − 1)= x x − x.
+x −1
+x + 1 ( x + 1)( x − 1)
+b) Sử dụng kết quả câu a ta có P =( x x + x + x + 1) − ( x x − x) = 2 x + x + 1 .
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.17. Đưa thừa số ra ngoài dấu căn:
+a)
+
+75 ;
+
+b)
+
+27 a (a ≥ 0) ;
+
+c)
+
+50 2 + 100 ;
+
+d)
+
+9 5 − 18 .
+Lời giải
+
+a) Ta có
+
+22 ⋅13 = 2 13 .
+
+52 =
+
+b) Với a ≥ 0 ta có:
+
+27 a =
+
+c) Ta có 50 2 + 100 =
+d) Ta có
+
+9 5 − 18 =
+
+32 ⋅ 3a = 3 3a .
+
+25(2 2 + 4) =
+9( 5 − 2) =
+
+52 ⋅ (2 2 + 4) = 5 2 2 + 4
+
+32 ⋅ ( 5 − 2) = 3
+
+3.18. Đưa thừa số vào trong dấu căn:
+a) 3 2 ;
+c) 4
+
+b) −2 7 ;
+
+15
+;
+2
+
+d) −5
+
+16
+.
+5
+Lời giải
+
+a) 4 3=
+
+42 ⋅ 3=
+
+48 .
+
+b) −2 7 =− 22 ⋅ 7 =− 28 .
+c) 4
+
+15
+=
+2
+
+42 ⋅
+
+15
+=
+2
+
+120 .
+
+5 −2 .
+
+d) −5
+
+16
+16
+=
+− 52 ⋅ =
+− 80 .
+5
+5
+
+3.19. Khử mẫu trong dấu căn:
+a) 2a ⋅
+
+3
+;
+5
+
+b) −3 x ⋅
+
+5
+( x > 0) ;
+x
+
+3a
+(a ≥ 0, b > 0) .
+b
+
+c) −
+
+Lời giải
+2
+
+3
+3⋅5
+1
+2a 15
+1
+= 2a ⋅
+= 2a ⋅   ⋅15 = 2a ⋅ 15 =
+a) Ta có 2a ⋅
+.
+2
+5
+5
+5
+5
+5
+2
+
+5
+5x
+1
+=
+−3 x ⋅ 2 =
+−3 x ⋅   ⋅ 5 x
+b) Với x > 0 , ta có: −3 x ⋅
+x
+x
+x
+
+=
+−3 x ⋅
+
+1
+1
+⋅ 5x =
+−3 x ⋅ ⋅ 5 x =
+−3 5 x
+x
+x
+2
+
+3a
+3ab
+1
+1
+=
+−
+=
+− 2 ⋅ 3ab =
+−   ⋅ 3ab
+c) Với a ≥ 0, b > 0 , ta có: −
+2
+b
+b
+b
+b
+1
+1
+3ab
+=
+− ⋅ 3ab =
+− ⋅ 3ab =
+−
+b
+b
+b
+3.20. Trục căn thức ở mẫu:
+a)
+
+4+3 5
+;
+5
+
+b)
+
+1
+;
+5 −2
+
+c)
+
+3+ 3
+;
+1− 3
+
+d)
+
+2
+.
+3+ 2
+Lời giải
+
+4 5 + 3 ⋅ 5 4 5 + 15
+4 + 3 5 (4 + 3 5) ⋅ 5 4 5 + 3 ⋅ ( 5) 2
+= =
+a)
+=
+=
+2
+5
+5
+5
+5
+( 5)
+1
+5+2
+5+2
+=
+b)
+=
+=
+5 − 2 ( 5 − 2)( 5 + 2) ( 5) 2 − 22
+
+5+2
+=
+5−4
+
+5+2
+=
+1
+
+5+2
+
+3+3 3 + 3 +3 6+ 4 3
+3 + 3 (3 + 3)(1 + 3) 3 + 3 3 + 3 + ( 3) 2
+=
+=
+c)
+=
+=
+2
+2
+1− 3
+−2
+1 − 3 (1 − 3)(1 + 3)
+1 − ( 3)
+−2(−3 − 2 3)
+=
+=−3 − 2 3
+−2
+d)
+
+2
+2( 3 − 2)
+=
+=
+3 + 2 ( 3 + 2)( 3 − 2)
+
+2 ⋅ 3 − ( 2) 2
+=
+( 3) 2 − ( 2) 2
+
+2⋅3 − 2
+=
+3− 2
+
+6 −2
+=
+1
+
+6 −2
+
+3.21. Rút gọn các biểu thức sau:
+a) 2
+
+2
+3
+−4
+;
+3
+2
+
+b)
+
+5 48 − 3 27 + 2 12
+;
+3
+
+c)
+
+1
+4 2 −4
+.
++
+3+ 2 2 2− 2
+
+Lời giải
+2
+
+2
+
+2
+3
+2⋅3
+3⋅ 2
+1
+1
+1
+1
+−4 = 2 2 −4
+= 2   ⋅6 − 4   ⋅6 = 2⋅
+6 − 4⋅
+6
+a) 2
+2
+3
+2
+3
+2
+3
+2
+3
+2
+2
+4
+2
+
+6
+= 6 − 2 6 =6 ⋅  − 2  =
+−
+3
+3
+3
+
+5 48 − 3 27 + 2 12 5 42 ⋅ 3 − 3 32 ⋅ 3 + 2 22 ⋅ 3
+=
+3
+3
+
+b)
+
+5 ⋅ 4 3 − 3 ⋅ 3 3 + 2 ⋅ 2 3 20 3 − 9 3 + 4 3
+=
+=
+3
+3
+
+3(20 − 9 + 4)
+= 15
+3
+
+1
+4 2 −4
+3− 2 2
+4( 2 − 1)
++=
++
+3+ 2 2 2− 2
+(3 + 2 2)(3 − 2 2) ( 2) 2 − 2
+
+c)
+
+3− 2 2 4 2
+4 2
+3− 2 2
+4( 2 − 1)
+3− 2 2
+4
+=
++
+=
+3− 2 2 +
+=
++
+=
++
+2
+2
+2
+1
+2
+9−8
+( 2)
+3 − (2 2)
+2( 2 − 1)
+2
+=
+3− 2 2 + 2 2 =
+3
+
+3.22. Rút gọn biểu thức
+A
+=
+
+1 
+ 1
+x
+−
+ ( x ≥ 0, x ≠ 9) .
+ x +3 3− x 
+Lời giải
+
+Với x ≥ 0 và x ≠ 9 , ta có:
+=
+A
+
+1 
+ 1
+−
+=
+x
+
+ x +3 3− x 
+
+1 
+ 1
++
+x
+
+x −3
+ x +3
+
+
+
+x −3
+x +3
+x −3+ x +3
+2 x
+x
++
+=
+x⋅
+x⋅
+=
+( x + 3)( x − 3)
+( x + 3)( x − 3)
+ ( x + 3)( x − 3) ( x + 3)( x − 3) 
+2 ⋅ ( x )2
+2x
+.
+=
+( x + 3)( x − 3) ( x + 3)( x − 3)
+
+Vậy với x ≥ 0 và x ≠ 9 thì A =
+
+2x
+.
+( x + 3)( x − 3)
+
+C. CÁC DẠNG TOÁN
+Dạng 1: Đưa thừa số ra ngoài dấu căn và đưa thừa số vào trong dấu căn
+1. Phương pháp giải
+① Đưa thừa số ra ngoài dấu căn:
+
+Tìm cách đưa biểu thức trong căn về dạng tích A2 B .
+Thực hiện việc đưa thừa số ra ngoài dấu căn bằng cách áp dụng
+
+A2 B  A B (với B  0 ).
+
+② Đưa thừa số vào trong dấu căn:
+Chú ý đến dấu của thừa số trước dấu căn.
+Nếu A  0 thì A B  A2 B .
+
+Nếu A  0 thì A B   A2 B .
+2. Ví dụ minh họa.
+Ví dụ 1. Viết các số hoặc biểu thức dưới dấu căn thành dạng tích một cách thích hợp rồi đưa thừa
+số ra ngoài dấu căn :
+a).
+
+54 .
+
+b). 108 .
+
+c). 0,1 2000 .
+
+d) −0, 05 28800 .
+
+e).
+
+7.63.a 2
+
+Lời giải
+
+54
+a) Ta có =
+
+=
+9.6 3 6.
+
+b) Ta có 108  36.3  6 3 .
+c) Ta có 0,1 20000  0,1 10000.2  0,1.100 2  10 2 .
+d) Ta có 0, 05 28800  0, 05 102 . 144. 2  0, 05.10.12 2  6 2.
+e) Ta có
+
+7.63.a 2  7 29.a 2  7.3 a  21 a .
+
+Ví dụ 2. Đưa thừa số vào trong dấu căn (với x  0 và y  0 ):
+a). 3 5 .
+
+b). −5 2 .
+
+c). −
+
+2
+xy .
+3
+
+d). x
+
+2
+.
+x
+
+Lời giải
+a) Ta có 3 5  32  5  45.
+b) Ta có 5 2   52.2   50.
+c) Ta có: Với x  0 và y  0 : 
+d) Ta có: Với : x  0 x
+
+2
+4 xy
+xy  
+3
+9
+
+2
+2x2
+
+ 2x.
+x
+x
+Dạng 2. Khử mẫu của biểu thức lấy căn
+
+1. Phương pháp giải
+Bằng cách nhân tử và mẫu của biểu thức trong căn cho mẫu số rồi rút mẫu ra ngoài căn bằng
+A
+AB
+AB
+công thức:= =
+( Với A, B mà AB ≥ 0 và B ≠ 0).
+2
+B
+B
+B
+2. Ví dụ minh họa.
+Ví dụ 1. Khử mẫu của biểu thức lấy căn
+
+1
+;
+600
+
+a).
+
+11
+;
+540
+
+3
+;
+50
+
+2
+
+5
+;
+98
+
+27
+
+1 1
++ ;
+b b2
+
+a a b
+;
+;
+b b a
+
+b). ab
+
+(1 − 3 ) .
+9a 3
+2
+; 3 xy
+.
+36b
+xy
+
+(Giả thiết các biểu thức có nghĩa).
+Lời giải
+
+1
+a). =
+600
+
+600
+=
+6002
+
+11
+=
+540
+
+6.100 10 6
+6
+= =
+;
+600
+600
+60
+
+11
+11
+= =
+9.4.15 6 15
+
+3
+=
+50
+
+3.50
+=
+502
+
+5
+=
+98
+
+5
+5
+= =
+49.2 7 2
+
+10
+;
+14
+
+2
+
+3
+
+3
+
+3
+
+a b a ab
+a
+=
+==
+2
+b a b a
+ba
+
+9a 3
+=
+36b
+
+1+ b
+=
+b2
+
+a 3b
+=
+2b
+
+( 3 − 1)
+9
+
+a
+ab ab
+b). =
+ab
+ab
+=
+=
+ab
+b
+b2
+b
+
+1 1
++ =
+b b2
+
+165
+;
+90
+
+6.25 5 6
+6
+==
+;
+50
+50
+10
+
+(1 − 3 ) 3 − 1 . 3
+= =
+27
+
+11. 15
+=
+6.15
+
+a ab neu b > 0
+;
+
+−a ab neu b < 0
+
+ ab
+neu a > 0
+
+ b
+ab = 
+− ab neu a < 0
+ b
+
+1+ b
+;
+b
+
+a ab a ab
+=
+( ab ≥ 0; b ≠ 0).
+2b
+2b
+
+2 xy
+2
+=
+3 xy
+3=
+xy.
+3 2 xy (vì xy ≥ 0).
+xy
+xy
+
+Dạng 3. Trục căn ở mẫu
+1. Phương pháp giải
+Áp dụng
+
+A
+A B
+;
+=
+B
+B
+
+①.
+
+(
+
+)
+
+A B C
+A
+.
+=
+B −C
+B± C
+Nhận xét. Ta gọi B + C và
+
+(
+
+)
+
+A B C
+A
+=
+;
+B − C2
+B ±C
+
+②.
+
+③.
+
+B − C là hai biểu thức liên hợp.
+
+2. Ví dụ minh họa.
+Ví dụ 1. Trục căn ở mẫu với giả thiết các biểu thức chữ đều có nghĩa.
+a).
+
+5
+5
+1
+2 2 +2 y+b y
+;
+;
+;
+với b ≠ 0; y > 0.
+;
+10 2 5 3 20
+5 2
+b y
+
+b).
+
+3
+;
+3 +1
+
+b
+2
+p
+2+ 3
+1
+;
+với b ≥ 0;
+với p ≥ 0, p ≠ .
+;
+4
+3 −1 2 − 3 3 + b
+2 p −1
+
+c).
+
+2
+;
+6+ 5
+
+3
+;
+10 + 7
+
+1
+với x > 0, y > 0, x ≠ y;
+x− y
+Lời giải
+
+5
+5 10
+a). = =
+10
+10
+
+10
+5
+; =
+2
+2 5
+
+5)
+(=
+2
+
+2 5
+
+5
+;
+2
+
+1
+1
+1
+5
+=
+= =
+;
+3 20 3 4.5 6 5 30
+
+(
+
+)
+
+(
+
+)
+
+2 2+2
+=
+5 2
+
+2 2+ 2
+2+ 2
+=
+;
+5
+5 2
+
+y+b y
+=
+b y
+
+y y +b
+=
+b y
+
+(
+
+y +b
+.
+b
+
+) ( 3 − 1) ;
+
+3 3 −1 3
+3
+b).= =
+3 −1
+3 +1
+
+2
+
+2
+=
+3 −1
+
+( 3 + 1) =
+( 3 − 1)( 3 + 1)
+
+2+ 3
+=
+2− 3
+
+( 2 + 3 ) = 7 + 4 3= 7 + 4 3;
+( 2 + 3 )( 2 − 3 ) 4 − 3
+
+2
+
+3 + 1;
+
+2
+
+(
+
+)
+
+(
+
+)
+
+b 3− b
+p 2 p +1 2 p p + p
+b
+p
+=
+;
+;
+=
+=
+9−b
+4 p −1
+4 p −1
+3+ b
+2 p −1
+
+2ab
+với a ≥ 0, b ≥ 0, a ≠ b.
+a− b
+
+2
+= 2
+6− 5
+
+c).
+
+( 6 + 5 );
+(
+
+)
+
+3 10 − 7
+3
+=
+=
+10 − 7
+10 + 7
+1
+=
+x− y
+
+10 − 7;
+
+x+ y
+;
+x− y
+
+(
+
+)
+
+2ab a + b
+2ab
+=
+.
+a −b
+a− b
+Dạng 4. Rút gọn biểu thức
+1. Phương pháp Lời giải
+Đưa thừa số ra ngoài dấu căn rồi rút gọn các căn thức đồng dạng
+
+p A + q A − r A = ( p + q − r) A .
+Thực hiện các phép biến đổi căn thức:
+①. A2 = A .
+
+②.
+
+A
+=
+B
+
+AB
+(với A ≥ 0, B > 0 ).
+B
+
+③. A2 B = A B
+
+(
+
+(với B ≥ 0 )..
+
+A B C
+A
+=
+B −C
+B± C
+2. Các ví dụ
+
+④
+
+) ( B ≥ 0, C ≥ 0, B ≠ C ).
+
+.
+
+Ví dụ 1. Rút gọn các biểu thức sau với x ≥ 0 :
+a). 2 3 x − 4 3 x + 27 − 3 3 x
+
+b). 3 2 x − 5 8 x + 7 18 x + 28 .
+Lời giải
+
+a) Ta có 2 3 x − 4 3 x + 27 − 3 3 x =
+−5 3 x + 27 .
+(2 − 4 − 3) 3 x + 27 =
+b) Ta có 3 2 x − 5 8 x + 7 18 x + 28 =3 2 x − 10 2 x + 21 2 x + 28
+= (3 − 10 + 21) 2 x + 28 = 14 2 x + 28 .
+
+Ví dụ 2. Rút gọn
+2
+a). 2
+x − y2
+
+b).
+
+3( x + y ) 2
+2
+
+với x ≥ 0, y ≥ 0 và x ≠ y .
+
+2
+5a 2 (1 − 4a + 4a 2 ) với a > 0,5.
+2a − 1
+Lời giải
+
+x+ y
+2
+3( x + y ) 2 | x + y | 4.3
+6
+(vì x + y > 0 ) .
+=
+=
+=
+. 6
+2
+2
+2
+2
+x −y
+x −y
+x− y
+2
+2
+( x − y )( x + y )
+2
+2
+5a 2 1 − 4=
+a + 4a 2
+5a 2 (1 − 2a ) 2
+b)
+2a − 1
+2a − 1
+
+a) Ta có
+
+(
+
+=
+
+)
+
+2
+2 5
+1
+
+| a | . |1 − =
+2a | 5
+.a.(2a − 1)  do =
+a >  2 5a.
+2a − 1
+2a − 1
+2
+
+
+Ví dụ 3: Rút gọn các biểu thức sau (giả sử các biểu thức chữ đều có nghĩa):
+a). 18
+
+( 2 − 3) ;
+
+c)
+
+a a
++ ;
+b3 b 4
+
+1
+;
+ab
+
+d)
+
+a + ab
+.
+a+ b
+
+2
+
+b). ab 1 +
+
+2 2
+
+Lời giải
+a). 18
+
+( 2 − 3 ) = 2.9 ( 2 − 3 ) =3 2 − 3 2 =3( 3 − 2 ) 2 =3 6 − 6.
+2
+
+2
+
+1
+a 2b 2 + 1
+ab
+=
+b). ab 1 + 2=
+a b2
+a 2b 2
+c).
+
+a a
++=
+b3 b 4
+
+a + ab
+=
+d).
+a+ b
+
+ab
+ab
+
+ab + a
+=
+b4
+
+ab + a
+.
+b2
+
+(
+
+)
+
+a a+ b
+=
+a+ b
+
+a + ab
+Cách khác: =
+a+ b
+
+ 2 2
+ a b + 1 neu ab > 0
+a b +1 = 
+2 2
+− a b + 1 neu ab < 0.
+2 2
+
+a.
+
+a − b)
+( a + ab )( =
+
+a
+
+a −b
+
+a − b)
+( a + b )( =
+a (a − b)
+=
+a −b
+
+a −b
+
+Ví dụ 4: Rút gọn các biểu thức sau (giả sử các biểu thức chữ đều có nghĩa):
+2 + 2 15 − 5 2 3 − 6 a − a p − 2 p
+;
+;
+;
+;
+.
+1+ 2 1− 3
+8 − 2 1− a
+p −2
+
+Lời giải
+
+2+ 2
+=
+Ta có:
+1+ 2
+
+(
+
+)
+
+2 1+ 2
+=
+1+ 2
+
+(
+
+)
+
+2 3− 6
+=
+8−2
+
+6 2 −1
+=
+2 2 −1
+
+p −2
+
+p −2
+
+( )
+p ( p − 2)
+p−2 p
+= =
+
+5
+
+15 − 5
+=
+1− 3
+
+2;
+6
+;
+2
+p.
+
+a− a
+=
+1− a
+
+( 3 − 1) = − 5;
+
+1− 3
+a
+
+( a − 1) = − a ;
+
+1 − ra
+
+a.
+
+Ví dụ 5. Rút gọn biểu thức sau (với a > 0, b > 0 );
+a). 5 a − 4b 25a 3 + 5 16ab 2 − 2 9a
+b). 5a 64ab3 − 3 12a 3b3 + 2ab 9ab − 5b 81a 3b .
+Lời giải
+a) 5 a − 4b 25a 3 + 5 16ab 2 − 2 9a =
+5 a − 20ab a + 20ab a − 6 a =
+− a.
+b) 5a 64ab3 − 3 12a 3b3 + 2ab 9ab − 5b 81a 3b
+
+40ab ab − 6ab ab + 6ab ab − 45ab ab =
+=
+−5ab ab .
+Ví dụ 6. Cho biểu thức:
+
+=
+B
+
+16 x + 16 − 9 x + 9 + 4 x + 4 + x + 1 với x ≥ −1.
+
+a). Rút gọn biểu thức B ;
+b). Tìm x sao cho B có giá trị bằng 16 .
+Lời giải
+
+1 4 x + 1.
+= 4 x + 1 − 3 x + 1 + 2 x + 1 + x +=
+a) B
+b) B = 16 ⇔ 4 x + 1 = 16 ⇔ x + 1 = 4 ⇔ x + 1 = 16 ⇔ x = 15.
+Ví dụ 7. Rút gọn biểu thức
+a).
+
+a
+a b
++ ab +
+với a > 0 và b > 0 ;
+b
+b a
+
+b).
+
+m
+4m − 8mx + 4mx 2
+với m > 0 và x ≠ 1 .
+.
+1 − 2x + x2
+81
+
+Lời giải
+a)
+
+a
+a b
+ab
+a ab 1
+1
+2 
++ ab +
+= 2 + ab +
+= ab + ab +
+ab = + 1 ab .
+2
+b
+b a
+b
+b a
+b
+b
+b 
+
+b)
+
+m
+4m − 8mx + 4mx 2
+.
+=
+1 − 2 x + x2
+81
+
+4m (1 − x )
+.
+=
+2
+81
+(1 − x )
+2
+
+m
+
+4m 2
+=
+81
+
+4m 2 2m
+=
+. ( với m > 0
+9
+81
+
+và x ≠ 1 )
+Ví dụ 8. Rút gọn rồi so sánh giá trị của M với 1 , biết:
+1 
+a +1
+ 1
+với a > 0 và a ≠ 1 .
+M 
+=
++
+:
+a −1  a − 2 a +1
+a− a
+
+Lời giải
+Ta có:
+
+1
+1
++ =
+a− a
+a −1
+
+1
+
+a
+
+( a − 1)
+
++
+
+a
+
+(
+
+a
+
+=
+a −1
+
+)
+
+1+ a
+a
+
+( a − 1)
+
+1+ a
+
+Do đó: M =
+
+a
+
+a +1
+:
+=
+a −1 a − 2 a +1
+
+(
+
+a > 0 nên 1 −
+
+Vì
+
+B
+Ví dụ 9. Cho=
+
+)
+
+1+ a
+a
+
+( a − 1)
+
+( a − 1) =
+.
+2
+
+a +1
+
+a −1
+1
+.
+= 1−
+a
+a
+
+1
+< 1 suy ra M < 1.
+a
+
+2 x −9
+x + 3 2 x +1
+−
+−
+x −5 x +6
+x − 2 3− x
+
+a). Xác định x để cho B có nghĩa;
+b). Rút gọn B ;
+c). Tìm x để B > 1 ;
+d). Tìm x nguyên để B là số nguyên.
+Lời giải
+a) Ta có x − 5 x + 6=
+
+( x − 3)( x − 2)
+
+x ≥ 0
+x ≥ 0
+
+
+Điều kiện  x ≠ 3 ⇔  x ≠ 9
+
+x ≠ 4
+
+ x ≠2
+2 x −9
+
+b) B
+=
+
+−
+
+x + 3 2 x +1
++
+x −2
+x −3
+
+( x − 3)( x − 2)
+2 x − 9 − ( x + 3)( x − 3) + ( 2 x + 1)( x − 2 )
+=
+( x − 3)( x − 2)
+2 x − 9 − x + 9 + 2x − 4 x + x − 2
+=
+x −3
+x −2
+
+(
+)(
+( x − 2)( x + 1)
+= =
+( x − 2)( x − 3)
+c) Ta có B =
+
+)
+
+x− x −2
+
+( x − 3)( x − 2)
+
+x +1
+.
+x −3
+
+x −3+ 4
+4
+= 1+
+x −3
+x −3
+
+B >1⇔
+
+4
+>0⇔ x >3⇔ x>9
+x −3
+
+Vậy với x > 9 thì B > 1.
+
+4
+nên B ∈ Z ⇔ x − 3 là ước của 4. Do đó
+x −3
+±1, ± 2, ± 4 .
+
+d) Vì B = 1 +
+
+Suy các giá trị thích hợp của x là 1, 4, 16, 25, 49 .
+
+x − 3 nhận các giá trị
+
+Dạng 5: Chứng Minh Đẳng Thức
+1. Phương pháp giải:
+Thực hiện các phép biến đổi căn thức và các hằng đẳng thức đáng nhớ để biến đổi vế trái bằng
+vế phải hoặc vế phải bằng vế trái của đẳng thức.
+2. Ví dụ minh họa.
+Ví dụ 1: Chứng minh các đẳng thức sau:
+a).
+
+3
+2
+3
+6
+6+2
+−4
+=.
+2
+3
+2
+6
+
+ 6
+
+2x
+1
+b).  x
+với x > 0 .
++
++
+6
+x
+2
+ : 6 x =
+ x
+3
+3
+
+
+
+Lời giải
+a) Ta có: VT =
+=
+
+3
+2
+3 3
+6
+6
+6+2
+−4
+=
+6+2
+−4
+2
+3
+2 2
+9
+4
+3
+2
+3 2
+
+6+
+6 − 2 6 =  + − 2 6 =
+2
+3
+2 3
+
+
+6
+= VP (đpcm).
+6
+
+ 6
+
+
+
+2x
+6x
+b) b) Ta có VT =  x
+6
+:
+6
+6
+6
+x
+x
+x
+x
++
++
+=
++
++
+
+
+ : 6 x
+ x
+
+
+3
+3
+
+
+
+
+
+7
+7
+1
+6 x : 6 x= = 2 = VP (đpcm).
+3
+3
+3
+
+=
+
+Ví dụ 2: Chứng minh các đẳng thức sau:
+2
+
+ 1− a a
+ 1− a 
++ a  
+1 với a > 0 và a ≠ 1 .
+a). 
+ =
+ 1− a
+ 1− a 
+b).
+
+a+b
+a 2b 4
+=a
+b2
+a 2 + 2ab + b 2
+
+với a + b > 0 và b ≠ 0 .
+Lời giải
+
+( )
+
+3
+
+1− a
+2
+1− a a
+a) Ta có:
+1 + a + a + a =1 + 2 a + a = 1 + a
++ a=
++ a=
+1− a
+1− a
+
+1− a
+và
+=
+1− a
+
+(
+
+1− a
+1
+=
+1+ a
+1− a 1+ a
+
+(
+
+)(
+
+)
+
+2
+
+2
+ 1− a a
+  1− a 
+1
++ a  
+=
+Do đó: VT =
+1+ a ⋅
+1=
+VP (đpcm).
+
+ =
+2
+ 1− a
+ 1− a 
+1+ a
+
+(
+
+)
+
+(
+
+)
+
+)
+
+b) Ta có: VT
+=
+
+a+b
+a 2b 4
+a+b
+=
+2
+2
+2
+b
+a + 2ab + b
+b2
+
+a 2b 4
+
+(a + b)
+
+=
+2
+
+2
+a + b a .b
+=
+.
+a= VP (đpcm).
+b2 a + b
+
+(do a + b > 0 và b ≠ 0 ).
+
+Ví dụ 3: Chứng minh biểu thức sau không phụ thuộc vào biến a :
+
+
+a2 + 1   1 
+1
+1
++
+−
+. 1+ 
+
+2  
+−
+a
+1
++
+−
+a
+a
+2
+2
+2
+2
+
+  a
+
+với a > 0, a ≠ 1 .
+
+Lời giải
+Ta có:
+
+1
+1
+1
+1
++
+=
++
+2 + 2 a 2 − 2 a 2(1 + a ) 2(1 − a )
+
+1− a +1+ a
+2
+1
+= =
+2(1 + a )(1 − a ) 2(1 − a ) 1 − a
+
+=
+
+ 1
+ a + 1 1 + a − a2 −1 a + 1
+a2 + 1
+−
+⋅
+ 1 − a (1 − a )(1 + a )  ⋅ a =
+1 − a2
+a
+
+
+
+Do đó biểu thức đã cho bằng: 
+
+=
+
+a (1 − a ) a + 1
+⋅ = 1.
+a
+1 − a2
+
+Vậy biểu thức đã cho không phụ thuộc vào biến a .
+
+Dạng 5. Phân tích thành nhân tử
+1. Phương pháp giải
+Áp dụng:
+① A=
+
+( A ) (với A ≥ 0 ).
+2
+
+②
+
+2. Ví dụ minh họa.
+
+A2 B = A B
+
+(với B ≥ 0 ).
+
+Ví dụ 1: Phân tích thành nhân tử (với a, b, x, y là các số không âm).
+a). ab + b a + a + 1;
+
+b).
+
+x3 − y 3 + x 2 y − xy 2 .
+
+Lời giải
+
+( a ) + b a + a + 1= b a ( a + 1) + ( a + 1)= ( a + 1)(b a + 1).
+b) x − y + x y − xy = x x − y y + x y − y x = ( x x + x y ) − ( y y + y x )
+= x ( x + y ) − y ( x + y ) = ( x + y ) ( x − y ).
+2
+
++1 b
+a) ab + b a + a =
+3
+
+3
+
+2
+
+2
+
+Ví dụ 2: Phân tích thành nhân tử
+a). 1 + 2 + 3 + 6;
+
+b).
+Lời giải
+
+(
+
+) (
+
+)(
+
+)
+
+a) 1 + 2 + 3 + 6 =
+1 + 2 + 3 1 + 2 =1 + 2 1 + 3 .
+
+6 + 55 − 10 − 33.
+
+b)
+
+6 + 55 − 10 − 33 =
+
+( 6 − 10 ) − ( 33 − 55 ) = 2 ( 3 − 5 ) − 11 ( 3 − 5 )
+Dạng 6. Giải phương trình
+
+1. Phương pháp giải
+① Đặt điều kiện để phương trình có nghĩa:
+
+② Đưa thừa số ra ngoài dấu căn:
+
+A có nghĩa ⇔ A ≥ 0 .
+
+2
+
+A B= A B.
+
+③ Rút gọn các căn thức đồng dạng.
+④ Biến đổi phương trình về dạng: A = B ⇔ A = B 2
+2. Ví dụ minh họa.
+
+Ví dụ 1. Giải phương trình:
+a). 18 x + 9 + x + 3 −
+b).
+
+1
+4 x + 12 =
+9;
+2
+
+25 x − 50 − 16 x − 32 − 9 x − 18 =12 − 4 x − 2 .
+Lời giải
+
+a). Điều kiện: x ≥ −
+
+1
+2
+
+18 x + 9 + x + 3 −
+
+1
+4 x + 12 =
+9
+2
+
+⇔ 3 2x +1 + x + 3 − x + 3 =
+9
+
+⇔ 2 x + 1 = 3 ⇔ 2 x + 1 = 9 ⇔ x = 4 (nhận)
+Vậy phương trình có nghiệm x = 4
+b). Điều kiện: x ≥ 2
+25 x − 50 − 16 x − 32 − 9 x − 18 =12 − 4 x − 2
+⇔ 5 x − 2 − 4 x − 2 − 3 x − 2 = 12 − 4 x − 2
+⇔ x − 2 = 6 ⇔ x − 2 = 36 ⇔ x = 38 (nhận)
+
+Vậy phương trình có nghiệm x = 38
+Ví dụ 2. Tìm x, biết:
+a). 2 9 x − 27 −
+
+1
+1
+25 x − 75 −
+49 x − 147 =
+20;
+5
+7
+
+b).
+
+3 x −5 2 x −7
+−
++1 = x;
+2
+3
+
+c).
+
+9 x 2 + 45 −
+
+d).
+
+4,5 x + 50 x − 32 x + 72 x − 5
+
+1
+x 2 + 5 1 25 x 2 + 125
+16 x 2 + 80 + 3
+−
+=
+9;
+12
+16
+4
+9
+
+x
+0.
+− 12 =
+2
+
+Lời giải
+a). 2 9 x − 27 −
+
+1
+1
+25 x − 75 −
+49 x − 147 =
+20
+5
+7
+
+ĐKXĐ: x ≥ 3
+
+1
+1
+25 x − 75 −
+49 x − 147 =
+20
+5
+7
+1
+1
+25 ( x − 3) −
+49 ( x − 3) =
+20
+⇔ 2 9 ( x − 3) −
+5
+7
+
+2 9 x − 27 −
+
+⇔ 6 x − 3 − x − 3 − x − 3 = 20 ⇔ 4 x − 3 = 20
+⇔ x − 3 = 5 ⇔ x − 3 = 25
+28 ( Thỏa ĐK)
+⇔x=
+Vậy x = 28.
+b).
+
+3 x −5 2 x −7
+−
++1 = x
+2
+3
+ĐKXĐ: x ≥ 0
+
+3 x −5 2 x −7
+−
++1 = x
+2
+3
+⇔
+
+(3 x − 5) .3 − ( 2 x − 7 ) .2 + 6 =6 x
+
+6
+6
+6 6
+⇔ 9 x − 15 − 4 x + 14 + 6 =
+6 x ⇔ 9 x −4 x −6 x =
+15 − 14 − 6
+⇔ − x = −5 ⇔ x = 5
+⇔x=
+25 ( Thỏa ĐK)
+Vậy x = 25.
+
+x 2 + 5 1 25 x 2 + 125
+1
+2
+c). 9 x + 45 −
+16 x + 80 + 3
+−
+=
+9;
+12
+16
+4
+9
+2
+
+9 x 2 + 45 −
+
+1
+x 2 + 5 1 25 x 2 + 125
+16 x 2 + 80 + 3
+9
+−
+=
+12
+16
+4
+9
+
+2
+1
+x 2 + 5 1 25 ( x + 5 )
+2
+⇔ 9 ( x + 5) −
+16 ( x + 5 ) + 3
+−
+=
+9
+12
+4
+16
+9
+1 2
+3 2
+5
+⇔ 3 x2 + 5 −
+x +5 +
+x +5 −
+x2 + 5 = 9 ⇔ 3 x2 + 5 = 9
+3
+4
+12
+2
+
+⇔ x2 + 5 = 3 ⇔ x2 + 5 = 9 ⇔ x2 = 4
+⇔x=
+−2 hoặc x = 2.
+Vậy x = −2 hoặc x = 2.
+d).
+
+4,5 x + 50 x − 32 x + 72 x − 5
+
+x
+− 12 =
+0.
+2
+
+ĐKXĐ: x ≥ 0
+
+4,5 x + 50 x − 32 x + 72 x − 5
+
+x
+− 12 =
+0
+2
+
+9x
+x
+0
++ 52.2 x − 42.2 x + 62.2 x − 5
+− 12 =
+2
+2
+3
+5
+⇔
+2x + 5 2x − 4 2x + 6 2x −
+2 x =⇔
+12 6 2 x =
+12
+2
+2
+⇔ 2 x =2 ⇔ 2 x =4
+⇔
+
+⇔x=
+2 ( Thỏa ĐK)
+Vậy x = 2.
+
+D. LUYỆN TẬP
+Bài 1. Đưa thừa số ra ngoài dấu căn:
+a).
+
+96.125 .
+
+b).
+
+a 4b5 .
+
+c).
+
+a 6b11 .
+
+d).
+
+a 3 (1 − a ) ( a > 1) .
+
+Lời giải
+a) =
+96.125
+
+=
+25.3.53
+
+b)
+
+a 4b5 = a 2b 2 b .
+
+c)
+
+a 6b11 = a 3 .b5
+
+d) Với a > 1:
+
+4 2
+2=
+.5 .30 20 30 .
+
+b.
+2
+
+4
+2
+2
+a 3 (1 − a ) = a 2 .a. (1 − a )  = a (1 − a ) a .
+
+
+
+Bài 2. Đưa thừa số vào trong dấu căn:
+a). x 13 với x ≥ 0 .
+b). x 2 với x < 0 .
+c). x −
+
+11
+với x < 0 .
+x
+Lời giải
+
+a) Với x ≥ 0 : x 13 = 13 x 2 .
+b) Với x < 0 : x 2 = − 2 x 2 .
+c) Với x < 0 : x −
+
+11
+11
+=− − x 2 =− −11x .
+x
+x
+
+Bài 3. Rút gọn các biểu thức
+a).
+
+50 − 32 + 3 8 ;
+
+4
+
+b).
+
+25a + 2 160a − 3 10a với a ≥ 0 .
+
+(
+) 7 − 84 .
+d). ( 63 − 8 − 7 ) 7 + 2 14 .
+
+c). 2 7 + 3
+
+Lời giải
+a) Ta có
+
+50 − 32 + 3 8 = 25.2 − 16.2 + 3 4.2 = 5 2 − 4 2 + 3.2. 2 = 7 2 .
+
+25a + 2 160a − 3 10a=
+
+b)
+
+25.10a + 2. 16.10a − 3 10a
+
+= 5 10a + 2.4. 10a − 3 10a = 10 10a .
+
+(
+) 7 − 84 =2 7. 7 + 3. 7 − 4.21 =2.7 + 21 − 2 21 =14 − 21 .
+d) ( 63 − 8 − 7 ) 7 + 2 =
+14
+63. 7 − 8. 7 − 7. 7 + 2 14
+
+c) 2 7 + 3
+
+9.7.7 − 2 2. 7 − 7 + 2 14 = 3.7 − 2 14 − 7 + 2 14 = 14 .
+
+=
+
+Bài 4. Khai triển và rút gọn biểu thức (với x ≥ 0; y ≥ 0 )
+
+( 2 x − 1)( 2 x + 2 x + 1) .
+b). ( x + 2 y )( x − 2 xy + 4 y ) .
+c). ( x + y )( 2 x − y )
+a).
+
+Lời giải
+
+a)
+
+−1 2x 2x −1.
+1) ( 2 x − 1) ( ( 2 x ) + 2 x .1 + 1=
+( 2 x − 1)( 2 x + 2 x +=
+) ( 2x ) =
+
+b)
+
+( x + 2 y )( x − 2 xy + 4 y ) = ( x + 2 y ) ( x ) − x .2 y + ( 2 y ) 
+
+2
+
+2
+
+2
+
+x x + 8y y .
+( ) + (2 y ) =
+
+=x
+
+c)
+
+( x + y )( 2 x − y=)
+
+3
+
+3
+
+x .2 x − x . y + y .2 x − y . y
+= 2 x − xy + 2 xy − y = 2 x + xy − y .
+
+Bài 5. Chứng minh rằng:
+a).
+
+( x y − y x ) ( 2 y + 2 x )= x − y với x > 0, y > 0 .
+2 xy
+
+b). x + 2 5 x − 25 =
+
+( 5 + x − 5 ) với x ≥ 5 .
+2
+
+Giải
+a) Với x > 0, y > 0 :
+
+3
+
+2
+
+( x y − y x )( 2 y + 2 x ) = xy ( x − y ) 2.( x + y ) = x − y x + y =
+) x − y.
+(
+)(
+2 xy
+2 xy
+Vậy
+
+( x y − y x )( 2 y + 2 x )= x − y với x > 0, y > 0 .
+2 xy
+
+b) Với x ≥ 5 :
+
+5 + 2 5 x − 25 + x − 5 =
+x + 2 5 x − 25 .
+( 5 + x − 5=
+) ( 5 ) + 2. 5. x − 5 + ( x − 5 ) =
+2
+
+2
+
+Vậy x + 2 5 x − 25 =
+
+2
+
+( 5 + x − 5 ) với x ≥ 5 .
+2
+
+Bài 6. Khử mẫu các biểu thức dưới dấu căn rồi thực hiện phép tính: 2
+
+3
+1
+1
++
+−
+.
+20
+60
+15
+
+Giải
+
+3
+60
+2 15
+Ta có: 2= 2= 2. =
+20
+20
+20
+1
+=
+60
+
+60 2 15
+= =
+60
+60
+
+15
+5
+
+15
+30
+
+1
+15
+=
+15 15
+Vậy 2
+
+3
+1
+1
+15
+15
+15
+15
+1 1 1 
+.
++
+−
+=
++
+−
+= 15  + −  =
+20
+60
+15
+5
+30
+15
+6
+ 5 30 15 
+
+Bài 7. Trục căn ở mẫu:
+a).
+
+9
+3
+
+b).
+
+3
+;
+5− 2
+
+c).
+
+2 +1
+;
+2 −1
+
+d).
+
+5− 3
+5+ 3
+
+e).
+
+1− a a
+;
+1− a
+
+f).
+
+1
+.
+18 + 8 − 2 2
+
+g).
+
+2
+;
+1+ 2 − 3
+
+h).
+
+1
+3+ 2− 5
+
+Lời giải
+9 9 3
+a). Ta có = = 3 3
+3
+3
+b).
+
+(
+
+)
+
+3 5+ 2
+3
+=
+=
+5−2
+5− 2
+
+5+ 2
+
+( 2 + 1) = 3 + 2 2
+2
+
+c).
+
+2 +1
+=
+2 −1
+
+d).
+
+5− 3
+=
+5+ 3
+
+2 −1
+
+( 5 − 3 ) = 8 − 2 15= 4 − 15
+2
+
+5−3
+
+2
+
+)(
+
+)
+
+(
+
+e).
+
+1− a 1+ a + a
+1− a a
+=
+=
+1+ a + a
+1− a
+1− a
+
+f).
+
+1
+1
+1
+=
+= =
+18 + 8 − 2 2 3 2 + 2 2 − 2 2 3 2
+
+2
+=
+g).
+1+ 2 − 3
+1
+h). =
+3+ 2− 5
+
+(
+
+2
+6
+
+)
+
+2 1+ 2 + 3 1+ 2 + 3
+=
+2
+3+ 2 2 −3
+3+ 2+ 5
+=
+5+ 2 6 −5
+
+3 + 2 + 5 3 2 + 2 3 + 30
+=
+.
+12
+2 6
+
+Bài 8. Rút gọn biểu thức:
+
+=
+a). A
+
+1
+1
++
+;
+7+4 3 7−4 3
+
+b). B =
+
+15
+4
+12
++
+−
+− 6.
+6 +1
+6 − 2 3− 6
+
+Lời giải
+a). A =
+
+1
+1
+7−4 3+7+4 3
++
+=
+= 14
+49 − 48
+7+4 3 7−4 3
+
+(
+
+) (
+
+)
+
+(
+
+)
+
+15 6 − 1 4 6 + 2 12 3 + 6
+15
+4
+12
+6
++
+−
+− =
++
+−
+− 6.
+6 −1
+6−4
+9−6
+6 +1
+6 − 2 3− 6
+
+=
+b). B
+
+( 6 − 1) + 2 ( 6 + 2) − 4 (3 + 6 ) − 6 =−11
+
+=
+3
+
+Bài 9. Chứng minh đẳng thức:
+a).
+
+a
+b
+2b
+−
+−
+= 1 (a ≥ 0,b ≥ 0,a ≠ 0);
+a− b
+a + b a −b
+
+a b + b ab + b 2 − 2 ab 2
+b).
+a −b
+a a+2 b +b
+
+(
+
+)
+
+( a + b=) b ( a > b > 0)
+Lời giải
+
+a). Ta có
+
+a
+b
+2b
+−
+−
+(a ≥ 0,b ≥ 0,a ≠ 0);
+a− b
+a + b a −b
+
+a
+
+=
+=
+
+( a + b ) − b ( a − b ) − 2b
+( a − b ) .( a + b ) a − b
+
+a + ab − ab + b 2b
+−
+a −b
+a −b
+a −b
+= 1
+a −b
+
+=
+
+b). Ta có
+
+a b + b ab + b 2 − 2 ab3
+a −b
+a a+2 b +b
+
+(
+
+(
+
+b a+ b
+
+)
+
+)
+
+( a + b ) ( a > b > 0)
+
+(
+
+b a + b − 2 ab
+
+( a + b ) . ( a − b ) a + 2a b + b
+b (a + b ) b ( a − b )
+=
+.
+−
+a
+b
+(
+) (a + b )
+b (a + b ) b (a + b )
+=
+b
+.
+−
+−
+a
+b
+a
+b
+)
+(
+) (
+2
+
+)
+
+( a + b)
+
+2
+
+2
+
+Bài 10. Giải phương trình:
+a).
+
+1
+3
+x −1
+x −1 −
+9 x − 9 + 24
+=−17;
+2
+2
+64
+
+b). 3 x − 7 x + 4 =
+0;
+c). −5 x + 7 x + 12 =
+0;
+Lời giải
+a). Điều kiện: x ≥ 1
+
+x −1
+1
+3
+=−17 ⇔ x =290.
+x −1 −
+9 x − 9 + 24
+2
+2
+64
+x −1
+1
+3
+=−17
+x −1 −
+9( x − 1) + 24
+2
+2
+82
+1
+9
+24
+⇔
+x −1 −
+x −1 +
+x − 1 =−17 ⇔ − x − 1 =−17 ⇔ x − 1 =17
+2
+2
+8
+⇔ x −=
+x 290.
+1 289 ⇔ =
+⇔
+
+Đối chiếu với điều kiện ta được: x = 290.
+b). (Điều kiện x ≥ 0
+
+3x − 7 x + 4 =
+0
+0
+⇔ 3x − 3 x − 4 x + 4 =
+⇔3 x
+⇔
+
+(
+
+( x − 1) − 4 ( x − 1) =0
+
+4
+
+16
+
+3 x − 4 =
+x=
+0
+x=
+
+
+3
+x − 1 3 x − 4 =0 ⇔ 
+⇔
+⇔
+9
+
+
+ x − 1 =0
+ x = 1
+x = 1
+
+)(
+
+)
+
+Đối chiếu với điều kiện ta được:
+=
+x
+
+16
+=
+; x 1.
+9
+
+c). Điều kiện x ≥ 0
+−5 x + 7 x + 12 =
+0
+⇔ −5 x − 5 x + 12 x + 12 =0
+⇔ −5 x .
+
+( x + 1) + 12 ( x + 1) = 0 ⇔ ( x + 1)( −5 x + 12) = 0
+
+ x = −1 (vn)
+ x +1 =
+0
+144
+⇔
+⇔
+⇔x= .
+12
+
+25
+x=
+0
+ −5 x + 12 =
+
+5
+
+Đối chiếu điều kiện ta được: x =
+
+144
+.
+25
+
+Bài 11. Xét biểu thức:
+a2 + a
+2a + a
+A=
+−
++1
+a − a +1
+a
+a). Rút gọn A ;
+b). Biết a ≥ 1 , hãy so sánh A và A ;
+c). Tìm a để A = 2 ;
+d). Tìm giá trị nhỏ nhất của A .
+Lời giải
+a). (ĐK a ≥ 0 )
+a2 + a
+2a + a
+−
++1
+a − a +1
+a
+
+A=
+
+=
+
+a
+
+a ( a + 1)( a − a + 1)
+( a + 1) − a (2=
+a + 1)
++1
+− (2 a + 1) + 1
+3
+
+a − a +1
+
+a
+
+a − a +1
+
+= a + a − 2 a −1 +1 = a − a
+
+Với a ≥ 1 ⇔ a ≥ 1 ⇔ a − 1 ≥ 0. và a ≥ 1 ⇒ a ≥ 0
+Suy ra A = a − a = a
+Khi đó A ≥ 0 ⇒ A =
+A
+
+( a − 1) ≥ 0
+
+Vậy A = A .
+c). Tìm a để A = 2
+a− a = 2⇔ a− a −2= 0
+⇔ a+ a −2 a −2 =
+0
+⇔ a
+
+( a + 1) − 2 ( a + 1) = 0 ⇔ ( a + 1)( a − 2) = 0
+
+ a + 1 =0
+ a =−1(VN )
+⇔
+⇔
+⇔a=
+4
+a −2 0 =
+ =
+ a 2
+
+Đối chiếu điều kiện ta được a = 4 thì A=2 .
+
+d). A = a − a = a − 2 a
+
+2
+
+1 1 1 
+1 1
++ − = a −  −
+2 4 4 
+2 4
+
+2
+
+1
+
+Vì  a −  ≥ 0 với mọi a.
+2
+
+2
+
+1 1
+1
+
+Nên  a −  − ≥ −
+2 4
+4
+
+
+với mọi a.
+
+Vậy giá trị nhỏ nhất của A bằng −
+
+1
+khi và chỉ khi
+4
+
+a−
+
+1
+1
+=0 ⇔ a =
+2
+4
+
+
+ 3
+  3
+Bài 12. Xét biểu thức:=
++ 1− a  : 
++ 1
+B 
+ a +1
+  1 − a2
+
+
+a). Rút gọn B ;
+b). Tìm giá trị của B nếu a =
+c). Với giá trị nào của a thì
+
+3
+2+ 3
+
+;
+
+B > B.
+Lời giải
+
+a). Điều kiện −1 < a < 1
+
+
+ 3
+  3
+=
+B 
++ 1− a  : 
++ 1
+ a +1
+  1 − a2
+
+ 3 + 1 − a . a + 1   3 + 1 − a 2  3 + 1 − a 2 a + 1. 1 − a
+.
+= 
+=
+=
+
+ : 
+2
+
+a +1
+a +1
+3 + 1 − a2
+
+  1− a 
+b). Với a =
+
+3
+2+ 3
+
+; Khi đó:
+
+1− a
+
+B=
+
+1− a =
+
+1−
+
+3
+2+ 3
+
+c). Với −1 < a < 1 , ta có:
+
+=
+
+2+ 3 − 3
+=
+2+ 3
+
+B (1 −
+
+B >B⇔
+
+(
+
+2. 2 − 3
+
+)
+
+( 3 + 1) =
+2
+
+( 2 + 3 )( 2 − 3 )
+
+=
+
+4−3
+
+3 +1
+
+B) > 0
+
+  B > 0
+
+ 1 − B > 0
+ B > 0
+⇔
+⇔
+⇔ 0 < B <1
+<
+B
+1
+
+
+ B < 0
+
+(VN )
+
+ 1 − B < 0
+Khi đó 0 < 1 − a < 1 ⇔ 0 < 1 − a < 1 ⇔ 0 < a < 1.
+Kết hớp với điều kiện −1 < a < 1 ta được 0 < a < 1
+
+B > B.
+
+Vậy 0 < a < 1 thì
+
+Bài 13. Rút gọn biểu thức:
+a). 3 2a − 18a 3 + 4
+b). 2 y x − y + x
+c).
+
+a 1
+−
+128a (với a ≥ 0 )
+2 4
+
+1
+a
+−x
+− x 3 − x 2 y ( với x > y > 0 )
+x− y
+ax − ay
+
+a+ b
+a− b
+(với a ≥ 0, b ≥ 0, a ≠ b )
++
+a− b
+a+ b
+Lời giải
+
+a 1
+−
+128a = 3 2a − 3a 2a + 2 2a − 2 2a
+2 4
+
+3
+a). Với a ≥ 0 , ta có: 3 2a − 18a + 4
+
+=
+3 2a − 3a 2a =
+3 (1 − a ) 2a .
+b). Với x > y > 0 , ta có: 2 y x − y + x
+
+1
+a
+−x
+− x3 − x 2 y
+x− y
+ax − ay
+
+= 2y x − y + x
+
+= 2y x − y − x
+
+1
+a
+−x
+− x2 ( x − y )
+x− y
+a ( x − y)
+x− y +x
+
+1
+1
+−x
+x− y
+x− y
+
+= x − y ( 2 y − x ) (do x > 0 ).
+
+(
+
+) (
+)(
+2
+
+a+ b + a− b
+a+ b
+a− b
+c). Với a ≥ 0, b ≥ 0, a ≠ b , ta có:
++
+=
+a− b
+a+ b
+a− b
+a+ b
+
+(
+
+)
+
+)
+
+2
+
+=
+
+a + 2 ab + b + a − 2 ab + b
+
+( a − b )( a + b )
+
+=
+
+2a + 2b
+.
+a −b
+
+Bài 14. Rút gọn biểu thức:
+2 −1
+2
+2 +1
+−
++
+2 +2 2+ 2
+2
+
+a).
+
+2+ 5
+
+b).
+
+2 + 3+ 5
+
++
+
+2− 5
+2 − 3− 5
+
+Lời giải
+
+(
+
+)
+
+2
+
+a). Ta có:
+
+2 −1
+2
+2 +1
+−
++
+=
+2 +2 2+ 2
+2
+
+2 +1
+2 −1
+2
+−
++
+2(1 + 2)
+2( 2 + 1)
+2( 2 + 1)
+
+=
+
+2 −1− 2 + 2 + 2 2 +1
+=
+2( 2 + 1)
+
+3 2
+=
+2( 2 + 1)
+
+2+ 5
+
+b). Ta có:
+
+2 + 3+ 5
+
+=
+
+2 2 + 10
+
+( 5 + 1)
+
+2+
+
+=
+
+2− 5
+
++
+
+2
+
+2 − 3− 5
++
+
+=
+
+(
+
+2 2 + 10
+2+ 6+2 5
+
++
+
+2 2 − 10
+2− 6−2 5
+
+2 2 − 10
+2−
+
+( 5 − 1)
+
+2
+
+2 2 + 10 2 2 − 10 2 2 + 10 2 2 − 10
++
+=
++
+2 + 5 +1 2 − 5 +1
+3+ 5
+3− 5
+=
+
+( 2 2 + 10 )(3 − 5 ) + ( 2 2 − 10 )(3 + 5 )
+(3 + 5 )(3 − 5 )
+
+=
+
+6 2 − 2 10 + 3 10 − 50 + 6 2 + 2 10 − 3 10 − 50
+9−5
+
+=
+
+12 2 − 2 50 12 2 − 10 2 2 2
+=
+= =
+4
+4
+4
+
+2
+.
+2
+
+Bài 15. Chưng minh dăng thưc :
+
+a2 + x2 + a2 − x2
+
+a)
+
+a2 + x2 − a2 − x2
+2
+
+−
+
+a4
+a2
+−
+1
+=
+; với | a |>| x |
+x4
+x2
+2
+
+ 5+ 2 6   5−2 6 
+b) 
+4 6
+ 3 + 2  −  3 − 2  =
+
+ 
+
+x x−y y
+
++ xy  : ( x + y ) 2 = 1 ( x > 0, y > 0, x ≥ y )
+
+
+x− y
+
+
+
+c) 
+
+Lời giải
+
+)
+
+3 2 −1
+3
+=
+= 3
+2 −1
+2 +1
+
+( 2 − 1)
+
+( a +x + a −x ) − a =
+−x
+2a + 2 a − x
+a −x
+a
+−
+=
+a) VT
+2
+
+2
+
+2
+
+(
+
+a2 + x2 − a2 − x2
+
+2
+
+2
+
+4
+
+)
+
+4
+
+2
+
+x4
+
+4
+
+4
+
+4
+
+2x2
+
+4
+
+x2
+
+2
+
+x2
+
+b) Chú ý: 5 + 2 6 =( 3 + 2) 2 .
+c) x x − y y = ( x )3 − ( y ) 2 = ( x −
+
+y )( x + xy + y ) .
+
+x +1
+2 x
+2+5 x
++
++
+4− x
+x −2
+x +2
+
+Bài 16. Cho biểu thức: A =
+
+a). Rút gọn A nếu x ≥ 0 và x ≠ 4 ;
+b). Tìm x để A = 2 .
+Lời giải
+a). Với x ≥ 0 và x ≠ 4 , ta có: A =
+
+x +1
+2 x
+2+5 x
++
++
+4− x
+x −2
+x +2
+
+=
+
+( x + 1)( x + 2) + 2 x ( x − 2) − 2 + 5 x
+( x − 2)( x + 2) ( x − 2)( x + 2) ( x − 2)( x + 2)
+
+=
+
+x + 3 x + 2 + 2x − 4 x − 2 − 5 x
+=
+x −2
+x +2
+
+(
+
+)
+
+)(
+
+b). Khi A = 2 ta được
+
+3 x
+x +2
+
+(
+
+)(
+
+=2⇔3 x =2
+
+(
+
+)
+
+3 x x −2
+=
+x −2
+x +2
+
+3x − 6 x
+=
+x −2
+x +2
+
+) (
+
+)(
+
+3 x
+x +2
+
+)
+
+( x + 2) ⇔ x = 4 ⇔ x = 16 (tm x ≥ 0, x ≠ 4)
+
+Vậy x = 16 .
+
+Bài 17. Cho biểu thức:
+=
+B
+
+
+
+a
+b
+với a > b > 0.
+− 1 +
+:
+2
+2
+2
+2
+a −b 
+a − b  a − a 2 − b2
+a
+
+a). Rút gọn B;
+b). Tính B nếu
+
+a 3
+= ;
+b 2
+
+c). Tìm điều kiện của a, b để B < 1
+Lời giải
+a) Với điều kiện: a > b > 0 , ta =
+có: B
+
+
+
+a
+b
+− 1 +
+:
+2
+2
+a −b 
+a − b  a − a 2 − b2
+a
+
+2
+
+2
+
+=
+
+a 2 − b2
+=
+
+a
+2
+
+a −b
+
+( a − b + a) . (a − a − b )
+−
+2
+
+a
+
+2
+
+2
+
+2
+
+a 2 − b2
+
+−
+
+b
+2
+
+a −b
+
+2
+
+=
+
+b
+
+a −b
+a −b
+=
+a+b
+a+b
+
+2
+
+a 3
+3
+B
+b) Ta có: = ⇔ a =b thay vào ta được =
+2
+b 2
+
+3
+b−b
+2 =
+3
+b+b
+2
+
+1
+b
+2=
+5
+b
+2
+
+1
+=
+5
+
+5
+.
+5
+
+a −b
+<1⇔
+a+b
+
+a −b
+<1⇔ a − b < a + b
+a+b
+⇔ a − b < a + b ⇔ −b < b ⇔ 2b > 0 ⇔ b > 0.
+
+c) Khi B < 1 ta có:
+
+Vậy với a > b > 0 thì B < 1.
+
+ x −2
+x + 2  (1 − x )
+=
+C 
+−
+Bài 18. Cho biểu thức:
+ .
+2
+ x −1 x + 2 x +1
+
+2
+
+a). Rút gọn C nếu x ≥ 0, x ≠ 1;
+b). Tìm x để C dương;
+c). Tìm giá trị lớn nhất của C.
+Lời giải
+a) ĐK: x ≥ 0, x ≠ 1 , ta có:
+
+(
+
+) (
+)(
+
+)(
+(
+
+
+2
+x +1 − x + 2
+ x −2
+x + 2  (1 − x )  x − 2
+−
+=
+C=
+
+ .
+2
+
+2
+x + 2 x +1
+
+ x −1
+x −1
+x +1
+
+x − x − 2 − x − x + 2 (1 − x )
+=
+.
+2
+2
+x −1
+x +1
+2
+
+) (
+
+x (1 − x )
+=
+x +1
+
+(
+
+)
+
+− x (1 − x )
+=
+( x − 1) x + 1
+2
+
+=
+
+( x − 1)( x + 1)
+
+)
+
+)(
+
+(
+
+−2 x
+
+(
+
+(
+
+x 1− x
+
+)
+
+2
+
+)
+
+(1 − x )
+.
+
+)( x − 1) . (1 − x )
+
+
+
+
+2
+
+2
+
+2
+
+2
+
+)
+
+b) Ta có: C > 0 ⇔ x 1 − x > 0 ⇔ 1 − x > 0 ⇔ 1 > x ⇒ 0 ≤ x < 1.
+c) Với x ≥ 0, x ≠ 1 , ta có
+2
+
+1 1 1
+1 1
+
+
+C=
+x 1 − x =−
+x x=
+− x− x =
+−  x − 2 x. + −  =
+− x −  +
+2 4 4
+2 4
+
+
+
+(
+
+)
+
+(
+
+)
+
+2
+
+2
+
+Vì −  x −
+
+1 1 1
+1
+
+ ≤ 0 với mọi x ≥ 0 nên −  x −  + ≤ với mọi x ≥ 0 .
+2 4 4
+2
+
+
+Do đó: C ≤
+
+1
+với mọi x ≥ 0
+4
+
+
+
+
+GTLN của C =
+
+1
+khi
+4
+
+Vậy GTLN của C =
+
+x−
+
+1
+1
+1
+=0 ⇔ x = ⇔ x = .
+2
+2
+4
+
+1
+1
+khi x = .
+4
+4
+
+Bài 19. Chứng minh biểu thức sau không phụ thuộc vào biến:
+
+
+
+x− y  2 x
+ 2 xy +
++
+.
+ x− y 2 x + y  x + y
+
+
+
+(
+
+)
+
+y
+y− x
+
+Lời giải
+
+
+2 xy
+x− y  2 x
++
++
+.
+Ta có: 
+ x− y 2 x + y  x + y
+
+
+
+(
+
+)
+
+y
+y− x
+
+( x − y) . 2 x + y
+y− x
+2 ( x + y )( x − y ) x + y
+( x + y)
+y
+2 x
+.
++
+y− x
+2 ( x + y )( x − y ) x + y
+2
+
+4 xy +
+
+2
+
+=
+
+=
+
+x
+x− y
+
++
+
+y
+y− x
+
+=
+
+x
+x− y
+
+−
+
+y
+x− y
+
+x− y
+= 1 (đpcm).
+x− y
+
+Vậy biểu thức đã cho không phụ thuộc vào biến.
+
+với x > 0, y > 0, x ≠ y.
+
+BÀI 10. CĂN BẬC BA VÀ CĂN THỨC BẬC BA.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. CĂN BẬC BA
+Căn bậc ba của một số thực
+Tổng quát, ta định nghĩa:
+Căn bậc ba của số thực a là số thực x thoả mãn x 3 = a .
+Chú ý. Mỗi số a đều có duy nhất một căn bậc ba. Căn bậc ba của số a được kí hiệu là 3 a . Trong
+kí hiệu 3 a , số 3 được gọi là chỉ số của căn. Phép tìm căn bậc ba của một số gọi là phép khai căn
+bậc ba.
+Ví dụ 1
+a) Chứng tỏ rằng 3 64 = 4 .
+
+b) Tính 3 0 và 3 −27 .
+Lời giải
+
+a) Vì 43 = 64 nên 3 64 = 4 .
+−27 nèn 3 −27 =
+b) Vì 03 = 0 nên 3 0 = 0 . Vì (−3)3 =
+−3 .
+
+a )3
+Nhận xét. Từ định nghĩa căn bậc ba, ta có ( 3 =
+Ví dụ 1 như sau: 3 =
+64
+
+3
+
+=
+a 3 a với mọi số thực a . Do đó có thể giải
+
+3
+
+43 4 .
+=
+
+Tính căn bậc ba của một số bằng máy tính cầm tay
+Ta có thể sử dụng loại MTCT thích hợp để tính căn bậc ba của một số. Chẳng hạn, để tính 3 12 và
+3
+
+3375 ta làm như sau:
+
+Chú ý. Màn hình MTCT chỉ hiển thị được một số hữu hạn chữ số nên các kết quả là số thập phân
+vô hạn (tuần hoàn hay không tuẩn hoàn) đểu được làm tròn, chẳng hạn: 3 12 ≈ 2, 289428485 .
+Ví dụ 2. Sử dụng MTCT, tính 3 3, 25 rồi làm tròn kết quả đến chữ số thập phân thứ hai.
+Lời giải
+Bấm các phím
+, màn hình hiện kết quả 1,481248034 .Làm tròn kết
+3
+quả đến chữ số thập phân thứ hai ta được 3, 25 ≈ 1, 48 .
+2. CĂN THỨC BẬC BA
+Nhận biết căn thức bậc ba
+
+Tương tự như căn thức bậc hai, ta có định nghĩa sau:
+Căn thức bậc ba là biểu thức có dạng 3 A , trong đó A là một biểu thức đại số.
+Chú ý
+3
+
+A )3
+- Tương tự căn bậc ba của một số, ta cũng có ( 3 =
+
+=
+A3 A ( A là một biểu thức).
+
+- Để tính giá trị của 3 A tại những giá trị cho trước của biến, ta thay các giá trị cho trước của biến
+vào cǎn thức rồi tính giá trị của biểu thức số nhận được.
+Ví dụ 3. Tính giá trị của căn thức 3 2 x + 5 tại:
+b) x = −6,5 .
+
+a) x = 60 ;
+Lời giải
+a) Với x = 60 ta có 3 2 ⋅ 60 + 5=
+
+3
+
+125=
+
+3
+
+53= 5 .
+
+b) Với x = −6,5 ta có 3 2 ⋅ (−6,5) + 5 = 3 −8 = 3 (−2)3 =−2 .
+Ví dụ 4. Rút gọn biểu thức − x + 5 + 3 x3 + 3 x 2 + 3 x + 1 .
+Lời giải
+Ta có x 3 + 3 x 2 + 3 x + 1 = ( x + 1)3 ← hằng đẳng thức lập phương của một tổng
+Do đó − x + 5 + 3 x 3 + 3 x 2 + 3 x + 1 =− x + 5 + 3 ( x + 1)3 =− x + 5 + ( x + 1) =6 .
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.23. Tính:
+a) 3 216 ;
+
+b) 3 −512 ;
+
+c) 3 −0, 001 ;
+
+d) 3 1,331 .
+
+Lời giải
+a) 3 216
+=
+
+3
+( 8)3 =
+−8 .
+b) 3 −512 =−
+
+=
+63 6 .
+
+3
+
+3
+(−0,1)3 =
+−0,1 .
+c) 3 −0, 001 =
+
+1,331
+d) 3=
+
+=
+(1,1)3 1,1 .
+
+3
+
+3.24. Sử dụng MTCT, tính các căn bậc ba sau đây (làm tròn kết quả đến chữ số thập phân thứ hai):
+a) 3 2,1 ;
+
+b) 3 −18 ;
+
+c) 3 −28 ;
+Lời giải
+
+a) Bấm các phím
+
+màn hình hiện kết quả
+
+Làm tròn kết quả đến chữ số thập phân thứ hai, ta được 3 2,1 ≈ 1, 28 .
+
+d) 3 0,35 .
+
+b) Bấm các phím
+
+, màn hình hiện kết quả
+
+Làm tròn kết quả đến chữ số thập phân thứ hai, ta được 3 −18 ≈ −2, 62 .
+c) Bấm các phím
+
+màn hình hiện kết quả
+
+Làm tròn kết quả đến chữ số thập phân thứ hai, ta được 3 −28 ≈ −3, 04 .
+d) Bấm các phím
+
+, màn hình hiện kết quả
+
+Làm tròn kết quả đến chữ số thập phân thứ hai, ta được 3 0,35 ≈ 0, 70 .
+3.25. Một người thợ muốn làm một thùng tôn hình lập phương có thể tích bằng 730dm3 . Em hãy
+ước lượng chiều dài cạnh thùng khoảng bao nhiêu dm?
+Lời giải
+Gọi chiều dài cạnh thùng tôn hình lập phương là x (dm).
+
+(
+
+)
+
+Thể tích của thùng tôn hình lập phương đó là x 3 dm3 .
+Khi đó, ta có: x 3 = 730 , suy ra x = 3 730 .
+Sử dụng MTCT, bấm các phím
+9,004113346 .
+Do =
+đó x
+
+3
+
+, màn hình hiện kết quả
+
+730 ≈ 9(dm) .
+
+Vậy ước lượng chiều dài cạnh thùng khoảng 9dm .
+3.26. Rút gọn các biểu thức sau:
+a) 3 (1 − 2)3
+
+b) 3 (2 2 + 1)3 ;
+
+c) ( 3 2 + 1)3 .
+
+Lời giải
+
+1− 2
+a) 3 (1 − 2)3 =
+
+b) 3 (2 2 + 1)3 = 2 2 + 1 .
+
+c) ( 3 2 + 1)3 =
+
+2 +1.
+
+3.27. Rút gọn rồi tính giá trị của biểu thức 3 27 x 3 − 27 x 2 + 9 x − 1 tại x = 7 .
+Lời giải
+Ta có: 3 27 x 3 − 27 x 2 + 9 x − 1 =
+
+3
+
+(3 x − 1)3 = 3 x − 1 .
+
+Thay x = 7 vào biểu thức đã thu gọn ở trên, ta được: 3.7 − 1 =20 .
+Vậy 3 27 x 3 − 27 x 2 + 9 x − 1 = 3 x − 1 và có giá trị bằng 20 tại x = 7 .
+C. CÁC DẠNG TOÁN
+Dạng 1. Thực hiện phép tính và rút gọn biểu thức
+1. Phương pháp giải
+
+( )
+
+3
+
+3
+Áp dụng
+=
+a
+a=
+; 3 a 3 a.
+
+2. Ví dụ minh họa.
+Ví dụ 1: Hãy tìm 3 512; 3 −729; 3 0, 064; 3 −0, 216; 3 −0, 008.
+Lời giải
+Ta có: 3 512
+=
+3
+
+3
+
+=
+83 8.
+
+3
+−729 =−
+93 =
+−9.
+
+=
+(0, 4)3 0, 4.
+
+=
+0, 064
+
+3
+
+3
+
+3
+
+3
+−0, 216 =
+(−0, 6)3 =
+−0, 6.
+
+3
+
+3
+−0, 008 =
+−0, 2.
+(−0, 2)3 =
+
+Ví dụ 2: Tính:
+a). 3 27 − 3 −8 − 3 125;
+
+b).
+
+3
+
+135 3
+− 54. 3 4.
+5
+
+3
+
+Lời giải
+a). 3 27 − 3 −8 − 3 125 = 3 33 − 3 23 − 3 53 = 3 + 2 − 5 = 0
+b).
+
+3
+
+135 3
+135 3
+− 54. 3 4. =3
+− 54.4. =3 27 − 3 216 =3 − 6 =−3
+5
+5
+
+3
+
+Ví dụ 3: Thực hiện phép tính
+a). A =
+
+( 9 + 6 + 4 )( 3 − 2 )
+3
+
+3
+
+3
+
+b). B = 3 2 + 5 + 3 2 − 5.
+
+3
+
+3
+
+Lời giải
+
+a). Ta có: A =
+
+( 9 + 6 + 4 )( 3 − 2 ) = (( 3 ) + 3 2 + ( 2 ) ) ( 3 − 2 )
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+( ) ( ) = 3 − 2 =1
+3
+
+= 33 − 32
+
+3
+
+b). Áp dụng hằng đẳng thức ( a + b ) = a 3 + b3 + 3ab(a + b)
+3
+
+(
+
+Ta có: B 3 = 3 2 + 5 + 3 2 − 5
+
+(
+
+=4 + 3 3 2 + 5
+
+) =2 + 5 + 2 − 5 + 3 2 + 5 2 − 5 ( 2 + 5 + 2 − 5 )
+3
+
+3
+
+3
+
+)( 2 − 5 )B =4 + 3 4 − 5B =4 − 3B
+3
+
+⇔ B 3 + 3B − 4 =0 ⇔ B 3 − 1 + 3B − 3 =0 ⇔ ( B − 1)( B 2 + B + 4) =0
+2
+
+
+1
+1 15 
+1  15
+⇔ B = 1 B 2 + B + 4 = B 2 + 2 B + + =  B +  + > 0 
+
+
+2
+4 4 
+2
+4
+
+
+
+Vậy B = 3 2 + 5 + 3 2 − 5 = 1.
+Ví dụ 4. Rút gọn biểu thức
+a) 3 x3 + 1 + 3 x ( x + 1) ;
+
+x +1
+
+b)
+
+3
+
+2
+
+x − 3 x +1
+Lời giải
+
+a) Ta có 3 x3 + 1 + 3 x ( x + 1) = 3 ( x + 1)3 = x + 1 .
+b)
+
+x +1
+3
+
+2
+
+1)
+( x + 1) ( x − x + =
+=
+3
+
+x − x +1
+3
+
+3
+
+3
+
+2
+
+2
+
+3
+
+x − x +1
+3
+
+3
+
+x +1 .
+
+Dạng 2. Giải phương trình
+1. Phương pháp giải
+Áp dụng:
+
+3
+
+A = B ⇔ A = B3 .
+
+2. Ví dụ minh họa.
+Ví dụ 1. Giải các phương trình
+
+2.
+a). 3 2 x + 1 =
+
+−2 .
+b). 3 1 − 2 x =
+x.
+c). 3 x − 2 + 2 =
+Lời giải
+a). 3 2 x + 1 = 2 ⇔ 2 x + 1 = 8 ⇔ x =
+
+7
+.
+2
+
+Vậy phương trình có nghiệm x =
+
+7
+.
+2
+
+3
+
+3
+
+9
+b). 3 1 − 2 x =−2 ⇔ 1 − 2 x =−8 ⇔ x = .
+2
+Vậy phương trình có nghiệm x =
+
+9
+.
+2
+
+x = 2
+2
+0
+x
+−
+=
+
+c). 3 x − 2 + 2 = x ⇔ 3 x − 2 = x − 2 ⇔ x − 2 = ( x − 2) ⇔ 
+3.
+⇔  x =
+2
+1
+( x − 2) =
+ x = 1
+3
+
+x 1;=
+x 2;=
+x 3.
+Vậy phương trình có 3 nghiệm =
+Ví dụ 2. Giải phương trình
+a) 3 x + 7 − 3 =;
+1
+b) 3 1 − x 2 + 2 =
+0.
+Lời giải
+a) Ta có 3 x + 7 − 3 = 1 ⇔ 3 x + 7 = 4 ⇔ x + 7 = 64 ⇔ x = 57 .
+b) 3 1 − x 2 + 2 =0 ⇔ 3 1 − x 2 =−2 ⇔ 1 − x 2 =−8 ⇔ x 2 =9 ⇔ x =±3 .
+Ví dụ 3. Giải phương trình
+a) 3 1000 x − 3 64 x − 3 27 x =
+15 ;
+b) 3 x − 3 + 3 =.
+x
+Lời giải
+
+a) Ta có 3 1000 x − 3 64 x − 3 27 x =
+15
+125.
+⇔ 10 3 x − 4 3 x − 3 3 x =
+15 ⇔ 3 3 x =
+15 ⇔ 3 x =
+5⇔x=
+
+b) 3 x − 3 + 3 =
+x
+
+0
+0 ⇔ ( x − 3) ( x − 3) 2 − 1 =
+⇔ 3 x − 3 = x − 3 ⇔ x − 3 = ( x − 3)3 ⇔ ( x − 3)3 − ( x − 3) =
+
+⇔ ( x − 3)( x − 4)( x − 2) =
+0 ⇔ x ∈ {2;3; 4}.
+D. LUYỆN TẬP
+Bài 1. Tính các căn bậc ba sau
+1. 3 64
+
+5.
+
+3
+
+500 3
++ 12 ⋅ 3 18
+4
+
+3
+
+2. 3 −512 .
+3. 3 0, 064
+
+6.
+
+3
+
+12 ⋅ 3 6 3 32
+− 3
+3
+576
+4
+
+4. 3 −0, 216
+Lời giải
+1. 3 64 = 4 .
+2. 3 −512 =
+−8
+3. 3 =
+0, 064
+
+64
+=
+1000
+
+3
+64
+4
+.
+=
+3
+1000 10
+
+3
+
+3
+4. 3 −0, 216 =−
+−6 .
+( 6) =
+3
+
+5.
+6.
+
+3
+
+500 3
+500 3
++ 12 ⋅ 3 18 = 3
++ 12 ⋅18 = 3 125 + 3 216 = 5 + 6 = 11
+4
+4
+
+3
+3
+
+12 ⋅ 3 6 3 32 3 12 ⋅ 6 3 32 3 1 3
+1
+3
+− 3 = −
+=− 8 =
+−2=
+− .
+3
+576
+4
+8
+2
+2
+576
+4
+
+Bài 2. Thực hiện phép tính
+a). 3
+
+1 3
+⋅ −18 ⋅ 3 3 .
+2
+
+b). 3
+
+( 2 + 1)(3 + 2 2 ); ( 4 − 2 3 )( 3 − 1) .
+3
+
+1
+1
+
+c).  3 2 − 3 16  ⋅ 3 4 .
+4
+2
+
+1
+1
+1
+d).  3 9 − 2 3 3 + 3 3  : 2 3 .
+3
+3
+2
+e).
+
+( 9 − 6 + 4 )( 3 + 2 ) .
+3
+
+3
+
+3
+
+3
+
+3
+
+Lời giải
+a). 3
+
+1 3
+1
+⋅ −18 ⋅ 3 3 = 3 ⋅ (−18) ⋅ 3 = 3 −27 =−3 .
+2
+2
+
+b). 3
+
+( 2 + 1)(3 + 2 2 )= ( 2 + 1)( 2 + 1) = ( 2 + 1) =
+
+2 +1.
+
+( 4 − 2 3 )( 3 − 1=) ( 3 − 1) ( 3 − 1=) ( 3 − 1)=
+
+3 −1.
+
+3
+
+2
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+3
+
+1
+1
+1
+
+1
+
+c).  3 2 − 3 16  ⋅ 3 4=  3 2 − 3 2  ⋅ 3 4= 0 .
+4
+2
+2
+
+2
+
+1
+1
+1 1
+9 3
+ 2
+3
+ 2
+− 9.
+d).  3 9 − 2 3 3 + 3 3  : 2 3 =  3 9 − 2 3 3 + 3 9  : 3 9=  3 9 − 2 3 3  : 3 9=
+3
+3 2
+4
+ 3
+2
+ 3
+2
+
+2 ) ( 3 + 2 ) ( 3 ) +=
+( 9 − 6 + 4 )( 3 + 2 )= ( 3 − 3 ⋅ 2 + =
+( 2) = 3+ 2 5.
+
+e).
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+Bài 3. Thực hiện phép tính 3 −64 − 3 125 + 3 216
+a).
+
+( 4 + 1) − ( 4 − 1)
+3
+
+3
+
+3
+
+3
+
+
+1
+b). 12 3 2 + 3 16 − 2 3 2  5 3 4 − 3 3  .
+2
+
+
+(
+
+)
+
+Lời giải
+a) 3 −64 − 3 125 + 3 216 =−4 − 5 + 6 =−3
+
+( 4 + 1) − ( 4 − 1)
+= ( 4 + 1 − 4 + 1) ( 4 + 1) + ( 4 + 1)( 4 − 1) + ( 4 − 1) 
+
+
+= 2. ( 16 + 2 4 + 1 + 16 − 1 + 16 − 2 4 +=
+1) 2 ( 3 16 +=
+1) 2 ( 6 2 + 1)
+
+b) Ta có
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+
+1
+c) Ta có 12 3 2 + 3 16 − 2 3 2  5 3 4 − 3 3 
+2
+
+
+(
+
+)
+
+
+
+1
+1
+=12 3 2 + 2 3 2 − 2 3 2  5 3 4 − 3 3  =
+12 3 2  5 3 4 − 3 3  =
+120 − 36 =
+84
+2
+2
+
+
+
+
+
+(
+
+)
+
+Bài 4. Cho x 
+
+2
+3
+
+3
+
+2 2 2 4
+
+và y 
+
+6
+3
+
+3
+
+2 2 2  4
+
+. Tính xy 3  x 3 y .
+
+Lời giải
+Ta có x 
+
+
+
+2
+
+
+
+2
+
+3
+
+3
+
+
+
+ 4 2
+
+2 2 2 4
+
+2 3 43 2
+42
+
+Tương tự y 
+
+3
+
+16  2  4
+
+3
+
+
+
+2
+2
+
+2
+
+ 4   2. 4   2 
+3
+
+3
+
+3
+
+3
+
+3
+
+6
+3
+
+3
+
+ 3 43 2
+
+3
+
+2 2 2  4
+
+
+
+
+
+3
+
+43 3 3
+ 4  3 3.
+43
+
+Do đó: xy 3  x 3 y  xy  y 2  x 2   xy  y  x  y  x   8 2 3 2  3 4
+Bài 5. Trục căn ở mẫu số biểu diễn
+
+1
+3
+
+16  3 12  3 9
+Lời giải
+
+Ta có:
+
+1
+3
+
+16  3 12  3 9
+
+
+
+1
+2
+
+
+2
+
+ 4   3. 4   3
+3
+
+3
+
+3
+
+Bài 6. Rút gọn các biểu thức sau:
+2. B = 3 182 + 33125 + 3 182 − 33125
+
+1. A = 3 20 + 14 2 + 3 20 − 14 2 .
+.
+Lời giải
+
+1. A=
+
+3
+
+23 + 3 ⋅ 2 2
+
+(
+
+= 3 2+ 2
+
+( 2 ) + 3⋅ 2 ⋅( 2 ) + ( 2 ) + 2 − 3⋅ 2 ( 2 ) + 3⋅ 2 ⋅( 2 ) − ( 2 )
+2
+
+3
+
+3
+
+3
+
+2
+
+) + (2 − 2 ) = 2 + 2 + 2 − 2 = 4
+3
+
+3
+
+3
+
+2. B 3 = 182 + 33125 + 182 − 33125 + 3 3 1822 − 33125 B = 364 − 3B.
+
+(
+
+)
+
+Nên B 3 + 3B − 364 =0 ⇔ ( B − 7 ) B 2 + 7 B + 52 =0 ⇔ B =7
+2
+
+7  159
+
+(do B 2 + 7 B + 52 =  B +  +
+> 0)
+2
+4
+
+
+Tài liệu phát hành và bảo hành nội dung trên website Tailieuchuan.vn
+Bài 7. Rút gon các biểu thức sau:
+ 1
+  a
+1
+3
+
+1. A =  − 6 + 3 a 2  +  2 6 a 5 − 3 a 2   ⋅ a 3 a
+a
+a
+ 
+ a
+ a
+2. B =
+
+a 2 + 3 a 4b 2 + b 2 + 3 a 2b 4
+Lời giải
+
+ 1
+  a
+1
+3
+
+1. Ta có A =  − 6 + 3 a 2  +  2 6 a 5 − 3 a 2   a 3 a
+a
+a
+ 
+ a
+ a
+ 1
+  1
+1
+1 
+=  − 6 + 3 a 2  +  6 − 3 3   a 3 a
+a
+a  
+ a
+  a
+
+1
+1
+= + 3 a 2 − 3 3  a 3 a
+a
+a
+= a 2 − 3a + 3 a
+
+=
+B
+2. Ta có
+
+(
+
+(
+
+3
+
+a2
+
+3
+
+)
+
+3
+
+a 2 + 3 b2
+
+).
+
+3 2
+3 2
+=+
+a
+b
+
+=
+
+3
+
+3
+
+a 2 + 3 b2 + 3 b2
+
+a 2 + 3 b2
+
+3
+
+a 2 + 3 b2
+
+2
+
+3
+
+Bài 8. Giải phương trình:
+a). 3 x3 + 9 x 2 =+
+x 3;
+b). 3 5 + x − x =
+5.
+Lời giải
+a) 3 x3 + 9 x 2 =+
+x 3
+⇔ 3 x 3 + 9 x 2 = 3 ( x + 3)
+
+3
+
+⇔ x 3 + 9 x 2 = ( x + 3) = x 3 + 9 x 2 + 27 x + 27
+3
+
+0⇔ x=
+⇔ 27 x + 27 =
+−1.
+
+b) 3 5 + x − x =
+5
+⇔ 3 5 + x = x + 5 ⇔ x + 5 = ( x + 5)
+
+3
+
+ x + 5 =0
+ x =−5
+0
+x + 5 =
+
+⇔ ( x + 5 ) ( x + 5 ) − 1 =0 ⇔ 
+⇔ x + 5 =
+1 ⇔  x =−4.
+2
+
+
+1
+( x + 5 ) =
+ x + 5 =−1  x =−6
+2
+
+Bài 9. Giải các phương trình sau
+
+15
+1. 3 1000 x − 3 64 x − 3 27 x =
+2. 3 x − 3 + 3 =
+x
+Lời giải
+1. 3 1000 x − 3 64 x − 3 27 x =
+15 ⇔ 10 3 x − 4 3 x − 3 3 x =
+15 ⇔ 3 x =
+5⇔ x=
+125 .
+Vậy phương trình có một nghiệm x = 125 .
+2. Ta có 3 x − 3 + 3 = x ⇔ 3 x − 3 = x − 3 ⇔ x − 3 = ( x − 3)
+2
+⇔ ( x − 3) ( x − 3) − 1 =
+0
+
+
+
+⇔ ( x − 3)( x − 2 )( x − 4 ) =
+0
+
+x = 3
+⇔  x =
+2
+ x = 4
+
+Vây tập nghiệm của phương trình là S = {2;3; 4} .
+Bài 10. Giải các phương trình sau
+1. 3 2 x − 1 + 3 x −=
+1
+
+3
+
+3x − 2 .
+
+2. 3 x + 5 + 3 x + 6=
+
+3
+
+2 x + 11
+
+3
+
+Lời giải
+1. Ta có 3 2 x − 1 + 3 x −=
+1
+
+3
+
+3x − 2
+
+)
+
+(
+
+⇔ 2 x − 1 + x − 1 + 3 3 ( 2 x − 1)( x − 1) 3 2 x − 1 + 3 x − 1 = 3 x − 2
+1
+
+x = 2
+
+⇒ 3 3 ( 2 x − 1)( x − 1)( 3 x − 2 ) =0 ⇔  x =1
+
+2
+x =
+3
+
+Thử lại ta thấy các nghiệm đều thỏa mãn phương trình.
+
+1 2
+Vậy tập nghiệm của phương trình là S =  ;1;  .
+2 3
+2. Ta có 3 x + 5 + 3 x + 6=
+
+3
+
+2 x + 11
+
+(
+
+)
+
+⇔ x + 5 + x + 6 + 3 3 ( x + 5 )( x + 6 ) 3 x + 5 + 3 x + 6 = 2 x + 11
+
+
+ x = −5
+
+⇒ 3 3 ( x + 5 )( x + 6 )( 2 x + 11) =
+−6
+0 ⇔ x =
+
+11
+x = − .
+2
+
+Thử lại ta thấy các nghiệm đều thỏa mãn phương trình.
+
+11
+
+
+Vây tập nghiệm của phương trình là S = −5; − ; −6  .
+2
+
+
+
+LUYỆN TẬP CHUNG SAU KHI HỌC BÀI 9&10
+A. CÁC VÍ DỤ
+Ví dụ 1. Rút gọn biểu thức A=
+
+( 3 + 1) 2 − 3( 3 + 1) 2 + 4 .
+Lời giải
+
+Ta có A=
+
+( 3 + 1) 2 − 3 ⋅ ( 3 + 1) 2 + 22 = ( 3 + 1) − 3( 3 + 1) + 2= 0 .
+x
+x
++
+với x > 1 .
+x +1
+x −1
+
+=
+P
+Ví dụ 2. Cho biểu thức
+a) Rút gọn P .
+
+b) Sử dụng kết quả câu a, tính giá trị của P khi x = 101 .
+Lời giải
+a) P
+=
+
+x ( x − 1) + x ( x + 1) x − x + x + x
+2x
+.
+= =
+x −1
+x −1
+( x + 1)( x − 1)
+
+P
+b) Khi x = 101 thì=
+
+2 ⋅101 202
+= = 2, 02 .
+101 − 1 100
+
+Ví dụ 3. Người ta cần làm một thùng hình lập phương bằng bìa cứng không có nắp trên và có
+thể tích 216dm3 để đựng đồ. Tính diện tích bìa cứng cần dùng để làm thùng đựng đó (coi diện
+tích các mép nối là không đáng kể).
+
+Lời giải
+Gọi x(dm, x > 0) là độ dài cạnh của thùng hình lập phương cần làm.
+Ta có: x 3 = 216 , suy=
+ra x
+
+=
+216 6(dm) .
+
+3
+
+Vì thùng đựng không có nắp nên thùng gồm 4 mặt bên và 1 mặt đáy, mỗi mặt là một hình vuông
+cạnh 6dm . Do đó diện tích bìa cứng cần dùng là S =5 ⋅ 62 =180 dm 2 .
+
+(
+
+)
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+3.28. Rút gọn các biểu thức sau:
+a)
+
+5+3 5
+1
+;
+−
+5
+5 −2
+( 3 + 2) 2 + ( 3 − 2) 2
+
+c)
+
+( 7 − 2) 2 − 63 +
+
+b)
+
+;
+
+2 12
+
+d)
+
+3
+
+( 2 + 1)3 − 1
+50
+
+56
+;
+2
+
+.
+
+Lời giải
+a)
+
+5+3 5
+1
+( 5) 2 + 3 5
+5+2
+− =
+−
+5
+5 −2
+5
+( 5 − 2)( 5 + 2)
+
+=
+
+5( 5 + 3)
+5+2
+−
+=
+5
+( 5) 2 − 22
+
+b)
+
+( 7 − 2) 2 − 63 +
+
+= 7 −2−3 7 +
+
+5+2
+=
+5−4
+
+5 +3−
+
+5+2
+=
+1
+
+5 + 3 − 5 − 2= 1.
+
+56
+2 ⋅ 28
+= | 7 − 2 | − 32 ⋅ 7 +
+2
+2
+
+2 ⋅ 28
+=−2 7 − 2 + 28 =−2 7 − 2 + 22 ⋅ 7 =−2 7 − 2 + 2 7 =−2
+2
+
+( 3 + 2) 2 + ( 3 − 2) 2
+
+c)
+
+2 12
+
+=
+
+| 3+ 2|+| 3− 2|
+2 22 ⋅ 3
+
+3+ 2+ 3− 2 2 3 1
+= =
+.
+2⋅2 3
+4 3 2
+
+=
+
+d)
+
+5 +3−
+
+3
+
+( 2 + 1)3 − 1
+=
+50
+
+2 +1−1
+2 1
+.
+= =
+5 2 5
+52 ⋅ 2
+
+3.29. Tính giá trị của các biểu thức sau:
+5 15
+− 2 245 ;
+3
+
+b)
+
+12 − 4
+21 + 7
+−
++ 7;
+3 −1
+3 +1
+
+3− 3
++ 3(2 3 − 1) + 12 ;
+1− 3
+
+d)
+
+3 −1
+2
+6
+.
++
+−
+2
+3 −1
+6
+
+a) 3 45 +
+c)
+
+Lời giải
+
+a) 3 45 +
+
+5⋅ 3 ⋅ 5
+5 15
+5 3⋅5
+− 2⋅7 5
+− 2 245
+= 3 32 ⋅ 5 +
+− 2 72 ⋅ 5 = 3 ⋅ 3 5 +
+3
+3
+3
+
+= 9 5 + 5 5 − 14 5=
+
+b)
+
+5(9 + 5 − 14)
+= 0
+
+12 − 4
+21 + 7
+2 3−2
+3⋅ 7 + 7
+22 ⋅ 3 − 2
+3⋅ 7 + 7
+−
++ 7 =
+−
++ 7
+−
++ 7 =
+3 −1
+3 +1
+3 −1
+3 +1
+3 −1
+3 +1
+
+2( 3 − 1)
+7( 3 + 1)
+=
+−
++ 7 =2 − 7 + 7 =2
+3 −1
+3 +1
+c)
+
+3− 3
+( 3) 2 − 3
++ 3(2 3 − 1) + 12 =
++ 3 ⋅ 2 3 − 3 + 22 ⋅ 3 =
+1− 3
+−( 3 − 1)
+
+3( 3 − 1)
++ 2⋅3 − 3 + 2 3
+−( 3 − 1)
+
+=− 3 + 6 − 3 + 2 3 =6.
+d)
+
+3 −1
+2
+6
+( 3 − 1) 2
+2( 3 + 1)
+( 6) 2
++
+−
+=
+=
++
+−
+2
+3 −1
+6
+( 2) 2
+( 3 − 1)( 3 + 1)
+6
+3⋅ 2 − 2
+2⋅ 3+ 2
++
+− 6
+2
+( 3) 2 − 12
+
+=
+
+6− 2
+6+ 2
++
+− 6=
+2
+3 −1
+
+6− 2
+6+ 2 2 6
+=
++
+−
+2
+2
+2
+
+6 − 2 + 6 + 2 −2 6 0
+= = 0
+2
+2
+
+3.30. Giả sử lực F của gió khi thổi theo phương vuông góc với bể mặt cánh buồm của một con
+thuyển tỉ lệ thuận với bình phương tốc độ của gió, hệ số tỉ lệ là 30 . Trong đó, lực F được tính
+bằng N (Newton) và tốc độ được tính bẳng m / s .
+a) Khi tốc độ của gió là 10 m / s thì lực F là bao nhiêu Newton?
+b) Nếu cánh buồm chỉ có thể chịu được một áp lực tối đa là 12000 N thì con thuyển đó có thể đi
+được trong gió với tốc độ gió tối đa là bao nhiêu?
+Lời giải
+Gọi tốc độ của gió và v( m / s) .
+Do F của gió khi thổi theo phương vuông góc với bề mặt cánh buồm của một con thuyền tỉ lệ
+thuận với bình phương tốc độ của gió, hệ số tỉ lệ là 30 nên ta có F = 30v 2 (N).
+2
+a) Khi v = 10 m / s thì ta =
+có: F 30.10
+=
+3000( N) .
+
+b) Nếu F ≤ 12000 N thì 30v 2 ≤ 12000 . Suy ra v 2 ≤ 400 , do đó 0 < v ≤ 400 =
+20( m / s) .
+
+3.31. Rút gọn các biểu thức sau:
+a) 3 (− x − 1)3 ;
+
+b) 3 8 x3 − 12 x 2 + 6 x − 1 .
+Lời giải
+
+a) 3 (− x − 1)3 =− x − 1 .
+b) 3 8 x3 − 12 x 2 + 6 x − 1 =
+
+3
+
+(2 x − 1)3 = 2 x − 1
+
+C. BÀI TẬP THÊM
+Bài 1. Rút gọn các biểu thức sau:
+a). 5
+
+1 1
++
+20 + 5 ;
+5 2
+
+b).
+
+1
++ 4,5 + 12,5 ;
+2
+
+c).
+
+20 − 45 + 3 18 + 72 ;
+
+d). 0,1 200 + 2 0, 08 + 0, 4 50 .
+Giải:
+
+a) 5
+
+1 1
++
+20 + 5 =
+5 2
+
+25
+20
++
++ 5 = 3 5;
+5
+4
+
+b)
+
+1
++ 4,5 + 12,5 =
+2
+
+2
+9
+25
+2 3 2 5 2 9 2
+.
++
++
+=
++
++
+=
+4
+2
+2
+2
+2
+2
+2
+
+c) 20 − 45 + 3 18 + 72 =
+
+4.5 − 9.5 + 3 9.2 + 36.2
+
+= 2 5 − 3 5 + 9 2 + 6 2 = 15 2 − 5.
+d) 0,1 200 + 2 0, 08 + 0, 4 50= 0,1 100.2 + 2 0, 04.2 + 0, 4 25.2
+
+= 2 + 0, 4 2 + 2 2 =3, 4 2.
+
+Bài 2. Rút gọn biểu thức sau:
+a).
+
+1
+33
+1
+48 − 2 75 −
++5 1 ;
+2
+3
+11
+
+b). 150 + 1, 6 60 + 4,5 2
+
+c).
+
+( 28 − 2 3 + 7 ) 7 + 84 ;
+
+d).
+
+( 6 + 5 ) − 120
+
+Giải:
+a)
+
+1
+33
+1 1
+11 3
+4
+48 − 2 75 −
+16.3 − 2 25.3 −
++5 1=
++5
+2
+3 2
+3
+11
+11
+=
+2 3 − 10 3 − 3 + 10
+
+3
+17
+=
+−
+3.
+3
+3
+
+2
+
+2
+− 6;
+3
+
+150 + 1, 6 60 + 4,5 2
+
+b)
+
+= 5 6 + 4 6 + 4,5
+
+2
+− 6=
+3
+
+8
+− 6
+3
+
+25.6 + 16.6 + 4,5
+
+24
+− 6 = 8 6 + 1,5.2 6 = 8 6 + 3 6 = 11 6.
+9
+
+84
+4.7 7 − 2 21 + 7 + 4.21 = 14 − 2 21 + 7 + 2 21 = 21.
+( 28 − 2 3 + 7 ) 7 +=
+d) ( 6 + 5 ) − 120 = 6 + 2 30 + 5 − 4.30 = 6 + 2 30 + 5 − 2 30 = 11.
+c)
+
+2
+
+Bài 3. Rút gọn biểu thức sau:
+
+5+ 2
+
+a). 11 + 6 2 ;
+
+b).
+
+13 2 − 4 6
+;
+24 − 4 3
+
+d).
+
+6 + 14
+;
+2 3 + 28
+
+c).
+
+3 5 −3 2
+
+e).
+
+x − 2 x +1
+(với x ≥ 0 )..
+x + 2 x +1
+
+g).
+
+2− 3
+;
+2
+
+f).
+
+2 + 3 + 6 + 8 + 16
+;
+2+ 3+ 4
+
+h).
+
+8 − 15
+.
+30 − 2
+
+;
+
+Giải:
+a)
+
+b)
+
+11 + 6 2 = 9 + 2.3 2 + 2 =
+
+(3 + 2 ) =3 + 2.
+
+5+ 2
+=
+3 5 −3 2
+
+( 5 + 2)
+3 ( 5 − 2 )( 5 + 2 )
+
+(
+
+2
+
+)
+
+2
+
+ 5+ 2
+=
+
+
+3
+
+
+
+2
+
+3
+
+(
+
+)
+)
+
+2 13 − 4 3
+13 2 − 4 6
+c) = =
+24 − 4 3
+4 3 2 3 −1
+6 + 14
+2 3 + 28
+
+2
+
+5+ 2
+=
+3 5− 2
+
+( 5 + 2)
+= =
+
+d)=
+
+2
+
+(
+
+(
+
+)
+
+2 3+ 7
+=
+2 3+2 7
+
+5+ 2
+.
+3
+
+(
+
+)
+
+(
+
+)
+
+2
+
+2 12 − 2.2 3.1 + 1
+2 2 3 −1
+2 3 −1
+= =
+.
+2 6
+4 3 2 3 −1
+4 3 2 3 −1
+
+(
+
+(
+
+)
+
+)
+
+2 3+ 7
+=
+2 3+ 7
+
+(
+
+)
+
+2
+.
+2
+
+(
+
+)
+
+(
+(
+
+x − 2 x +1
+=
+x + 2 x +1
+
+e)
+
+x −1
+
+Với 0 ≤ x < 1 thì
+Với x = 1 thì
+Với x > 1 thì
+
+)
+)
+
+=
+
+2
+
+x +1
+
+2
+
+x −1
+=
+x +1
+
+0
+= 0.
+x +1
+
+x −1
+
+x −1
+.
+x +1
+
+x +1
+
+=
+
+x −1
+x +1
+
+1− x
+.
+x +1
+
+=
+
+2 + 3 + 6 + 8 + 16
+=
+2+ 3+ 4
+
+f)
+
+( x − 1)
+=
+( x + 1)
+
+2
+
+x −1
+=
+2
+x +1
+
+2+ 3+ 6+2 2+4
+=
+2+ 3+2
+
+( 2 + 3 + 2) + ( 2 2 + 6 + 2)
+2+ 3+2
+
+( 2 + 3 + 2) + 2 ( 2 + 3 + 2 ) = ( 2 + 3 + 2)(1 + 2 ) = 1 + 2.
+2+ 3+2
+
+2+ 3+2
+
+2− 3
+g) =
+2
+
+2. 2 − 3
+=
+2. 2
+
+8 − 15
+h) =
+30 − 2
+
+1
+16 − 2 15
+2 =
+2 15 − 1
+
+(
+
+(
+
+4−2 3
+=
+2
+
+)
+
+)
+
+3 − 2. 3 + 1
+=
+2
+
+1
+15 − 2. 15.1 + 1
+2
+=
+2 15 − 1
+
+(
+
+(
+
+)
+
+)
+
+3 − 1)
+(=
+2
+
+2
+
+15 − 1)
+(=
+15 − 1
+1
+= .
+2 ( 15 − 1) 2 ( 15 − 1) 2
+
+Bài 4. Tính
+a) 3 162 ⋅ 3 −2 ⋅ 3
+
+2
+;
+3
+
+b) 3 2 : 3 16 − 3 22
+
+1 3 1
+: 53
+2
+3
+
+Lời giải
+a) -6 ;
+
+1
+b) − .
+4
+Bài 5. Tính
+a) ( 3 3 + 3 2)3 ;
+b) ( 3 5 − 3 3)( 3 25 + 3 15 + 3 9) .
+Lời giải
+
+3 −1
+.
+2
+
+2
+
+a) 5 + 3 3 18 + 3 3 12 ;
+b) 2 .
+
+Bài 6. Rút gọn biểu thức
+a) 3 3 ⋅ (5 3 18 − 3 3 144) + 3 5 ⋅ 3 50 ;
+
+1
+b) (12 3 2 + 3 16 − 2 3 2)  5 3 4 − 3 3 
+2
+
+Lời giải
+a) 2 3 2 ;
+
+b) 84
+
+Bài 7. Tìm x , biết :
+a) 2 3 27 x +
+
+13
+−343 x + 3 −729 x =
+2 ; b) 3 x3 − 9 x 2 =−
+x 3.
+7
+Lời giải
+
+1
+a) − ;
+8
+
+M
+Bài 8. Tính =
+
+b) 1 .
+3
+
+5 2 +7 − 3 5 2 −7 .
+Lời giải
+
+M 3= (5 2 + 7) − (5 2 − 7) − 3 3 (5 2 + 7)(5 2 − 7) ⋅ M
+0
+0 ⇔ ( M − 2) ( M 2 + 2 M + 7 ) =
+⇔ M 3 =14 − 3M ⇔ M 3 + 3M − 14 =
+⇔ M − 2= 0
+
+2.
+( vì M + 2M + 7= (M + 1) + 6 > 0 ) ⇔ M =
+2
+
+2
+
+1
++
+ x +2
+
+
+Bài 9. Cho biểu thức
+=
+V 
+
+1. Rút gọn biểu thức V
+2. Tìm giá trị của x để V =
+
+1  x +2
+  với x > 0; x ≠ 4
+
+x −2
+x
+
+1
+3
+Lời giải
+
+1. Rút gọn biểu thức V
+
+ 1
+=
++
+V 
+ x +2
+
+
+= 
+
+
+
+x −2
+
++
+
+x +2
+=
+⋅
+x
+x −2
+
+( x + 2)(
+
+V=
+
+1
+⇔
+3
+
+ 1
+
+ x −1
+
+)
+
+2
+x −2
+
+)
+
+2. Tìm giá trị của x để V =
+
+
+ x +2
+x
+x −2 
+
+
+x +2
+
+( x + 2)( x − 2) ( x + 2)(
+2 x
+
+=
+
+1  x +2
+
+x −2
+x
+
+1
+3
+
+2
+1
+= ⇔ x = 8 ⇔ x = 64
+x −2 3
+
+  ( x + 1) 2 
+3 x +5
+− 1
+
+x x − x − x + 1   4 x
+
+
++
+Bài 10. Cho A =
+
+1. Rút gọn biểu thức A
+
+(
+
+)
+
+2. Đặt B = x − x + 1 A . Chứng minh B > 1 với x > 0, x ≠ 1
+
+Lời giải
+1. Rút gọn biểu thức A
+
+ 1
+  ( x + 1) 2 
+3 x +5
+A=
++
+− 1
+
+ 
+x
+−
+1
+x
+x
+−
+x
+−
+x
++
+1
+4
+x
+
+
+
+
+
+2
+
+3 x +5
+x −1
+  ( x + 1) − 4 x 
+= 
++
+
+ ( x − 1) x − 1 ( x − 1) x − 1  
+4 x
+
+
+
+
+(
+
+)
+
+(
+
+)
+
+
+
+4 x +4
+( x − 1) 2 
+
+
+=
+
+
+ ( x − 1) x − 1   4 x 
+
+
+
+(
+
+)
+
+
+
+=
+
+
+
+
+
+( x + 1)
+  ( x − 1) 
+( x − 1)( x + 1)( x − 1)   4 x 
+
+=
+
+1
+x
+
+4
+
+2
+
+(
+
+)
+
+2. Đặt B = x − x + 1 A . Chứng minh B > 1 với x > 0, x ≠ 1
+
+(
+
+)
+
+) 1x = x − 1 + 1x
+
+(
+
+B = x − x + 1 A =B = x − x + 1
+
+Vì x ≠ 1 nên ( x − 1) 2 > 0 ⇔ x + 1 > 2 x ⇒
+
+x −1+
+
+Suy ra B=
+
+Bài 11. Cho biểu thức =
+P
+
+x+
+
+1
+> 1 với x > 0, x ≠ 1
+x
+
+15 x − 11 3 x − 2 2 x + 3
++
++
+x + 2 x − 3 1− x
+3+ x
+
+1. Rút gọn biểu thức 𝑃𝑃.
+
+2. Tìm tất cả các giá trị nguyên của 𝑥𝑥 để 𝑃𝑃 là một số nguyên.
+
+Lời giải
+
+1. Rút gọn biểu thức 𝑃𝑃.
+
+15 x − 11 3 x − 2 2 x + 3
++
++
+x + 2 x − 3 1− x
+3+ x
+
+P
+=
+
+(3 x − 2)( x + 3) + ( 2 x + 3)( x − 1)
+( x − 1)( x + 3) ( x − 1)( x + 3) ( x − 1)( x + 3)
+
+=
+
+=
+
+=
+
+15 x − 11
+
+−
+
+−
+
+3x + 7 x − 6
+
++
+
+2x + x − 3
+
+( x − 1)( x + 3) ( x − 1)( x + 3) ( x − 1)( x + 3)
+−x + 9 x − 8
+
+( x − 1)( x + 3)
+
+= −
+
+=
+
+15 x − 11
+
+( x − 8)( x − 1)
+( x − 1)( x + 3)
+
+8− x
+x +3
+
+2. Tìm tất cả các giá trị nguyên của x để P là một số nguyên.
+
+1
+> 2( do x > 0)
+x
+
+Ta=
+có: P
+
+8− x
+=
+x +3
+
+Để P ∈  ⇔
+
+11
+−1
+x +3
+
+11
+∈  ⇔ 11:
+x +3
+
+
+
+
+x +3 ⇔ 
+
+
+
+
+(
+
+x +3=
+1
+x + 3 =−1
+
+)
+
+x +3=
+11
+
+⇔ x + 3 = 11 ⇔ x = 64
+
+x + 3 =−11
+
+x+2 + 3 
+1
+2− x
+2
+
++
++
+
+ 
+x + 1 − 3   3 − x + 2 x + 2 − 3 x + 6 
+ x + 2 − x +1
+
+
+Bài 12. Cho biểu thức P =
+
+
+1. Tìm điều kiện của 𝑥𝑥 để biểu thức 𝑃𝑃 xác định.
+
+2. Rút gọn và tìm giá trị lớn nhất của biểu thức P .
+
+Lời giải
+1. Tìm điều kiện của 𝑥𝑥 để biểu thức 𝑃𝑃 xác định.
+
+x + 2 > 0
+ x + 10
+ x − 1
+
+ x + 2 ≠ x +1
+
+⇔ x ≠ 1
+
+ x +1 ≠ 3
+x ≠ 2
+
+
+ x+2 ≠ 3
+
+
+2. Rút gọn và tìm giá trị lớn nhất của biểu thức P .
+
+x+2 + 3 
+1
+2− x
+2
+
+
+P=
++
++
+
+
+ 
+x + 1 − 3   3 − x + 2 x + 2 − 3 x + 6 
+ x + 2 − x +1
+
+(
+
+)
+
+
+( 2 − x ) x + 1 + 3   −2 x + 2 + x + 2 + 3 
+x + 2 + x +1
+
+=
++
+ ( x + 2) 2 − ( x + 1) 2
+( x + 1) 2 − ( 3) 2   x + 2 x + 2 − 3 
+
+
+
+
+=
+
+=
+
+( x + 2 + x +1 − (
+(
+
+
+
+− x+2 + 3
+
+
+x +1 + 3
+ x+2 x+2 − 3 
+
+
+
+))
+
+(
+
+
+
+− x+2 + 3
+
+x+2 − 3 
+ x+2 x+2 − 3 
+
+
+
+)
+
+(
+
+(
+
+)
+
+)
+
+)
+
+=
+
+3− x+2
+=
+x+2
+
+3
+−1
+x+2
+
+Mặt khác ta có: x − 1 ⇒
+
+x + 21 ⇒
+
+Do đó maxP = 3 − 1 ⇔ x =−1
+
+3
+ 3 ⇒ P 3 − 1
+x+2
+
+BÀI TẬP CUỐI CHƯƠNG III
+A. TRẮC NGHIỆM
+3.32. Căn bậc hai của 4 là
+A. 2.
+
+B. -2 .
+
+C. 2 và -2 .
+
+D. 2 và − 2 .
+
+Lời giải
+Chọn C
+Ta có căn bậc hai của 4 là 2 và -2 .
+3.33. Căn bậc hai số học của 49 là
+A. 7 .
+
+B. -7 .
+
+C. 7 và -7 .
+
+D. 7 và − 7 .
+
+Lời giải
+Chọn A
+Căn bậc hai số học của 49 là 7.
+3.34. Rút gọn biểu thức 3 (4 − 17)3 ta được
+A. 4 + 17 .
+
+B. 4 − 17 .
+
+C. 17 − 4 .
+
+D. −4 − 17 .
+
+Lời giải
+Chọn B
+4 − 17
+Ta có 3 (4 − 17)3 =
+
+3.35. Độ dài đường kính (mét) của hình tròn có diện tích 4 m 2 sau khi làm tròn kết quả đến
+chữ số thập phân thứ hai bằng
+A. 2,26 .
+
+B. 2,50 .
+
+C. 1,13 .
+
+D. 1,12 .
+
+Lời giải
+Chọn C
+3.36. Một vật rơi tự do từ độ cao 396,9 m . Biết quãng đường chuyển động S (mét) của vật
+phụ thuộc vào thời gian t (giây) bởi công thức S = 4,9t 2 . Vật chạm đất sau
+A. 8 giây.
+
+B. 5 giây.
+
+C. 11 giây.
+
+D. 9 giây.
+
+Lời giải
+Chọn D
+= 4,9 ⋅ t 2 suy ra
+Quãng đường chuyển động chính là độ cao 396,9 m nên ta có 396,9
+=
+t
+
+=
+396,9 : 4,9 9( s )
+
+B. TỰ LUẬN
+3.37. Không sử dụng MTCT, tính giá trị của biểu thức A=
+
+( 3 − 2) 2 + 4(2 + 3) 2 −
+
+1
+.
+2− 3
+
+Lời giải
+( 3 − 2) 2 + 4(2 + 3) 2 −
+
+A=
+
+= 2− 3 +4+2 3 −
+
+1
+2+ 3
+= | 3 − 2 | +2 | 2 + 3 | −
+2− 3
+(2 − 3)(2 + 3)
+
+2+ 3
+= 6+ 3 −2− 3 = 4
+4−3
+
+A
+3.38. Cho biểu thức =
+
+x +2
+4
+−
+( x > 0, x ≠ 4) .
+x −2
+x +2
+
+a) Rút gọn biểu thức A .
+
+b) Tính giá trị của A tại x = 14 .
+Lời giải
+
+a) =
+A
+A
+
+=
+
+x +2
+4
+−
+( x > 0, x ≠ 4)
+x −2
+x +2
+
+( x + 2) 2
+4( x − 2)
+x + 2 x + 4−4 x +8
+−
+=
+( x − 2)( x + 2) ( x + 2)( x − 2)
+( x − 2)( x + 2)
+x − 2 x + 12
+( x − 2)( x + 2)
+
+ta có A
+b) Với x = 14(t / m)=
+Vậy x = 14 thì A =
+
+14 − 2 14 + 12
+26 − 2 14 13 − 14
+.
+= =
+14 − 4
+5
+( 14 − 2)( 14 + 2)
+
+13 − 14
+.
+5
+
+3.39. Biết rằng nhiệt lượng toả ra trên dây dẫn được tính bởi công thức Q = I 2 Rt , trong đó
+Q là nhiệt lượng tính bằng đơn vị Joule ( J ) ; R là điện trở tính bằng đơn vị Ohm (Ω), I là
+cường độ dòng điện tính bằng đơn vị Ampe (A), t là thời gian tính bằng giây (s). Dòng diện
+chạy qua một dây dẫn có R= 10Ω trong thời gian 5 giây.
+a) Thay dấu "?" trong bảng sau bằng các giá trị thích hợp.
+
+b) Cường độ dòng điện là bao nhiêu Ampe để nhiệt lượng toả ra trên dây dẫn đạt 800 J ?
+Lời giải
+a)
+
+I(A)
+
+1
+
+1,5
+
+2
+
+Q(J)
+
+50
+
+112,5
+
+200
+
+b) Ta có I = Q=
+: Rt nên I
+
+=
+800 : (10.5 ) 4 (Ampe)
+
+Vậy cường độ dòng điện là 4 Ampe thì nhiệt lượng tỏa ra trên dây dẫn đạt 800Q .
+C. BÀI TẬP THÊM
+Bài 1. Rút gọn các biểu thức sau :
+9 25
+49
+1
+:
+−
+: 3 :
+16 36
+8
+8
+
+a)
+
+45,82 − 44, 22 − 6 ( 2 + 1) 2 + ( 2 − 1) 2  .
+
+b)
+
+Lời giải
+a) Ta có
+
+9 25
+49
+1
+9 25
+49 25 3 5
+49 9 7
+1
+:
+−
+: 3 = :
+−
+:
+=: −
+= − =
+− .
+16 36
+8
+8
+16 36
+8 8 4 6
+25 10 5
+2
+
+45,82 − 44, 22 − 6 ( 2 + 1) 2 + ( 2 − 1) 2  =
+
+b)
+
+Bài 2. Rút gọn các biểu thức sau :
+a)
+
+1 1652 − 1242
+32
+;
++4
+2
+34
+164
+176 − 1122
+
+b)
+
+5
+
+1, 6.90 − 6.6 = 4.3 − 6 = 6.
+
+( 6 − 1) + 2 − 3 .
+6 +1
+
+2+ 3
+
+Lời giải
+1 1652 − 1242
+32
+1 41.289
+32
+1 289
+1
++4
+=
++4
+=
++4
+2
+2
+34
+164
+176 − 112
+34
+164
+64.288 34 4
+576
+1 17
+1 1 1 5
+=
+⋅ + 4⋅
+= + =
+34 2
+24 4 6 12
+
+a)
+
+( 6 − 1) + 2 − 3 = 5( 6 − 1) + ( 2 − 3) = 7 − 2 6 − 5 + 2 6 = 2.
+b)
+5
+
+2
+
+6 +1
+
+2+ 3
+
+6 −1
+
+2
+
+2−3
+
+Bài 3. Rút gọn các biểu thức :
+a)
+
+3 + 3 5 − 2 − 10
+;
+6+2 5
+
+b)
+
+x x+x y−y x−y y
+x− y+ y x − y y
+
+Lời giải
+
+.
+
+a) Ta có
+
+(
+
+1 + 5 )( 3 − 2 ) 3 − 2
+) (=
+.
+
+(
+
+)
+
+3 + 3 5 − 2 − 10 3 1 + 5 − 2 1 + 5
+=
+=
+6+2 5
+(1 + 5) 2
+
+(
+
+)
+
+(
+
+)(
+
+( x + y )( x − y)
+)
+) (
+) ( x − y )( x + y + y )
+) (
+)(
+
+(
+
+(
+
+( x + y )2
+
+)
+
+1+ 5
+
+x x+ y −y x+ y
+=
+x− y
+x+ y +y x− y
+
+x x+x y−y x−y y
+b)
+=
+x− y+ y x − y y
+( x + y )2 x − y
+=
+x− y
+x+ y+y
+
+(1 + 5) 2
+
+x+ y+y
+
+P
+Bài 4. Rút gọn biểu thức=
+
+. Điều kiện x ≥ 0; y ≥ 0; x ≠ y .
+
+x + 3 2 x +1
+2 x −9
+−
+−
+.
+x −5 x +6
+x − 2 3− x
+
+Lời giải
+Điều kiện : x ≥ 0; x ≠ 4; x ≠ 9 . Khi đó ta có
+=
+P
+
+2 x −9
+
+( x − 2)( x − 3)
+
+−
+
+x + 3 2 x +1 2 x − 9 −
+−=
+x − 2 3− x
+
+2 x − 9 − x + 9 + 2x − 4 x + x − 2
+=
+x −2
+x −3
+
+(
+
+)(
+
+)
+
+Bài 5. Cho biểu thức P =
+
+( x + 3)( x − 3) + ( 2 x + 1)( x − 2)
+( x − 2)( x − 3)
+x + 1)( x − 2 )
+(=
+) ( x − 2)( x − 3)
+
+x− x −2
+=
+x −2
+x −3
+
+(
+
+)(
+
+x +1
+x −3
+
+x + 1 3 − 11 x
+2 x
++
++
+.
+9− x
+x +3
+x −3
+
+a) Rút gọn P .
+b) Tính giá trị của P với x =
+
+7+4 3
+.
+4
+
+Lời giải
+a) Điều kiện : x ≥ 0; x ≠ 9 . Khi đó ta có
+P
+
+(
+
+) ( )(
+(
+)(
+
+)
+
+2 x x − 3 + x +1
+x + 3 − 3 + 11 x 2 x − 6 x + x + 4 x + 3 − 3 + 11 x
+=
+x +3
+x −3
+x +3
+x −3
+
+=
+
+)
+
+3x + 9 x
+=
+x +3
+x −3
+
+(
+
+)(
+
+(
+
+(
+
+)
+
+3 x x +3
+=
+x +3
+x −3
+
+) (
+
+)(
+
+)
+
+)(
+
+3 x
+x −3
+
+)
+
+2
+
+ 2+ 3 
+2+ 3
+.
+x
+
+ ⇒ =
+2
+ 2 
+
+7+4 3
+b) Ta có=
+x
+=
+4
+
+2+ 3
+6+3 3
+2
+2
+=
+⋅
+Do=
+đó P
+2
+2+ 3
+3−4
+−3
+2
+3⋅
+
+=
+
+6+3 3
+=
+3−4
+
+3 + 4 ) 6 3 + 24 + 9 + 12 3 − ( 33 + 18 3 )
+( 6 + 3 3 )( =
+=
+3 − 16
+13
+( 3 − 4)( 3 + 4)
+
+.
+
+1
+5
+6 
+6
+.
++
+−
+:
+
+x −3 9− x  x + 2
+ x +3
+
+
+Bài 6. Cho biểu thức P = 
+
+a) Rút gọn P .
+b) Tìm các giá trị nguyên của x để P có giá trị nguyên.
+Lời giải
+a) Điều kiện : x ≥ 0; x ≠ 9 . Khi đó ta có
+=
+P
+
+=
+
+( x − 3) + 5 ( x + 3) + 6=
+x +2
+x − 3 + 5 x + 15 + 6 x + 2
+x +2
+6 x + 18
+⋅
+=
+⋅
+⋅
+6
+( x + 3)( x − 3) 6 ( x + 3)( x − 3) 6
+( x + 3)( x − 3)
+
+( x + 3) =
+x +2
+⋅
+( x + 3)( x − 3) 6
+6
+
+x +2
+x −3
+
+x −3+5
+5
+= 1+
+.
+x −3
+x −3
+5
+có giá trị nguyên ⇔ x − 3 ∈ U ( 5 ) ⇔ x − 3 ∈ {±1; ±5}
+P có giá trị nguyên ⇔
+x −3
+
+Ta có P =
+
+x +2
+=
+x −3
+
+Ta có bảng sau :
+x −3
+
+1
+
+-1
+
+5
+
+-5
+
+x
+
+4
+
+2
+
+8
+
+-2
+
+x
+
+16
+
+4
+
+64
+
+
+
+Vậy khi x ∈ {4,16, 64} thì P có giá trị nguyên.
+
+2
+
+2  1
+1 
+x+ y
+.
+:
+−
+−
+
+xy  x
+y  x − 2 xy + y
+
+Bài 7. Cho biểu thức=
+P
+
+Chứng minh rằng với mọi giá trị của x và y làm cho biểu thức P có nghĩa thì giá trị của
+P không phụ thuộc vào x và y .
+Lời giải
+Điều kiện : x, y > 0; x ≠ y . Khi đó ta có
+2
+
+P
+
+( xy ) 2
+x+ y
+2
+2  y− x
+x+ y
+=
+⋅
+−
+−
+:
+
+2
+2
+xy ( x − y ) ( x − y ) 2
+xy 
+xy  ( x − y )
+
+(
+
+)
+
+− x − 2 xy + y
+2 xy
+( x − y )2
+x+ y
+=2 −
+=
+−
+=
+−1
+( x − y ) ( x − y )2 ( x − y )2
+( x − y )2
+
+Vậy giá trị của của P không phụ thuợc vào x và y .
+x
+1 
+ x+3
++
+:
+.
+
+x +3 x −3
+ x −9
+
+=
+P 
+Bài 8. Cho biểu thức
+
+a) Rút gọn P .
+1
+3
+
+b) Chứng minh rằng P > .
+Lời giải
+a) Điều kiện : x > 0; x ≠ 9 . Khi đó ta có
+=
+P
+
+x +3+ x −3
+
+( x − 3)(
+
+x −3
+=
+⋅
+x
+x +3
+1
+3
+
+b) Xét hiệu P =
+−
+
+)
+
+( x + 1) =
+x −3
+⋅
+( x − 3)( x + 3) x
+x
+
+x +1
+x +3
+
+2 x
+x +1 1 3 x + 3 − x − 3
+=
+−
+=
+> 0( vì x > 0).
+x +3 3
+3 x +3
+3 x +3
+
+(
+
+)
+
+(
+
+)
+
+1
+3
+
+Do đó P > .
+x+2  2
+1
+.
+−
+:
+ x +1 x x +1  x
+
+
+Bài 9. Cho biểu thức
+=
+P 
+a) Rút gọn P .
+
+b) Chứng minh rằng biểu thức P luôn luôn âm với mọi giá trị của x làm P xác định.
+Lời giải
+
+a) Điều kiện : x > 0 . Khi đó ta có
+=
+P
+
+− ( x + 2) 2
+− ( x + 1)
+( x − x + 1)=
+− x
+x
+=
+⋅
+:
+( x + 1)( x − x + 1) x ( x + 1)( x − x + 1) 2 2 ( x − x + 1)
+
+1
+
+
+
+
+2
+
+3
+
+1  x −  + > 0. Do đó P < 0 với mọi x > 0 .
+Ta có x > 0 nên − x < 0 , x − x +=
+2
+4
+
+
+1
+1
+x x+x
++
++
+.
+x −1 + x
+x −1 − x
+x +1
+
+Bài 10. Cho biểu thức P =
+
+a) Rút gọn P .
+b) Chứng minh rằng biểu thức P luôn luôn không âm với mọi giá trị của x làm P xác
+định.
+Lời giải
+a) Điều kiện : x ≥ 1 . Khi đó ta có
+P=
+
+x −1 − x + x −1 + x
+
+( x − 1 + x )( x − 1 − x )
+
++
+
+x
+
+( x + 1) = 2 x − 1 + x = x − 2 x − 1
+−1
+
+x +1
+
+Ta có P = x − 2 x − 1 = ( x − 1) − 2 x − 1 + 1 = ( x − 1 − 1) 2 ≥ 0
+Vậy P luôn luôn không âm với mọi x ≥ 1 .
+Bài 11. Cho =
+biểu thức P
+
+ 1
+x 
+: 
++
+.
+x+ x  x
+x + 1 
+x
+
+a) Rút gọn P .
+
+b) Tìm giá trị lớn nhất của P .
+Lời giải
+
+a) Điều kiện : x > 0 . Khi đó ta có
+P=
+
+x
+
+x
+
+( x + 1)
+
+=
+Ta
+có : P
+
+:
+
+x +1+ x
+x
+
+( x + 1)
+
+x
+=
+x + x +1
+
+Xét biểu thức ở mẫu
+Ta có P
+=
+
+=
+
+1
+
+x
+
+x
+
+1
+1
+≤ .
+1
+x+
++1 3
+x
+
+x
+
+( x + 1) =
+
+( x + 1) x + x + 1
+
+1
+x +1+
+x
+
+x+
+
+⋅
+
+.
+
+1
++1 ≥ 2
+x
+
+x⋅
+
+1
++ 1 =3 .
+x
+
+x
+x + x +1
+
+1
+3
+
+Do đó max P = , đạt được khi
+
+1
+⇔ x= 1 .
+x
+
+x=
+
+Bài 12. Giải phương trình
+a)
+
+25(3 x − 1) 2 =
+10 ;
+
+b)
+
+x +3
+=
+x −3
+
+x +5
+.
+x −2
+
+Lời giải
+a) Ta có
+
+b)
+
+
+1
+x =
+3 x − 1 =2
+
+
+25(3 x − 1) = 10 ⇔ 5 3 x − 1 = 10 ⇔ 3 x − 1 = 2 ⇔
+⇔
+3 x − 1 =−2
+x = − 1
+
+3
+
+2
+
+x +3
+=
+x −3
+
+x +5
+( *)
+x −2
+
+Điều kiện : x ≥ 0; x ≠ 4; x ≠ 9 . Khi đó ta có
+⇔
+
+( x + 3)( x − 2) = ( x + 5)( x − 3) (*) ⇔ x + x − 6 = x + 2 x − 15
+
+⇔ − x = −9 ⇔ x = 9 ⇔ x = 81 (thỏa mãn điều kiện)
+
+Bài 13. Giải phương trình
+a) 5 x − (2 x − 1) 2 =
+2;
+
+b)
+
+x + 2 x −1 =
+x.
+
+Lời giải
+a) 5 x − (2 x − 1) 2 = 2 ⇔ 5 x − 2 x − 1 = 2
+Nếu x ≥
+
+1
+1
+thì (1) ⇔ 5 x − ( 2 x − 1) =2 ⇔ 3x =1 ⇔ x = (loại).
+3
+2
+
+Nếu x <
+
+1
+3
+thì (1) ⇔ 5 x + ( 2 x − 1) = 2 ⇔ 7 x = 3 ⇔ x = (thoả mãn)
+2
+7
+
+x + 2 x − 1 = x.  ĐK: x ≥ 1 ⇔ x − 1 + 2 x − 1 + 1 = x ⇔ ( x − 1 + 1) 2 = x
+⇔
+
+(
+
+)
+
+x −1 +1 = x ⇔ x −1 +1 − x = 0 ⇔ x −1 1 − x −1 = 0
+
+ =
+x −1 0 =
+x 1
+(thỏa mãn điều kiện).
+⇔
+⇔
+1
+x = 2
+ x − 1 =
+
+

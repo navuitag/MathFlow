@@ -1,0 +1,4985 @@
+BÀI 1. BIỂU THỨC ĐẠI SỐ
+I. TÓM TẮT LÝ THUYẾT
+1. Biểu thức số
+Các số được nối với nhau bởi dấu các phép tính (cộng, trừ, nhân, chia, nâng lên lũy thừa) tạo thành
+một biểu thức số. Đặc biệt, mỗi số đều được coi là một biểu thức số.
+2. Biểu thức đại số
+- Các số, chữ được nối với nhau bởi dấu các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa làm
+thành một biểu thức đại số. Đặc biệt, biểu thức số cũng là biểu thức đại số.
+- Trong một biểu thức đại số, các chữ (nếu có) dùng để thay thế hay đại diện cho những số nào đó
+được gọi là các biến số (gọi tắt là các biến).
+*Chú ý:
+- Để cho gọn, khi viết các biểu thức đại số, ta không viết dấu nhân giữa các biến, cũng như giữa biến
+và số.
+Ví dụ: a.=
+b ab; 3.=
+a 3a;…
+- Thông thường ta không viết thừa số 1 trong tích.
+
+xy; ( 1) .ab =
+−ab .
+Ví dụ: 1xy =−
+- Với các biến, ta cũng có thể áp dụng các quy tắc và tính chất của các phép tính đối với các số.
+
+x( y + z) =
+xy + xz; − ( x − y + z ) =
+− x + y − z ;…
+Ví dụ: x + x + x = 3 x; y. y = y 2 ; x + y = y + x
+
+x( y + z) =
+xy + xz; − ( x − y + z ) =
+− x + y − z ;…
+3. Giá trị của một biểu thức đại số
+Giá trị của biểu thức đại số tại các giá trị đã cho của biến là giá trị của biểu thức số nhận được khi
+thay giá trị đã cho của mỗi biến vào biểu thức.
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Viết các biểu thức đại số và diễn đạt các biểu thức đại số
+Phương pháp giải:
+- Sử dụng các chữ, các số và các phép toán để diễn đạt các mệnh đề phát biểu bằng lời.
+- Căn cứ vào nội dung bài toán để viết biểu thức đại số theo yêu cầu của đề bài.
+1A. Viết các biểu thức đại số để biểu thị:
+
+a) Tổng các bình phương của x và y ;
+b) Bình phương của tổng hai số a và b ;
+c) Tích của 2 lần x với hiệu các bình phương của x và y ;
+d) Trung bình cộng của x và y .
+1B. Viết các biểu thức đại số để biểu thị:
+a) Lập phương của tổng hai số x và y ;
+b) Tổng các lập phương của hai số a và b ;
+c) Thương của tổng x và y với 3 lần y ;
+d) Trung bình cộng của x, y và z .
+2A. Viết các biểu thức đại số để biểu thị:
+a) Chu vi hình vuông có cạnh bằng x ;
+b) Chu vi hình chữ nhật có hai cạnh là x và y .
+c) Chu vi của hình tròn có bán kính là R .
+2B. Viết các biểu thức đại số để biểu thị:
+a) Diện tích hình vuông có cạnh bằng x ;
+b) Diện tích hình thang có đáy lớn là a , đáy nhỏ là b và chiều cao là h ;
+c) Diện tích hình chữ nhật có chiều rộng là x ( cm ) và chiều dài là 5 (cm).
+3A. Viết các biểu thức đại số để biểu thị:
+a) Tích của hai số tự nhiên lẻ liên tiếp;
+b) Tổng các bình phương của hai số tự nhiên lẻ bất kì;
+c) Nghịch đảo của tổng hai số x và y .
+3B. Viết các biểu thức đại số để biểu thị:
+a) Tích của hai số tự nhiên chẵn liên tiếp;
+b) Hiệu các bình phương của hai số tự nhiên lẻ bất kì;
+c) Tổng các nghịch đảo của hai số x và y .
+4A. Bưởi da xanh có giá 45 nghìn đồng một kilôgam, cam canh có giá 40 nghìn đồng một kilôgam.
+Hãy viết biểu thức biểu thị cho số tiền ứng với x kilôgam bưởi và y kilôgam cam.
+4B. Phương cùng các bạn dự định gói bánh chưng gửi cho người dân vùng lũ. Phương cần mua
+
+8 kg gạo nếp với giá x đồng một kg,5 kg đỗ xanh với giá y đồng một kg và 3 kg thịt ba chỉ heo
+với giá z đồng một kg. Hỏi tổng số tiền bạn Phương và các bạn phải trả là bao nhiêu?
+
+5A. Hai vòi nước cùng chảy vào một bể cạn, vòi một mỗi giờ chảy được x (lít), vòi hai mỗi giờ
+chảy được y (lít). Viết biểu thức biểu thị lượng nước chảy được vào bể của hai vòi, nếu vòi một
+chảy trong 3 giờ và vòi hai chảy trong 5 giờ.
+5B. Một ô tô đi quãng đường từ A đến B với vận tốc x km / h trong 3 giờ. Sau đó đi tiếp quãng
+đường từ B đến C với vận tốc y km / h trong 1,5 giờ. Viết biểu thức biểu thị chiều dài quãng
+đường AC .
+6A. Diễn đạt các biểu thức sau bằng lời:
+b) x 2 + 1 ;
+
+a) x + 3 y ;
+
+c) ( x − 2 y ) 2 .
+
+6B. Diễn đạt các biểu thức sau bằng lời:
+a) 5x − y ;
+
+b) x 3 − 5 y ;
+
+c) ( x − y )( x + y ) .
+
+Dạng 2. Tính giá trị của biểu thức đại số
+Phương pháp giải: Để tính giá trị của biểu thức đại số khi biết giá trị của các biến, ta thay các biến
+trong biểu thức bằng những số đã cho để được một biểu thức số rồi thực hiện phép tính.
+7A. Tính giá trị của biểu thức sau:
+
+A 5 x + 1 tại x = 5, 2 .
+a) =
+b) B =xy 2 − 3 x 2 y + 1 tại x = y = −1 .
+c) C =
+( 2 x − y ) .( x + 5) tại x = 1; y = −2 .
+7B. Tính giá trị của biểu thức sau:
+
+−5 x 3 + 1 tại x = −2 .
+a) A =
+b) B = y 2 − 3 y + 1 tại y = −1 .
+
+( x − y ) 2 . ( x 2 − y ) tại x =
+c) C =
+3.
+−1; y =
+8A. Tính giá trị của biểu thức sau:
+a) M =
+
+3a + 2b
+a 1
+biết = .
+4a − 3b
+b 2
+
+b) N =
+
+( 3x + y − 3) ( x − y ) biết x = y .
+3
+
+2
+
+8B. Tính giá trị của biểu thức sau:
+a) P =
+
+3 x + 10 y
+x 1
+biết = .
+9x + 2 y
+y 3
+
+b) Q
+=
+
+4x − 3 4 y + 3
+biết x − y =
+−
+3.
+3x + y 3 y + x
+
+9A. Một khu vườn hình chữ nhật có chiều rộng x mét, chiều dài gấp đôi chiều rộng. Người ta đào
+một lối đi xung quanh khu vườn (thuộc đất của vườn) rộng 2 mét. Tính diện tích còn lại của khu
+vườn biết x = 7 (mét).
+9B. Có một vòi chảy vào một bể chứa nước, mỗi giờ chảy được x lít nước. Cùng lúc đó có một vòi
+khác chảy từ bể ra, mỗi giờ lượng nước chảy ra bằng
+
+1
+lượng nước chảy vào.
+4
+
+a) Hãy biểu thị số lượng nước có trong bể sau khi mở đồng thời cả hai vòi trong a giờ.
+b) Tính lượng nước có trong bể trên biết x = 30 (lít), a = 3 (giờ).
+Dạng 3. Tìm giá trị lớn nhất và giá trị nhỏ nhất của biểu thức
+Phương pháp giải:
+- Để tìm giá trị của biến x sao cho biểu thức A ( x ) nhận giá trị nhỏ nhất (hoặc giá trị lớn nhất) ta
+làm như sau:
++) Chỉ ra: A ( x ) ≥ a (hoặc A ( x ) ≤ a ).
++) Tìm được giá trị của x0 để A ( x0 ) = a .
+Vậy min A ( x ) = a tại x = x0 (hoặc max A ( x ) = a tại x = x0 ).
+Lưu ý: A ≥ 0; A2 ≥ 0
+10A. Tìm giá trị nhỏ nhất của các biểu thức:
+a) A =( x − 3) 2 + 1 ;
+
+b) B = 3 x + 1 − 5 .
+
+10B. Tìm giá trị nhỏ nhất của các biểu thức:
+а) A = 5 + (−2 x + 1) 2 ;
+
+b) B = 5 y − 2 + ( x − 1) 2 + 3 .
+
+11A. Tìm giá trị lớn nhất của các biểu thức:
+a) A =
+−(3 x − 1) 2 + 2 ;
+
+b) B =4 − 3 x − 2 .
+
+11B. Tìm giá trị lớn nhất của các biểu thức:
+
+= 13 − x 2 ;
+a) A
+
+b) B =−
+5 (2 x + 5) 4 .
+
+III. BÀI TẬP TỰ LUYỆN
+12. Viết các biểu thức đại số để biểu thị:
+a) Tích của tổng hai số x, y và hiệu các bình phương của hai số đó;
+b) Tích ba số tự nhiên liên tiếp;
+c) Một số tự nhiên chia 4 dư 3 ;
+
+d) Chu vi của một tam giác đều có cạnh bằng a .
+13. Diễn đạt các biểu thức đại số sau bằng lời:
+a) 3xyz ;
+
+b) 2 ( 2x − y ) ;
+
+c)
+
+x+ y+z
+.
+3
+
+14. Một người thuê nhà với giá 3 triệu đồng một tháng và người đó phải trả tiền dịch vụ giới thiệu là
+1 triệu đồng (tiền dịch vụ chỉ trả 1 lần).
+a) Hãy biểu thị giá tiền người đó phải trả khi thuê nhà trong x tháng.
+b) Tính số tiền người đó phải trả sau khi ở 2 tháng, 5 tháng.
+15. Tính giá trị của biểu thức :
+a) A =
+
+2
+x 2 + y 2 + 2 xy
+tại x = 1; y = − ;
+3
+x+ y
+
+b) B = 3 x 3 − x 2 + 1 tại x =
+−3; x =
+0,5 .
+16. Tính giá trị của biểu thức :
+a) C =
+
+5x − 4 y
+x y
+biết = ;
+11x − 2 y
+2 5
+
+b) D = ( x 3 − y 2 + 1) ( 2 x + 2 y ) tại x = − y .
+17. Tìm giá trị nhỏ nhất của các biểu thức:
+a) A = (2 x + 1) 2 + 3 ;
+
+b) B = ( x − 2 y ) 2 + y − 1 + 3 ;
+
+18. Tìm giá trị lớn nhất của các biểu thức:
+a) C =
+4 − 2(3 x + 1) 2 ;
+
+b) D =
+
+3
+.
+( x − 3) 2 + 5
+
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+
+1A. a) x 2 + y 2 ;
+
+b) (a + b) 2 ;
+
+c) 2x ( x 2 − y 2 ) ;
+
+d)
+
+x+ y
+.
+2
+
+1B. a) ( x + y )3 ;
+
+b) a 3 + b3 ;
+
+c)
+
+x+ y
+;
+3y
+
+d)
+
+x+ y+z
+.
+3
+
+2A. a) 4x ;
+
+b) 2 ( x + y ) ;
+
+c) 2π R ;
+
+2B. a) x 2 ;
+
+b)
+
+(a + b) h ;
+
+c) 5x .
+
+2
+
+3A. a) ( 2k + 1)( 2k + 3) ( k ∈  ) ;
+b) (2k + 1) 2 + (2m + 1) 2 ( k , m ∈  ) ;
+c)
+
+1
+.
+x+ y
+
+3B. a) 2k . ( 2k + 2 ) (với k ∈  )
+b) (2k + 1) 2 − (2m + 1) 2 ( k , m ∈  )
+c)
+
+1 1
++ .
+x y
+
+4A. Biểu thức biểu thị tổng số tiền phải trả là : 45 x + 40 y (nghìn đồng)
+4B. Tổng số tiền Phương và các bạn phải trả là: 8 x + 5 y + 3 z (nghìn đồng)
+5A. Biểu thức biểu thị lượng nước chảy được là : 3 x + 5 y (lít)
+5B. Biểu thức biểu thị chiều dài quãng đường AC là: 3 x + 1,5 y ( km )
+6A. a) Tổng của x và ba lần y .
+b) Tổng của bình phương số x và 1 .
+c) Bình phương của hiệu hai số x và hai lần y .
+6B. a) Hiệu của năm lần x và y .
+b) Hiệu của lập phương số x và năm lần y .
+c) Tích của hiệu hai số x và y với tổng của chúng.
+7A. a) Thay x = 5, 2 vào biểu thức A ta có: =
+A 5.5, 2 +=
+1 27 .
+b) Thay x = y = −1 vào biểu thức B ta có:
+
+B = ( −1) .(−1) 2 − 3(−1) 2 ( −1) + 1 = 3 .
+
+c) Thay x = 1; y = −2 vào biểu thức C ta có:
+C
+=  2.1 − ( −2 )  . (1 + 5=
+) 24 .
+
+7B. Tương tự 7A.
+a) A = 41 ;
+
+b) B = 5 ;
+
+c) C = −32 .
+
+a
+1
+3. + 2 3. + 2
+3a + 2b
+7
+8A. a) M =
+= b
+= 2
+= − ;
+4a − 3b 4. a − 3 4. 1 − 3
+2
+2
+b
+
+b) Do x = y ⇒ x − y = 0 , thay vào N ta có: N =
+
+( 3x + y − 3) .0= 0 .
+3
+
+2
+
+x
+3. + 10 3. 1 + 10
+3 x + 10 y
+11
+y
+3
+8B.
+a) P
+;
+=
+= = =
+x
+1
+9x + 2 y
+5
+9. + 2
+9. + 2
+y
+3
+
+b) Thay 3= x − y vào Q ta có:
+Q=
+
+4 x − x + y 4 y + x − y 3x + y 3 y + x
+−
+=
+−
+= 1 − 1 = 0.
+3x + y
+3y + x
+3x + y 3 y + x
+
+9A. Chiều dài của khu vườn ban đầu là: 2x ( m )
+Chiều rộng của phần còn lại của khu vườn là: x − 4 ( m )
+Chiều dài của phần còn lại của khu vườn là: 2 x − 4 ( m )
+Diện tích còn lại của khu vườn là: ( x − 4 ) . ( 2 x − 4 ) ( m 2 )
+Thay x = 7 , ta có diện tích còn lại của khu vườn là:
+
+30 ( m 2 ) .
+( 7 − 4 ) .( 2.7 − 4 ) =
+9B. a) Trong a giờ, vòi chảy vào bể được số lượng nước là: a.x (lít)
+Lượng nước chảy ra bằng
+
+1
+lượng nước chảy vào, nên số lượng nước có trong bể khi mở đồng thời
+4
+
+cả hai vòi trong a giờ là:
+
+3
+a.x (lít)
+4
+
+b) Thay
+=
+x 30;
+=
+a 3 vào biểu thức ta có lượng nước có trong bể là:
+
+3
+.3.30 = 67,5 (lít)
+4
+
+10A. a) Nhận xét: ( x − 3) 2 ≥ 0, ∀x ⇔ ( x − 3) 2 + 1 ≥ 1 ⇔ A ≥ 1 .
+Dấu " = " xảy ra ⇔ x − 3 = 0 ⇔ x = 3 .
+
+MinA = 1 tại x = 3 .
+b) Nhận xét: 3 x + 1 ≥ 0, ∀x ⇔ 3 x + 1 − 5 ≥ −5 ⇔ B ≥ −5 .
+1
+Dấu "=" xảy ra ⇔ 3 x + 1 =0 ⇔ x =− .
+3
+1
+Min B = −5 tại x = − .
+3
+
+10B. Tương tự 10A.
+a) Min A = 5 tại x =
+
+1
+;
+2
+
+b) Min B = 3 tại=
+x 1;=
+y
+
+2
+.
+5
+
+11A. a) Nhận xét: −(3 x − 1) 2 ≤ 0, ∀x ⇔ −(3 x − 1) 2 + 2 ≤ 2 ⇔ A ≤ 2 .
+Dấu "=" xảy ra ⇔ 3 x − 1 = 0 ⇔ x =
+
+MaxA = 2 tại x =
+
+1
+.
+3
+
+1
+3
+
+b) Nhận xét: − 3 x − 2 ≤ 0, ∀x ⇔ − 3 x − 2 + 4 ≤ 4 ⇔ B ≤ 4 .
+Dấu "=" xảy ra ⇔ − 3 x − 2 = 0 ⇔ x =
+Max B = 4 tại x =
+
+2
+.
+3
+
+2
+.
+3
+
+11B. Tương tự 11A.
+a) MaxA = 13 tại x = 0 ;
+5
+b) Max B = 5 tại x = − .
+2
+
+12. a) ( x + y ) . ( x 2 − y 2 ) ;
+c) 4k + 3 ( k ∈  )
+13. a) Tích của ba lần x với y và z ;
+b) Tích của số 2 và hiệu hai lần x và y ;
+
+b) n. ( n + 1) . ( n + 2 ) ( n ∈  ) ;
+d) 3a .
+
+c) Trung bình cộng của 3 số x, y, z .
+14. a) Giá tiền người đó phải trả khi thuê nhà trong x tháng là : 3 x + 1 (triệu đồng) ;
+
+7 (triệu đồng) ;
+b) Số tiền người đó phải trả sau khi ở 2 tháng là : 3.2 + 1 =
+16 (triệu đồng).
+Số tiền người đó phải trả sau khi ở 5 tháng là : 3.5 + 1 =
+15. Tương tự bài 7A.
+1
+a) A = ;
+3
+9
+b) B = −89 tại x =
+−3; B =tại x = 0,5 .
+8
+
+16. Tương tự bài 8A.
+x
+2
+5. − 4
+5. − 4
+x y
+x 2
+5
+y
+a) = ⇒ =; C =
+= 5
+=
+− .
+x
+2
+y 5
+2 5
+6
+11. − 2 11. − 2
+y
+5
+
+b) x =− y ⇒ x + y =0 ⇒ 2 x + 2 y =0 . Do đó D = 0 .
+17. Tương tự bài 10A.
+1
+a) MinA = 3 tai x = − ;
+2
+
+b) Min B = 3 tại=
+x 2;=
+y 1.
+18. Tương tự bài 11A.
+1
+a) MaxC = 4 tại x = − ;
+3
+
+b) MaxD =
+
+3
+tại x = 3 .
+5
+
+BÀI 2. ĐA THỨC MỘT BIẾN
+I. TÓM TẮT LÝ THUYẾT
+1. Đơn thức một biến
+- Đơn thức một biến (gọi tắt là đơn thức) là biểu thức đại số có dạng a.x n , trong đó số thực a ≠ 0
+được gọi là hệ số, số mũ n (n nguyên dương) của lũy thừa của biến gọi là bậc của đơn thức.
+Ví dụ: −0,5x 3 là đơn thức một biến x , với hệ số là −0,5 ; bậc là 3 .
+* Chú ý:
++) Số 0 cũng được coi là một đơn thức. Đơn thức này không có bậc.
++) Một số khác 0 là một đơn thức bậc 0 .
+- Cộng (hay trừ) hai đơn thức cùng bậc cùng biến: Để cộng (hay trừ) hai đơn thức cùng bậc ta
+cộng (hay trừ) các hệ số với nhau và giữ nguyên lũy thừa của biến. Tổng nhận được là một đơn
+thức.
+- Nhân hai đơn thức: Để nhân hai đơn thức, ta nhân hai hệ số với nhau và nhân hai lũy thừa của
+biến với nhau. Tích nhận được cũng là một đơn thức.
+2. Đa thức một biến
+- Đa thức một biến
++) Đa thức một biến (gọi tắt là đa thức) là tổng của những đơn thức của cùng một biến; mỗi đơn
+thức trong tổng gọi là một hạng tử của đa thức đó.
++) Số 0 cũng được coi là một đa thức, gọi là đa thức không.
++) Một đơn thức cũng là một đa thức.
+- Đa thức một biến thu gọn: là đa thức không chứa hai đơn thức nào cùng bậc.
+- Sắp xếp đa thức một biến: Đa thức một biến thường được sắp xếp theo lũy thừa tăng hoặc giảm
+của biến.
+- Bậc và các hệ số của một đa thức
+Trong một đa thức thu gọn và khác đa thức không:
++) Bậc của hạng tử có bậc cao nhất gọi là bậc của đa thức đó.
++) Hệ số của hạng tử có bậc cao nhất gọi là hệ số cao nhất của đa thức đó.
++) Hệ số của hạng tử bậc 0 gọi là hệ số tự do của đa thức đó.
+- Nghiệm của đa thức một biến
++) Nếu tại x = a , đa thức F ( x ) có giá trị bằng 0 , tức là F ( a ) = 0 , thì ta gọi a (hoặc x = a ) là một
+
+nghiệm của đa thức F ( x ) .
++) Một đa thức (khác đa thức không) có thể có một nghiệm, hai nghiệm, ... hoặc không có nghiệm.
+Số nghiệm của một đa thức (khác đa thức không) không vượt qua bậc của đa thức đó.
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Nhận biết đơn thức một biến
+Phương pháp giải: Để nhận biết một biểu thức là đơn thức một biến, ta căn cứ vào định nghĩa của
+nó.
+1A. Trong các biểu thức sau biểu thức nào là đơn thức một biến, khi đó hãy xác định phần hệ số,
+phần biến của đơn thức đó.
+a) −3x 6 ;
+d)
+
+b)
+
+1
+. 5x2 ;
+3
+
+1 3
+xy z ;
+4
+
+e) −3 ( x 3 ) ;
+2
+
+6
+c) − ;
+5
+
+f)
+
+1 2  1 3
+x . −  y .
+7  3
+
+1B. Trong các biểu thức sau biểu thức nào không là đơn thức một biến.
+a) 9x 2 ;
+
+3
+b) − xy 3 ;
+4
+
+c) 0 ;
+
+1
+d) 1 + x 2 ;
+3
+
+e) 3.5.t 3 ;
+
+f) xy 2 z .
+
+Dạng 2. Nhân các đơn thức
+Phương pháp giải: Ta áp dụng quy tắc nhân các đơn thức tùy ý: Nhân các hệ số với nhau và nhân
+các lũy thừa của biến với nhau.
+2A. Thực hiện phép tính và viết kết quả dưới dạng một đơn thức. Chỉ ra hệ số và bậc của đơn thức
+đó.
+3
+ 1 
+a)  − x 2  .2 x 2 . ;
+4
+ 2 
+
+c) ( −4 x ) . ( 8 x 2 ) .
+
+1
+;
+16
+
+3 
+b)  x 3  .0, 2 x.5 x 2
+5 
+ 1 
+d) ( −0.25 x ) . ( 8 x 2 ) .  − x  .
+ 2 
+
+2B. Thực hiện phép tính và viết kết quả dưới dạng một đơn thức. Chỉ ra hệ số và bậc của đơn thức
+đó.
+1 3 
+a) − x 4 . .  x 2  ;
+6 4 
+
+ 1 
+b) ( 0,6 x ) . 1 x 3  .5 x 2 ;
+ 2 
+
+c)
+
+2 2
+x
+x .(−3 x) 2 . ;
+2
+3
+
+d) ( 2 x 3 )( −5 x 2 ) .7
+
+Dạng 3. Cộng, trừ các đơn thức một biến cùng bậc
+Phương pháp giải: Để cộng (trừ) các đơn thức cùng bậc ta cộng (hay trừ) các hệ số với nhau và giữ
+nguyên lũy thừa của biến.
+3A. Tính tổng các đơn thức sau:
+2
+a) 3 x 2 ; x 2 ; −2 x 2 ;
+3
+
+b) y;3 y; −7 y .
+
+3B. Tính tổng các đơn thức sau:
+1
+а) 5 z 3 ; − z 3 ; −4 z 3 ;
+3
+
+5
+b) −t 2 ; 2t 2 ; t 2 .
+6
+
+4A. Thực hiện phép cộng đơn thức và viết kết quả dưới dạng một đơn thức. Chỉ ra hệ số và bậc của
+đơn thức đó.
+a)
+
+7 5 5 5
+x − x + ( −2 x 5 ) ;
+4
+4
+
+ 2 
+b)  − y 3  + 3 y 3 − 2 y 3 + y 3 .
+ 3 
+
+4B. Thực hiện phép cộng đơn thức và viết kết quả dưới dạng một đơn thức. Chỉ ra hệ số và bậc của
+đơn thức đó.
+a) −5 z − 3 z + (−2)3 z ;
+
+b) 2t 2 + 2,5t 2 − 3t 2 − −2t 2 .
+
+5A. Một bác nông dân sử dụng hai máy bơm để tưới nước cho cánh đồng. Máy bơm thứ nhất mỗi
+giờ bơm được 20 m3 nước. Máy bơm thứ hai mỗi giờ bơm được 18 m3 nước. Sau khi cả hai máy
+chạy trong x giờ, bác tắt máy thứ hai và để máy thứ nhất chạy thêm trong 0,5 giờ nữa rồi tắt. Hãy
+viết đa thức (biến x ) biểu thị dung tích nước bác đã bơm cho cánh đồng. Tìm hệ số cao nhất và hệ
+số tự do của đa thức đó.
+5B. Ở một cửa hàng sách giá một chiếc bút bi là 4 nghìn đồng và một quyển vở là 9 nghìn đồng.
+Hãy viết đa thức biểu thị số tiền bạn Nam mua 2 hộp bút trong đó mỗi hộp có x chiếc bút; x quyển
+vở và Nam mua thêm một hộp bút chì màu giá 75 nghìn đồng. Tìm hệ số cao nhất và hệ số tự do của
+đa thức đó.
+Dạng 3. Thu gọn và sắp xếp các hạng tử của đa thức
+Phương pháp giải: Để thu gọn đa thức ta làm như sau:
+Bước 1. Xác định các đơn thức cùng bậc;
+Bước 2. Cộng, trừ các đơn thức cùng bậc.
+Sau đó sắp xếp các hạng tử của đa thức theo lũy thừa có bậc tăng hoặc giảm dần của biến.
+
+6A. Thu gọn và sắp xếp các hạng tử của đa thức theo lũy thừa giảm dần của biến:
+1
+a) A ( x )= 3 x 4 − x 2 + 5 − x + 2 x 2 + x 3 + x 4 − 2 ;
+3
+
+b) B ( x ) =−2 x 2 + 5 x 5 − x 4 + 4 + 3 x 2 + 2 x 4 + x 3 − 5 x 5 ;
+c) C ( x ) = 2 x 3 − x 5 + 2 x 4 − x 2 + 3 x 5 − 2 x 2 − x 4 + 1 .
+6B. Thu gọn và sắp xếp các hạng tử của đa thức theo lũy thừa tăng dần của biến:
+a) A ( x ) = x 7 − 3 x 4 + 2 x 3 + x 2 − x 4 − x + x 7 − x 3 + 3 ;
+b) B ( x )= 6 x 4 + 7 x 3 − 2 x +
+c) C ( x ) = x 4 − 3 x 2 +
+
+1
+x + 3 − 5 x3 ;
+2
+
+1
+− x + x5 − 2 x 2 + 1 .
+2
+
+Dạng 4. Xác định bậc, hệ số của đa thức
+Phương pháp giải:
+- Bậc của đa thức một biến (khác đa thức không, đã thu gọn) là bậc của hạng tử có bậc lớn nhất
+trong đa thức đó.
+- Hệ số của hạng tử có bậc cao nhất gọi là hệ số cao nhất; hệ số của hạng tử bậc 0 gọi là hệ số tự do
+của đa thức đó.
+7A. Xác định bậc và hệ số tự do, hệ số cao nhất của mỗi đa thức sau:
+2
+a) A ( x ) = 3 x 3 − x 2 + 7 x − 3 ;
+5
+
+b) B ( x ) = 2 x + 8 − 3 x 2 + 2 x 3 − 4 x 4 + x 5 ;
+c) C ( x ) =
+1 + 3x 2 − 4 x + 8 x 2 − 5 x + 4 x + 3x3 − 2 .
+7B. Xác định bậc và hệ số tự do, hệ số cao nhất của mỗi đa thức sau:
+a) A ( x=
+)
+
+−1 5
+3
+x + x4 − x2 + 5x + 1 ；
+2
+5
+
+b) B ( x ) = x 4 + 4 x 3 + 5 x − 2 − 9 x 2 ;
+c) C (=
+x ) 0,5 x 4 − x 5 + 4 x 3 − 2 x − 2 x 3 + x + 1,5 .
+8A. Viết đa thức M ( x ) thỏa mãn đồng thời các điều kiện sau:
+- Bậc của M ( x ) bằng 5.
+- Hệ số của x 3 bằng hệ số của x bằng - 3 .
+
+- Hệ số cao nhất của M ( x ) bằng 5 và hệ số tự do bằng 1 .
+8B. Viết đa thức N ( x ) có bốn hạng tử mà hệ số cao nhất bằng 3 và hệ số tự do bằng - 5 .
+Dạng 5. Tính giá trị của đa thức
+Phương pháp giải: Để tính giá trị của đa thức ta làm như sau:
+Bước 1. Thu gọn đa thức (nếu cần)
+Bước 2. Thay giá trị của biến vào đa thức rồi thực hiện các phép tính.
+Chú ý: Giá trị của đa thức P ( x ) tại x = a được kí hiệu là P ( a ) .
+9A. Cho đa thức: P ( x ) = 3 x 3 + 2 x 2 + 4 − 3 x + 3 x 2 − 3 x 3 − 5 x 2 + 3 .
+a) Thu gọn và sắp xếp các hạng tử của P ( x ) theo lũy thừa giảm dần của biến.
+2
+b) Tính P ( 0 ) ; P ( −1) ; P   .
+3
+5
+1
+9B. Cho đa thức: Q ( x ) = x 2 − 2 x 3 + 4 x 2 − 6 x + − 3 x + x 2 + + 3 x 4 .
+3
+3
+
+a) Thu gọn và sắp xếp các hạng tử của Q ( x ) theo lũy thừa tăng dần của biến.
+1
+b) Tính Q (1) ; Q ( −1) ; Q   .
+2
+
+10A. Theo trung tâm dự báo thời tiết của Nga, nhiệt độ ngoài trời ở thành phố Matxcơva của nước
+này vào một ngày của tháng 4 tại một số múi giờ được cho bởi bảng sau:
+Thời gian
+
+0 (giờ)
+
+2 (giờ)
+
+5 (giờ)
+
+Nhiệt độ ( 0 F )
+
+28,4
+
+32
+
+33,8
+
+Dựa vào công thức đổi độ F sang độ C là=
+C
+
+5
+( F − 32 ) . Em hãy:
+9
+
+a) Đổi nhiệt độ từ các múi giờ cho trên ra đơn vị độ C.
+b) Cho biết nước đóng băng ở nhiệt độ bao nhiêu?
+10B. Giá trị của một chiếc máy tính bảng sau khi sử dụng x năm được cho bởi công thức:
+
+=
+F ( x ) 10200000 − 1100000 x (đồng)
+a) Hãy tính F (1) ;F ( 2 ) ;F ( 3) . Và cho biết F (1) ;F ( 2 ) ;F ( 3) có nghĩa là gì?
+b) Sau bao nhiêu năm thì giá trị của máy tính bảng là 4700000 đồng.
+Dạng 6. Tìm nghiệm của đa thức
+
+Phương pháp giải: Để tìm nghiệm của đa thức P ( x ) , ta tìm các giá trị của x sao cho P ( x ) = 0 .
+11A. Cho đa thức P ( x ) = x 2 + x − 2 . Trong các số 0;1; −1; 2; −2 , số nào là nghiệm của đa thức P ( x ) .
+11B. Cho các giá trị 1; 2; −2; −6;8 . Giá trị nào là nghiệm của đa thức Q ( x ) = x 2 + 5 x − 6 .
+12A. Cho đa thức F ( x=
+)
+
+( 2 x + 7 x ) − ( x + 4 x + 1) − 9 .
+2
+
+2
+
+a) Thu gọn đa thức F ( x ) ;
+b) Chứng minh rằng 2 và -5 đều là nghiệm của F ( x ) .
+12B. Cho đa thức G ( x ) =−2 x 2 − 3 + 5 x + 3 x 2 − 7 x .
+a) Thu gọn đa thức G ( x ) .
+b) Chứng minh rằng -1 và 3 đều là nghiệm của G ( x ) .
+13A. Tìm nghiệm của đa thức:
+a) x + 5 ;
+
+b) 2 x − 1 ;
+
+3
+c) −3 x + ;
+4
+
+d) x 2 − x ;
+
+e) 2 x 2 + 6 x ;
+
+f) 3 x 2 +
+
+1
+x.
+2
+
+13B. Tìm nghiệm của đa thức:
+1
+4
+
+a) x − 7 ;
+
+b) 12 − 3x ;
+
+c) 2 x +
+
+d) 4x − x 2 ;
+
+e) 2 x 2 − 32 x ;
+
+f) x + x 2 .
+
+14A. Chứng tỏ các đa thức sau không có nghiệm:
+a) x 2 + 2 ;
+
+b) 2 x 2 + 1 ;
+
+c) x8 + 7 .
+
+14B. Chứng tỏ các đa thức sau không có nghiệm:
+a) x 2 + 5 ;
+
+b) 3 x 2 + 2 ;
+
+c) x 4 + 10 .
+
+15A. Cho đa thức P ( x ) = 5 x + a − 2 . Tìm a để đa thức P ( x ) có nghiệm:
+a) x = −1 ;
+
+b) x = 2 ;
+
+c) x =
+
+3
+.
+4
+
+−3ax + 2a − 1 . Tìm a để đa thức P ( x ) có nghiệm:
+15B. Cho đa thức Q ( x ) =
+a) x = 3 ;
+
+b) x = −5 ;
+
+III. BÀI TẬP TỰ LUYỆN
+
+2
+c) x = − .
+3
+
+16. Tính:
+1
+ 5  1
+b) − x 4 −  − x 4  + x 4 ;
+2
+ 8  4
+
+3
+a) 7 x 5 − 3 x 5 ;
+4
+
+c) 5 x.(3 x) 2 .
+
+−1 3
+x ;
+5
+
+1 6
+d) − x. x 2 .3 x 3 .
+2 5
+
+17. Cho đa thức A ( x )= 9 x 5 − x 3 + 4 x 2 + 9 x − x 2 + 9 − 9 x 5 + x 3 − 3 .
+a) Thu gọn đa thức trên rồi sắp xếp đa thức theo lũy thừa giảm dần của biến.
+b) Xác định bậc, hệ số tự do, hệ số cao nhất của đa thức.
+c) Tính A ( 2 ) ; A ( −1) ; A ( 0 ) .
+d) Số nào là nghiệm của đa thức trong các số sau:
+18. Cho đa thức B ( x )=
+
+1
+; −2; −1 .
+2
+
+( 3x − 3x + 2 ) − ( 2 x − 7 x − 1) .
+2
+
+2
+
+a) Thu gọn đa thức trên.
+1
+b) Tính giá trị của biểu thức tại x = 3; x = − .
+2
+
+c) Giải thích vì sao -1 và -3 đều là nghiệm của B ( x ) .
+19. Tìm nghiệm của mỗi đa thức sau:
+a) 3 x − 2 ;
+
+b) 9 − x 2 ;
+
+ −1 
+c) 5 x +  x  − 6 ;
+ 5 
+
+d) x ( 2 x + 1) ;
+
+e) ( 5 x + 3) − ( x + 1) ;
+
+f) x 2 − 3 x ;
+
+g) x 2 + 3 ;
+
+h) 2 x 2 + 5 ;
+
+i) x 3 + 16 x .
+
+20. Cho đa thức P ( x ) = x 2 − ax + 2 .
+a) Xác định a để P ( x ) nhận 2 là nghiệm.
+b) Tìm tập hợp nghiệm của P ( x ) ứng với giá trị vừa tìm được của a .
+21. Nhà may A sản xuất một lô áo gồm 200 chiếc áo với giá vốn ban đầu là 30000000 đồng và bán
+mỗi áo giá 300000 đồng. Khi đó gọi T là số tiền lãi (hoặc lỗ) của nhà may thu được khi bán x chiếc
+áo ( 0 ≤ x ≤ 200 )
+a) Thiết lập đa thức biểu thị số tiền lãi (hoặc lỗ) của nhà may sau khi bán được x chiếc áo.
+b) Tính số tiền khi bán được 150 chiếc áo. Khi đó nhà may lãi hay lỗ?
+
+c) Hỏi cần phải bán bao nhiêu chiếc áo mới có thể thu hồi được vốn ban đầu?
+
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+1A.
++) −3x 6 là một đơn thức một biến có hệ số: -3 ; phần biến: x 6 ;
++) −
++)
+
+6
+6
+là một đơn thức một biến có hệ số − ; phần biến: x 0 ;
+5
+5
+
+5
+1
+; phần biến: x 2 ;
+. 5 x 2 là một đơn thức một biến có hệ số
+3
+3
+
++) −3 ( x 3 ) là một đơn thức một biến có hệ số - 3 ; phần biến: ( x 3 ) .
+2
+
+2
+
+3
+1
+1B. Biểu thức không là đơn thức một biến là: − xy 3 ;1 + x 2 ; xy 2 z .
+4
+3
+
+3  1 3 2 2
+3
+ 1 
+2A. a)  − x 2  .2 x 2 . =
+− x4
+ − .2.  . ( x .x ) =
+4  2 4
+4
+ 2 
+
+Hệ số:
+
+−3
+; Bậc: 4
+4
+
+3 6
+3 3
+3
+
+2
+b)
+=
+.0, 2.5  . ( x 3 .x.x 2 )
+x
+ x  .0, 2 x.5 x =
+5
+5 
+5
+
+
+Hệ số:
+
+3
+; Bậc: 6
+5
+
+c) ( −4 x ) . ( 8 x 2 ) .
+
+1 
+1
+2
+=
+−2 x 3
+ −4.8.  . ( x.x ) =
+16 
+16 
+
+Hệ số: -2 ; Bậc: 3
+−1 
+ 1  
+2
+d) ( −0, 25 x ) . ( 8 x 2 ) .  − x  =
+x4
+ −0, 25.8.  ( x.x .x ) =
+2 
+ 2  
+
+Hệ số: 1; Bậc: 4.
+2B. Tương tự 2A
+1
+1
+a) − x 6 . Hệ số: − ; Bậc: 6;
+8
+8
+
+b)
+
+9 6
+9
+x . Hệ số: ; Bậc: 6;
+2
+2
+
+c) − x 5 . Hệ số: -1 ; Bậc: 5 ;
+d) −70x 5 . Hệ số: -70 ; Bậc: 5;
+
+3A. a) 3 x 2 +
+
+2 2
+2
+5 2
+
+
+x + ( −2 x 2 )=  3 + − 2  .x 2 =
+x ;
+3
+3
+3
+
+
+
+b) y + 3 y + ( −7 y ) =(1 + 3 − 7 ) y =−3 y .
+3B. Tương tự 3A
+a)
+
+2 3
+z ;
+3
+
+4A. a)
+
+b)
+
+11 2
+t .
+6
+
+7 5 5 5
+3
+7 5
+
+x − x + ( −2 x 5 ) = − − 2  x 5 =− x 5 ;
+4
+4
+2
+4 4
+
+
+3
+Hệ số: − ; Bậc: 5;
+2
+
+ −2 3 
+ −2
+ 3 4 3
+3
+b) 
++ 3 − 2 + 1 y=
+y  + 3 y 3 − 2 y 3 + y=
+y
+
+3
+ 3
+
+ 3
+
+
+Hệ số:
+
+4
+; Bậc: 3 .
+3
+
+4B. Tương tự 4A
+a) −16z . Hệ số: -16 ; Bậc: 1;
+1
+1
+b) − t 2 . Hệ số: − ; Bậc: 2 .
+2
+2
+
+5A. Đa thức biểu thị dung tích nước bác đã bơm cho cánh đồng là:
+
+20 x + 18 x + 0,5.20 = 38 x + 10 ( m3 )
+Hệ số cao nhất là 38 và hệ số tự do là 10.
+5B. Đa thức biểu thị số tiền bạn Nam đã mua là:
+
+2.x.4 + 9.x + 75 = 17 x + 75 (nghìn đồng)
+Hệ số cao nhất là 17 và hệ số tự do là 75 .
+1
+6A. a) A ( x )= 3 x 4 − x 2 + 5 − x + 2 x 2 + x 3 + x 4 − 2
+3
+=
+
+( 3x + x ) + 13 x + ( − x + 2 x ) − x + ( 5 − 2 )
+4
+
+4
+
+3
+
+2
+
+2
+
+1
+= 4 x 4 + x3 + x 2 − x + 3
+3
+
+b) B ( x ) =−2 x 2 + 5 x 5 − x 4 + 4 + 3 x 2 + 2 x 4 + x 3 − 5 x 5
+
+=
+
+( 5 x − 5 x ) + ( − x + 2 x ) + x + ( −2 x + 3x ) + 4
+5
+
+5
+
+4
+
+4
+
+3
+
+2
+
+2
+
+= x 4 + x3 + x 2 + 4
+c) C ( x ) = 2 x 3 − x 5 + 2 x 4 − x 2 + 3 x 5 − 2 x 2 − x 4 + 1
+
+= ( − x5 + 3x5 ) + ( 2 x 4 − x 4 ) + 2 x3 + ( − x 2 − 2 x 2 ) + 1
+
+= 2 x5 + x 4 + 2 x3 − 3x 2 + 1
+6B. Tương tự 6A.
+а) A ( x ) = 3 − x + x 2 + x 3 − 4 x 4 + 2 x 7 ;
+3
+b) B ( x ) =−
+3
+x + 2 x3 + 6 x 4 ;
+2
+
+c) C ( x ) =
+
+3
+− x − 5 x 2 + x 4 + x5 .
+2
+
+2
+7A. a) A ( x ) = 3 x 3 − x 2 + 7 x − 3 ;
+5
+
+Bậc: 3; Hệ số tự do: -3 ; Hệ số cao nhất: 3
+b) B ( x ) = x 5 − 4 x 4 + 2 x 3 − 3 x 2 + 2 x + 8
+Bậc: 5; Hệ số tự do: 8; Hệ số cao nhất: 1
+c) C ( x ) =
+1 + 3x 2 − 4 x + 8 x 2 − 5 x + 4 x + 3x3 − 2
+
+=3 x 3 + ( 3 x 2 + 8 x 2 ) + ( −4 x − 5 x + 4 x ) + (1 − 2 )
+
+= 3 x 3 + 11x 2 − 5 x − 1
+Bậc: 3; Hệ số tự do: -1; Hệ số cao nhất: 3.
+7B. Tương tự 7A.
+a) A ( x=
+)
+
+3
+−1 5
+x + x4 − x2 + 5x + 1 ;
+2
+5
+
+1
+Bậc: 5; Hệ số tự do: 1; Hệ số cao nhất: − ;
+2
+
+b) B ( x ) = x 4 + 4 x 3 + 5 x − 2 − 9 x 2
+
+= x 4 + 4 x3 − 9 x 2 + 5 x − 2 ;
+Bậc: 4; Hệ số tự do: -2 ; Hệ số cao nhất: 1;
+c) C (=
+x ) 0,5 x 4 − x 5 + 4 x 3 − 2 x − 2 x 3 + x + 1,5
+
+=− x 5 + 0,5 x 4 + ( 4 x 3 − 2 x 3 ) + ( −2 x + x ) + 1,5
+=− x 5 + 0,5 x 4 + 2 x 3 − x + 1,5
+
+Bậc: 5; Hệ số tự do: 1,5; Hệ số cao nhất: -1 .
+8A. M ( x ) = 5 x 5 − 3 x 3 − 3 x + 1 。
+8 B. N ( x ) = 3 x 4 + 2 x 3 − x 2 − 5 (Ngoài hạng tử 3 x 4 ; −5 , các hạng tử còn lại tùy ý lựa chọn).
+9A. a) P ( x ) = 3 x 3 + 2 x 2 + 4 − 3 x + 3 x 2 − 3 x 3 − 5 x 2 + 3
+
+=
+
+( 3x − 3x ) + ( 2 x + 3x − 5 x ) − 3x + 4 + 3
+3
+
+3
+
+2
+
+2
+
+2
+
+=
+−3 x + 7
+b) P ( 0 ) =−3.0 + 7 =7
+
+P ( −1) =−3. ( −1) + 7 =
+10
+2
+2
+P   =−3. + 7 =5
+3
+3
+
+9B. Tương tự 9A.
+a) Q ( x ) =2 − 9 x + 6 x 2 − 2 x 3 + 3 x 4
+17
+1
+b) Q (1) =
+0; Q ( −1) =
+22; Q   =
+− .
+16
+2
+
+10A. a)
+Thời gian
+
+0 (giờ)
+
+2 (giờ)
+
+5 (giờ)
+
+Nhiệt độ ( 0 F )
+
+28,4
+
+32
+
+33,8
+
+Nhiệt độ ( 0 C )
+
+5
+−2
+( 28, 4 − 32 ) =
+9
+
+5
+0
+( 32 − 32 ) =
+9
+
+5
+1
+( 33,8 − 32 ) =
+9
+
+b) Nước đóng băng ở 0 C hay 32 F .
+10B. a) F (1) =10200000 − 1100000.1 = 9100000 (đồng)
+
+F ( 2 ) =10200000 − 1100000.2 =8000000 ( đồng)
+
+F ( 3) =10200000 − 1100000.1 = 6900000 (đồng)
+F (1) ;F ( 2 ) ;F ( 3) lần lượt là giá trị của chiếc máy tính bảng sau khi sử dụng 1 năm, 2 năm, 3 năm.
+b) Ta có: F ( x ) = 10200000 − 1100000 x = 4700000
+
+1100000
+=
+x 10200000 − 4700000
+1100000 x = 5500000
+x=5
+Vậy sau 5 năm thì giá trị máy tính chỉ còn lại là 4700000 đồng.
+11A. Tính: P ( 0 ) =02 + 0 − 2 =−2 ⇒ 0 không là nghiệm của P ( x ) .
+P (1) = 12 + 1 − 2 = 0 ⇒ 1 là nghiệm của P ( x ) .
+P ( −1) = (−1) 2 + ( −1) − 2 = −2 ⇒ −1 không là nghiệm của P ( x ) .
+P ( 2 ) = 22 + 2 − 2 = 4 ⇒ 2 không là nghiệm của P ( x ) .
+P ( −2 ) = (−2) 2 + ( −2 ) − 2 = 0 ⇒ −2 là nghiệm của P ( x ) .
+
+11B. Tương tự như 11A.
+Ta có 1 ; - 6 là nghiệm của đa thức Q ( x ) .
+12A. a) F ( x=
+)
+
+( 2 x + 7 x ) − ( x + 4 x + 1) − 9
+2
+
+2
+
+= 2x2 + 7 x − x2 − 4x − 1 − 9
+
+( 2 x − x ) + ( 7 x − 4 x ) + ( −1 − 9 )
+2
+
+=
+
+2
+
+= x 2 + 3 x − 10
+b) Thay x = 2 vào F ( x ) ta có: F ( 2 ) = 0 ⇒ x = 2 là một nghiệm của F ( x ) ;
+
+0 ⇒ x =−5 là một nghiệm của F ( x ) ;
+Thay x = −5 vào F ( x ) ta có: F ( −5 ) =
+12B. Tương tự bài 12A
+a) G ( x ) = x 2 − 2 x − 3
+
+−1) 0; G=
+b) Tính được G (=
+( 3) 0 nên -1 và 3 là nghiệm của G ( x ) .
+13A.
+
+0
+a) x + 5 =
+x= 0 − 5
+x = −5
+Vậy x = −5 là nghiệm của đa thức.
+
+b) 2 x − 1 =0
+
+2x = 1
+x=
+
+Vậy x =
+
+1
+2
+
+1
+là nghiệm của đa thức.
+2
+
+c) −3 x +
+
+3
+0
+=
+4
+
+−3 x =
+−
+
+0
+d) x 2 − x =
+x ( x − 1) =
+0
+
+3
+4
+
+x = 0 hoặc x = 1
+Vậy x ∈ {0;1} là nghiệm của đa thức
+
+3
+x=
+− : ( −3)
+4
+
+x=
+
+Vậy x =
+
+1
+4
+
+1
+là nghiệm của đa thức.
+4
+
+0
+e) 2 x 2 − 6 x =
+
+f) 3 x 2 +
+
+2 x ( x − 3) =
+0
+
+1
+
+x  3x +  =
+0
+2
+
+
+x = 0 hoặc x = 3
+Vậy x ∈ {0;3} là nghiệm của đa thức
+
+1
+x=
+0
+2
+
+TH1: x = 0
+TH2: 3 x +
+3x = −
+
+1
+=
+0
+2
+
+1
+2
+
+x= −
+
+1
+6
+
+1
+
+Vậy x ∈ 0; −  là nghiệm của đa thức
+6
+
+
+13B. Tương tự như 13A.
+a) x = 7 ;
+
+b) x = 4 ;
+
+1
+c) x = − ;
+8
+
+d) x ∈ {0;4} ;
+
+e) x ∈ {0;16} ;
+
+f) x = 0 hoặc x = −1
+
+14A. a) Ta có x 2 ≥ 0, ∀x , nên x 2 + 2 ≥ 2 > 0 , mọi x
+Do đó đa thức không có nghiệm.
+b) Ta có x 2 ≥ 0, ∀x , nên 2 x 2 + 1 ≥ 1 > 0 , mọi x
+Do đó đa thức không có nghiệm.
+c) Ta có x8 ≥ 0, ∀x , nên x8 + 7 ≥ 7 > 0 , mọi x
+
+Do đó đa thức không có nghiệm.
+14B. Tương tự như 14A.
+15A. a) x = −1 là nghiệm của đa thức P ( x ) nên ta có:
+
+P ( −1) = 5. ( −1) + a − 2 = 0 ⇒ −7 + a = 0
+
+a = 7.
+Vậy với a = 7 thì đa thức P ( x ) có nghiệm x = −1
+b) x = 2 là nghiệm của đa thức P ( x ) nên ta có:
+
+P ( 2 ) = 5.2 + a − 2 = 0 ⇒ 8 + a = 0
+
+a = −8.
+Vậy với a = −8 thì đa thức P ( x ) có nghiệm x = 2
+c) x =
+
+3
+là nghiệm của đa thức P ( x ) nên ta có:
+4
+
+3
+7
+3
+P   = 5. + a − 2 = 0 ⇒ + a = 0
+4
+4
+4
+7
+a= − .
+4
+
+Vậy với a = −
+
+3
+7
+thì đa thức P ( x ) có nghiệm x = .
+4
+4
+
+15B. Tương tự như 15A.
+1
+a) a = − ;
+7
+
+b) a =
+
+1
+;
+17
+
+c) a =
+
+3
+15  5 13 5
+
+16. a) 7 x 5 − 3 x 5 =
+7 −  x = x ;
+4
+4
+4
+
+1
+3
+ 5  1
+ 1 5 1
+b) − x 4 −  − x 4  + x 4 =  − + +  .x 4 = x 4 ;
+2
+8
+ 8  4
+ 2 8 4
+
+c) 5 x.(3 x) 2 .
+
+−1 3 
+−1 
+x =  5.3.  . ( x.x 2 .x 3 ) = −3 x 6 ;
+5
+5 
+
+
+1 6
+9
+ 1 6 
+2
+3
+d) − x. x 2 .3 x 3 =
+− x6 .
+ − . .3  .x.x .x =
+2 5
+5
+ 2 5 
+
+17. a) A ( x )= 9 x 5 − x 3 + 4 x 2 + 9 x − x 2 + 9 − 9 x 5 + x 3 − 3
+
+1
+.
+4
+
+=
+
+(9x − 9x ) + ( − x + x ) + ( 4x − x ) + 9x + 9 − 3
+5
+
+5
+
+3
+
+3
+
+2
+
+2
+
+= 3x 2 + 9 x + 6
+b) Bậc: 2; Hệ số tự do: 6; Hệ số cao nhất: 3.
+
+2 ) 36; A ( −=
+1) 0; A (=
+0) 6 ;
+c) A ( =
+d) Các số −2; −1 là nghiệm của đa thức vì A ( −2=
+) 0; A ( −1=) 0 .
+18. a) B ( x ) = ( 3 x 2 − 3 x + 2 ) − ( 2 x 2 − 7 x − 1) = 3 x 2 − 3 x + 2 − 2 x 2 + 7 x + 1
+
+= x2 + 4x + 3
+1
+5
+b) B ( 3=
+) 24; B  − = .
+ 2 4
+
+c) Nhận xét: B ( −1=
+) 0; B ( −3=) 0 nên -1 và -3 là nghiệm của B ( x ) .
+19. Tương tự như 13A.
+2
+;
+3
+
+b) x = ±3 ;
+
+c) x =
+
+1
+
+d) x ∈ 0; −  ;
+2
+
+
+1
+e) x = − ;
+2
+
+f) x {0;3} ;
+
+g) Vô nghiệm;
+
+h) Vô nghiệm;
+
+i) x = 0 .
+
+a) x =
+
+5
+;
+4
+
+20. Tương tự bài 15A
+a) a = 3 ;
+b) x ∈ {2;1} .
+
+=
+21.
+a) T 300000 x − 30000000 (đồng)
+b) Thay x = 150 , ta có: T = 15000000
+Khi đó nhà may đang lãi.
+c) Để thu hồi được vốn ban đầu thì
+
+T=
+0 ⇒ 300000 x − 30000000 =
+0
+x = 100 .
+Vậy cần phải bán 100 chiếc áo thì mới có thể thu hồi được vốn.
+
+BÀI 3. PHÉP CỘNG VÀ PHÉP TRỪ ĐA THỨC MỘT BIẾN
+I. TÓM TẮT LÝ THUYẾT
+Để cộng hoặc trừ hai đa thức một biến, ta có thể thực hiện theo một trong hai cách sau:
+- Cách 1: Cộng, trừ đa thức theo "hàng ngang": Viết hai đa thức trong dấu ngoặc; bỏ dấu ngoặc theo
+quy tắc dấu ngoặc và nhóm các hạng tử cùng bậc để thu gọn đa thức.
+- Cách 2: Cộng, trừ đa thức theo "cột dọc": Sắp xếp các hạng tử của hai đa thức cùng theo lũy thừa
+giảm (hoặc tăng) của biến, rồi đặt phép tính theo cột dọc (chú ý đặt các hạng tử cùng bậc thẳng cột
+với nhau). Cộng (trừ) hai đơn thức trong từng cột, ta có tổng (hiệu) cần tìm.
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Tính tổng hoặc hiệu của hai đa thức
+Phương pháp giải: Để tính tổng hoặc hiệu của hai đa thức ta thường làm như sau:
+Thu gọn và sắp xếp các hạng tử của hai đa thức cùng theo lũy thừa giảm (hoặc tăng) của biến. Sau
+đó:
+Cách 1: Cộng, trừ đa thức theo "hàng ngang": nhóm các hạng tử cùng bậc.
+Cách 2: Cộng, trừ đa thức theo "cột dọc".
+1A. Tìm tổng của hai đa thức sau (trình bày bằng hai cách):
+a) 2 x 2 − 0,5 x + 5 và 3 x 2 + 2,5 x + 4 ;
+b) 7 − 4 y 2 + 3 y + y 3 và −3 y 3 + 4 y 2 + 1 ;
+c) − z 4 + 3 z 3 + 3 z + 5 và 3 z 2 + z 4 + 5 − z ;
+d)
+
+3 5
+−1 5
+t − 2t 4 + 3t 2 − t + 1 và
+t + 4t 4 + t 3 − 2t 2 − 3 .
+4
+4
+
+1B. Tìm tổng của hai đa thức sau (trình bày bằng hai cách):
+a) −2 x 3 +
+
+1 2
+3
+x + 5 x − 1 và 4 x 3 + x 2 − 4 x + 6 ;
+2
+2
+
+b) 5 y 3 + 3 y − 2 y 2 + 3 y 4 − 13 và −4 y 3 + 5 y 2 + y + 9 ;
+3
+1
+c) − z 4 + z 3 − 3 z + 1 và − z 4 + z 3 + 5 z − 3 ;
+2
+2
+
+d) t 5 − 3t 2 + 7t 4 − 9t và t 2 − 3t 4 + t 3 − t 5 − 3 .
+2A. Tìm hiệu sau theo hai cách:
+a) ( 3 x 3 − 5 x 2 + 6 x + 5 ) − ( x 3 − x 2 + 4 x − 1) ;
+
+b) ( 5 x 3 − 2 x 2 + x − 3) − ( 4 x 3 + 5 x − 1) ;
+c) ( x 4 + 3 x 2 + 5 ) − ( x 4 − x 3 + 2 x 2 + 4 x + 1) ;
+d) (14 x 3 + 2 x 2 + 7 x ) − (11x 3 + x 2 + 5 x − 4 ) .
+2B. Tìm hiệu sau theo hai cách:
+a) ( 2 x 3 + x 2 − 6 x + 7 ) − ( − x 2 + 3 x − 6 ) ;
+4
+ 1
+
+b)  x 3 + 2 x 2 + 5 x − 3  −  x 3 + 2 x 2 − 5 x + 1 ;
+3
+ 3
+
+
+c) ( 4 x 4 − 5 x 2 + 1) − ( 3 x 4 + x 3 − 4 x 2 + 4 x − 3) ;
+d) ( 7 x 3 + 3,5 x 2 + 2 x ) − ( 5 x 3 + 1,5 x 2 + 5 x − 1) .
+3A. Cho hai đa thức:
+
+− x 4 + 7 x 2 + 2 x 3 − 10 + 6 x 4 − 3 x 3 + 5 x
+A=
+B= 2 x 4 + 6 − x 3 + 5 x − 5 x 2 − x 4 + 4 x 3
+Tính A + B và A − B .
+3B. Cho hai đa thức:
+
+C =−2 − 4 x + x 2 + 6 x 3 + 3 x 4
+D =7 + 3 x + x 2 − x 3
+Tính C + D và C − D .
+4A. Cho các đa thức
+
+A = x3 − 2 x 2 + 3x − 5
+B=
+− x3 + 2 x 2 − 5 x + 7
+
+C= 2 x 3 + x 2 − x − 1
+Tính A + B + C ; A − B + C và A − B − C .
+4B. Cho các đa thức
+A=
+
+3 4
+1
+x + 2 x3 − x 2 + 3x − 2
+4
+2
+
+1
+B=
+− x 4 + 2 x3 + x 2 − 5 x + 4
+4
+
+C = x3 −
+
+1 2
+x − x +1
+2
+
+Tính A + B + C ; A − B + C và A − B − C .
+5A. Cho hai đa thức:
+1
+P ( x ) = 7 x 4 − x3 + x 2 − 2 x + 7
+5
+
+Q ( x ) = 3x 4 + x3 − x 2 + 3x − 5
+
+a) Tìm P ( x ) + Q ( x ) và P ( x ) − Q ( x ) .
+b) Tìm hệ số cao nhất, hệ số tự do của các đa thức tìm được ở câu a).
+5B. Cho hai đa thức:
+P ( x=
+)
+
+2 5
+1
+x − x 4 + 2 x3 − 3x 2 + x +
+3
+4
+
+Q ( x ) = 2 x5 + x 4 − x3 + 3x 2 + 2 x −
+
+3
+4
+
+a) Tìm P ( x ) + Q ( x ) và P ( x ) − Q ( x ) .
+b) Tìm hệ số cao nhất, hệ số tự do và hệ số của x 3 của các đa thức thu được ở câu a).
+6A. Cho hai đa thức:
+M ( x ) = 3x 4 − 5 x 2 − 2 x3 − 4 x + 6 x 2 + 8 x3 − 2
+N ( x=
+)
+
+2x4 +
+
+1 2
+3
+x − 3x3 − 2 x 4 + 5 x3 − x 2 − 4 x − 3
+2
+2
+
+a) Thu gọn các đa thức trên.
+b) Gọi G ( x ) là tổng của hai đa thức M ( x ) và N ( x ) . Tìm G ( x ) .
+c) Tìm bậc, hệ số cao nhất, hệ số tự do của đa thức G ( x ) .
+d) Trong tập hợp {0;1; −2;3} , những số nào là nghiệm của G ( x ) .
+6B. Cho hai đa thức:
+P(=
+x)
+
+3x5 − 2 x 4 −
+
+1 3
+x + 4 x 2 + x + 3 − x 2 + 3x 4
+2
+
+Q ( x) =
+
+3x5 + 2 x 4 −
+
+3 3
+1
+x + 2 x 2 − 4 x + x3 − x 4 + 3
+2
+2
+
+a) Thu gọn các đa thức trên.
+
+b) Đặt H=
+( x ) P ( x ) − Q ( x ) . Tìm H ( x ) .
+c) Tìm bậc, hệ số cao nhất, hệ số tự do của đa thức H ( x ) .
+d) Trong tập hợp {0;1;2; −3} , những số nào là nghiệm của H ( x ) .
+Dạng 2. Tìm đa thức chưa biết trong một đẳng thức
+Phương pháp giải: Để tìm đa thức chưa biết trong một đẳng thức, ta làm như sau:
+- Xác định vai trò của đa thức cần tìm (chẳng hạn, đóng vai trò số hạng chưa biết, số bị trừ, số trừ,
+...)
+- Áp dụng quy tắc dấu ngoặc, quy tắc chuyển vế và quy tắc cộng, trừ đa thức một biến để biến đổi.
+7A. Cho hai đa thức A ( x ) = x 4 − 2 x 3 + x 2 − 3 x + 1
+Tìm các đa thức B ( x ) , C ( x ) , D ( x ) sao cho:
+a) A ( x ) + B ( x )= 5 x 4 + 3 x 3 − 4 x 2 + x − 2 ;
+b) A ( x ) − C ( x ) =−3 x 4 + x 2 − x + 3 ;
+c) D ( x ) − A ( x ) =
+−4 x 4 + 5 x 3 + x 2 − 2 x − 3 .
+7B. Cho hai đa thức M ( x ) =
+
+3 3
+1
+x + 2 x2 − 5x +
+4
+2
+
+Tìm các đa thức N ( x ) , P ( x ) , Q ( x ) sao cho:
+3
+а) M ( x ) + N ( x )= 3 x 3 + x 2 + x − ;
+2
+1
+b) M ( x ) − P ( x ) =− x 3 − x + 3 ;
+4
+
+c) Q ( x ) − M ( x ) = x 2 + x − 3 .
+8A. Tìm đa thức P ( x ) sao cho:
+1
+
+a) P ( x ) +  x 3 − 2 x 2 + 7 x +  = x 3 − x 2 + 1 ;
+3
+
+
+− x 4 − x3 + 5 x 2 + 4 x + 2 ;
+b) P ( x ) − ( 2 x 4 − x 3 + x − 3) =
+c) ( 5 x 3 − 2 x 2 + 4 x + 4 ) − P ( x ) = 6 x 3 − x 2 + 3 x − 2 .
+8B. Tìm đa thức Q ( x ) sao cho:
+
+1
+
+a) Q ( x ) +  x 5 + 3 x 4 − 2 x 3 + 5 x 2 + 1  =x 5 + x 3 + 3 x 2 + 1 ;
+2
+
+3
+
+
+b) Q ( x ) −  −2 x 3 + x 2 + 2 x − 1 = x 4 + 2 x 3 − x 2 + 3 x + 1 ;
+2
+
+
+2
+
+c)  3 x 4 − 2 x 3 + 5 x 2 − 6 x +  − Q ( x ) =
+− x 2 + 3x + 1.
+3
+
+
+
+Dạng 3. Chứng minh đa thức không phụ thuộc vào biến
+Phương pháp giải: Áp dụng quy tắc dấu ngoặc và quy tắc cộng, trừ đa thức một biến để biến đổi rút
+gọn đa thức. Kết quả rút gọn là một hằng số.
+9A. Chứng minh rằng các đa thức sau không phụ thuộc vào giá trị của biến:
+а) ( 3 x 2 − 2 x + 5 ) − ( 4 x 2 − 4 x + 1) − 2 x + x 2 − 4 ;
+b) 4 x 3 − 5 x 2 + 1 − ( 4 x 3 − x + 2 x 2 ) + ( 7 x 2 − x + 8 ) ;
+2
+
+c)  x 3 − x 2 + 1 − ( x 3 − 3 x + x 2 − 5 ) − 0, 4 x 3 + 2 x 2 − 3 x + x 3 .
+5
+
+
+9B. Chứng minh rằng các đa thức sau không phụ thuộc vào giá trị của biến:
+a) ( 2 x 2 − 0,5 x + 5 ) − ( 3 x 2 + 2,5 x + 4 ) + ( 3 x + x 2 + 4 ) ;
+b) x 3 − 2 x 2 − ( 3 x 3 − x + 2 ) + ( x 3 − x + 4 ) + 2 x 2 + x 3 ;
+5
+
+c) − ( x 4 − 3 x 2 + 3 x − 1) − x 3 + 1 +  x 4 + x 3 − 3 x 2 −  + 3 x .
+2
+
+
+Dạng 4. Vận dụng
+Phương pháp giải:
+- Sử dụng các chữ, các số và các phép toán để diễn đạt các mệnh đề phát biểu bằng lời.
+- Căn cứ vào nội dung bài toán để viết các đa thức theo yêu cầu của đề bài.
+10A. Bạn Hoài được phân công mua một số đồ dùng cho buổi tham quan dã ngoại của lớp. Hoài cần
+mua 3 x + 7 chiếc cốc giấy, 2 x + 17 chiếc bát giấy và x gói khăn ướt.
+Đồ dùng Giá bán một đồ dùng (đồng)
+Cốc giấy
+
+1500
+
+Bát giấy
+
+2500
+
+Khăn ướt
+
+15000
+
+a) Viết các đa thức biểu thị số tiền Hoài cần phải trả cho mỗi loại đồ dùng.
+b) Tìm đa thức biểu thị tổng số tiền Hoài phải trả để mua số đồ dùng trên.
+c) Biết rằng Hoài cần chuẩn bị 10 gói khăn ướt cho cả lớp. Tính tổng số tiền Hoài cần trả khi mua
+số đồ dùng trên.
+10B. Bác Nhung đi siêu thị để lựa chọn một số loại đồ ăn cho bữa tiệc của gia đình. Bác lên danh
+mục, khối lượng cần mua cho từng loại và được liệt kê dưới bảng sau:
+Đồ ăn
+
+Khối lượng (kg) Giá bán/1kg (đ̛ồng)
+
+Thịt lợn
+
+1
+x + 0,5
+2
+
+150000
+
+Thịt bò
+
+x
+
+250000
+
+Ngao
+
+3
+x − 0,5
+4
+
+35000
+
+Tôm
+
+x + 0,5
+
+280000
+
+Mực
+
+x −1
+
+260000
+
+Khoai lang
+
+1
+x
+2
+
+25000
+
+a) Viết các đa thức biểu thị số tiền bác Nhung cần phải trả cho mỗi loại đồ ăn.
+b) Tìm đa thức biểu thị tổng số tiền bác Nhung phải trả để mua số đồ ăn trên.
+c) Biết rằng bác mua 2 kilôgam thịt bò. Tính tổng số tiền bác phải trả khi đi siêu thị.
+11A. Trên một mảnh đất hình chữ nhật có chiều dài 45
+mét, người ta định đào một cái ao có chiều rộng x
+mét, chiều dài gấp đôi chiều rộng. Sơ đồ và kích thước
+cụ thể được cho như hình vẽ. Tìm đa thức (biến x ):
+a) Biểu thị diện tích của bể bơi.
+b) Biểu thị diện tích của mảnh đất.
+c) Biểu thị diện tích phần đất xung quanh bề.
+11B. Trên một thửa ruộng hình chữ nhật có hai kích thước theo tỉ lệ:
+Chiều dài : chiều rộng = 3 :1 .
+Bác Hương dự định xây một khu đất
+hình chữ nhật nhỏ để trồng hoa với chiều
+dài bằng chiều rộng của thửa ruộng, và để
+
+một lối đi rộng 1 mét như hình vẽ. Phần đất còn lại bác trồng rau. Gọi chiều rộng thửa ruộng là x
+(mét). Tìm đa thức (biến x ):
+a) Biểu thị diện tích của thửa ruộng.
+b) Biểu thị chu vi của khu đất trồng hoa.
+c) Biểu thị chu vi phần đất còn lại để trồng rau.
+12A. Một xe đạp đi từ A lúc 13 giờ 15 phút đến B với vận tốc 15 km / giờ. Đến 13 giờ 45 phút,
+một xe máy cũng chuyển động từ A đến B với vận tốc 45 km / giờ. Cả hai xe đều không nghỉ dọc
+đường.
+a) Gọi M ( x ) là đa thức biểu thị quãng đường xe đạp đi được và N ( x ) là đa thức biểu thị quãng
+đường xe máy đi được kể từ khi xuất phát cho đến khi xe đạp đi được x giờ. Tìm M ( x ) , N ( x ) .
+b) Đặt f=
+( x ) N ( x ) − M ( x ) . Tìm nghiệm của đa thức f ( x ) và giải thích ý nghĩa nghiệm đó.
+12B. Một người đi ô tô từ A đến B với vận tốc 50 km / giờ. Sau đó 1 giờ, một xe khách đi từ B về
+A với vận tốc 60 km / giờ. Và sau x giờ (kể từ khi ô tô chuyển động) thì hai xe gặp nhau.
+
+a) Viết đa thức (biến x ) biểu thị độ dài quãng đường AB .
+b) Tính độ dài quãng đường AB biết sau 3 giờ (kể từ khi ô tô chuyển động) thì hai xe gặp nhau.
+III. BÀI TẬP TỰ LUYỆN
+13. Cho hai đa thức:
+A ( x ) = 3x5 − 4 x 2 + x 4 −
+
+1
+x − 2 x5 + 7 x 2 − 3x 4
+2
+
+1
+B ( x ) = 2 x5 + x 4 + x + 2 + x 2 − 3x5 + 4 x 4 + x − 8
+2
+a) Thu gọn và sắp xếp các hạng tử của mỗi đa thức theo lũy thừa giảm dần của biến.
+b) Tính tổng C=
+( x ) A ( x ) + B ( x ) và hiệu D=
+( x) A( x) − B ( x) .
+c) Tìm hệ số cao nhất, hệ số tự do của các đa thức C ( x ) và D ( x ) .
+d) Trong tập hợp {0;1; −1;2} , những số nào là nghiệm của C ( x ) ?
+14. Cho các đa thức:
+A ( x ) = x 4 − x3 + x 2 − 3
+B ( x ) = 3x 4 + x3 − x 2 − 2
+C ( x ) = x4 + x2 +
+
+3
+4
+
+Tính: A ( x ) + B ( x ) + C ( x ) ; A ( x ) + B ( x ) − C ( x ) ; A ( x ) − B ( x ) − C ( x ) .
+15. Cho đa thức P ( x ) =
+− x 4 + 11x 3 − 5 x 2 + 6 x − 3
+Tìm các đa thức Q ( x ) , H ( x ) , R ( x ) sao cho:
+а) P ( x ) + Q ( x ) = x 5 − 2 x 4 + 10 x 3 − x 2 + 5 x − 2 ;
+b) P ( x ) − H ( x ) =
+− x 4 + 5 x3 + 5 x − 1;
+c) R ( x ) − P ( x ) = x 4 − 10 x 3 − 4 x 2 − x + 5 .
+16. Cho hai đa thức:
+M ( x ) =x 3 + 2 x 2 + 1;
+
+N ( x ) = x 2 − 2 x + 3.
+
+a) Tính M ( x ) + N ( x ) ; M ( x ) − N ( x ) ; N ( x ) − M ( x ) .
+1
+b) Tính M ( x ) − 2 N ( x ) ; M ( x ) + N ( x ) .
+2
+
+17. Cho hai đa thức:
+P ( x ) =x 4 − 4 x 3 +
+
+1 2
+1
+x − x + 3 + 2 x 4 − x3 + x 2 − 2
+2
+2
+
+Q ( x) =
+− x 4 + x3 + 3x 2 − 2 x + 4 − x 4 + 4 x3 − x 2 + 3x
+
+a) Thu gọn và sắp xếp các hạng tử của mỗi đa thức theo lũy thừa giảm dần của biến.
+b) Tính P (1) và Q ( −2 ) .
+c) Tính G=
+( x) P ( x) + Q ( x) .
+d) Chứng minh rằng G ( x ) luôn dương với mọi giá trị của x .
+18. Cho một hình thang có các kích thước đáy lớn, đáy bé và hai cạnh bên lần lượt là
+2 x + 7; x + 5; x; x (mét) ( x > 0) .
+
+a) Tìm đa thức (biến x ) biểu thị chu vi của hình thang.
+b) Nếu hai cạnh bên của hình thang bằng 5 mét thì chu vi của hình thang bằng bao nhiêu?
+19. Bốn bạn An, Bình, Dũng và Trí rủ nhau đến cửa hàng truyện để mua truyện cũ được bán đồng
+giá (nghĩa là các quyển truyện cũ trong cửa hàng đó đều được bán với cùng một giá). An mua 3
+quyển truyện và mua thêm 1 cuốn báo có giá 3000 đồng, Bình mua 5 quyển, Dũng mua 5 quyển và
+Trí mua 7 quyển. Gọi x (đồng) là giá bán một quyển truyện cũ.
+a) Tìm đa thức biểu thị tổng số tiền cả bốn bạn phải trả.
+b) Nếu mỗi quyển truyện cũ đều có giá 8000 đồng thì tổng số tiền cả bốn bạn phải trả là bao
+
+nhiêu?
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+1A. a) Cách 1:
+
+( 2 x − 0,5 x + 5) + ( 3x + 2,5 x + 4 ) =2 x − 0,5 x + 5 + 3x + 2,5 x + 4
+= ( 2 x + 3 x ) + (−0,5 x + 2,5 x) + (5 + 4)
+2
+
+2
+
+2
+
+2
+
+2
+
+= 5x2 + 2 x + 9
+Cách 2:
++
+
+2 x 2 − 0,5 x + 5
+3 x 2 + 2,5 x + 4
+
+=5 x 2 + 2 x + 9
+
+b) 7 − 4 y 2 + 3 y + y 3 = y 3 − 4 y 2 + 3 y + 7; −3 y 3 + 4 y 2 + 1
+Cách 1:
+
+( y − 4 y + 3 y + 7 ) + ( −3 y + 4 y + 1)
+3
+
+2
+
+3
+
+2
+
+= y3 − 4 y 2 + 3 y + 7 − 3 y3 + 4 y 2 + 1
+
+( y − 3 y ) + ( −4 y + 4 y ) + 3 y + 7 + 1
+3
+
+=
+
+3
+
+2
+
+2
+
+=
+−2 y 3 + 3 y + 8
+
+Cách 2:
+y3 − 4 y 2 + 3 y + 7
++
+− 3 y3 + 4 y 2
++1
+=
+−2 y 3
+
++ 3y + 8
+
+c) − z 4 + 3 z 3 + 3 z + 5;3 z 2 + z 4 + 5 − z = z 4 + 3 z 2 − z + 5 .
+Cách 1:
+
+( − z + 3z + 3z + 5) + ( z + 3z − z + 5)
+4
+
+3
+
+4
+
+2
+
+=( − z 4 + z 4 ) + 3 z 3 + 3 z 2 + ( 3 z − z ) + ( 5 + 5 )
+
+= 3 z 3 + 3z 2 + 2 z + 10
+Cách 2:
+
+2
+
++
+
+− z 4 + 3z 3
+z
+
+2
+
+3 z 3 + 3 z 2 + 2 z + 10
+
+=
+
+d)
+
++ 3z + 5
++ 3z − z + 5
+
+4
+
+3 5
+−1
+t − 2t 4 + 3t 2 − t + 1; t 5 + 4t 4 + t 3 − 2t 2 − 3 .
+4
+4
+
+Cách 1:
+
+3 5
+  −1 5
+
+4
+2
+4
+3
+2
+ t − 2t + 3t − t + 1 +  t + 4t + t − 2t − 3 
+4
+  4
+
+−1 
+3
+=  t 5 + t 5  + ( −2t 4 + 4t 4 ) + t 3 + ( 3t 2 − 2t 2 ) + (1 − 3)
+4 
+4
+1 5
+t + 2t 4 + t 3 + t 2 − 2
+=
+2
+Cách 2:
+3 5
++ 3t 2 − t + 1
+t − 2t 4
++ 4
+−1 5
+−3
+t + 4t 4 + t 3 − 2t 2
+4
+1 5
+=
+−2
+t + 2t 4 + t 3 + t 2
+2
+
+1B. Tương tự 1A
+Đáp số:
+a) 2 x 3 + 2 x 2 + x + 5 ;
+b) 3 y 4 + y 3 + 3 y 2 + 4 y − 4 ;
+c) −2 z 4 + 2 z 3 + 2 z − 2 ;
+d) 4t 4 + t 3 − 2t 2 − 9t − 3 .
+2A. a) Cách 1: ( 3 x 3 − 5 x 2 + 6 x + 5 ) − ( x 3 − x 2 + 4 x − 1)
+
+= 3x3 − 5 x 2 + 6 x + 5 − x3 + x 2 − 4 x + 1
+=
+
+( 3x − x ) + ( −5 x + x ) + ( 6 x − 4 x ) + ( 5 + 1)
+3
+
+3
+
+2
+
+= 2 x3 − 4 x 2 + 2 x + 6
+Cách 2:
+
+2
+
+-
+
+3x3 − 5 x 2 + 6 x + 5
+x3 − x 2 + 4 x − 1
+
+= 2 x3 − 4 x 2 + 2 x + 6
+
+Tương tự câu a) Ta có:
+b) x 3 − 2 x 2 − 4 x − 2 ;
+c) x 3 + x 2 − 4 x + 4 ;
+d) 3 x 3 + x 2 + 2 x + 4 .
+2B. Tương tự 2A
+Đáp số: a) 2 x 3 + 2 x 2 − 9 x + 13 ;
+b) x 3 + 10 x − 4 ;
+c) x 4 − x 3 − x 2 − 4 x + 4 ;
+d) 2 x 3 + 2 x 2 − 3 x + 1 .
+
+− x 4 + 7 x 2 + 2 x 3 − 10 + 6 x 4 − 3 x 3 + 5 x
+3A. Ta có: A =
+=( − x 4 + 6 x 4 ) + ( 2 x 3 − 3 x 3 ) + 7 x 2 + 5 x − 10
+
+= 5 x 4 − 3 x 3 + 7 x 2 + 5 x − 10
+B= 2 x 4 + 6 − x 3 + 5 x − 5 x 2 − x 4 + 4 x 3
+=
+
+( 2x − x ) + ( − x + 4x ) − 5x + 5x + 6
+4
+
+4
+
+3
+
+3
+
+2
+
+= x 4 + 3x3 − 5 x 2 + 5 x + 6
+Khi đó:
+
+( 5 x − 3x + 7 x + 5 x − 10 ) + ( x + 3x − 5 x + 5 x + 6 )
+= ( 5 x + x ) + ( −3 x + 3 x ) + ( 7 x − 5 x ) + ( 5 x + 5 x ) + ( −10 + 6 )
+A + B=
+4
+
+4
+
+3
+
+4
+
+2
+
+3
+
+4
+
+3
+
+2
+
+3
+
+2
+
+2
+
+= 6 x 4 + 2 x 2 + 10 x − 4
+
+( 5 x − 3x + 7 x + 5 x − 10 ) − ( x + 3x − 5 x + 5 x + 6 )
+= ( 5 x − x ) + ( −3 x − 3 x ) + ( 7 x + 5 x ) + ( 5 x − 5 x ) + ( −10 − 6 )
+A − B=
+4
+
+4
+
+4
+
+3
+
+2
+
+3
+
+4
+
+3
+
+= 4 x 4 − 6 x 3 + 12 x 2 − 16
+3B. Tương tự 3A
+
+C + D= 3 x 4 + 5 x 3 + 2 x 2 − x + 5
+C − D = 3x 4 + 7 x3 − 7 x − 9
+
+2
+
+2
+
+3
+
+2
+
+4A. + ) A + B + C
+
+= ( x 3 − 2 x 2 + 3 x − 5 ) + ( − x 3 + 2 x 2 − 5 x + 7 ) + ( 2 x 3 + x 2 − x − 1)
+
+( x − x + 2 x ) + ( −2 x + 2 x + x ) + (3x − 5 x − x) + (−5 + 7 − 1)
+3
+
+=
+
+3
+
+3
+
+2
+
+2
+
+2
+
+= 2 x3 + x 2 − 3x + 1
++) A − B + C
+
+= ( x 3 − 2 x 2 + 3 x − 5 ) − ( − x 3 + 2 x 2 − 5 x + 7 ) + ( 2 x 3 + x 2 − x − 1)
+
+( x + x + 2 x ) + ( −2 x − 2 x + x ) + ( 3x + 5 x − x ) + ( −5 − 7 − 1)
+3
+
+=
+
+3
+
+3
+
+2
+
+2
+
+2
+
+= 4 x 3 − 3 x 2 + 7 x − 13
++) A − B − C
+
+= ( x 3 − 2 x 2 + 3 x − 5 ) − ( − x 3 + 2 x 2 − 5 x + 7 ) − ( 2 x 3 + x 2 − x − 1)
+
+( x + x − 2 x ) + ( −2 x − 2 x − x ) + ( 3x + 5 x + x ) + ( −5 − 7 + 1)
+3
+
+=
+
+3
+
+3
+
+2
+
+2
+
+2
+
+=
+−5 x 2 + 9 x − 11
+4B. Tương tự 4A
+1 4
+x + 5 x 3 − 3 x + 3;
+2
+
+A + B + C=
+
+A − B + C = x 4 + x 3 − 2 x 2 + 7 x − 5;
+
+A − B − C = x 4 − x 3 − x 2 + 9 x − 7.
+1
+
+
+5A. a) +) P ( x ) + Q ( x )=  7 x 4 − x 3 + x 2 − 2 x + 7  + ( 3 x 4 + x 3 − x 2 + 3 x − 5 )
+5
+
+
+
+( 7 x + 3x ) +  − 15 x + x  + ( x − x ) + (−2 x + 3x) + (7 − 5)
+4
+
+=
+
+4
+
+3
+
+3
+
+
+
+= 10 x 4 +
+
+2
+
+2
+
+
+
+4 3
+x + x−2
+5
+
+1
+
+
++) P ( x) − Q( x)=  7 x 4 − x 3 + x 2 − 2 x + 7  − ( 3 x 4 + x 3 − x 2 + 3 x − 5 )
+5
+
+
+=
+
+( 7 x − 3x ) +  − 15 x − x  + ( x + x ) + ( −2 x − 3x ) + ( 7 + 5)
+4
+
+4
+
+3
+
+3
+
+
+
+6
+= 4 x 4 − x 3 + 2 x 2 − 5 x + 12
+5
+
+2
+
+
+
+2
+
+b) Đa thức P ( x ) + Q ( x ) có hệ số cao nhất: 10; hệ số tự do: -2 ;
+Đa thức P ( x ) − Q ( x ) có hệ số cao nhất: 4 ; hệ số tự do: 12.
+5B. Tương tự 5A
+a) P ( x ) + Q ( x )=
+
+8 5
+1
+x + x3 + 3x − ;
+5
+2
+
+−4 5
+x − 2 x 4 + 3 x 3 − 6 x 2 − x + 1.
+3
+
+P ( x ) − Q (=
+x)
+
+b) Đa thức P ( x ) + Q ( x ) có hệ số cao nhất:
+
+8
+−1
+; hệ số tự do:
+;
+5
+2
+
+−4
+; hệ số tự do: 1 .
+3
+
+Đa thức P ( x ) − Q ( x ) có hệ số cao nhất:
+
+6A. a) M ( x ) = 3 x 4 − 5 x 2 − 2 x 3 − 4 x + 6 x 2 + 8 x 3 − 2
+
+= 3 x 4 + ( −2 x 3 + 8 x 3 ) + ( −5 x 2 + 6 x 2 ) − 4 x − 2
+
+= 3x 4 + 6 x3 + x 2 − 4 x − 2
+N ( x=
+)
+
+=
+
+2x4 +
+
+1 2
+3
+x − 3x3 − 2 x 4 + 5 x3 − x 2 − 4 x − 3
+2
+2
+
+( 2 x − 2 x ) + ( −3x + 5x ) +  12 x − 23 x  − 4 x − 3
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+= 2 x3 − x 2 − 4 x − 3
+b) G ( x )=
+
+( 3 x + 6 x + x − 4 x − 2 ) + ( 2 x − x − 4 x − 3)
+4
+
+3
+
+2
+
+3
+
+2
+
+= 3 x 4 + ( 6 x 3 + 2 x 3 ) + ( x 2 − x 2 ) + ( −4 x − 4 x ) + ( −2 − 3)
+
+= 3x 4 + 8 x3 − 8 x − 5
+c) Đa thức G ( x ) có bậc: 4; hệ số cao nhất: 3 ; hệ số tự do: -5 .
+d) Tính:
+G ( 0 ) =3.04 + 8.03 − 8.0 − 5 =−5
+G (1) =3.14 + 8.13 − 8.1 − 5 =−2
+G ( −2 ) =3.(−2) 4 + 8.(−2)3 − 8. ( −2 ) − 5 =−5
+
+G ( 3=
+) 3.34 + 8.33 − 8.3 − 5= 430
+
+Do đó không có giá trị nào là nghiệm của đa thức G ( x ) .
+6B. Tương tự 6A
+a) P ( x=
+)
+Q ( x=
+)
+
+3x5 + x 4 −
+
+1 3
+x + 3x 2 + x + 3
+2
+
+3x5 + x 4 − x3 + 2 x 2 − 4 x + 3
+
+b) H ( x )= P ( x ) − Q ( x )=
+
+1 3
+x + x2 + 5x
+2
+
+c) x = 0 là 1 nghiệm của H ( x ) .
+7A. a) A ( x ) + B ( x )= 5 x 4 + 3 x 3 − 4 x 2 + x − 2
+
+B ( x)= 5 x 4 + 3 x 3 − 4 x 2 + x − 2 − A( x)
+
+= 5 x 4 + 3 x 3 − 4 x 2 + x − 2 − ( x 4 − 2 x 3 + x 2 − 3 x + 1)
+=
+
+( 5 x − x ) + ( 3x + 2 x ) + ( −4 x − x ) + ( x + 3x) + (−2 − 1)
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+= 4 x 4 + 5 x3 − 5 x 2 + 4 x − 3
+b) A( x) − C ( x) =−3 x 4 + x 2 − x + 3
+
+C (=
+x) A( x) − ( −3 x 4 + x 2 − x + 3)
+= ( x 4 − 2 x 3 + x 2 − 3 x + 1) − ( −3 x 4 + x 2 − x + 3)
+=
+
+( x + 3x ) − 2 x + ( x − x ) + (−3x + x) + (1 − 3)
+4
+
+4
+
+3
+
+2
+
+2
+
+= 4 x 4 − 2 x3 − 2 x − 2
+c) D( x) − A( x) =
+−4 x 4 + 5 x 3 + x 2 − 2 x − 3
+D( x) =−4 x 4 + 5 x 3 + x 2 − 2 x − 3 + A( x)
+=
+−4 x 4 + 5 x 3 + x 2 − 2 x − 3 + x 4 − 2 x 3 + x 2 − 3 x + 1
+=
+−3 x 4 + 3 x 3 + 2 x 2 − 5 x − 2
+
+7B. Tương tự 7A
+a) N ( x )=
+
+9 3
+x − x2 + 6x − 2 ;
+4
+
+5
+b) P ( x ) = x 3 + 2 x 2 − 4 x − ;
+2
+
+c) Q ( x ) =
+
+3 3
+5
+x + 3x 2 − 4 x − .
+4
+2
+
+1
+2
+
+8A. a) P ( x ) = ( x 3 − x 2 + 1) −  x 3 − 2 x 2 + 7 x +  = x 2 − 7 x + ;
+3
+3
+
+
+b) P ( x ) =−
+( x 4 − x 3 + 5 x 2 + 4 x + 2 ) + ( 2 x 4 − x 3 + x − 3)
+
+= x 4 − 2 x3 + 5 x 2 + 5 x − 1
+c) ( 5 x 3 − 2 x 2 + 4 x + 4 ) − P ( x ) = 6 x 3 − x 2 + 3 x − 2
+
+P ( x )=
+
+( 5 x − 2 x + 4 x + 4 ) − ( 6 x − x + 3x − 2 )
+3
+
+2
+
+3
+
+2
+
+=− x 3 − x 2 + x + 6
+8B. Tương tự 8A
+1
+a) Q ( x ) =
+−3 x 4 + 3 x 3 − 2 x 2 − ;
+2
+
+b) Q ( x ) =x 4 +
+
+1 2
+x + 5x ;
+2
+
+1
+c) Q ( x ) = 3 x 4 − 2 x 3 + 6 x 2 − 9 x − .
+3
+
+9A. a) ( 3 x 2 − 2 x + 5 ) − ( 4 x 2 − 4 x + 1) − 2 x + x 2 − 4
+
+= 3x 2 − 2 x + 5 − 4 x 2 + 4 x − 1 − 2 x + x 2 − 4
+
+=0
+Chứng tỏ đa thức không phụ thuộc vào giá trị của biến.
+b) 4 x 3 − 5 x 2 + 1 − ( 4 x 3 − x + 2 x 2 ) + ( 7 x 2 − x + 8 )
+
+= 4 x3 − 5 x 2 + 1 − 4 x3 + x − 2 x 2 + 7 x 2 − x + 8
+
+=9
+Chứng tỏ đa thức không phụ thuộc vào giá trị của biến.
+2
+
+c)  x 3 − x 2 + 1 − ( x 3 − 3 x + x 2 − 5 ) − 0, 4 x 3 + 2 x 2 − 3 x + x 3
+5
+
+=
+
+2 3
+x − x 2 + 1 − x 3 + 3 x − x 2 + 5 − 0, 4 x 3 + 2 x 2 − 3 x + x 3
+5
+
+=6
+Chứng tỏ đa thức không phụ thuộc vào giá trị của biến.
+9B. Tương tự 9A
+
+5;
+a) ( 2 x 2 − 0,5 x + 5 ) − ( 3 x 2 + 2,5 x + 4 ) + ( 3 x + x 2 + 4 ) =
+2;
+b) x 3 − 2 x 2 − ( 3 x 3 − x + 2 ) + ( x 3 − x + 4 ) + 2 x 2 + x 3 =
+5
+1
+
+c) − ( x 4 − 3 x 2 + 3 x − 1) − x 3 + 1 +  x 4 + x 3 − 3 x 2 −  + 3 x =
+− .
+2
+2
+
+
+10A. a) Đa thức biểu thị số tiền Hoài cần phải trả cho:
++) Cốc giấy là: 1500 ( 3 x + 7=
+) 4500 x + 10500 (đồng)
++) Bát giấy là: 2500 ( 2 x + 17=
+) 5000 x + 42500 (đồng)
++) Khăn ướt lần lượt là: 15000x (đồng)
+b) Đa thức biểu thị tổng số tiên Hoài phải trả để mua số đồ dùng trên là:
+
+4500 x + 10500 + 5000 x + 42500 + 15000 = 9500 x + 68000 (đồng)
+c) Hoài cần chuẩn bị 10 gói khăn ướt, ta có x = 10 .
+Khi đó: Tổng số tiền Hoài cần trả khi mua số đồ dùng trên là:
+
+9500 x + 68000 = 9500.10 + 68000 = 163000 (đồng)
+10B. a) Đa thức biểu thị số tiền bác Nhung cần phải trả cho:
+1
+
++) Thịt lợn là: 150000  x + 0,5=
+ 75000 x + 75000 (đồng)
+2
+
+
++) Thịt bò là: 250000x (đồng)
+3
+
++) Ngao là: 35000  x − 0,5=
+ 26250 x − 17500 (đồng)
+4
+
+
+=
++) Tôm: 280000 ( x + 0,5
+) 280000 x + 140000 (đồng)
+x − 1) 260000 x − 260000 (đồng)
++) Mực: 260000 ( =
+1
++) Khoai lang: 25000 ⋅ x =
+12500 x (đồng)
+2
+
+b) Tổng số tiền bác Nhung phải trả để mua số đồ ăn trên là:
+
+75000 x + 75000 + 250000 x + 26250 x − 17500 + 280000 x + 140000 +260000 x − 260000 + 12500 x
+= 903750 x − 62500
+c) Với x = 2 , thay vào đa thức ta có tổng số tiền bác Nhung phải trả để mua số đồ ăn trên là:
+
+903750 x − 62500= 903750.2 − 62500= 1745000 (đồng)
+11A. a) Diện tích của bể bơi là: x.2 x = 2 x 2 ( m 2 )
+
+b) Chiều rộng mảnh đất là: 4 + x + 7 = 11 + x ( m )
+Diện tích mảnh đất là: 45. ( x + 11) = 45 x + 495 ( m 2 ) .
+
+−2 x 2 + 45 x + 495 ( m 2 )
+c) Diện tích phần đất xung quanh bể là: 45 x + 495 − 2 x 2 =
+11B. a) Chiều dài thửa ruộng là: 3x ( m )
+Diện tích thửa ruộng là: 3 x.x = 3 x 2 ( m 2 )
+b) Chiều rộng khu đất trồng hoa là: x − 1( m )
+Chu vi khu đất trồng hoa là: 2. ( x + x − 1) = 2. ( 2 x − 1) = 4 x − 2 ( m ) .
+c) Ta có:
+
+Chu vi phần đất còn lại để trồng rau là:
+
+1 + x + x − 1 + 2 x + x + 3x =
+8x ( m )
+12A. a) Xe đạp đi trong x giờ được quãng đường là:
+
+M ( x ) = 15 x ( km ) .
+Xe máy chuyển động sau xe đạp:
+13 giờ 45 phút - 13 giờ 15 phút = 30 phút =
+Nên thời gian xe máy đi là: x −
+
+1
+giờ
+2
+
+1
+(giờ)
+2
+
+1
+45
+
+Quãng đường xe máy đi được là: N ( x ) = 45.  x −  = 45 x − ( km ) .
+2
+2
+
+45 
+45
+
+b) f ( x ) = N ( x ) − M ( x ) =  45 x −  − 15 x = 30 x − .
+2 
+2
+
+
+Cho f ( x ) = 0 ⇒ 30 x −
+
+45
+3
+=0⇒ x =
+2
+4
+
+Ý nghĩa của con số
+
+3
+: sau 0,75 giờ thì hai xe gặp nhau.
+4
+
+12B. a) Quãng đường xe ô tô đi được sau x giờ là: 50 x ( km )
+Quãng đường xe khách đi được là: 60 ( x − 1)( km )
+Đa thức (biến x ) biểu thị độ dài quãng đường AB là:
+
+50 x + 60 ( x − 1=
+) 110 x − 60 ( km )
+b) Thay x = 3 vào đa thức trên ta có:
+Quãng đường AB là: 270 km
+13. Tương tự bài 6A
+3
+x−6
+2
+
+1
+a) A ( x ) =x 5 − 2 x 4 + 3 x 2 − x;
+2
+
+B ( x) =
+− x5 + 5 x 4 + x 2 +
+
+b) C ( x )= 3 x 4 + 4 x 2 + x − 6;
+
+D ( x ) = 2 x5 − 7 x 4 + 2 x 2 − 2 x + 6 .
+
+c) C ( x ) có hệ số cao nhất: 3; hệ số tự do: -6.
+
+D ( x ) có hệ số cao nhất: 5; hệ số tự do: 6 .
+d) -1 là nghiệm của C ( x ) .
+14. Tương tự bài 4A
+a) A ( x ) + B ( x ) + C ( x ) = 5 x 4 + x 2 −
+A ( x ) + B ( x ) − C ( x ) = 3x 4 − x 2 −
+
+17
+4
+
+17
+4
+
+7
+−3 x 4 − 2 x 3 + x 2 − .
+A( x) − B ( x) − C ( x) =
+4
+
+15. Tương tự bài 7A.
+a) Q ( x ) = x 5 − x 4 − x 3 + 4 x 2 − x + 1;
+b) H ( x )= 6 x 3 − 5 x 2 + x − 2 ;
+c) R ( x ) = x 3 − 9 x 2 + 5 x + 2 .
+16. a) M ( x ) + N ( x ) = x 3 + 3 x 2 − 2 x + 4 ;
+M ( x ) − N ( x ) = x3 + x 2 + 2 x − 2
+N ( x) − M ( x) =
+−  M ( x ) − N ( x ) 
+
+=
+− ( x3 + x 2 + 2 x − 2 ) =
+− x3 − x 2 − 2 x + 2
+b) M ( x ) − 2 N ( x ) = x 3 + 2 x 2 + 1 − 2 ( x 2 − 2 x + 3)
+
+= x3 + 2 x − 5 ;
+1
+1
+M ( x ) + N ( x=
+) ( x3 + 2 x 2 + 1) + ( x 2 − 2 x + 3)
+2
+2
+=
+
+1 3
+7
+x + 2x2 − 2x +
+2
+2
+
+17. a) P ( x )= 3 x 4 − 5 x 3 + x 2 − x + 1
+Q ( x ) =−2 x 4 + 5 x 3 + 2 x 2 + x + 4
+
+−1; Q ( −2 ) =
+−62
+b) P (1) =
+c) G ( x ) =P ( x ) + Q ( x ) =x 4 + 3 x 2 + 5 .
+d) Nhận xét: x 4 ≥ 0,3 x 2 ≥ 0, ∀x
+⇒ x 4 + 3 x 2 + 5 ≥ 5 > 0, ∀x . Hay G ( x ) luôn dương với mọi x .
+
+18. a) Đa thức (biến x ) biểu thị chu vi của hình thang là:
+
+2 x + 7 + x + 5 + x + x = 5 x + 12 ( m )
+b) Nếu x = 5 , thì chu vi hình thang là: 5 x + 12 = 5.5 + 12 = 37 ( m )
+19. a) 3 x + 3000 + 5 x + 5 x + 7 x = 20 x + 3000 (đồng)
+b) 163 000 đồng
+
+BÀI 4. PHÉP NHÂN ĐA THỨC MỘT BIẾN
+I. TÓM TẮT LÝ THUYẾT
+1. Nhân đơn thức với đa thức
+Quy tắc: Muốn nhân một đơn thức với một đa thức, ta nhân đơn thức với từng hạng tử của đa thức
+rồi cộng các tích với nhau.
+
+A. ( B + C ) = A.B + A.C
+2. Nhân đa thức với đa thức
+Quy tắc: Muốn nhân một đa thức với một đa thức, ta nhân mỗi hạng tử của đa thức này với từng
+hạng tử của đa thức kia rồi cộng các tích với nhau.
+
+( A + B ) .( C + D ) = A.C + A.D + B.C + B.D
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Làm tính nhân
+Phương pháp giải: Áp dụng quy tắc nhân đơn thức với đa thức, đa thức với đa thức.
+Chú ý: Các phép tính lũy thừa:
+a m .a n = a m + n ; ( a m ) = a m⋅n ; a 0 = 1 ( ∀a ≠ 0 )
+n
+
+1A. Thực hiện các phép nhân sau:
+a) x ( x 2 − 2 x + 5 ) ;
+
+b) 5 x ( x 4 − 3 x 2 + 5 x + 2 ) ;
+
+3
+
+
+c) ( −3,5 x 2 )  2 x 4 − x 2 + 1 ;
+2
+
+
+
+3 
+2
+
+d) 1 x 3  2 x 3 + x 2 − x + 2  .
+4 
+5
+
+
+1B. Thực hiện các phép nhân sau:
+а) − x ( x 3 − 2 x 2 + 4 x − 3) ;
+
+1
+b) − x 2 ( 2 x 4 − 3 x 2 + x + 1) ;
+2
+
+c) (1, 2 x 2 )( 6 x 3 − 5 x 2 + 4 x − 7 ) ;
+
+d) (−3) 2 x 2 ( − x 3 − 2 x 2 + 5 x + 1) .
+
+2A. Thực hiện các phép nhân sau:
+a) ( x − 1) ( 2 x 2 − 3 x + 1) ;
+
+b) (1 − x 2 )( 3 x 3 + 2 x 2 − x − 9 ) ;
+
+c) ( 0, 2 x 2 − x )( x 2 + 7 x − 3) ;
+
+d) 5 ( x 3 − x )( x 2 + 2 x − 3) .
+
+2B. Thực hiện các phép nhân sau:
+
+а) ( 2 x + 1) ( x 3 − 4 x + 5 ) ;
+
+ 1
+
+b)  − x − x 3  ( 2 x 3 + x 2 − 1) ;
+ 2
+
+
+c) ( x 2 − 5 x )( −5 x 2 − 4 x + 5 ) ;
+
+d) ( 2 x − x 2 ) .3. ( x 2 + 3 x + 1) .
+
+Dạng 2. Rút gọn biểu thức
+Phương pháp giải: Áp dụng quy tắc nhân đơn thức với đa thức, đa thức với đa thức rồi cộng, trừ các
+hạng tử cùng bậc để trong đa thức không còn các hạng tử nào cùng bậc.
+3A. Rút gọn các biểu thức sau:
+a) 5 x 2 ( 3 x 2 − 1) − 6 x ( 4 x 3 − 3 x + 1) − 2 x 3 ( 3 x − 1) ;
+b)
+
+1  2 2
+1
+ 3 
+x  x − x + 2  − x 2  x +  − x ( x + 1) ;
+2 
+5
+3
+ 4 
+
+1
+c) 1 x 2 ( x 2 − 2 x ) − 2 x ( x 3 + x 2 + 1) + 2 ( x − 1) ;
+2
+
+1
+
+d) x ( x 3 − 2 x 2 ) + 5 x  x 2 − 2 x +  − x 2 ( x 2 − x + 1) .
+2
+
+
+3B. Rút gọn các biểu thức sau:
+a) 3 x ( − x 2 − 5 ) + 5 x ( x 3 + 7 ) − 3 x 2 ( x 2 − x + 5 ) + 2 ( 4 − x ) ;
+b) 25 x − 4 ( 3 x − 1) + 7 x ( 5 − 2 x 2 ) ;
+c) 4 x ( x 3 − 4 x 2 ) + 2 x ( 2 x 3 − 3 x 2 + 7 x + 1) ;
+4
+d) − x 2 ( 3 x 2 − 6 x + 9 ) + 8 x ( x 3 − 3 x 2 + 2 x − 1) − x ( x 2 − 2 x ) .
+3
+
+4A. Rút gọn các biểu thức sau:
+a) ( 4 x − 1)( 3 x + 2 ) − 5 x ( x − 3) ;
+b) ( 5 x − 2 )( x + 1) − 2 x ( x 2 + x − 3) ;
+c) ( x + 1)( 2 x − 1) + x ( x 2 − x + 1) ;
+d) ( 3 x 2 + x + 2 ) .3 − ( 2 x + 1) .2. ( 3 + x ) .
+4B. Rút gọn các biểu thức sau:
+a) −2 x ( x 2 + 3 x + 1) + ( x + 1) ( x 2 − 2 ) ;
+
+b)
+
+2  9x 1 
+x  +  − ( x − 1)( 3 x + 1) ;
+3  2 4
+
+c) 3 x 2 ( x − 1) + 4 (1 − x )( x + 1) ;
+d) − ( 3 x − 5 )( x − 4 ) + ( 2 x + 3)( x + 4 ) .
+Dạng 3. Tính giá trị biểu thức
+Phương pháp giải:
+- Rút gọn biểu thức đã cho
+- Thay giá trị của biến vào biểu thức đã rút gọn rồi giá trị biểu thức số nhận được.
+5A. Tính giá trị biểu thức:
+a) 5 x ( 2 x − 1)( 2 x + 3) + 10 x ( 3 x − 2 ) − 2 x (10 x 2 − 5 x − 2 ) với x = 2 ;
+b) ( x − 1) ( x 2 + x + 1) − x ( x 2 + 2 x + 3) + 2 ( x 2 − 2 x + 1) với x =
+
+1
+.
+7
+
+5B. Tính giá trị biểu thức:
+a) 5 x ( x 2 − 4 x + 1) − ( x 2 + 1) ( 5 x − 1) + 20 (1 − x )(1 + x ) với x = −1 .
+b) ( 2 − x ) ( x 2 + 2 x + 4 ) + x ( x 2 − 1) +
+
+1
+1
+(8 x − 3) với x = .
+6
+2
+
+Dạng 4. Tìm giá trị chưa biết
+Phương pháp giải:
+- Thực hiện phép nhân đa thức, biến đổi và rút gọn để đưa đẳng thức đã cho về dạng ax = b
+- Tìm được x =
+
+b
+(nếu a ≠ 0 ).
+a
+
+6A. Tìm x :
+
+2;
+a) ( 2 x − 1) ( x 2 − x + 1) + x 2 ( 3 − 2 x ) =
+
+24 ;
+b) 3 (1 − 4 x )( x − 2 ) + 4 ( 3 x + 1)( x + 2 ) =
+c) ( x + 1)( x + 2 )( x + 3) − x 3 − 8 x ( x + 2 ) =
+6;
+
+0.
+d) ( x + 1) ( x 2 + 2 x + 4 ) − x 2 ( x + 3) + 8 =
+6B. Tìm x :
+
+0;
+a) ( 2 x − 3)( x − 2 ) − x ( 2 x + 1) − 6 =
+5;
+b) 5 ( 2 x − 1)( x + 2 ) − 2 ( 5 x − 3)( x + 2 ) =
+
+c) 2 x 2 + 3 ( x − 2 )( x + 2 ) − 5 x ( x + 3) =
+0;
+
+0.
+d) ( 7 − 3 x )( x + 2 ) + 3 ( x − 2 )( x + 1) + 2 ( 3 x − 2 )( x + 2 ) =
+Dạng 5. Chứng minh giá trị của biểu thức không phụ thuộc vào biến
+Phương pháp giải:
+- Rút gọn biểu thức đã cho thành đa thức 0 hoặc thành một đa thức bậc 0 . Từ đó, vói mọi giá trị của
+biến x , giá trị của đa thức không đổi.
+7A. Chứng tỏ rằng các biểu thức sau có giá trị không phụ thuộc vào biến:
+a) A = ( 3 x − 2 )( 2 x + 10 ) − ( 2 x + 2 )( 3 x + 10 ) ;
+b) B = ( x − 5 )( 2 x + 7 ) − 2 x ( x − 5 ) − 7 x + 2 .
+7B. Chứng tỏ rằng các biểu thức sau có giá trị không phụ thuộc vào biến:
+a) C = 2 ( x − 2 )( x + 3) − x ( 5 x − 4 ) + 3 x ( x − 2 ) + 7 ;
+
+= x ( 3 x − 1) − x 2 ( x + 3) + ( x − 1) ( x 2 + x + 2 ) .
+b) D
+Dạng 6. Vận dụng bài toán có lời văn
+Phương pháp giải:
+Bước 1. Xác định ẩn và điều kiện cho ẩn.
+Bước 2. Dựa vào đề bài để xác định các đa thức biểu thị kết quả cần biểu diễn theo ẩn.
+Bước 3. Áp dụng quy tắc nhân đơn thức với đa thức, đa thức với đa thức rồi rút gọn đa thức đó.
+8A. Cho một hình thang có các độ dài đáy lớn, đáy bé và chiều cao lần lượt là
+
+2 x + 1; x + 5; x ( m ) ( x > 0) .Viết đa thức biểu thị diện tích (đơn vị: m 2 ) của hình thang.
+8B. Giả sử ba kích thước của hình hộp chữ nhật là: x + 1; 2 x + 3; x − 3 ( cm ) vói x > 3 . Viết đa thức
+biểu thị thể tích (đơn vị: cm3 ) của hình hộp chữ nhật đó.
+9A. Có hai hình chữ nhật. Hình thứ nhất có chiều dài hơn chiều rộng 10 m . Chiều rộng của hình
+chữ nhật thứ hai hơn chiều rộng hình chữ nhật thứ nhất là 5m và có chiều dài hơn chiều dài hình thứ
+nhất là 15m. Gọi chiều rộng hình chữ nhật thứ nhất là x ( m ) .
+a) Tìm hai đa thức biểu thị diện tích của mỗi hình chữ nhật trên.
+b) Biết diện tích hình thứ hai hơn diện tích hình thứ nhất 325m 2 . Tính kích thước mỗi hình.
+9B. Cho một thửa ruộng hình thang vuông có đáy nhỏ lớn hơn chiều cao 4m và đáy lớn hơn đáy bé
+
+5m . Bác Huệ chia thửa ruộng ra thành hai phần, một phần hình chữ nhật để trồng hoa với chiều
+rộng bằng chiều cao của hình thang và phần còn lại hình tam giác vuông để trồng rau (Hình vẽ minh
+
+họa). Biết chiều cao của thửa ruộng là x + 1( m ) .
+
+a) Tìm đa thức biểu thị diện tích của cả thửa ruộng hình thang, phần diện tích trồng hoa và phần
+diện tích trồng rau.
+b) Biết diện tích trồng hoa lớn hơn hai lần diện tích trồng rau là 20m 2 . Tính kích thước của thửa
+ruộng.
+10A. Tìm 3 số tự nhiên chẵn liên tiếp, biết tích của hai số sau lớn hơn tích của hai số đầu là 200.
+10B. Tìm 3 số tự nhiên lẻ liên tiếp. Biết tích của hai số sau lớn hơn tích của hai số đầu là 36.
+III. BÀI TẬP TỰ LUYỆN
+11. Thực hiện phép nhân hai đa thức sau:
+a) 2 x − 1 và 4 x 3 − x 2 + 1 ;
+b) 3 x 3 − 4 và − x 3 + 3 x 2 − 2 .
+12. Rút gọn các biểu thức sau:
+a) − x ( x 3 − 2 x ) − 2 x ( x − 1)( x + 2 ) ;
+b) ( x 2 − 5 ) ( x + 3) − x ( 2 x − 1) + 5 ;
+1
+
+c) ( x 2 − 2 x + 3)  x − 5  + (−1)10 ( x − 1) .
+2
+
+
+13. Rút gọn rồi tính giá trị biểu thức:
+a) ( x − 6 )( x − 4 ) − x ( x + 90 ) + 76 với x = 0,98 ;
+b) ( 2 x + 3)( 2 x − 5 ) − x ( 4 x + 1) với x = −16, 2 ;
+c) 2 x ( x + 1)( x − 3) − x 2 ( 2 x − 1) + 5 ( x 2 − 1) với x = −1 ;
+d) ( 3 x − 2 ) ( 2 x 3 + x 2 − x − 1) − 5 x 2 ( x 2 − 1) − 2 + x 3 với x = 1 .
+14. Tìm x :
+
+16 ;
+a) 5 x ( x − 3) − x ( 5 x + 1) =
+1;
+b) ( 3 x 2 − x + 1) ( x + 1) + x 2 ( 4 − 3 x ) =
+
+c) 3 x 2 + 2 ( x − 3)( x + 3) − 5 x ( x + 3) =
+0;
+
+0.
+d) ( 5 x − 3)(1 + x ) − ( 3 x − 1)( x + 1) =
+15. Chứng tỏ rằng các đa thức sau không phụ thuộc vào biến:
+a) M =
+
+( 2 x + 1)( 5 x − 3) − ( 5 x + 2 )( 2 x − 7 ) − 30 ( x − 5) ;
+
+b) N = ( x − 3)( 3 x + 1) − 3 x ( x − 5 ) − 7 x + 8 ;
+c) P= x ( 6 − x )( x + 1) + x 2 ( x − 5 ) − 6 ( x + 7 ) .
+16. Đố đoán tuổi. Bạn hãy lấy tuổi của mình:
++) Cộng thêm 7;
++) Được bao nhiêu đem nhân với 4;
++) Lấy kết quả vừa tìm được cộng với 12;
++) Nhân kết quả vừa tìm được với 2,5;
++) Đọc kết quả cuối cùng sau khi đã trừ đi 100.
+Tôi sẽ đoán được tuổi của bạn. Giải thích tại sao?
+
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+1A. a) x ( x 2 − 2 x + 5 ) = x 3 − 2 x 2 + 5 x ;
+b) 5 x ( x 4 − 3 x 2 + 5 x + 2 ) = 5 x 5 − 15 x 3 + 25 x 2 + 10 x ;
+3
+21
+
+
+c) ( −3,5 x 2 )  2 x 4 − x 2 + 1 =
+−7 x 6 + x 4 − 3,5 x 2 ;
+2
+4
+
+
+3 
+2
+2
+ 7 3 3
+
+d) 1 x 3  2 x 3 + x 2 − x=
++ 2
+x  2x + x2 − x + 2 
+4 
+5
+5
+ 4 
+
+=
+
+7 6 7 5 7 4 7 3
+x + x − x + x .
+2
+4
+10
+2
+
+1B. Tường tự 1A
+a) − x 4 + 2 x 3 − 4 x 2 + 3 x ;
+b) − x 6 +
+
+3 4 1 3 1 2
+x − x − x ;
+2
+2
+2
+
+c) 7, 2 x 5 − 6 x 4 + 4,8 x 3 − 8, 4 x 2 ;
+d) −9 x 5 − 18 x 4 + 45 x 3 + 9 x 2 .
+2A. a) ( x − 1) ( 2 x 2 − 3 x + 1)= 2 x 3 − 3 x 2 + x − 2 x 2 + 3 x − 1
+
+= 2 x3 − 5 x 2 + 4 x − 1 ;
+b) (1 − x 2 )( 3 x 3 + 2 x 2 − x − 9 )= 3 x 3 + 2 x 2 − x − 9 − 3 x 5 − 2 x 4 + x 3 + 9 x 2
+
+=−3 x 5 − 2 x 4 + 4 x 3 + 11x 2 − x − 9
+c) ( 0, 2 x 2 − x )( x 2 + 7 x − 3=
+) 0, 2 x 4 + 1, 4 x3 − 0,6 x 2 − x3 − 7 x 2 + 3x
+= 0, 2 x 4 +
+
+2 3 38 2
+x − x + 3x ;
+5
+5
+
+d) 5 ( x 3 − x )( x 2 + 2 x − 3) =
+
+( 5 x − 5 x )( x + 2 x − 3)
+3
+
+= 5 x 5 + 10 x 4 − 15 x 3 − 5 x 3 − 10 x 2 + 15 x
+=5 x 5 + 10 x 4 − 20 x 3 − 10 x 2 + 15 x
+2B. Tương tự 2A
+a) 2 x 4 + x 3 − 8 x 2 + 6 x + 5 ;
+
+2
+
+b) −2 x 6 − x 5 − x 4 +
+
+1 3 1
+x + x;
+2
+2
+
+c) −5 x 4 + 21x 3 + 25 x 2 − 25 x ;
+d) −3 x 4 − 3 x 3 + 15 x 2 + 6 x .
+3A. a) 5 x 2 ( 3 x 2 − 1) − 6 x ( 4 x 3 − 3 x + 1) − 2 x 3 ( 3 x − 1)
+
+= 15 x 4 − 5 x 2 − 24 x 4 + 18 x 2 − 6 x − 6 x 4 + 2 x 3
+
+(15 x − 24 x − 6 x ) + 2 x + ( −5 x + 18 x ) − 6 x
+4
+
+=
+
+4
+
+4
+
+3
+
+2
+
+2
+
+=
+−15 x 4 + 2 x 3 + 12 x 2 − 6 x
+b)
+
+1  2 2
+1
+ 3 
+x  x − x + 2  − x 2  x +  − x ( x + 1)
+2 
+5
+3
+ 4 
+
+=
+
+1 3 1 2
+3
+1
+x − x + x − x3 − x 2 − x 2 − x
+2
+5
+4
+4
+
+3   1
+1
+1
+
+=  x3 − x3  +  − x 2 − x 2 − x 2  + ( x − x )
+4   5
+4
+2
+
+=
+
+−1 3 29 2
+x −
+x
+4
+20
+
+1
+c) 1 x 2 ( x 2 − 2 x ) − 2 x ( x 3 + x 2 + 1) + 2 ( x − 1)
+2
+1
+=
+− x 4 − 5 x3 − 2
+2
+
+d) = x 4 − 2 x 3 + 5 x 3 − 10 x 2 +
+=4 x 3 − 11x 2 +
+
+5
+x
+2
+
+3B. Tương tự 3A
+a) 2 x 4 − 15 x 2 + 18 x + 8 ;
+b) −14 x 3 + 48 x + 4
+c) 8 x 4 − 22 x 3 + 14 x 2 + 2 x ;
+d) 4 x 4 − 17 x 3 + 6 x 2 − 8 x ;
+4A. Tương tự 3A
+a) 7 x 2 + 20 x − 2 ;
+
+5
+x − x 4 + x3 − x 2
+2
+
+b) −2 x 3 + 3 x 2 + 9 x − 2 ;
+c) x 3 + x 2 + 2 x − 1 ;
+d) 5 x 2 − 11x .
+4B. Tương tự 3A
+a) − x 3 − 5 x 2 − 4 x − 2 ;
+b)
+
+13
+x +1;
+6
+
+c) 3 x 3 − 7 x 2 + 4 ；
+d) − x 2 + 28 x − 8 .
+5A. a) 60 x 2 − 31x với x = 2 , ta có: 60 x 2 − 31x = 60.22 − 31.2 = 178 .
+b) −7 x + 1 với x =
+
+1
+1
+. Ta có: −7 x + 1 =−7. + 1 =−1 + 1 =0
+7
+7
+
+5B. Tương tự 5A
+a) A =
+−39 x 2 + 21; A =
+−18 tại x = −1 ;
+b) B
+= 3x +
+
+1
+13
+; B = 7 tại x = .
+6
+2
+
+2
+6A. a) ( 2 x − 1) ( x 2 − x + 1) + x 2 ( 3 − 2 x ) =
+
+2 x 3 − 2 x 2 + 2 x − x 2 + x − 1 + 3 x 2 − 2 x 3 =2
+
+3x − 1 =2
+3x = 3
+x =1
+Vậy x = 1 .
+
+24
+b) 3 (1 − 4 x )( x − 2 ) + 4 ( 3 x + 1)( x + 2 ) =
+
+3 x − 6 − 12 x 2 + 24 x + 12 x 2 + 28 x + 8 =
+24
+
+55 x + 2 =
+24
+55 x = 22
+x=
+
+2
+5
+
+Vậy x =
+
+2
+.
+5
+
+0
+c) Tương tự câu a) −2 x 2 − 5 x =
+x. ( −2 x − 5 ) =
+0
+5
+Hoặc x = 0 hoặc x = − .
+2
+
+0 ⇒ x =−2
+d) 6 x + 12 =
+Vậy x = −2 .
+6B. Tương tự 6A
+a) −8 x = 0 ⇒ x = 0 .
+b) x + 2 = 5 ⇒ x = 3 .
+4
+c) −15 x − 12 =
+0⇒ x=
+− .
+5
+
+d) 6 x 2 + 6 x =0 ⇒ 6 x. ( x + 1) =0 .Hoặc x = 0 hoặc x = −1 .
+7A. a) A = ( 3 x − 2 )( 2 x + 10 ) − ( 2 x + 2 )( 3 x + 10 )
+
+=6 x 2 + 26 x 2 − 20 − ( 6 x 2 + 26 x 2 + 20 )
+
+= 6 x 2 + 26 x 2 − 20 − 6 x 2 − 26 x 2 − 20
+
+= −40
+Chứng tỏ biểu thức có giá trị không phụ thuộc vào biến.
+b) B = ( x − 5 )( 2 x + 7 ) − 2 x ( x − 5 ) − 7 x + 2
+
+= 2 x 2 − 3 x − 35 − 2 x 2 + 10 x − 7 x + 2
+
+= −33
+Chứng tỏ biểu thức có giá trị không phụ thuộc vào biến.
+7B. Tường tự 7A
+a) C = −5
+
+b) D = −2
+
+8A. Đa thức biểu thị diện tích (đơn vị: m 2 ) của hình thang là:
+
+( 2 x + 1 + x + 5 ) .x = 1 . 3 x + 6 .x = 3 x 2 + 3 x m 2
+(
+)
+( )
+2
+
+2
+
+2
+
+8B. Tương tự 8A
+
+( x + 1)( 2 x + 3)( x − 3) = 2 x3 − x 2 − 12 x − 9 ( cm3 )
+9A. a) Chiều dài hình chữ nhật thứ nhất là: x + 10 ( m )
+
+Diện tích hình chữ nhật thứ nhất là: x. ( x + 10 ) =x 2 + 10 x ( m 2 )
+Chiều rộng hình chữ nhật thứ hai là: x + 5 ( m )
+Chiều dài hình chữ nhật thứ hai là: x + 10 + 15 =x + 25 ( m )
+Diện tích hình chữ nhật thứ hai là: ( x + 5 ) . ( x + 25 ) =x 2 + 30 x + 125 ( m 2 )
+b) Diện tích hình chữ nhật thứ hai hơn diện tích hình thứ nhất 325m 2 nên ta có:
+
+325
+( x + 30 x + 125) − ( x + 10 x ) =
+2
+
+2
+
+20 x + 125 =
+325
+20 x = 200
+x = 10
+Khi đó, diện tích hình chữ nhật thứ nhất là:
+
+102 + 10.10 =
+200 ( m 2 )
+Diện tích hình chữ nhật thứ hai là:
+
+102 + 30.10 + 125 =
+525 ( m 2 )
+9B. Tương tự 9A.
+a) Đáy nhỏ thửa ruộng là x + 5 ( m )
+Đáy lớn thửa ruộng là x + 10 ( m )
+Diện tích cả thửa ruộng:
+
+1
+17
+15
+( 2 x + 15)( x + 1) = x 2 + x + ( m2 )
+2
+2
+2
+
+Diện tích phần trồng hoa là: ( x + 1)( x + 5 ) = x 2 + 6 x + 5 ( m 2 )
+Diện tích phần trồng rau là:
+x2 +
+
+17
+15
+5
+5
+x + − ( x 2 + 6 x + 5) = x + ( m2 )
+2
+2
+2
+2
+
+b) Tìm được: x = 4
+Thửa ruộng có: chiều cao: 5 m ; đáy bé: 9 m ; đáy lớn 14 m .
+10A. Gọi 3 số tự nhiên chẵn liên tiếp lần lượt là:
+
+2k ;2k + 2;2k + 4 ( k ∈  ) Tích của hai số sau lớn hơn tích của hai số đầu là 200 ta có:
+200
+( 2k + 2 )( 2k + 4 ) − 2k ( 2k + 2 ) =
+
+4k 2 + 12k + 8 − 4k 2 − 4k =
+200
+8k = 192
+k = 24
+
+Vậy 3 số tự nhiên chẵn liên tiếp đó là 48; 50; 52.
+10B. Tương tự 10A
+3 số tự nhiên lẻ liên tiếp đó là 7; 9; 11.
+11. Tương tự 2A
+a) 8 x 4 − 6 x 3 + x 2 + 2 x − 1 ;
+
+b) −3 x 6 + 9 x 5 − 2 x 3 − 12 x 2 + 8 .
+
+12. Tương tự 3A
+a) − x 4 − 2 x 3 + 4 x ;
+b) x 3 + x 2 − 4 x − 10 ;
+c)
+
+1 3
+25
+x − 6x2 +
+x − 16 ;
+2
+2
+
+13. Tương tự 5A
+a) A =
+−100 x + 100; A =
+2 tại x = 0,98 ;
+b) B =
+66 tại x = −16, 2 ;
+−5 x − 15; B =
+c) C = 2 x 2 − 6 x − 5; C = 3 tại x = −1 ;
+d) D =x 4 − x; D =0 tại x = 1 ;
+14. Tương tự 6A
+a) x = −1 ;
+
+b) x = 0 ;
+
+6
+c) x = − ;
+5
+
+b) N = 5 ;
+
+c) P = −42
+
+15. Tương tự 7A
+a) M = 161 ;
+
+16. Giải sử tuổi của bạn là x . Đem tuổi của mình:
++) Cộng thêm 7 ta được: x + 7
++) Được bao nhiêu đem nhân với 4 ta được: 4 ( x + 7 ) = 4 x + 28
++) Lấy kết quả vừa tìm được cộng với 12: 4 x + 28 + 12 = 4 x + 40
++) Nhân kết quả vừa tìm được với 2,5 ta được:
+
+10 x + 100
+( 4 x + 40 ) .2,5 =
++) Kết quả cuối cùng sau khi đã trừ đi 100 là: 10x .
+
+d) x ∈ {−1;1} .
+
+Vậy kết quả cuối cùng bằng mười lần số tuổi thực của bạn. Do đó ta chỉ cần lấy kết quả cuối cùng
+chia cho 10 là ra số tuổi thực.
+
+BÀI 5. PHÉP CHIA ĐA THỨC MỘT BIẾN
+I. TÓM TẮT LÝ THUYẾT
+Nếu A và B là hai đa thức đã cho (trong đó B là đa thức khác đa thức 0) thì bằng cách đặt tính
+chia ta luôn có thể tìm được các đa thức Q và R thỏa mãn đồng thời các điều kiện sau:
+a)=
+A B.Q + R ;
+b) Đa thức R phải bằng 0 hoặc đa thức R có bậc nhỏ hơn bậc của B .
+- Nếu R = 0 thì A = B.Q , khi đó ta nói A chia hết cho B và Q là thương của phép chia đa thức
+A (đa thức bị chia) cho đa thức B (đa thức chia) và viết A : B = Q hoặc Q =
+
+A
+.
+B
+
+- Nếu R ≠ 0 thì ta nói phép chia đa thức A cho đa thức B là phép chia có dư với đa thức thương
+là Q và đa thức dư là R .
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Chia đơn thức cho đơn thức
+Phương pháp giải: Cho hai đơn thức ax m và bx n (m, n ∈ ; a, b ∈  và b ≠ 0 ). Khi đó nếu m ≥ n thì
+phép chia ax m cho bx n là phép chia hết và ta có:
+ax m : bx n =
+
+a m−n
+(quy ước: x 0 = 1 )
+x
+b
+
+1A. Tính:
+a) 9 x 4 : 3 x ;
+c)
+
+5
+1
+(− x) 2 : x ;
+6
+3
+
+b) 125 x 5 : ( −25 x 3 ) ;
+d)
+
+−8 7
+x : (−2 x) 4 .
+3
+
+1B. Tính:
+a) 10 x 5 : 2 x 2 ;
+c)
+
+3 8  −3 4 
+x : x ;
+4
+ 2 
+
+b) ( −120 x 7 ) : (−6 x)3 ;
+d) (− x)6 : ( −2,5 x 3 ) .
+
+Dạng 2. Chia đa thức cho đơn thức
+Phương pháp giải:
+Muốn chia đa thức A cho đơn thức B ta làm như sau: Chia mỗi hạng tử của A cho B rồi cộng các
+kết quả với nhau.
+2A. Thực hiện các phép chia đa thức sau:
+
+a) ( −10 x 4 + 25 x 3 + 16 x 2 ) : ( −5 x 2 ) ;
+b) ( 4 x 5 − 5 x 3 + 2 x 2 ) : 2 x 2 ;
+3  1
+
+c)  6 x 4 + 5 x 3 − 11x 2 + x  : x ;
+4  2
+
+ 1 
+d) ( −7 x 5 + 13 x 4 − x 3 ) :  − x 2  .
+ 7 
+
+2B. Thực hiện các phép chia đa thức sau:
+a) ( x 3 − 9 x 2 + 28 x ) : 7 x ;
+b) ( −4 x 6 + 5 x 5 + 3 x 4 − 5 x 3 ) : ( −2 x 2 ) ;
+ 1 
+c) ( 3 x 7 − 7 x 5 + x 3 ) :  − x 2  ;
+ 3 
+
+d) ( x8 − x 7 + 5 x 6 − 4 x 4 ) : ( 2 x 3 ) .
+Dạng 3. Chia đa thức một biến.
+Phương pháp giải: Cách đặt tính chia đa thức một biến:
+Để chia một đa thức cho một đa thức khác 0 (của cùng một biến) ta làm như sau:
+- Rút gọn và sắp xếp hai đa thức đã cho theo thứ tự bậc giảm dần của biến.
+- Đặt tính tương tự chia hai số tự nhiên: Kẻ một đường thẳng đứng rồi đặt trên cùng một hàng đa
+thức bị chia ở bên trái và đa thức chia bên phải đường thẳng đứng.
+Bước 1: Chia hạng tử bậc cao nhất của đa thức bị chia cho hạng tử bậc cao nhất của đa thức chia
+và viết thương ngay dưới hạng tử cao nhất của đa thức chia, đồng thời nhân thương đó với đa thức
+chia và đặt tích dưới đa thức bị chia sao cho các đơn thức có cùng số mũ thẳng cột.
+Bước 2: Lấy đa thức bị chia trừ đi tích dưới và xét hiệu.
+- Nếu hiệu là 0 thì phép chia kết thúc và là phép chia hết.
+- Nếu hiệu khác 0 và là đa thức có bậc nhỏ hơn bậc của đa thức chia thì phép chia cũng kết thúc
+và hiệu chính là đa thức dư.
+- Nếu hiệu khác 0 và là đa thức có bậc lớn hơn hoặc bằng bậc của đa thức chia thì ta tiếp tục quá
+trình trên: chia đa thức hiệu nhận được cho đa thức chia,... .
+Ví dụ:
+a) Chia hết:
+
+2 x 3 − 2 x 2  
+
+x −1
+2x2
+
+2 x3 − 2 x 2
+0
+
+2x2 .
+ta có ( 2 x 3 − 2 x 2 ) : ( x − 1) =
+b) Dừng ngay bước 1, dư bằng 1:
+2 x3 − 2 x 2 + 1
+
+x −1
+2x2
+
+2 x3 − 2 x 2
+1
+
+2 x 2 (dư 1 )
+Ta có ( 2 x 3 − 2 x 2 ) : ( x − 1) =
+c) Dừng sau bước 2 , chia có dư bằng 3 :
+2 x3 − 2 x 2 + x + 1
+
+x−2
+2x2 + 1
+
+2 x3 − 2 x 2
+x +1
+x−2
+3
+
+Ta có ( 2 x 3 − 2 x 2 + x + 1) : ( x − 1)= 2 x 2 + 1 (dư 3)
+3A. Thực hiện các phép chia đa thức sau bằng cách đặt tính chia.
+a) ( 2 x 3 − 5 x 2 + 4 x − 1) : ( x − 1) ;
+b) ( −2 x 6 + 2 x 5 − x 4 + x 3 − 2 x 2 − 1) : ( 2 x 2 + 1) ;
+c) ( 2 x 4 − 3 x 3 + 3 x 2 + 9 x − 27 ) : ( x 2 − 3) ;
+2
+1
+
+d)  x 3 + x 2 − 7,6 x + 3  : ( 0, 2 x − 1) .
+5
+5
+
+
+3B. Thực hiện các phép chia đa thức sau bằng cách đặt tính chia.
+a) ( 3 x 2 + 8,5 x + 6 ) : ( x + 1,5 ) ;
+b) ( 2 x 3 + 3 x 2 − 3 x − 2 ) : ( 2 x + 1) ;
+c) ( x 3 − 5 x 2 + x − 5 ) : ( x 2 + 1) ;
+
+d) ( 3 x 4 + 2 x 3 + 11x 2 + 4 x + 10 ) : ( x 2 + 2 ) .
+4A. Tìm đa thức M biết:
+a) ( x 3 − 7 x 2 + x − 7 ) = ( x − 7 ) .M ;
+b) ( x 2 − 4 x − 3) .M = 2 x 3 − 7 x 2 − 10 x − 3 ;
+
++ 1) M . ( 3 x 2 − 1) .
+c) ( 3 x 6 − x 4 − 3 x 2 =
+d) M . ( x 2 + x + 1) = x 4 − 2 x 3 − x + 2 .
+4B. Tìm đa thức N biết:
+a) ( −3 x + 5 ) .N =
+−3 x 3 + 5 x 2 − 9 x + 15 ;
+b) 5 x 4 + 9 x 3 − 2 x 2 − 4 x −=
+8 N . ( x − 1) ;
+c) N . ( x − 2 ) = x 3 − 8 ;
+d) ( x 2 − 6 x + 9 ) .N = x 3 − 2 x 2 − 15 x + 36 .
+5A. Thực hiện phép tính:
+a) ( 3 x 2 + 7 x + 9 ) : ( x − 1) ;
+b) ( 5 x 3 + 3 x 2 − 4 ) : ( x + 2 ) ;
+c) ( 4 x 3 − 6 ) : ( x 2 − 1) ;
+d) ( 2 x 3 + 13 x 2 + 15 x − 3) : ( 2 x + 3) .
+5B. Thực hiện phép tính:
+a) ( −3 x 3 + x 2 + 17 x − 2 ) : ( −3 x + 7 ) ;
+b) ( 2 x 4 + 4 x 3 + 5 x 2 − 3 x − 10 ) : ( x 2 + x + 3) ;
+c) ( 2 x 4 + 3 x 3 − 4 x 2 − 9 ) : ( 2 x − 3) ;
+d) ( x 3 − 2 x 2 + 15 x + 24 ) : ( x + 4 ) .
+6A. Trong mỗi trường hợp sau đây, tìm thương Q ( x ) và dư R ( x ) trong phép chia F ( x ) cho G ( x )
+rồi biểu diễn F ( x ) dưới dạng:
+
+=
+F ( x ) G ( x ) .Q ( x ) + R ( x ) .
+
+a) F ( x ) =35 x 3 + 11x 2 + 15 x − 5; G ( x ) =5 x − 2 ;
+b) F ( x ) = x 4 − 6 x 3 + 15 x 2 − 20 x + 10; G ( x ) = x 2 − 2 x + 4 .
+c) F ( x ) = x 3 + x 2 − x + 15; G ( x ) = x 2 − 2 x + 5 .
+6B. Trong mỗi trường hợp sau đây, tìm thương Q ( x ) và dư R ( x ) trong phép chia A ( x ) cho B ( x )
+rồi biểu diễn A ( x ) dưới dạng:
+
+=
+A ( x ) B ( x ) .Q ( x ) + R ( x ) .
+a) A ( x ) = 3 x 3 − 10 x 2 + 6 x − 5; B ( x ) = x 2 − x + 1 ;
+b) A ( x ) =
+6 x 3 − x 2 − 24 x + 21; B ( x ) =
+−2 x + 3 ;
+c) A ( x ) = 2 x 3 − 5 x 2 − x + 1; B ( x ) = 2 x + 1 .
+Dạng 5. Xác định các hằng số a và b sao cho một phép chia đa thức là phép chia hết
+Phương pháp giải: Dùng tính chất của phép chia R = 0 để tìm được a và b .
+7A. Xác định a để A chia hết cho B với:
+a) A = x 3 − 4 x + a − 3 và B= x − 2 ;
+b) A = x 3 − 9 x 2 + 17 x − 25 + a và B = x 2 − 2 x + 3 .
+7B. Xác định b để C chia hết cho D với:
+a) C = x 4 − 3 x 2 − 18 x + b + 2 và D= x − 3 ;
+
+= 5x − 2 .
+b) C = 5 x 3 + 3 x 2 − 7 x + 2b + 1 và D
+8A. Xác định a và b để :
+a) 2x 3 − x 2 + ax + b chia hết cho x 2 − 1 .
+b) x 4 − 7 x 3 + 4 x 2 + ax + b − 1 chia hết cho x 2 − 7 x + 3 .
+8B. Xác định m và n để:
+a) 2 x 6 − x 4 − 2 x 2 + ( m − 2 ) x + n chia hết cho 2 x 2 − 1 .
+b) x 5 + 3 x 4 − 2 x 3 + ( m − 1) x 2 + nx + 3 chia hết cho x 2 + x + 1 .
+Dạng 6. Tìm số nguyên x sao cho tại đó giá trị của đa thức A chia hết cho giá trị của đa thức B
+Phương pháp giải:
+Bước 1. Thực hiện phép chia như chia đa thức cho đa thức
+Bước 2. Để giá trị của đa thức A chia hết cho giá trị của đa thức B thì giá trị của đa thức dư phải
+chia hết cho giá trị của đa thức chia.
+
+Bước 3. Áp dụng các tính chất chia hết (tính chất chia hết của một tích, một tổng) để giải quyết
+bài toán.
+9A. Tìm x nguyên để giá trị của đa thức A chia hết cho giá trị của đa thức B .
+
+B 2x −1 ;
+−2 x 3 − 3 x 2 + 12 x + 2 và =
+a) A =
+= 3x + 1 .
+−3 x 3 − x 2 + 15 x − 6 và B
+b) A =
+9B. Tìm x nguyên để giá trị của đa thức C chia hết cho giá trị của đa thức D .
+
+= 3x − 1;
+a) C = 3 x 3 + 2 x 2 − 10 x + 5 và D
+= 5x + 2 .
+−5 x 3 + 3 x 2 + 37 x + 24 và D
+b) C =
+III. BÀI TẬP TỰ LUYỆN
+10. Thực hiện phép tính:
+3 7
+x : ( −2 x 5 ) ;
+2
+
+a) 55(− x)3 :11x 2 ;
+
+b)
+
+c) −3,5 x8 : ( −7 x 5 ) ;
+
+3
+1
+d) 1 x 6 : x 3 .
+4
+14
+
+11. Thực hiện các phép chia đa thức sau:
+a) ( −2 x 6 + 4 x 4 − x 3 + 3 x 2 ) : 0,5 x 2 ;
+1  1
+
+b)  x 4 + 3 x 3 − x 2  : x 2 ;
+2  3
+
+
+c) ( 5 x 4 − 3 x 3 + x 2 ) : 3 x 2 ;
+1   1 
+
+d)  −5 x 5 + 2 x 4 − x 3  :  − x 3  .
+3   2 
+
+
+12. Thực hiện phép tính:
+a) (16 x 2 − 9 ) : ( 4 x + 3) ;
+b) ( x 3 + 2 x 2 − x − 2 ) : ( x + 2 ) ;
+c) ( x 4 − x 3 − 4 x 2 − 5 x − 3) : ( x 2 + x + 1) ;
+d) ( 6 x 4 − 4 x 3 + x 2 + x ) : ( 2 x 2 − 2 x + 1) .
+13. Tìm đa thức M biết:
+1
+ 1 3
+а) M .  x + 3  =
+x + 4 x 2 + 7,5 x + 9 ;
+2
+ 2
+
+b) x 5 + 3 x 4 − 2 x 3 − 7 x 2 + 2 = ( x 3 + 3 x 2 − 1) .M .
+14. Trong mỗi trường hợp sau đây, tìm thương Q và dư R trong phép chia đa thức A cho đa thức
+B rồi biểu diễn dưới dạng:
+
+=
+A B.Q + R.
+
+a) A =
+x 2;
+5 x 3 + 14 x 2 + 12 x − 5; B =+
+3
+b) A =
+− x 3 + 5 x 2 − 7 x + 11; B =
+−3 x + 4 .
+2
+
+15. Tìm các số a, b sao cho đa thức A chia hết cho đa thức B .
+a) A = x 3 − 2 x 2 + ( a − 3) x − a − 1; B = x − 3 ;
+b) A= 2 x 3 + 10 x 2 + ( a − 1) x + b − a; B= 2 x 2 + 5 .
+16. Tìm số nguyên x để giá trị của đa thức A chia hết cho giá trị của đa thức B .
+a) A = 6 x 3 + 13 x 2 − 8 x + 6; B = 3 x − 1 ;
+b) A =
+−6 x 3 + x 2 + 3 x + 2; B =
+2x − 1.
+17. Rút gọn biểu thức sau:
+3
+5 4
+1 3
+2
+2
+2
+ x − 3 x  : 2 x +  x + x  : x + x ( 2 x − 1)( x + 1)
+2
+2
+
+4
+
+
+18. Tìm x , biết:
+
+−1 ;
+а) ( 4 x 4 + 3 x 3 ) : ( − x 2 ) + ( 9 x 2 − 3 x ) : 3 x + x ( x − 1)( x + 1) − x 3 =
+1 
+1
+
+b)  x 3 − x  : 2 x − x ( x − 1) =
+0;
+2 
+2
+
+
+10 ;
+c) ( 42 x 3 − 12 x ) : ( −6 x ) + 7 x ( x + 2 ) =
+d) ( 25 x 2 − 10 x ) : 5 x + 3 ( − x + 1) =4 .
+
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+
+1A. a) 3x 3
+
+b) −5x 2 ;
+
+c)
+
+5
+x;
+2
+
+1
+d) − x 3 .
+6
+
+1B. Tương tự 1A
+a) 5x 3 ;
+
+b)
+
+5 4
+x ;
+9
+
+1
+c) − x 4 ;
+2
+
+d)
+
+2A. a) ( −10 x 4 + 25 x 3 + 16 x 2 ) : ( −5 x 2 )
+
+=
+−10 x 4 : ( −5 x 2 ) + 25 x 3 : ( −5 x 2 ) + 16 x 2 : ( −5 x 2 )
+= 2 x2 − 5x −
+
+16
+5
+
+5
+b) Tương tự câu a) 2 x 3 − x + 1
+2
+
+c) 12 x 3 + 10 x 2 − 22 x +
+
+3
+;
+2
+
+d) 49 x 3 − 91x 2 + 7 x .
+2B. Tương tự 2A
+a)
+
+1 2 9
+x − x + 4;
+7
+7
+
+5
+3
+5
+b) 2 x 4 − x 3 − x 2 + x ;
+2
+2
+2
+
+c) −9 x 5 + 21x 3 − 3 x ;
+
+d)
+
+1 5 1 4 5 3
+x − x + x − 2x .
+2
+2
+2
+
+3A. a)
+-
+
+x −1
+
+2 x3 − 5 x 2 + 4 x − 1
+
+2 x 2 − 3x + 1
+2 x3 − 2 x 2
+− 3x 2 + 4 x − 1
+-
+
+− 3x 2 + 3x
+x −1
+x −1
+0
+
+b) Tương tự câu a)
+
+( −2 x + 2 x − x + x − 2 x − 1) : ( 2 x + 1) =−x + x − 1
+6
+
+5
+
+4
+
+3
+
+2
+
+2
+
+4
+
+3
+
+−2 3
+x .
+5
+
+c) ( 2 x 4 − 3 x 3 + 3 x 2 + 9 x − 27 ) : ( x 2 − 3) = 2 x 2 − 3 x + 9
+2
+1
+
+d)  x 3 + x 2 − 7,6 x + 3  : ( 0, 2 x − 1) = x 2 + 7 x − 3
+5
+5
+
+
+3B. Tương tự 3A
+a) ( 3 x 2 + 8,5 x + 6 ) : ( x + 1,5 ) =3 x + 4 ;
+b) ( 2 x 3 + 3 x 2 − 3 x − 2 ) : ( 2 x + 1) = x 2 + x − 2 ;
+c) ( x 3 − 5 x 2 + x − 5 ) : ( x 2 + 1) = x − 5 ;
+d) ( 3 x 4 + 2 x 3 + 11x 2 + 4 x + 10 ) : ( x 2 + 2 ) = 3 x 2 + 2 x + 5 .
+4A. a) ( x 3 − 7 x 2 + x − 7 ) = ( x − 7 ) .M
+
+M=
+
+( x − 7x + x − 7) : ( x − 7)
+3
+
+2
+
+M= x 2 + 1
+b) Tương tự câu a) M= 2 x + 1 ;
+c) M= x 4 − 1 ;
+d) M = x 2 − 3 x + 2 .
+4B. Tương tự 4A
+a) N= x 2 + 3
+
+b) N = 5 x 3 + 14 x 2 + 12 x + 8 ;
+
+c) N = x 2 + 2 x + 4 ;
+
+d) N= x + 4 .
+
+5A. a)
+-
+
+b)
+
+3x 2 + 7 x + 9
+3x 2 − 3x
+- 10 x + 9
+10 x − 10
+19
+
+x −1
+3 x + 10
+
+-
+
+5 x3 + 3x 2
+
+−4
+
+5 x 3 + 10 x 2
+− 7 x2
+-
+
+−4
+
+x+2
+5 x 2 − 7 x + 14
+
+− 7 x 2 − 14 x
+-
+
+14 x − 4
+14 x + 28
+− 32
+
+c) Tương tự câu a, b Thương: 4x ; Dư: 4 x − 6
+d) Thương: x 2 + 5 x ; Dư: -3
+5B. Tương tự 5A
+a) Thương: x 2 + 2 x − 1 ; Dư: 5;
+b) Thương: 2 x 2 + 2 x − 3 ; Dư: −6 x − 1 ;
+c) Thương: x 3 + 3 x 2 +
+
+9
+5
+15
+x + ; Dư: ;
+4
+2
+4
+
+d) Thương: x 2 − 6 x + 39 ; Dư: -132 .
+6A. a) Q ( x ) = 7 x 2 + 5 x + 5; R ( x ) = 5 ;
+b) Q ( x ) = x 2 − 4 x + 3; R ( x ) = 2 x − 2 ;
+
+x + 3; R ( x ) =
+0;
+c) Q ( x ) =
+3 x − 7; R ( x ) =
+−4 x + 2
+6B. a) Q ( x ) =
+b) Q ( x ) =
+−3 x 2 − 4 x + 6; R ( x ) =
+3
+c) Q ( x ) = x 2 − 3 x + 1; R ( x ) = 0
+7A. a) Ta có:
+- x
+
+− 4x + a − 3
+
+3
+
+x3 − 2 x 2
+
+x−2
+x2 + 2x
+
+- 2x − 4x + a − 3
+2
+
+2x2 − 4x
+a −3
+A chia hết cho B khi a − 3 = 0 ⇔ a = 3
+b) Ta có:
+
+2
+x 3 − 9 x 2 + 17 x − 25 + a x − 2 x + 3
+x−7
+x3 − 2 x 2 + 3x
+
+− 7 x 2 + 14 x − 25 + a
+
+-
+
+−7 x 2 + 14 x − 21
+−4+a
+
+A chia hết cho B khi −4 + a = 0 ⇔ a = 4
+7B. Tương tự 7A
+a) b = −2 ;
+
+b) b =
+
+1
+.
+2
+
+8A. a) Ta có:
+-
+
+x2 − 1
+
+2 x 3 − x 2 + ax + b
+2 x3
+-
+
+2x −1
+
+− 2x
+− x 2 + (a + 2) x + b
++1
+
+− x2
+
+(a + 2) x + b − 1
+
+2x 3 − x 2 + ax + b chia hết cho x 2 − 1 nếu ( a + 2 ) x + b − 1 = 0, ∀x
+a + 2 =0 a =−2
+⇒
+Khi và chỉ khi: 
+b −1 0 =
+b 1
+=
+b) Tương tự câu a) ta có: b = 4; a = −7
+8B. Tương tự 8A
+a) =
+m 2;=
+n 1.
+
+b) m =
+−5; n =
+−8 .
+
+9A. a) Xét phép chia:
+-
+
+−2 x 3 − 3 x 2 + 12 x + 2
+
+− x2 − 2x + 5
+
+−2 x 3 + x 2
+-
+
+2x −1
+
+− 4 x 2 + 12 x + 2
+−4 x 2 + 2 x
+-
+
+10 x + 2
+10 x − 5
+7
+
+Với x nguyên để giá trị của đa thức A chia hết cho giá trị của đa thức B thì
+
+2 x − 1 ∈Ư(7) ={±1; ±7} .
+Từ đó tìm được x ∈ {0;1;4; −3} .
+b) Tương tự câu a) tìm được 3 x + 1 ∈ Ư(-11) = = {±1; ±11} .
+Từ đó tìm được x ∈ {0; −4} .
+9B. Tương tự 9A
+a) x ∈ {0;1} ;
+
+b) x = 0 .
+
+10. Tương tự 1A
+a) −5x ;
+
+3
+b) − x 2 ;
+4
+
+c)
+
+1 3
+x ;
+2
+
+d)
+
+49 3
+x .
+2
+
+11. Tương tự 2A
+а) −4 x 4 + 8 x 2 − 2 x + 6 ;
+c)
+
+b) 3 x 2 + 9 x −
+
+5 2
+1
+x −x+ ;
+3
+3
+
+3
+;
+2
+
+2
+d) 10 x 2 − 4 x + .
+3
+
+12. Tương tự 3A
+a) 4 x − 3 ;
+
+b) x 2 − 1 ;
+
+13. Tương tự 4A
+a) M = x 2 + 2 x + 3
+
+b) M= x 2 − 2 .
+
+14. Tương tự 6A
+a) Q =
+5 x 2 + 4 x + 4; R =
+−13 ;
+b) Q=
+
+1 2
+x − x + 1; R= 7 .
+2
+
+15. Tương tự 8A
+а) a =
+
+1
+;
+2
+
+a 6;=
+b 31 .
+b)=
+
+16. Tương tự 9A
+a) x ∈ {0;2}
+1
+3
+17. 3 x 3 + 3 x 2 − x −
+2
+2
+
+b) x ∈ {0; ±1;2} .
+
+c) x 2 − 2 x − 3 ;
+
+d) 3x 2 + x .
+
+1
+18. a) 4 x 2 + x = 0 ⇔ x ( 4 x + 1) = 0 ⇔ x = 0 hoặc x = − .
+4
+
+b)
+
+1
+1
+1
+x− =0 ⇔ x =
+2
+4
+2
+
+c) 14 x + 2 = 10 ⇔ 14 x = 8 ⇔ x =
+d) 2 x + 1 = 4 ⇔ x =
+
+3
+.
+2
+
+4
+.
+7
+
+ÔN TẬP CHƯƠNG VII
+I. TÓM TẮT LÝ THUYẾT
+Xem phần Tóm tắt lý thuyết các bài từ Bài 1 đến bài 5.
+II. BÀI TẬP
+1A. Tính tích các đơn thức sau rồi xác định hệ số, bậc của mỗi đa đơn thức nhận được:
+3 6
+a) A =
+x ;
+−2 x 4 ; B =
+4
+2
+
+1 3
+ 4 
+b) A =
+x ;B =
+2x .
+ − x  ;C =
+5
+ 3 
+
+1B. Tính tích các đơn thức sau rồi xác định hệ số, bậc của mỗi đa đơn thức nhận được:
+2 7
+ 5 2
+a) M =−
+x3 .
+x ; N =
+x ;
+5
+ 4 
+2
+
+3 1
+8
+b) M =
+x.
+− x5 .  ; N =
+− x2 ; P =
+4 2
+9
+
+2A. Cho hai đa thức:
+1
+2
+A ( x )= 7 x 3 − 9 − x 2 + x + 2 x 2 − 7 x 3 − x
+3
+3
+
+1
+B ( x ) =−7 x 3 + x 2 − x + 3 + x + 2 − 4 x 2
+3
+a) Rút gọn và sắp xếp hai đa thức trên theo lũy thừa bậc giảm dần của x ;
+b) Tính A ( x ) + B ( x ) ; A ( x ) − B ( x ) ; B ( x ) − A ( x ) ;
+c) Đặt H=
+( x ) A ( x ) + B ( x ) . Tìm hệ số cao nhất và hệ số tự do của H ( x ) ;
+1
+d) Tính H ( 0 ) ; H ( −1) ; H   ;
+2
+
+0.
+e) Tìm giá trị của x để H ( x ) + 4 =
+2B. Cho hai đa thức:
+P ( x ) = 3 x 3 + 5 x − 12 − x 2 + x 3 − 6 x 2 − 2 x
+Q ( x ) =−2 x 3 + x − 3 x 2 + 12 + 8 x 2 − 10 x − 2 x 3
+
+a) Rút gọn và sắp xếp hai đa thức trên theo lũy thừa bậc tăng dần của x ;
+
+P ( x) Q ( x);G ( x) =
+2P ( x ) − Q ( x ) ;
+b) Tính H ( x ) =+
+c) Tìm hệ số cao nhất và hệ số tự do của H ( x ) và G ( x ) ;
+ 1
+d) Tính H ( −1) ; H ( 2 ) ; G  −  ; G ( 0 ) ;
+ 2
+
+e) Tìm nghiệm của đa thức H ( x ) .
+3A. Hãy kiểm tra:
+a) x =
+
+1
+1
+có là nghiệm của đa thức P ( x=
+) 2 x + không?
+3
+6
+
+b) Mỗi số =
+x 1;=
+x 3 có phải là một nghiệm của đa thức Q ( x ) = x 2 − 4 x + 3 không?
+3B. Cho đa thức P ( x ) = 2 x 2 + 5 x − 3 . Chứng tỏ rằng x =
+
+1
+; x = −3 là hai nghiệm của đa thức đó.
+2
+
+4A. Trong một xưởng sản xuất đồ gia dụng có tổng cộng 1200 thùng hàng và mỗi ngày nhân viên sẽ
+lấy đi 40 thùng hàng để đi phân phối cho đại lí.
+a) Gọi x là số ngày nhân viên đã đến lấy thùng hàng. Hãy lập biểu thức biểu thị số thùng hàng
+còn lại sau x ngày.
+b) Sau bao nhiêu ngày thì xưởng sẽ vận chuyển hết được 1200 thùng hàng?
+4B. Một cửa hàng sách cũ có một chính sách như sau: Nếu khách hàng đăng kí làm hội viên của cửa
+hàng sách thì mỗi năm phải đóng 50 000 đồng chi phí và chỉ phải mượn sách với giá 5000
+đồng/cuốn. Nếu khách hàng không phải là hội viên thì sẽ mượn sách với giá 10000 đồng/cuốn. Gọi
+
+x là số sách khách mượn.
+a) Hãy lập đa thức biểu diễn số tiền khách phải trả trong mỗi năm đối với khách là hội viên và đối
+với khách không là hội viên.
+b) Đức là hội viên, năm ngoái Đức phải trả cho cửa hàng tổng cộng 95000 đồng. Tính số tiền mà
+Đức phải trả nếu không là hội viên.
+5A. Tìm giá trị của x , biết rằng:
+5
+a) 3 − x =
+0;
+2
+
+c) x 2 −
+
+1
+=
+0;
+4
+
+0;
+b) ( x − 2 )( x + 3) =
+
+0;
+d) 3 x 2 + 2 x =
+
+0;
+e) x 3 + 2 x =
+
+0.
+f) ( 5 x + 3) − ( 2 x + 1) =
+
+17 ;
+g) 3 x ( x − 4 ) − x ( 5 + 3 x ) =
+
+0.
+h) ( x 3 + 2 x 2 ) : x 2 + 3 ( x − 1) =
+
+5B. Tìm giá trị của x , biết rằng:
+a)
+
+3
+x−4=
+0;
+2
+
+c) x 2 −
+
+0;
+b) (1 − 2 x )( x + 4 ) =
+
+1
+=
+0;
+9
+
+d) − x + 5 x 2 =0 ;
+1
+1
+0.
+( x − 5) − ( x − 7 ) =
+3
+6
+
+0;
+e) x 4 + 1 =
+
+f)
+
+26 ;
+g) 2 x ( x − 5 ) − x ( 3 + 2 x ) =
+
+0.
+h) ( 3 x 5 + 6 x 3 ) : 3 x 3 − x ( x − 3) =
+
+6A. Thực hiện phép tính:
+а) 3 x ( x 2 − 5 x + 7 ) ;
+
+b) ( x + 4 ) ( − x 2 + 6 x + 5 ) ;
+
+c) ( x 2 − 1)( 2 x 2 − 3 x + 4 ) ;
+
+d) ( 3 x − 1)( 3 x + 5 ) − 7 ( x 2 + 2 ) .
+
+6B. Thực hiện phép tính:
+a) −2 x 2 ( x 3 − x 2 + 1) ;
+
+b) ( 2 x + 1) ( − x 2 + 5 x + 2 ) ;
+
+c) ( 2 x 2 − 1)( x 2 + 5 x + 1) ;
+
+d) ( 5 x − 2 )( 5 x + 1) − 20 ( x 2 + x − 1) .
+
+7A. Chứng minh rằng giá trị của biểu thức sau không phụ thuộc vào giá trị của biến:
+a) 5 x 2 − ( 2 x + 1)( x − 2 ) − 3 x ( x + 1) + 7 ;
+b) ( 3 x − 1)( 2 x + 3) − ( x − 5 )( 6 x − 1) − 38 x .
+7B. Chứng minh rằng giá trị của biểu thức sau không phụ thuộc vào giá trị của biến:
+a) ( 5 x − 2 )( x + 1) − ( x − 3)( 5 x + 1) − 17 ( x − 2 ) ;
+b) ( x − 5 )( x + 8 ) − ( x + 4 )( x − 1) .
+8A. Tính giá trị của các biểu thức sau:
+a) ( x + 1) ( x 2 + 2 x + 4 ) − x 2 ( x + 3) với x = −
+
+10
+.
+3
+
+3
+
+b) 4  x − 1 + (12 x 2 − 3 x ) : ( −3 x ) − ( 2 x − 1) với x = 3 .
+4
+
+
+8B. Tính giá trị của các biểu thức sau:
+a) ( x − 3) 2 − ( 8 x + 3)( 3 − x ) + x ( x − 3) với x = 103 .
+ 3
+
+b) 5  − x + 2  + ( 5 x 3 − 3 x 2 ) : (−2 x) 2 + x − 3 với x = −3 .
+ 5
+
+
+9A. Cho đa thức bậc hai F ( x ) = ax 2 + bx + c , trong đó a, b, c là những số và a ≠ 0 .
+a) Cho biết a + b + c =
+0 . Giải thích tại sao x = 1 là một nghiệm của F ( x ) .
+b) Áp dụng, hãy tìm một nghiệm của đa thức bậc hai 3 x 2 − 4 x + 1 .
+9B. Cho đa thức bậc hai F ( x ) = ax 2 + bx + c , trong đó a, b, c là những số và a ≠ 0 .
+a) Cho biết a − b + c =
+0 . Giải thích tại sao x = −1 là một nghiệm của F ( x ) .
+b) Áp dụng, hãy tìm một nghiệm của đa thức bậc hai 2 x 2 − 3 x − 5 .
+10A. Xác định a, b sao cho 3 x 3 + ax 2 + bx + 9 x 2 − 9 .
+10B. Xác định a sao cho x 4 + ax 2 + 1 x 2 + x + 1 .
+11A. Tìm n nguyên sao cho 10n 2 + n − 10 chia hết cho n − 1 .
+11B. Tìm n nguyên sao cho 2n3 − 7 n 2 + 13n + 2 chia hết cho 2n − 1 .
+III. BÀI TẬP TỰ LUYỆN
+12. Cho hai đa thức:
+
+M ( x ) =−5 x 4 + 3 x 5 + x ( x 2 + 5 ) + 14 x 4 − 6 x 5 − x 3 + x − 1
+N ( x=
+) x 4 ( x − 5) − 3x3 + 3x + 2 x5 − 4 x 4 + 3x3 − 5
+
+a) Thu gọn và sắp xếp hai đa thức trên theo lũy thừa tăng dần của biến;
+
+M ( x) + Q ( x);G ( x) =
+M ( x) − N ( x) ;
+b) Tính H ( x ) =
+c) Tìm hệ số cao nhất và hệ số tự do của H ( x ) và G ( x ) ;
+d) Tính H ( −1) ; H (1) ; G (1) ; G ( 0 ) ;
+e) Tìm nghiệm của đa thức H ( x ) .
+13. Rút gọn biểu thức sau:
+1
+
+1
+
+a)  x 5 − 3 x 2  : x 2 − x  x 2 + 5  + 2 x ( x − 2 )( x + 2 ) − ( x 3 − 27 ) : ( x − 3)
+2
+
+2
+
+1
+5
+
+b) ( 7 x 3 − 2 x 2 ) : ( −2 x 2 ) +  x 2 − 3 x  : x − x ( x − 1)( 2 x + 1)
+2
+4
+
+
+14. Tìm x , biết:
+
+0;
+a) ( 6 x 3 + x 2 ) : 2 x − 3 x ( x − 1) + 2 =
+
+0;
+b) ( 5 x 4 − 3 x 2 ) : x 2 − x ( 5 x + 6 ) =
+
+0；
+c) ( 2 x − 1) ( 4 x 2 + 1) =
+0.
+d) ( x 2 − 3 x )( x 4 + 1) =
+15. Cho đa thức A = x 4 + 2 x 3 − 5 x − 10
+a) Tìm đa thức B sao cho A + B = x 3 +
+
+3
+x + 3;
+2
+
+2x2 ;
+b) Tìm đa thức C sao cho A − C =
+D
+c) Tìm đa thức D biết rằng =
+
+( 2 x − 1) . A ;
+
+=
+d) Tìm đa thức P biết rằng A
+
+( x + 2 ) .P ;
+
+A
+e) Có hay không đa thức Q sao cho =
+
+( x − 5) .Q .
+3
+
+16. Một hình chữ nhật có kích thước là 25 cm và 45 cm . Người ta tăng mỗi kích thước thêm x cm .
+a) Hãy lập đa thức biểu thị chu vi của hình chữ nhật mới.
+
+=
+b) Tính chu vi của hình chữ nhật mới trong các trường
+hợp x 3=
+( cm ) ; x 5 ( cm ) .
+17. Một tam giác vuông có độ dài hai cạnh góc vuông lần lượt là: n − 3; 2n − 9 (đơn vị là mét và
+n > 4,5 ).
+
+a) Hãy lập đa thức biểu diễn công thức tính diện tích của tam giác vuông đó.
+b) Tính diện tích của tam giác vuông trên trong các trường hợp=
+n 6;=
+n 7.
+18. Một xí nghiệp đang dự tính chuyển hàng bằng hai xe tải và đang phân vân giữa việc mua hẳn hai
+xe tải hay mượn hai xe tải. Nếu mua hai xe và mỗi xe giá 200000000 đồng thì mỗi ngày xí nghiệp
+phải tốn 5000000 đồng cho tất cả tài xế và nhiên liệu. Còn nếu thuê xe thì giá thuê một xe tải là
+10000000 đồng/ngày (đã bao gồm tiền công cho tài xế và nhiên liệu).
+a) Gọi A là đa thức biểu thị tổng số tiền xí nghiệp bỏ ra để vận chuyển sau x ngày. Xác định đa
+thức A đối với mỗi phương án.
+b) Nếu muốn vận chuyển 1500 thùng hàng và mỗi ngày mỗi xe phải chở 75 thùng thì phương án
+nào sẽ tiết kiệm hơn.
+
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+−3
+3
+1A. a) − x10 ; hệ số:
+, bậc: 10
+2
+2
+
+b)
+
+32 6
+32
+, bậc: 6 .
+x , hệ số:
+45
+45
+
+1B. Tương tự 1A
+1
+2
+2A. a) A ( x ) =
+7 x 3 + x 2 − x − 9; B ( x ) =
+−7 x 3 − 3 x 2 − x + 5
+3
+3
+
+1
+b) A ( x ) + B ( x ) =−2 x 2 − x − 4; A ( x ) − B ( x ) =14 x 3 + 4 x 2 + x − 14 ;
+3
+1
+B ( x) − A( x) =
+−  A ( x ) − B ( x )  =
+−14 x 3 − 4 x 2 − x + 14 .
+3
+
+c) Hệ số cao nhất: -2; hệ số tự do: -4.
+1
+d) H ( 0 ) =
+−4; H ( −1) =
+−5; H   =
+−5 .
+2
+1
+
+e) x ∈ 0; −  .
+2
+
+
+2B. Tương tự 2A
+3A. HS tự làm.
+3B. HS tự làm
+4A. a) 1200 − 40x ;
+
+b) x = 3 .
+
+4B. HS tự làm
+5A. a) x =
+
+6
+5
+
+e) x = 0 ;
+
+c) x = ±
+
+−2
+;
+3
+
+g) x = −1 ;
+
+f) x =
+
+5B. HS tự làm
+6A. HS tự làm
+6B. HS tự làm
+7A. Thu gọn, kết quả sau khi thu gọn là:
+a) 9 ;
+
+1
+2
+
+b) x ∈ {2; −3} ;
+
+b) -8 .
+
+7B. Tương tự 7A
+8A. Hướng dẫn: Thu gọn biểu thức, sau đó thay giá trị.
+
+2
+
+d) x ∈ 0; − 
+3
+
+
+h) x =
+
+1
+.
+4
+
+ 10 
+a) 6 x + 4 =6.  −  + 4 =−16 ;
+ 3
+
+b) −3 x − 2 =−3.3 − 2 =−11
+8B. Tương tự 8A
+9A. a) HS tự làm
+
+0 . Khi đó đa thức có 1 nghiệm x = 1
+b) Áp dụng: Nhận xét: 3 − 4 + 1 =
+9B. Tương tự 9A
+10A. Thực hiện phép chia đa thức ta được đa thức dư là:
+
+−1; b =
+−27
+( b + 27 ) x + 9 + 9a . Lập luận tìm được a =
+10B. Tương tự 10A
+11A. n ∈ {0;2} .
+11B. Tương tự 11A
+12. a) M ( x ) =
+−3 x 5 + 9 x 4 + 6 x − 1; N ( x ) =
+3x5 − 9 x 4 + 3x − 5 .
+b) H ( x ) =
+9 x − 6; G ( x ) =
+−6 x 5 + 18 x 4 + 3 x + 4
+c) H ( x ) có hệ số cao nhất: 9 ; hệ số tự do: -6
+
+G ( x ) có hệ số cao nhất: -6; hệ số tự do: 4
+−15; H (1) =
+3; G (1) =
+19; G ( 0 ) =
+4
+d) H ( −1) =
+2
+e) H ( x ) = 0 ⇒ x = .
+3
+
+13. a) 2 x 3 − x 2 − 16 x − 12
+4
+14. a) x = − ;
+7
+
+b) − x 3 +
+1
+b) x = − ;
+2
+
+c) x =
+
+1 2 7
+x − x −2.
+2
+4
+
+1
+;
+2
+
+15. HS tự làm
+16. a) 2. ( 25 + x + 45 + x ) = 4 x + 140
+
+152 ( cm ) .
+b) Với x = 3 , chu vi hình chữ nhật bằng: 4.3 + 140 =
+160 ( cm ) .
+Với x = 5 , chu vi hình chữ nhật bằng: 4.5 + 140 =
+17. a)
+
+1
+15
+27
+( n − 3)( 2n − 9 ) = n 2 − n + .
+2
+2
+2
+
+d) x ∈ {0;3} .
+
+n 6;=
+S 4,5 ( cm 2 =
+S 10 ( cm 2 ) .
+b)=
+) .n 7;=
+
+=
+18. a) Phương án mua xe
+ta có: A 200000000 + 5000000 x (đồng)
+Với phương án thuê xe ta có: A = 10000000 x (đồng)
+
+10 ngày.
+b) Số ngày cần vận chuyển là: 1500: ( 75 + 75 ) =
+Nếu mua xe thì chi phí hết:
+
+200000000 + 5000000.10 =
+250000000 (đồng).
+Nếu mượn xe thì chi phí hết: 10000000.10 = 100000000 (đồng)
+Do đó thuê xe tiết kiệm chi phí hơn.
+
+

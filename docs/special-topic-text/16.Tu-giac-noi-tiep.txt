@@ -1,0 +1,2396 @@
+TỨ GIÁC NỘI TIẾP
+A.TRỌNG TÂM CƠ BẢN CẦN ĐẠT
+I. TÓM TẮT LÝ THUYẾT
+1. Định nghĩa
+- Tứ giác nội tiếp đường tròn là tứ giác có
+bốn đỉnh nằm trên đường tròn đó.
+- Trong Hình 1, tứ giác ABCD nội tiếp (O) và
+(O) ngoại tiếp tứ giác ABCD.
+2. Định lí
+- Trong một tứ giác nội tiếp, tổng số đo hai góc đối diện bằng 180°.
+- Nếu một tứ giác có tổng số đo hai góc đổi diện bằng 180° thì tứ giác đó nội tiếp được đường tròn.
+3. Một số dấu hiệu nhận biết tứ giác nội tiếp
+- Tứ giác có tổng hai góc đổi bằng 180°.
+- Tứ giác có góc ngoài tại một đỉnh bằng góc trong của đỉnh đối diện.
+- Tứ giác có 4 đỉnh cách đều một điểm cố định (mà ta có thể xác định được). Điểm đó là tâm của đường
+tròn ngoại tiếp tứ giác.
+-Tứ giác có hai đinh kề nhau cùng nhìn cạnh chứa hai đỉnh còn lại dưới một góc α.
+Chú ý: Trong các hình đã học thì hình chữ nhật, hình vuông, hình thang cân nội tiếp được đường tròn.
+II. BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Chứng minh tứ giác nội tiếp
+Phương pháp giải: Để chứng minh tứ giác nội tiếp, ta có thể sử dụng một trong các cách sau:
+Cách 1. Chứng minh tứ giác có tổng hai góc đôì bằng 180°.
+Cách 2. Chứng minh tứ giác có hai đỉnh kề nhau cùng nhìn cạnh chứa hai đỉnh còn lại dưới một góc α.
+Cách 3. Chứng minh tứ giác có góc ngoài tại một đỉnh bằng góc trong của đỉnh đối diện.
+Cách 4. Tìm được một điểm cách đều 4 đỉnh của tứ giác.
+
+1. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+1.1. Cho tam giác ABC nhọn, đường cao BM và CN cắt nhau tại H. Chứng minh các tứ giác AMHN và
+BNMC là những tứ giác nội tiêp.
+1.2. Cho điểm A nằm ngoài đường tròn (O), qua A kẻ hai tiếp tuyến AB và AC với đường tròn ( B, c là tiếp
+điểm). Chứng minh tứ giác ABOC là tứ giác nội tiếp.
+2.1. Cho tứ giác ABCD nội tiếp (O), M là điểm chính giữa của cung AB. Nối M với D, M với C cắt AB lần
+lượt ở E và P. Chứng minh PEDC là tứ giác nội tiếp.
+2.2. Cho tam giác ABC nhọn nội tiếp đường tròn (O). M là điểm thuộc đường tròn. Vẽ MH vuông góc với
+BC tại H, vẽ MI vuông góc với AC. Chứng minh MIHC là tứ giác nội tiếp.
+Dạng 2. Sử dụng tứ giác nội tiếp để chứng minh các góc bằng nhau, các đoạn thẳng bằng nhau, các
+đường thẳng song song hoặc đồng quy, các tam giác đồng dạng...
+Phương pháp: Sử dụng tính chât của tứ giác nội tiếp.
+3.1. Cho đường tròn (O) đường kính AB. Gọi H là điểm nằm giữa O và B. Kẻ dây CD vuông góc với AB
+tại H. Trên cung nhỏ AC lấy điểm E, kẻ CK  AE tại K. Đường thẳng DE cắt CK tại F. Chứng minh:
+a) Tứ giác AtìCK là tứ giác nội tiếp;
+b) AHì.AB = AD2;
+c) Tam giác ACE là tam giác cân.
+3.2. Cho nửa (O) đường kính AB. Lấy M  OA (M không trùng o và A). Qua M vẽ đường thẳng d vuông
+góc với AB. Trên d lấy N sao cho ON > R. Nôi NB cắt (O) tại c.Kẻ tiếp tuyến NE với (O) (£ là tiếp điểm,
+E và A cùng thuộc nửa mặt phẳng bờ d). Chứng minh:
+a) Bốn điểm O, E, M, N cùng thuộc một đường tròn;
+b) NE2 = NC.NB;
+  NME
+ (H là giao điểm của AC và d);
+c) NEH
+d) NF là tiếp tuyến (O) với F là giao điểm của HE và (O).
+4.1. Cho đường tròn (O) đường kính AB, gọi I là trung điểm của OA, dây CD vuông góc với AB tại I. Lấy
+K tùy ý trên cung BC nhỏ, AK cắt CD tại H.
+a) Chứng minh tứ giác BIHK là tứ giác nội tiếp.
+b) Chứng minh AHAK có giá trị không phụ thuộc vị ữí điểm K.
+c) Kẻ DN  CB, DM  AC. Chứng minh các đường thẳng MN, AB, CD đồng quy.
+2. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+4.2. Cho đường tròn (O; R) và điểm A cố định ngoài đường tròn. Qua A kẻ hai tiếp tuyến AM, AN tói
+đường tròn (M, N là hai tiếp điểm). Một đường thẳng d đi qua A cắt đường tròn (O; R) tại B và C (AB <
+AC). Gọi 7 là trung điểm BC.
+a) Chứng minh năm điểm A, M, N, O, I thuộc một đường tròn.
+b) Chứng minh AM2 = AB.AC.
+c) Đường thẳng qua B, song song với AM cắt MN tại E. Chúng minh IE song song MC.
+d) Chứng minh khi d thay đổi quanh quanh điểm A thì trọng tâm G của tam giác MBC luôn nằm trên một
+đường tròn cô' định.
+III. BÀI TẬP VỂ NHÀ CƠ BẢN
+ (C ≠
+AC lớn hơn cung BC
+5. Cho điểm C nằm trên nửa đường tròn (O) vói đường kính AB sao cho cung 
+B). Đường thăng vuông góc vói AB tại O cắt dây AC tại D. Chứng minh tứ giác BCDO nội tiếp.
+6. Cho đường tròn (O) đường kính AB. Trên đoạn thẳng OB lấy điểm H bất kì (H không trùng O, B). Trên
+đường thẳng vuông góc với OB tại H, lấy một điểm M ở ngoài đường tròn; MA và MB thứ tự cắt đường
+tròn (O) tại c và D. Gọi I là giao điểm của AD và BC. Chứng minh MCID và MCHB là tứ giác nội tiếp.
+7. Cho hai đường tròn (O) và (O') cắt nhau tại A, B. Kẻ đường kính AC của (O) cắt đường tròn (O’) tại F.
+Kẻ đường kính AE của (O') cắt đưòng tròn (O) tại G. Chứng minh:
+a) Tứ giác GFEC nội tiếp;
+
+b) GC, FE và AB đồng quy.
+
+8. Cho tam giác ABC cân tại A. Đường thẳng xy song song với BC cắt AB tại E và cắt AC tại F. Chúng
+minh tứ giác EFCB nội tiếp.
+9. Cho tam giác ABC vuông tại A, đường cao AH. Kẻ HE vuông góc với AB tại E, Kẻ HF vuông góc với
+AC tại F. Chứng minh tứ giác BEFC nội tiếp.
+10. Cho tam giác ABC vuông tại A và điểm M thuộc cạnh AC. Vẽ đường tròn tâm O đường kính MC cắt
+BC tại E. Nối BM cắt đường tròn (O) tại N, AN cắt đường tròn (O) tại D. Lấy I đối xứng với M qua A, K
+đối xứng với M qua E.
+a) Chứng minh BANC là tứ giác nội tiếp.
+.
+b) Chứng minh CA là phân giác của BCD
+c) Chứng minh ABED là hình thang.
+d) Tìm vị trí M để đường tròn ngoại tiếp tam giác BIK có bán kính nhỏ nhất.
+3. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+11. Cho tam giác ABC có ba góc nhọn. Đường tròn (O; R) có đường kính BC cắt AB, AC lần lượt tại F và
+E; BE cắt CF tại H.
+a) Chứng minh tứ giác AFHE nội tiếp. Từ đó, xác định tâm I của đường tròn ngoại tiếp tứ giác này.
+b) Tia AH cắt BC tại D. Chứng minh HE.HB = 2HD.HI
+c) Chứng minh bôn điểm D, E, I, F cùng nằm trên một đường tròn.
+12. Cho đường tròn (O; R) và dây CD cố định. Điểm M thuộc tia đối của tia CD. Qua M kẻ hai tiếp tuyên
+MA, MB tới đường tròn (A thuộc cung lớn CD). Gọi I là trung điểm CD. Nối BI cắt đường tròn tại E (E
+khác B). Nối OM cắt AB tại H.
+a) Chứng minh AE song song CD.
+b) Tìm vị trí của M để MA  MB.
+c) Chứng minh HB là phân giác của CHD.
+13. Cho đường tròn tâm Obán kính R, hai điểm cvà D thuộc đường tròn, B là điểm chính giữa của cung
+nhỏ CD. Kẻ đường kính BA; trên tia đối của tia AB lấy điểm S. Nối S với cắt (O) tại M, MD cắt AB tại K,
+MB cắt AC tại H. Chứng minh:
+
+ . Từ đó suy ra tứ giác AMHK nội tiếp;
+a) BM
+D  BAC
+b) HK song song CD.
+14.Cho hình vuông ABCD. E di động trên đoạn CD (Ekhác c,D). Tia AE cắt đường thẳng BC tại F, tia Ax
+vuông góc vói AE tại A cắt đường thẳng DC tại K. Chứng minh:
+
+  CKF
+;
+a) CAF
+b) Tam giác KAF vuông cân;
+c) Đường thẳng BD đi qua trung điểm I của KF;
+d) Tứ giác IMCF nội tiếp với M là giao điểm của BD và AE.
+15. Cho tam giác ABC có ba góc nhọn nội tiếp (O), M là điểm thuộc cung nhỏ AC. Vẽ MH vuông góc với
+BC tại H, MI vuông góc AC tại I.
+  ICM
+.
+a) Chứng minh IHM
+b) Đường thẳng HI cắt đường thẳng AB tại K. Chứng minh MK vuông góc vói BK.
+c) Chứng minh tam giác MIH đồng dạng vói tam giác MAB.
+4. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+d) Gọi E là trung điểm của IH và F là trung điểm AB. Chứng minh tứ giác KMEF nội tiếp từ đó suy ra ME
+vuông góc vói EF.
+HƯỚNG DẪN GIẢI VÀ ĐÁP SỐ
+1.1. Xét tứ giác AMHN có:
+
+AMH  
+ANH  900  900  1800
+ ĐPCM.
+Xét tứ giác BNMC có:
+  BMC
+  900  ĐPCM.
+BNC
+1.2. HS tự chứng minh
+1
+)
+AD + sđ MB
+2.1. Ta có: 
+AED  (sđ 
+2
+
+
+1
+  MCD
+ .  DEP
+  PCD
+  1800
+sđ DM
+2
+
+ PEDC nội tiếp.
+  CHM
+  900
+2.2. Ta có: MIC
+ MIHC nội tiếp (hai đỉnh kề nhau cùng nhìn cạnh chứa hai
+đỉnh còn lại dưới một góc vuông)
+3.1. a) Học sinh tự chứng minh
+b) ADB vuông tại D, có đường cao DH  AD2 = AH.AB
+  KHC
+
+  EDC
+  1 sđ EC, EAC
+c) EAC
+2
+(Tứ giác AKCH nội tiếp)
+  KHC
+  DF//HK (H là trung điểm DC nên K là
+ EDC
+trung điểm FC)
+ ĐPCM.
+3.1. a) Học sinh tự chứng minh
+
+5. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+
+  CBE
+  1 sđ CE
+b) NEC
+2
+ NEC  NBE (g.g)  ĐPCM.
+c) NCH  NMB (g.g)
+ NC.NB = NH.NM = NE2
+NEH  NME (c.g.c)
+  EMN
+
+ NEH
+  EON
+ (Tứ giác NEMO nội tiếp)
+d) EMN
+  NOE
+  EH  NO
+ NEH
+  NOF
+
+ OEF cân tại O có ON là phân giác  EON
+  NEO
+  900  ĐPCM.
+ NEO = NFO vậy NFO
+  HKB
+  1800
+4.1. a) HIB
+ Tứ giác BIHK nội tiếp
+b) Chứng minh được: AHI  ABK (g.g)
+ AH.AK = AI.AB = R2 (không đổi)
+c) Chứng minh được MCND là hình chữ nhật từ đó 
+ĐPCM.
+4.2. a) Chú ý: 
+AMO  
+AIO  
+ANO  900
+
+
+  1 sđ MB
+b) 
+AMB  MCB
+2
+ AMB  ACM (g.g)
+ ĐPCM.
+c) AMIN nội tiếp
+AMN  
+AIN
+ 
+
+6. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+
+AMN  BEN
+BE//AM  
+ 
+  BNM
+
+AIN  Tứ giác BEIN nội tiếp  BIE
+ BEN
+  BCM
+  IE//CM.
+Chứng minh được: BIE
+d) G là trọng tâm MBC  G  MI.
+Gọi K là trung điểm AO  MK = IK =
+
+1
+AO.
+2
+
+Từ G kẻ GG'//IK (G'  MK)
+
+
+GG ' MG MG ' 2
+1
+
+
+ IK  AO không đổi (1)
+IK
+MI
+MK 3
+3
+
+MG ' 
+
+2
+MK  G ' cố định (2). Từ (1) và (2) có G thuộc (
+3
+
+1
+G '; AO ).
+3
+
+5. Học sinh tự chứng minh.
+6. Học sinh tự chứng minh.
+7. Học sinh tự chứng minh.
+8. Gợi ý: Chứng minh BEFC là hình thang cân
+
+AFE  
+AHE (tính chất hình chữ nhật và
+9. Gợi ý: 
+
+)
+AHE  
+ABH (cùng phụ BHE
+10. a) Học sinh tự chứng minh.
+b) Học sinh tự chứng minh.
+c) Học sinh tự chứng minh.
+d) Chú ý:
+
+  BMA
+ , BMC
+  BKC
+
+BIA
+ Tứ giác BICK nội tiếp đường tròn (T), mà (T) cũng là
+đường tròn ngoại tiếp BIK. Trong (T), dây BC không đổi
+
+7. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+mà đường kính của (T) ≥ BC nên đường kính nhỏ nhất bằng
+BC.
+  900  I  A  M  A
+Dấu "=" xảy ra  BIC
+11. HS tự làm.
+12. a) HS tự chứng minh.
+b) OM  R 2
+c) MC. MD = MA2 = MH.MO
+ MC. MD = MH.MO
+ MHC  MDO (c.g.c)
+  MDO
+  Tứ giác CHOD nội tiếp
+ MHC
+  OHD
+
+Chứng minh được: MHC
+  BHD
+ (cùng phụ hai góc bằng nhau)
+ CHB
+13. HS tự chứng minh.
+14. a) HS tự chứng minh.
+b) HS tự chứng minh.
+c) Tứ giác ACFK nội tiếp (i) với I là trung điểm của KF 
+BD là trung trực AC phải đi qua I.
+d) HS tự chứng minh.
+15. HS tự chứng minh.
+b) HS tự chứng minh.
+c) HS tự chứng minh.
+d) MIH  MAB
+
+
+MH IH 2 EH EH
+
+
+
+MB AB 2 FB FB
+
+ MHE  MBF
+
+8. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+  MEK
+ (cùng bù với hai góc bằng nhau)
+ MFA
+
+ = 900.
+ KMEF nội tiếp  MEF
+
+B.NÂNG CAO PHÁT TRIỂN TƯ DUY
+Bài 1. Cho hình hành ABCD có đỉnh D nằm trên đường tròn đường kính AB. Kẻ BN và DM cùng vuông
+góc với đường chéo AC. Chứng minh rằng:
+a) Tứ giác CBMD là tứ giác nội tiếp.
+  BCD
+ không đổi.
+b) Khi điểm D di động trên đường tròn thì BMD
+c) DB.DC  DN . AC .
+Bài 2. Cho hai đường tròn  O  và  O  cắt nhau tại A và B. Các tiếp tuyến tại A của đường tròn  O  và
+
+ O cắt đường tròn  O và  O  theo thứ tự tại C và D. Gọi P và Q lần lượt là trung điểm của các dây
+AC và AD. Chứng minh rằng:
+a) Hai tam giác ABD và CBA đồng dạng.
+
+
+APB .
+b) BQD
+c) Tứ giác APBQ nội tiếp.
+Bài 3. Cho hai vòng tròn  O1  và  O2  tiếp xúc ngoài nhau tại điểm T. Hai vòng tròn này nằm trong
+vòng tròn  O3  và tiếp xúc với  O3  tương ứng tại M và N. Tiếp tuyến chung tại T của  O1  và  O2  cắt
+
+ O3  tại P. PM cắt vòng tròn  O1  tại điểm thứ hai A và MN cắt  O1  tại điểm thứ hai B. PN cắt vòng
+tròn  O2  tại điểm thứ hai D và MN cắt  O2  tại điểm thứ hai C.
+a) Chứng minh rằng tứ giác ABCD là tứ giác nội tiếp.
+b) Chứng minh rằng các đường thẳng AB, CD và PT đồng quy.
+Bài 4. Từ điểm A nằm ngoài đường tròn tâm O kẻ hai tiếp tuyến AB và AC (B và C là các tiếp điểm). Gọi
+M là điểm bất kì trên cung nhỏ BC của đường tròn  O  (M khác B và C). Tiếp tuyến qua M cắt AB và
+AC tại E và F. Đường thẳng BC cắt OE và OF ở P và Q. Chứng minh rằng:
+a) Tứ giác OBEQ, OCFP là các tứ giác nội tiếp.
+9. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+b) Tứ giác PQFE là tứ giác nội tiếp.
+c) Tỉ số
+
+PQ
+không đổi khi M di chuyển trên đường tròn.
+FE
+
+Bài 5. Cho tam giác ABC, D và E là các tiếp điểm của đường tròn nội tiếp với các cạnh AB và AC.
+Chứng minh đường phân giác trong của góc B, đường trung bình của tam giác song song với cạnh AB và
+đường thẳng DE đồng quy.
+Bài 6. Cho đưòng tròn  O; R  đường kính AB cố định và đường kính CD quay quanh điểm O. Các đường
+thẳng AC và AD cắt tiếp tuyến tại B của đường tròn theo thứ tự tại E và F.
+1. Chứng minh rằng tứ giác CDFE nội tiếp đường tròn.
+2. Gọi I là tâm đường tròn ngoại tiếp tứ giác CDFE. Chứng minh rằng điểm I di động trên đường thẳng cố
+định khi đường kính CD quay quanh điểm O.
+Bài 7. Cho tam giác ABC vuông tại A và D là một điểm trên cạnh AC (Khác với A và C). Vẽ đường tròn
+tâm D tiếp xúc với BC tại E. Từ B kẻ tiếp tuyến thứ hai BF với đường tròn  D  . Gọi M là trung điểm của
+BC, N là giao điểm của BF và AM. Chứng minh năm điểm A, B, E, D, F cùng nằm trên một đường tròn
+và AN  NF .
+Bài 8. Cho hai đường tròn  O; R  và  O; R  cắt nhau tại hai điểm phân biệt A và B. Từ một điểm C thay
+đổi trên tia đối của tia AB, vẽ các tiếp tuyến CD, CE với đường tròn tâm O (D; E là các tiếp điểm và E
+nằm trong đường tròn tâm O ). Hai đường thẳng AD và AE cắt đường tròn tâm O lần lượt tại M và N
+(M, N khác với điểm). Đường thẳng DE cắt MN tại 1. Chứng minh rằng:
+a) MI .BE  BI . AE .
+b) Khi điểm C thay đổi thì đường DE luôn đi qua một điểm cố định.
+Bài 9. Cho đường tròn  O; R  và dây AB cố định, AB  R 2 . Điểm P di động trên dây AB (P khác A và
+B). Gọi  C; R1  là đường tròn đi qua P và tiếp xúc với đường tròn  O; R  tại A,  D; R2  là đường tròn đi
+qua P và tiếp xúc với  O; R  tại B. Hai đường tròn  C; R1  và  D; R2  cắt nhau tại điểm thứ hai M.
+a) Trong trường hợp P không trùng với trung điểm dây AB, chứng minh OM //CD và 4 điểm C, D, O, M
+cùng thuộc một đường tròn;
+b) Chứng minh khi P di động trên dây AB thì điểm M di động trên đường tròn cố định và đường thẳng
+MP luôn đi qua một điểm cố định N;
+10. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+c) Tìm vị trí của P để tích PM.PN lớn nhất? Diện tích tam giác AMB lớn nhất.
+ , tia AD
+Bài 10. Cho tam giác ABC  AB  AC  nội tiếp đường tròn  O  có AD là phân giác góc BAC
+cắt đường tròn tại điểm E (E khác A). Kẻ đường kính EF của đường tròn  O  . Gọi P là một điểm nằm
+giữa A và D. Tia FP cắt đường tròn  O  tại Q khác F. Đường thẳng qua P vuông góc với AD cắt CA, AB
+lần lượt tại M, N.
+a) Chứng minh rằng các tứ giác PQBN, PQCM là tứ giác nội tiếp.
+b) Giả sử QN và PC cắt nhau tại một điểm thuộc đường tròn  O  . Chứng minh rằng QM và PB cũng cắt
+nhau tại một điểm thuộc đường tròn  O  .
+Bài 11. Cho tam giác ABC có 3 góc nhọn nội tiếp  O; R  có AB  AC . Vẽ 3 đường cao AD, BE, CF của
+tam giác ABC cắt nhau tại H, AD cắt  O  tại K và cắt EF tại I.
+a) Chứng minh rằng: BC là trung trực của HK và IF .IE  IH .IA ;
+b) Chứng minh rằng : Các tứ giác DHEC, BFIK nội tiếp được;
+c) Chứng minh rằng:
+
+KC BK EF
+;
+
+
+AC BA AI
+
+d) Đường thẳng qua E song song với AD cắt BK tại M. Chứng minh rằng: 3 điểm F, D, M thẳng hàng;
+Bài 12. Cho tam giác ABC nhọn với AB  AC có AD là đường phân giác. Đường thẳng qua C song song
+với AD cắt đường trung trực của AC tại E. Đường thẳng qua B song song với AD cắt đường trung trực
+của AB tại F.
+a) Chứng minh rằng tam giác ABF đồng dạng với tam giác ACE.
+b) Chứng minh rằng các đường thẳng BE, CF, AD đồng quy tại một điểm, gọi điểm đó là G.
+c) Đường thẳng qua G song song với AE cắt đường thẳng BF tại Q. Đường thẳng QE cắt đường tròn
+ngoại tiếp tam giác GEC và P khác E. Chứng minh rằng các điểm A, P, G, Q, F cùng thuộc một đường
+tròn.
+Bài 13. Cho 19 điểm nằm trong hay trên cạnh của một lục giác đều cạnh bằng 4 cm. Chứng minh rằng
+luôn tồn tại 2 trong số 19 điểm đã cho mà khoảng cách giữa chúng không vượt quá
+
+4 3
+cm.
+3
+
+Bài 14. Cho hình thang ABCD vuông góc tại A và B, M là trung điểm của AB. Đường thẳng qua A
+vuông góc với MD cắt đường thẳng qua B vuông góc với MC tại N. Chứng minh
+11. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Cho tam giác ABC  AB  AC  có các góc nhọn, nội tiếp trong đường tròn tâm O. Gọi M là trung điểm
+cạnh BC, E là điểm chính giữa của cung nhỏ BC, F là điểm đối xứng của E qua M.
+a) Chứng minh rằng EB 2  EF .EO ;
+b) Gọi D là giao điểm của AE và BC. Chứng minh các điểm A, D, O, F cùng thuộc một đường tròn.
+c) Gọi I là tâm đường tròn nội tiếp tam giác ABC và P là điểm thay đổi trên đường tròn ngoại tiếp tam
+giác IBC sao cho P, O, F không thẳng hàng. Chứng minh rằng tiếp tuyến tại P của đường tròn ngoại tiếp
+tam giác POF đi qua một điểm cố định.
+HƯỚNG DẪN GIẢI - ĐÁP SỐ
+
+Bài 1.
+ (so le trong)  DBC
+  90 . Mặt
+ADB  DBC
+a) AB là đường kính đường tròn  O   
+ADB  90 mà 
+  90 suy ra: DMC
+  DBC
+  90 do đó tứ giác CBMD nội tiếp đường tròn đường kính CD.
+khác DMC
+Nhận xét. Ngoài cách giải trên, chúng ta có thể giải theo hướng sau:
+  DBN
+  DAN
+  MCB
+.
+• Ta có: MDB
+Suy ra điều phải chứng minh.
+  DNB
+ ; DAB
+  DCB
+
+• Ta có: DMB
+  DNB
+  180 .
+Mà DAB
+Suy ra điều phải chứng minh.
+b) Khi điểm D di động trên đường tròn  O  thì tứ
+giác CBMD luôn là tứ giác nội tiếp
+  BCD
+  180 (điều phải chứng minh).
+Suy ra BMD
+ANB  90 thuộc  O  .
+c) Do 
+  BAN
+ (góc nội tiếp) mà 
+ (so le trong)
+Ta có: BDN
+ACD  BAN
+
+ BDN
+ACD .
+  DAN
+  DBN
+ (cùng chắn cung DN)
+Mặt khác DAC
+12. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Suy ra: ACD ∽ BDN (g.g) 
+
+AC CD
+
+ AC.DN  BD.CD
+BD DN
+
+Bài 2.
+a) Áp dụng hệ quả góc tạo bởi tia tiếp tuvến
+và dây cung, ta có:
+
+
+CAB
+ADB , 
+ACD  BAD
+Suy ra: ABD ∽ CBA (g.g).
+b) Vì ABD ∽ CBA , suy ra:
+
+Mà DQ 
+
+
+
+AD BD
+
+CA BA
+
+AD
+AC
+; AP 
+2
+2
+
+BD DQ
+
+BA AP
+
+  PAB
+
+Lại có: QDB
+Suy ra: BQD ∽ APB (c.g.c)
+
+
+ BQD
+APB .
+  180 , mà BQD
+
+AQB  BQD
+APB  
+AQB  
+APB  180
+c) Ta có: 
+Suy ra tứ giác APBQ nội tiếp.
+
+13. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Bài 3.
+a) Gọi O1 ; T; O2 thẳng hàng.
+Các tam giác cân O1MB và O3 MN có chung góc M suy
+ra O1MB ∽ O3 MN
+
+
+MB MO1
+
+MN MO3
+
+Tương tự suy ra O1MA ∽ O3 MP
+
+
+MA MO1
+
+MP MO3
+
+Vậy
+
+MB MA
+
+ AB //PN
+MN MP
+
+Tương tự ta có CD //PM .
+Gọi E là giao điểm AB và CD .
+Tứ giác AEDP là hình bình hành.
+  PNM
+ ; ECB
+  PMN
+ nên EBC ∽ PNM (g.g) 1
+Tacó: EBC
+
+
+EB PN
+
+EC PM
+
+  PMT
+ và MPT
+ chung, nên PAT ∽ PTM (g.g)
+Ta có: PTA
+
+
+PA PT
+
+ PA.PM  PT 2
+PT PM
+
+Tương tự, ta có: PD.PN  PT 2
+
+ PA.PM  PD.PN nên PNM ∽ PAD (c.g.c)  2 
+Mà APDE là hình bình hành nên EDA  PAD  3
+  EDA
+
+Từ 1 , (2),  3 suy ra: EBC ∽ EDA  EBC
+Do đó tứ giác ABCD nội tiếp,
+
+14. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+b) Gọi giao điểm của PT và AB là I. Tia IC cắt  O2  tại D
+
+A
+BC  ID
+Ta có: IA.IB  IT 2  IC .ID suy ra IBC ∽ IDA  I
+Do đó tứ giác ABCD nội tiếp mà ABCD nội tiếp nên D trùng D
+Vậy các đường thắng AB, CD và PT đồng quy.
+Bài 4.
+  1 BOM
+;
+a) Ta có EB, EM là tiếp tuyến nên EOM
+2
+  1 COM
+  EOF
+  1 BOC
+;
+Ta có FC, FM là tiếp tuyến nên FOM
+2
+2
+
+  1 BOC
+   1 sd BMC
+
+Mặt khác EOF
+
+
+2
+ 2
+
+
+  EOQ
+
+Suy ra EBQ
+Từ đó ta có O và B là hai đỉnh liên tiếp cùng nhìn EQ dưới một góc bằng nhau
+Vậy OBEQ là tứ giác nội tiếp.
+Chứng minh tương tự ta có OCFP là tứ giác nội tiếp.
+b) OBEQ là tứ giác nội tiếp nên
+
+  OQE
+  180  OQE
+  90  FQE
+  90.
+OBE
+  OPF
+  180  OPF
+  90  EPF
+  90
+OCFP là tứ giác nội tiếp nên OCF
+
+  EQF
+  90 .
+Suy ra EPF
+15. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Vậy tứ giác PQFE là tứ giác nội tiếp.
+c) Kẻ OH vuông góc với BC.
+Ta có: PQFE là tứ giác nội tiếp
+
+  EFO
+
+Suy ra OPQ
+Do đó OPQ ∽ OFE (g.g) 
+
+PQ OH
+
+EF OM
+
+Vì điểm A và  O  cố định nên OH và OM không đổi do đó tỉ số
+đường tròn.
+  EDO
+.
+Bài 5. Tứ giác ADOE nội tiếp  EAO
+Gọi tia BO cắt tia DE tại H thì:
+  
+  180  HDB
+  HBD
+  180  90  A  B  C
+BHD
+2 2 2
+
+C
+Mặt khác 
+ACO  nên tứ giác EOCH nội tiếp
+2
+
+  OEC
+  90 .
+ OHC
+Hay BH vuông góc với CH.
+Gọi M là trung điểm của BC
+Suy ra MB  MC  MH  BHM cân
+  MHB
+
+
+ HBM
+ABH  MHB
+Suy ra BH song song với AB.
+Suy ra điều phải chứng minh.
+Bài 6.
+
+ABD  
+AFB nên 
+ACD  
+ABD ; 
+ACD  
+AFB .
+1. Ta có: 
+Do đó tứ giác CDFE nội tiếp.
+2. Gọi I là tâm đường tròn ngoại tiếp tứ giác CDFE.
+
+16. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+PQ
+không đổi khi M di chuyển trên
+FE
+
+Đường tròn  I  qua CD nên I thuộc trung
+trực của CD.
+Đường tròn  I  qua EF nên I thuộc trung
+trực của EF.
+Gọi H là trung điểm của EF.
+Do đó I là giao điểm hại đường trung trực
+của CD và EF
+
+ AO //HI hoặc trùng với HI (cùng vuông
+góc với EF) 1
+Tam giác AEF vuông, có AH là trung tuyến ứng với cạnh huyền nên HA  HE  HAE cân tại H
+  HEA
+  HAE
+
+ HAE
+ADC
+
+ADC  
+ACD  90 nên HAE
+ACD  90
+Mà 
+Suy ra AH  CD .
+Mà OI  CD nên AH //OI
+
+ 2
+
+Từ 1 và  2  , suy ra tứ giác AOIH là hình bình hành. Do đó IH  OA  R . Suy ra I cách EF một khoảng
+không đổi bằng R, nên I di động trên đường thẳng d song song với EF và cách EF một khoảng bằng R.
+  BED
+  BAD
+  90 .
+Bài 7. Ta có: BFD
+Do đó B, E, D, A, F cùng thuộc một đường tròn đường
+kính BD.
+Trong tam giác vuông ABC có AM lcà cạnh huyền nên
+
+MA  MC
+ MAC cân tại M
+  MCA
+.
+ MAC
+Xét đường tròn đi qua năm điểm A, B, E, D, F
+  DE
+  DBE
+  DBF
+
+Ta có DE  DF nên DF
+17. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+  DAF
+  MCA
+  DBF
+  MCA
+  DBE
+  BDA
+  NFA
+
+NAF  MAC
+Xét: 
+
+ NAF cân tại N  NF  NA .
+Bài 8.
+
+  BAE
+ (cùng chắn cung BE của
+a) Ta có BDE
+đường tròn tâm O)
+  BMN
+ (cùng chắn cung BN của đường
+BDE
+tròn tâm O )
+  BMN
+ hay BDI
+  BMN
+  Tứ giác
+ BDE
+BDMI nội tiếp
+  MBI
+ (cùng chắn cung MI)
+ MDI
+
+
+Mà MDI
+ABE (cùng chắn cung AE của
+đường tròn tâm O)
+
+
+ABE  MBI
+
+  BAE
+
+Mặt khác: BMI
+
+ MBI ∽ ABE (g.g)
+
+
+MI BI
+
+ MI .BE  BI . AE
+AE BE
+
+b) Gọi Q là giao điểm của CO và DE.
+Ta có OC  DE tại Q
+
+ OCD vuông tại D , có đường cao là DQ nên OQ.OC  OD 2  R 2
+
+1
+
+Gọi K là giao điểm của hai đường thẳng OO và DE, H là giao điểm của AB và OO
+
+H
+  90 ; O
+ chung)
+Ta có: OO  AB tại H. KQO ∽ CHO ( Q
+
+
+KO OQ
+
+ OC.OQ  KO.OH
+CO OH
+
+ 2
+
+Từ 1 và  2  , suy ra: KO.OH  R 2  OK 
+
+R2
+OH
+
+18. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Vì OH cố định và R không đổi nên OK không đổi. Do đó K cố định.
+Bài 9.
+a) Nối CP, PD .
+Ta có A, C, O thẳng hàng; B, D, O thẳng hàng.
+Ta có: ACP , OAB lần lượt cân tại C, O nên
+  CAP
+  OBP
+.
+CPA
+Do đó CP //OD 1
+Tương tự, ta có OD //CP  2  .
+Từ 1 và  2  suy ra tứ giác ODPC là hình bình hành.
+Gọi H là giao điểm của CD và MP, K là giao điểm của CD và
+OP.
+Do đó K là trung điểm của OP.
+Theo tính chất của hai đường tròn cắt nhau thì CD  MP
+ H là trung điểm của MP.
+Do đó HK //OM  CD //OM .
+Giả sử AP  BP .
+Vì tứ giác CDOM là hình bình hành nên OC  DP ; DP  DM  R2 nên tứ giác CDOM là hình thang
+cân.
+Do đó 4 điểm C, D, O, M cùng thuộc một đường tròn.
+b) Ta có: OA2  OB 2  2 R 2  AB 2 . Do đó AOB vuông cân tại O.
+  CMD
+ 1
+Vì 4 điểm C, D, O, M cùng thuộc một đường tròn (Kể cả M trùng O) nên COB
+  MCD
+ (cùng bằng 1 sd MP
+ của đường tròn  C  )
+Ta có: MAB
+2
+  MDC
+ (cùng bằng 1 sd MP
+ của đường tròn  D  ).
+Vì MBP
+2
+  COD
+ (tứ giác CDOM nối tiếp).
+Do đó MAB ∽ MCD (g-g)  
+AMB  
+AOB  90 mà CMD
+19. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Do AB cố định nên điểm M thuộc đường tròn tâm I đường kính AB.
+1
+
+Ta có: 
+ACP  BDP
+AOB  90  
+AMP  
+ACP  45 (Góc nội tiếp và góc tâm của  C  )
+2
+
+
+ BMP
+
+1
+BCP  45 (góc nội tiếp và góc ở tâm của  D  )
+2
+
+AMB . Mà 
+Do đó MP là tia phân giác của 
+AMB  
+AOB  90 nên M thuộc đường tròn  I  ngoại tiếp
+tam giác AOB. Giả sử MP cắt đường tròn  I  tại N và N là trung điểm cung AB không chứa điểm O nên
+N cố định.
+  BPN
+; 
+ (góc nội tiếp cùng chắn một cung)
+c) Ta có: MPA
+AMP  PBN
+Do đó MAP ∽ BNP (g - g)
+2
+
+PA PM
+AB 2 R 2
+ PA  PB 
+(không đổi)
+
+
+ PM .PN  PA.PB  
+
+ 
+PN
+PB
+2
+4
+2
+
+
+
+Vậy PM.PN lớn nhất là
+
+R2
+khi PA  PB hay P là trung điểm của dây AB. Tam giác AMB vuông tại M
+2
+
+nên:
+1
+1
+AB 2 R 2
+2
+2
+S AMB  AM .BM   AM  BM  
+
+2
+4
+4
+2
+Vậy S ABM lớn nhất là
+
+R2
+khi PA  PB hay P là trung điểm của dây AB.
+2
+
+Bài 10.
+  90
+a) EF là đường kính nên EAF
+
+  QFA
+.
+Mà AE  MN suy ra AF //MN  QPN
+  QBA
+  180
+Mà AFQB nội tiếp nên QFA
+
+20. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+  QBN
+  180 .
+ QPN
+Suy ra tứ giác PQBN nội tiếp.
+
+  QFA
+  QPN
+  QCM
+
+Lại có QCA
+Suy ra tứ giác PQCM nội tiếp.
+b) Giả sử QN và PC cắt nhau tại R thuộc  O  .
+
+  NQB
+  BCP
+.
+Từ tứ giác PQBN nội tiếp suy ra NPB
+Từ tứ giác PMCQ nội tiếp ta có:
+
+  RPB
+  PCB
+  RPN
+  NPB
+  NPB
+  RPN
+  MPC
+  MQC
+
+PBC
+Từ đó nếu QM cắt BP tại điểm S thì SBQC nội tiếp hay S thuộc đường tròn  O  .
+Bài 11.
+
+ACB (2 góc nội tiếp cùng chắn cung AB)
+a) Ta có: BKA
+ (cùng phụ với góc EBC)  BKA
+  BHK
+
+ACB  BHK
+Mà 
+ tam giác BHK cân  BH  BK
+Lập luận tương tự ta có CH  CK
+ BC là trung trực của HK.
+Ta có: 
+AEH  
+AFH  90
+ Tứ giác AFHE nội tiếp.
+Xét tam giác AIE và tam giác FIH ta có:
+
+
+ (2 góc đối đỉnh),
+AIE  FIH
+  IFH
+ (Tứ giác AFHE nội tiếp)
+IAE
+
+ AIE ∽ FIH (g.g) 
+
+AI FI
+
+ AI .HI  EI .FI
+EI HI
+
+  BEC
+  90  Tứ giác DHEC nội tiếp .
+b) Xét tứ giác DHEC ta có: HDC
+
+21. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+  BEC
+  90  Tứ giác BFEC nội tiếp
+Xét tứ giác BFEC ta có: BFC
+
+AFE  
+ACB mà 
+ACB  
+AKB (chứng minh trên)
+
+AFE  
+AKB  Tứ giác KBFI nội tiếp .
+
+  BHK
+ mà BHK
+  IHE
+ (2 góc đối đỉnh)  BKH
+  IHE
+.
+c) Theo như trên ta đã có: BKH
+Xét tam giác HEI và tam giác KAB ta có:
+
+  IHE
+ (cmt), IHE
+  BAK
+ (tứ giác AFHE nội tiếp)
+BKH
+
+ HEI ∽ KAB (g.g) 
+
+KB HI
+
+AB EI
+
+Chứng minh tương tự ta có:
+
+KC HI
+
+AC FI
+
+Từ đó suy ra
+
+KB KC
+1 
+EI  FI IH .EF EF
+ 1
+
+ IH 
+
+
+
+  IH .
+AB AC
+EI .FI
+AI .HI
+AI
+ EI FI 
+
+(theo chứng minh ỏ câu a có IF .IE  IH .IA ).
+
+  BKH
+ (2 góc ở vị trí đồng vị do HK //ME )
+d) Ta có: BME
+  BHK
+ ; BKH
+  BME
+ (2 góc ở vị trí đồng vị do
+Mà BKH
+
+HK //ME )
+  BEM
+  Tam giác BEM là tam giác cân.
+ BME
+Ta có: AD  BC mà EM //BC  EM  BC .
+Trong tam giác cân BEM có BC là đường cao của tam giác (do
+
+BC  ME )
+ BC là trung trực của ME.
+Ta có D nằm trên đường trung trực của ME  DM  DE
+ Tam giác DME là tam giác cân
+  EDC
+.
+ MDC
+ADB  
+AEB  90
+Xét tứ giác ABDE ta có: 
+
+22. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+ Tứ giác ABDE nội tiếp
+  BAC
+.
+ EDC
+AFC  
+ADC  90
+Xét tứ giác AFDC ta có: 
+  BDF
+.
+ Tứ giác AFDC nội tiếp  BAC
+  BDF
+
+Từ đó suy ra MDC
+  MDC
+  BDM
+  BDF
+  BDM
+  FDM
+
+Ta có: 180  BDC
+ Ba điểm F, D, M thẳng hàng.
+Bài 12.
+a) Ta có ABF ; ACE là các tam giác cân tại F và
+E
+  BAD
+  DAC
+  ECA
+  ABF ∽ ACE .
+Và FBA
+b) Gọi G là giao điểm của BE và CF.
+Ta có:
+
+GF BF AB DB
+
+
+
+GC CE AC DC
+
+ DG //BF
+Mặt khác DA//BF suy ra A, D, G thẳng hàng.
+Suy ra điều phải chứng minh.
+
+  QGA
+  GAE
+  GAC
+
+c) Ta có BQG
+  CAE
+  GAB
+  BAF
+  GAF
+
+ GAC
+Suy ra AGQF là tứ giác nội tiếp.
+
+  GCE
+  GFQ
+ nên QGPF là tứ giác nội tiếp. Suy ra điều phải chứng minh.
+Mặt khác QPG
+
+23. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Bài 13. Chia lục giác đều ABCDEF tâm O thành 6 tam giác
+đều cạnh 4cm (hình vẽ).
+Theo nguyên lý Điriclê có ít nhất 4 điểm trong 19 điểm nằm
+trong hay trên cạnh một trong 6 tam giác đó. Không mất
+tính tổng quát giả sử tam giác đó là OAB.
+Chia tam giác đều OAB trọng tâm G thành 3 tứ giác nội tiếp
+(hình vẽ) với GM  AB ; GN  OB ; GP  OA .
+
+OAB đều cạnh bằng 4 có đường cao
+4 3
+4 3
+ 2 3  GA 
+2
+3
+
+Các tứ giác GMBN, GMAP, GPON nội tiếp trong đường tròn đường kính GB, GA, GO đều bằng
+
+4 3
+3
+
+Theo nguyên lý Điriclê có ít nhất 2 điểm trong 4 điểm đang xét nằm trong hay trên cạnh một trong 4 tứ
+giác nói trên, giả sử tứ giác đó là GMBN
+ khoảng cách giữa hai điểm đó không vượt quá đường kính GB 
+giác  điều phải chứng minh.
+Bài 14.
+a) Ta có E, M, O, F thẳng hàng, ME  MF (E, F đối xứng
+qua M) EF  BC
+  FEB
+.
+ BEF cân tại B  BFE
+Mặt khác OB  OE suy ra OBE cân tại O
+  OEB
+.
+ OBE
+  FEB
+  OBE
+
+Ta có BFE
+
+ BEF ∽ OBE (g.g)
+
+
+EB EF
+
+ EB 2  EF .EO
+OB EB
+
+b) Không giảm tính tổng quát xét O nằm giữa M và F.
+24. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+4 3
+của đường tròn ngoại tiếp tứ
+3
+
+Dễ thấy FBD ∽ EAB (g.g) 
+
+EB ED
+
+ EB 2  ED.EA
+EA EB
+
+Ta có ED.EA  EF .EO   EB 2  
+Xét EOD và EAF có
+
+EO ED
+.
+
+EA EF
+
+EO ED 
+, OED chung  EOD ∽ EAF (c.g.c)
+
+EA EF
+
+  EAF
+ , dẫn đến tứ giác DAFO nội tiếp. Vậy các điểm A, D, O, F cùng thuộc một đường tròn.
+ EOD
+
+
+
+
+, 
+  CBE
+ EB
+  EC
+
+ , BAI
+ABI  BAI
+c) Ta có EIB
+ABI  IBC
+
+
+
+  IBC
+  CBE
+
+  EIB
+  EBI cân tại E  EB  EI
+ EBI
+ABI  BAI
+Mà EB  EC nên EB  EI  EC  E là tâm đường tròn nội tiếp tam giác IBC.
+Do đó EP  EB nên EP 2  EF .EO .
+Xét EPO và EFP có
+
+EP EO 
+, PEO chung EPO ∽ EFP (c.g.c)
+
+EF EP
+
+  EFP
+  EP là tiếp tuyến của đường tròn ngoại tiếp tam giác POF.
+ EPO
+Vậy tiếp tuvến của đường tròn ngoại tiếp tam giác POF đi qua điểm E cố định.
+D.PHIẾU BÀI TỰ LUYỆN CƠ BẢN NÂNG CAO
+ = 1200 , B
+ = 1000
+
+Bài 1: Cho tứ giác ABCD nội tiếp đường tròn (O ) có A
+. Tính C,D
+.
+
+Bài 2: Cho tam giác ABC nội tiếp đường tròn (O ) vẽ dây DE vuông góc với OA cắt các cạnh AB, AC
+lần lượt S , K .
+Chứng minh rằng: tứ giác BCKS nội tiếp.
+Bài 3: Cho tam giác ABC nội tiếp đường tròn (O ) vẽ Ax là tiếp tuyến của đường tròn (O ) .
+Đường thẳng song song với Ax cắt các cạnh AB, AC lần lượt tại D, E .
+Chứng minh rằng tứ giác BCED nội tiếp.
+Bài 4: Cho tứ giác ABCD nội tiếp đường tròn (O ) và AB = BD . Tiếp tuyến của O tại A cắt đường
+thẳng BC tại Q . Gọi R là giao điểm của hai đường thẳng AB và DC .
+a) Chứng minh tứ giác AQRC nội tiếp được trong đường tròn.
+25. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+b) Chứng minh AD  QR .
+Bài 5: Cho tam giác ABC cân tại A , nội tiếp trong đường tròn (O ) đường kính là AI . Gọi E là trung
+điểm AB và K là trung điểm của OI .
+a) Chứng minh tam giác EKB là tam giác cân.
+b) Chứng minh tứ giác AEKC là một tứ giác nội tiếp được.
+Bài 6: Gọi M là một điểm bất kỳ trên đường tròn ngoại tiếp DABC ; P,Q, R lần lượt là hình chiếu của
+M trên các đường thẳng BC , CA và .
+
+Chứng minh rằng:
+a) Các điểm M , B, P, R cùng thuộc một đường tròn.
+b) Các điểm R, P,Q thẳng hàng.
+Bài 7: Từ một điểm A ở ngoài đường tròn (O ) , kẻ các tiếp tuyến AB, AC với đường tròn ( B,C là các
+tiếp điểm). Trên tia đối của BC lấy điểm D . Gọi E là giao điểm của DO và AC . Qua E vẽ tiếp tuyến
+thứ hai với đường tròn (O ) , tiếp tuyến này cắt đường thẳng AB ở K .
+Chứng minh bốn điểm D, B,O, K cùng thuộc một đường tròn.
+Bài 8: Cho đường tròn (O ) , nội tiếp tam giác ABC , D, E , F lần lượt là các điểm tiếp xúc của (O ) với
+BC ,CA, AB . Vẽ BB1 ^ OA(B1 Î OA), AA1 ^ OB(A1 Î OB ) . Chứng minh rằng D, B1, A1, E thẳng hàng.
+
+Bài 9: Tam giác ABC nội tiếp đường tròn (O ) . M là một điểm bất kỳ thuộc cạnh đáy BC . Vẽ đường
+tròn đi qua B và M đồng thời tiếp xúc với AB tại B . Vẽ đường qua C và M tiếp xúc với AC tại C .
+Hai đường tròn này cắt nhau tại điểm N (khác M ). Chứng minh rằng:
+a) N thuộc đường tròn tâm O
+b) Khi M di động trên cạnh BC thì đường thẳng MN luôn đi qua một điểm cố định.
+ = CAD
+
+Bài 10: Cho tứ giác ABCD nội tiếp đường tròn (O ) . E trên đường chéo BD sao cho BAE
+
+a) Chứng minh DBAE ∽ DCAD
+b) AB.CD + BC .AD = AC .BD
+Bài 11: Cho tam giác ABC , kẻ đường cao AH . Gọi H 1, H 2 là điểm đối xứng của H lần lượt qua AB và
+AC . Đường thẳng H 1H 2 cắt AB và AC lần lượt tại K và I .
+26. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Chứng tỏ rằng: AH , BI và CK đồng quy.
+ = 450
+Bài 12: Cho hình vuông ABCD , góc xAy
+. Ax cắt BC và BD lần lượt tại E và F . Ay cắt
+CD, BD lần lượt tại G và H .
+
+Chứng minh tứ giác EFHG nội tiếp.
+Bài 13: Bốn đường thẳng cắt nhau tạo thành bốn tam giác.
+Chứng minh rằng bốn đường tròn ngoại tiếp của bốn tam giác này có chung một điểm (Điểm Miquel).
+Bài 14: Cho đường tròn (O ) , dây AB không qua O . Gọi I là trung điểm của AB . Qua I kẻ hai dây
+cung CD và EF (C và E cùng thuộc một cung AB ). CF và ED cắt nhau theo thứ tự ở M và N .
+Chứng minh IM = IN .
+Bài 15: Cho tứ giác ABCD nội tiếp đường tròn (O ) . Gọi E , F ,G , H lần lượt là tâm đường tròn nội tiếp
+các tam giác ABC , BCD,CDA, DAB . Chứng minh EFGH là một hình chữ nhật.
+Bài 16: Cho tứ giác ABCD nội tiếp đường tròn (O; R) có CD = AD + BC (BC > AD ) . Chứng minh
+
+
+rằng hai tia phân giác của hai góc DAB
+và ABC
+cắt nhau tại một điểm thuộc cạnh D .
+
+Bài 17: Cho tứ giác nội tiếp đường tròn (O ) có AD cắt BC tại E và AC cắt CD tại F . Chứng minh
+rằng EA.ED + FA.FB = EF 2 .
+HƯỚNG DẪN
+Bài 1:
+
+A
+
+Tứ giác ABCD nội tiếp (gt)
+
+D
+
+ +B
+ +C
+ +D
+ = 1800
+A
+
+ = 1200
+ = 1000
+Mà A
+(gt), B
+(gt)
+
+Do đó: C = 1800 - 1200 = 600
+ = 1800 - 1000 = 800
+D
+
+Bài 2:
+ = AED
+
+OA ^ DE (gt)  xAC
+ AD = AE
+
+27. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+B
+
+C
+
+BSK =
+
+sđBCE + sđAD
+(góc có 2 đỉnh ở bên trong đường tròn)
+2
+
+
+sđA
+B
+
+(góc nội tiếp)
+B
+SK =
+2
+
+A
+S
+D
+
+
+ + sđAD
+ + sđAB
+sđBCE
+ + BC
+
+Do đó: BSK
+K =
+2
+
+=
+
+E
+
+K
+
+O
+C
+
+B
+
+
+ + sđAE
+ + sđAB
+sđBCE
+3600
+=
+= 1800
+2
+2
+
+x
+
+ Tứ giác nội BCKS nội tiếp.
+
+A
+
+Bài 3:
+
+D
+ = ACD
+
+Ax  DE (gt )  xAC
+
+(hệ quả của góc tạo bởi tia
+
+E
+
+O
+C
+
+B
+
+tiếp tuyến dây cung)
+ = DBC
+
+Do đó: AED
+
+Suy ra tứ giác BCED nội tiếp.
+Bài 4:
+ = BAD
+
+a) QCR
+(vì tứ giác ABCD nội tiếp)
+1  
+
+QA
+R = sđA
+B ( QAR là góc tạo bởi tia tiếp tuyến dây cung)
+2
+1  
+
+BA
+D = sđB
+D ( BAD là góc nội tiếp)
+2
+
+Q
+
+AB = BD
+ = BD
+.
+ AB
+
+ = QAR
+
+Do đó: QCR
+
+A
+
+B
+O
+C
+
+ Tứ giác AQRC nội tiếp được đường tròn.
+ = QCA
+
+(tứ giác AQRC nội tiếp)
+b) QCA
+28. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+D
+
+R
+
+ = QCA
+
+BAD
+(vì AB = BD )
+ = BAD
+
+
+
+mà QRA
+và BAD
+so le trong
+Suy ra: QRA
+A
+
+Do đó: AD  QR .
+E
+
+Bài 5:
+a) Gọi H là trung điểm của đoạn thẳng BE
+
+B
+
+Ta có: E là trung điểm AB ,
+AB không qua O (gt)
+
+ = 900 (góc nội tiếp chắn nửa đường tròn)
+Mà ABI
+
+Vì OE ^ AB, BI ^ AB(ABI = 900 )  OE  BI
+Do đó tứ giác BEOI là hình thang.
+Mà H , K lần lượt là trung điểm các cạnh BE ,OI nên HK  OE
+Ta có: HK  OE ,OE ^ AB
+ HK ^ AB
+
+DEKB có HK vừa là đường cao vừa là đường trung tuyến
+ DEKB cân tại K .
+
+b) OB = OC (= R) và AB = AC (gt)
+ O và A thuộc đường trung trực của đoạn thẳng BC .
+ OA là đường trung trực của đoạn thẳng BC .
+
+Mà K Î OA nên KB = KC
+Xét DKBA và DKCA có: AB = AC (gt)
+KB = KC ; AK (cạnh chung)
+
+Do đó: DKBA = DKCA (c.g.c)
+ = KCA
+
+ KBI
+ = KEB
+ ( DEKB cân tại K )
+ KBA
+29. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+O
+
+H
+
+C
+K
+I
+
+ = KCA
+  Tứ giác AEKC nội tiếp được.
+Do đó: KEB
+
+Bài 6:
+
+A
+
+ + BPM
+ = 900 + 900 = 1800
+a) BRM
+
+Q
+
+ Tứ giác RBPM nội tiếp.
+ Các điểm M , P, B,C cùng thuộc một đường tròn
+
+B
+R
+
+b) Chứng minh tương tự a) có tứ giác MPQC nội tiếp
+
+P
+
+C
+
+M
+
+ + MCQ
+ = 1800
+ MPQ
+ = RPM
+ (tứ giác
+Mà RBM
+RBPM nôi tiếp)
+
+ = MCQ
+
+Và RBM
+(tứ giác ABMC nội tiếp)
+ = MCQ
+
+Do đó: RPM
+ + MPQ
+ = MCQ
+ + MPQ
+ = 1800
+Ta có: RPM
+ R, P,Q thẳng hàng.
+
+Bài 7:
+EK tiếp xúc với đường tròn (O ) tại M .
+
+K
+
+EM , EC là tiếp tuyến của (O ) (gt)
+
+D
+B
+
+ = 1 MOC
+
+ MOE
+2
+
+M
+
+ = 1 MOC
+ (hệ quả góc nội tiếp)
+Mà MBC
+2
+
+E
+
+ + MBC
+ = 1800 (hai góc kề bù)
+Do đó: MOE
+ + MBD
+ = 1800 (hai góc kề bù)
+MBC
+
+ = MBD
+
+Suy ra: MOD
+ D,O, M , B cùng thuộc một đường tròn
+
+(1)
+
+ = KBO
+ = 600
+Mà KMO
+30. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+O
+C
+
+A
+
+ tứ giác KBOM nội tiếp
+ K ,O, M , B cùng thuộc một đườg tròn
+
+(2)
+
+Từ (1), (2) có 5 điểm D, K ,O, M , B cùng thuộc đường tròn
+ D,O, K , B cùng thuộc một đường tròn
+ D,O, K , B cùng thuộc đường tròn.
+
+Bài 8:
+ = 900 AE
+AEO
+(
+là tiếp tuyến của O nên AE ^ OE )
+ = 900 (AA ^ OB ))
+(AAO
+1
+1
+ = AAO
+ = 900
+Ta có: AEO
+1
+
+ Tứ giác AEAO
+nội tiếp được một đường tròn.
+2
+
+A
+
+ + OA
+
+ OAE
+E = 1800
+1
+
+E
+F
+
+
+
+AB1B = 900 (BB1 ^ OA)
+
+ = 900
+AB
+B = AAO
+1
+1
+
+ Tứ giác AA1B1B nội tiếp được một đường tròn
+ = BAB
+
+ BAB
+1
+1
+ = OAE
+ (vì O là tâm đường tròn nội tiếp DABC )
+Mà BAB
+1
+ = OAE
+
+Do đó BAB
+1
+ + OA
+
+E = 1800
+Ta có BAB
+1
+1
+
+ Ba điểm E , A1, B1 thẳng hàng.
+
+Do đó bốn điểm D, B1, A1, E thẳng hàng.
+Bài 9:
+
+31. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+O
+B
+
+B1
+
+A1
+D
+
+C
+
+ = ABC
+
+a) BNM
+(hệ quả góc tạo bởi tia tiếp tuyến
+
+và dây cung)
+ = ACB
+
+Tương tự: CNM
+
+D
+
+A
+
+ + ABC
+ + ACB
+ = 1800
+Mà BAC
+
+Do đó tứ giác ABNC nội tiếp đường tròn (O ) hay N
+thuộc đường tròn (O ) .
+
+M
+B
+
+C
+
+b) Gọi D là giao điểm của MN và đường tròn (O ) ( D khác N )
+
+N
+
+ = CND
+
+Ta có: CAD
+(góc nội tiếp chắc cung CD )
+ = ACB
+ (chứng minh câu a)
+Mà CND
+ = ACB
+ A, B,C cố định.
+ CAD
+ D cố định hay đường thẳng MN đi qua điểm cố định.
+
+Bài 10:
+a) Xét DBAE và DCAD có:
+ = CAD
+
+)
+BAE
+(hai góc nối tiếp cùng chắn cung AD
+ = CAD
+
+BAE
+(gt)
+
+Do đó DBAE ∽ DCAD
+b) Xét DEAD và DBAC có:
+
+A
+
+D
+
+ = BAC
+
+ = CAD
+
+EAD
+(vì BAE
+)
+ = ACB
+ (hai góc nội tiếp cùng
+ADE
+)
+chắn cung AB
+
+Do đó DEAD ∽ DBAC
+
+
+AD
+DE
+=
+AC
+BC
+
+ BC .AD = AC .DE
+
+Từ DBAE ∽ DCAD (câu a)
+32. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+E
+B
+
+C
+
+CD 
+
+AB
+BE
+=
+ AB.CD = AC .BE
+AC
+CD
+
+Do đó: AB.CD + BC .AD = AC .BE + AC .DE
+= AC .(BE + DE ) = AC .BD
+
+Bài 11:
+
+
+Ta có: DAH 1H 2 cân (AH 1 = AH = AH 2 )  AH
+H = AH
+H
+1 2
+2 1
+I = AHI
+ (vì H và H đối xưng qua AC )
+Ta cũng có: AH
+2
+2
+I = AHI
+.
+Vậy AH
+1
+H 1 và H cùng nằm phía của AI . Do đó H 1 và H nằm trên cung chứa góc dựng trên đoạn AI .
+ A, H 1, H , I cùng thuộc một đường tròn
+A
+
+Mặt khác:
+
+H2
+
+I
+
+K
+H1
+
+H 1 và H đối xứng nhau qua AB
+
+
+ = 900
+ AH
+B = AHB
+1
+
+B
+
+C
+
+x
+
+Do đó tứ giác AH 1BH nội tiếp trong đường
+tròn đường kính AB .
+Từ đó ta có năm điểm A, H , B, H 1, I cùng thuộc
+ = 900
+một đường tròn đường kính AB . BIA
+ BI là đường cao của tam giác ABC .
+
+Chứng minh tương tự CK là đường cao của tam giác ABC .
+Vậy AH , BI ,CK đồng quy.
+Bài 12:
+
+
+ABCD là hình vuông nên BDC = 450 lại có GAF = 450 (gt) A và D ở cùng một phía của GF nên
+A
+
+D
+H
+
+A, D nằm trên cung chứa góc 45 vẽ trên đoạn FG .
+0
+
+G
+
+ = 900 nên
+ Tứ giác ADGH nối tiếp, có ADG
+33. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+F
+B
+
+E
+
+C
+
+AG là đường kính của đường tròn (ADGH ) .
+
+ = 900
+ = 900
+Vì vậy AFG
+hay EFG
+.
+ = 900 .
+Chứng minh tương tự EHG
+
+Vậy tứ giác EFGH nội tiếp.
+
+B
+P
+
+Bài 13:
+
+A
+
+Với giả thiết bốn đường thẳng cắt nhau tạo
+
+D
+
+C
+E
+
+F
+
+thành bốn tam giác nên không có ba đường
+thẳng nào trong chúng cắt nhau tại một điểm.
+Giả sử các đường thẳng AB, BC ,CA cắt đường
+thẳng thứ tư tại D, E , F (hình vẽ).
+Gọi P (P ¹ C ) là giao điểm của hai đường tròn ngoại tiếp hai tam giác ABC và CEF .
+ = BPC
+ + CPE
+
+Ta có: BPE
+
+ = 1800 - BAC
+ = DAF
+ ;CPE
+ = CFE
+
+Trong đó: BPC
+ = BPC
+ + CPE
+ = DAF
+ + CFE
+ = 1800 - ADE
+
+Suy ra: BPE
+ + BDF
+ = 1800
+ BPE
+
+ Tứ giác BPED nội tiếp
+ P nằm trên đường tròn ngoại tiếp, tam giác BDE .
+
+Chứng minh tương tự: Điểm P nằm trên đường tròn ngoại tiếp tam giác ADF .
+Bài 14:
+ = CDE
+
+)
+(hai góc nội tiếp cùng chắn cung CE
+Ta có: CFE
+ = FED
+
+)
+FCD
+(góc nội tiếp cùng chắn cung DF
+
+34. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+Do đó DFIC ∽ DDIE 
+
+CI
+FC
+(1)
+=
+EI
+DE
+F
+
+Vẽ OH ,OK lần lượt vuông góc với CF và ED (H Î CF , K Î ED )
+
+D
+
+Ta có H , K lần lượt là trung điểm của FC và DE .
+
+H
+K
+
+(Định lí đường kính vuông góc với dây cung).
+Do đó:
+
+A
+
+M
+C
+
+CI
+FC
+CH
+=
+=
+EI
+DE
+EK
+
+N
+
+I
+E
+
+Xét DCHI và DEKI có:
+CI
+CH 
+
+=
+; HCI = KEI
+EI
+EK
+
+ = NKI
+ (2)
+ = EKI
+ hay MHI
+Do đó DCHI ∽ DEKI  CHI
+
+Mặt khác I là trung điểm AB nên OI ^ AB,OH ^ PC
+ Tứ giác OHMI nội tiếp đường tròn đường kính MO .
+ = MOI
+ (3) (góc nội tiếp cùng chắn cung MI )
+Ta có: MHI
+
+Tương tự: Tứ giác OKNI nội tiếp đường tròn
+ = NOI
+
+Nên: NKI
+
+(4)
+
+ = NOI
+
+Từ (2), (3) và (4) ta có: MOI
+ DMON cân có OI là đường cao nên OI cũng là đường trung tuyến
+
+Do đó IM = IN .
+Bài 15:
+Gọi tia đối của tia FC là tia Fx .
+
+A
+H O
+G
+
+ = 1 ADC
+,GCD
+ = 1 ACD
+
+GDC
+2
+2
+
+(G là tâm đường tròn nội tiếp DCDA )
+1
+2
+
+ + GCD
+ = (ADC
+ + ACD
+)
+Do đó: GDC
+
+35. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+D
+
+B
+
+x
+
+E
+F
+C
+
+B
+
+=
+
+1
+ ) = 900 - 1 DAC
+
+(1800 - DAC
+2
+2
+
+ = 1800 - (GDC
+ + GCD
+ ) = 900 + 1 DAC
+
+DGDC có DGC
+2
+
+ = 900 + 1 DBC
+
+Tương tự: DFC
+2
+
+ = DBC
+
+)
+Mà DAC
+(hai góc nội tiếp cùng chắn cung DC
+ = DFC
+
+Do đó: DGC
+
+ Tứ giác GFCD nội tiếp
+ = GDC
+
+ GFx
+
+ = EBC
+
+Tương tự: xFE
+ + EBC
+ = 1 ADC
+ + 1 ABC
+ = 900
+Mà GDC
+2
+
+2
+
+ = 900 , FGH
+ = 900
+Chứng minh tương tự ta có: HEF
+
+Do đó tứ giác EFGH là hình chữ nhật.
+Bài 16:
+Tia phân giác DAB cắt cạnh CD tại E .
+Trên cạnh CD lấy F sao cho: DF = AD
+=
+Tam giác CBF cân tại C ( (CF = BC )  BFC
+
+1800 - BCD
+)
+2
+
+Tứ giác ABCD nội tiếp nên:
+
+B
+
+ = BCD
+ = ABC
+ + CAD
+ = 1800
+DAB
+
+A
+
+
+DAB
+2
+
+D
+
+=
+Do đó: BFC
+
+=
+Mà EAB
+
+
+DAB
+2
+
+ = EAB
+
+Suy ra: BFC
+36. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+F
+
+E
+
+C
+
+ = ABE
+
+ DAF
+
+(1)
+
+ cân tại D (DF = AD )  AFD
+=
+Tam giác DAF
+
+=
+Nên AFD
+
+
+ABC
+2
+
+=
+Từ (1) và (2) có ABE
+
+
+1800 - CDA
+2
+
+(2)
+
+ABC
+ = EBC
+
+ ABE
+2
+
+ . Do đó hai tia phân giác của hai góc DAB và ABC cắt nhau tại
+Vậy BE là tia phân giác của góc ABC
+
+điểm E thuộc cạnh CD .
+Bài 17:
+ = AEF
+
+Gọi M trên cạnh EF sao cho FBM
+ = AEF
+
+Xét DFBM và DFEA có FBM (chung), FBM
+E
+
+Do đó DFBM ∽ DFEA
+
+
+A
+
+FB
+FM
+=
+EF
+FA
+
+ FA.FB = EF .FM
+
+ = AEF
+
+FBM
+
+ Tứ giác AEMB nội tiếp
+ = EBA
+
+ EMA
+
+ = EBA
+
+Mà EDF
+(tứ giác ABCD nội tiếp)
+ = EDF
+
+Do đó: EMA
+ = EDF
+, AEM
+
+Xét DEMA và DEDF có EMA
+(chung)
+
+Do đó DEMA ∽ DEDF
+
+
+EA EM
+=
+EF
+ED
+
+ EA.ED = EF .EM
+37. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+B
+
+O
+D
+
+C
+
+M
+F
+
+Vậy EA.ED + AF .FB = EF .EM + EF .FM = EF (EM + FM ) = EF 2 .
+---------------------Toán Học Sơ Đồ--------------------
+
+38. TOÁN HỌC SƠ ĐỒ ‐ THCS.TOANMATH.com
+
+

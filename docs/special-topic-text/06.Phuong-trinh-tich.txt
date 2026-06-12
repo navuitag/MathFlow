@@ -1,0 +1,1182 @@
+CHƯƠNG 3. PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN
+CHUYÊN ĐỀ PHƯƠNG TRÌNH TÍCH
+I.KIẾN THỨC CẦN NHỚ
+
+Phương trình tích (một ẩn) là phương trình có dạng A x  .B x  ...  0 .
+
+(1)
+
+Trong đó A x , B x ,... là các đa thức.
+Để giải (1), ta chi cần giải từng phương trình A x   0, B x   0,... rồi lấy tất cả các nghiệm của
+chúng.
+Các phương pháp phân tích đa thức thành nhân tử có vai trò quan trọng trong việc đưa phương
+trình về dạng phương trình tích. Cách đặt ẩn phụ cũng hay được sử dụng để trình bày cho lời giải
+gọn gàng hơn.
+II.BÀI TẬP
+A.DẠNG BÀI TẬP CƠ BẢN
+Vận dụng các phương pháp phân tích thành nhân tử và cách giải phương trình tích đưa phương
+trình đã cho về các phương trình bậc nhất đã biết cách giải.
+Ví dụ 1.Giải phương trình: y  y 16  297  0 .
+Ví dụ 2.Giải phương trình: 2 x  34  x  x  3  0 .
+Ví dụ 3.Giải phương trình: 4 x 2  9 x 2  25  0 .
+Ví dụ 4. Giải các phương trình sau:
+Ví dụ 5. Giải các phương trình sau:
+a.
+
+x 2  7x  6  0 ;
+
+b.
+
+x 2  6x  5  0 .
+
+Ví dụ 6. Giải các phương trình sau:
+a.
+b.
+
+4x 2  4x  1  x 2 ;
+
+4x 2  1  2x  13x  5 .
+
+Ví dụ 7. Giải các phương trình sau:
+a.
+
+x  2x  1  9  0 ;
+
+b.
+
+x 3  7x 2  3x 2  12x .
+
+2
+
+Ví dụ 8. Giải các phương trình sau:
+1. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+a.
+b.
+
+2x  5  x  2 ;
+2
+
+2
+
+x  1  4 x  2x  1 .
+2
+
+2
+
+Ví dụ 9. Giải các phương trình sau:
+a.
+b.
+
+x  5x   10 x  5x   24  0 ;
+x x  1 x  x  1  42 .
+2
+
+2
+
+2
+
+2
+
+Ví dụ 10.Giải phương trình: 2 x  5   x  3
+2
+
+2
+
+Ví dụ 11.Giải phương trình:  x 4 16 x 3 1 x  3  0 .
+LỜI GIẢI VÍ DỤ
+
+Ví dụ 1.Giải phương trình: y  y 16  297  0 .
+Lời giải. Ta có
+y  y 16  297  0
+
+ y 2 16 y  297  0
+ y 2  27 y  11y  297  0
+ y  y  27  11 y  27  0
+
+ y  27  0
+  y  27 y  11  0  
+ y  11  0
+
+Vậy phương trình có hai nghiệm y=27 và y= -11.
+Ví dụ 2.Giải phương trình: 2 x  34  x  x  3  0 .
+Lời giải.
+Nghiệm số của phương trình đã cho là nghiệm số của:
+3
+
+2 x  3  0  x  2 ;
+Hoặc 4  x  0  x  4 ;
+Hoặc x  3  0  x  3 .
+Vậy phương trình có ba nghiệm x 
+
+3
+, x  4 và x  3 .
+2
+
+2. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Ví dụ 3.Giải phương trình: 4 x 2  9 x 2  25  0 .
+Lời giải.
+Ta có thể viết:
+4 x 2  9  2 x  32 x  3 ,
+x 2  25   x  5 x  5 .
+
+Do đó: 2 x  32 x  3 x  5 x  5  0 .
+3
+Từ đó: x   và x  5 .
+2
+
+Ví dụ 4. Giải các phương trình sau:
+a.
+
+0, 5x x  3  x  32, 5x  4 ;
+
+b.
+
+3
+1
+x  1  x 3x  7  .
+7
+7
+
+Lời giải
+a.
+
+0, 5x x  3  x  32, 5x  4 .
+
+Phương trình đã cho tương đương với
+
+x  32, 5x  4  0, 5x x  3  0 .
+ x  32, 5x  4  0, 5x   0  x  32x  4   0 .
+
+Hoặc x  3  0 , hoặc 2x  4  0 . Từ đó ta tìm được x  3 hoặc x  2 .
+Vậy nghiệm của phương trình ban đầu là x  3 và x  2 .
+b.
+
+3
+1
+x  1  x 3x  7  .
+7
+7
+
+Phương trình đã cho tương đương với
+1
+1
+x 3x  7   3x  7   0
+7
+7
+
+1
+
+ 3x  7   x  1  0 .
+
+7
+
+Hoặc 3x  7  0 , hoặc
+
+1
+7
+hoặc x  7 .
+x  1  0 . Từ đó ta tìm được x 
+7
+3
+
+3. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Vậy nghiệm của phương trình ban đầu là x 
+
+7
+và x  7 .
+3
+
+Ví dụ 5. Giải các phương trình sau:
+a. x 2  7x  6  0 ;
+b. x 2  6x  5  0 .
+Lời giải
+a.
+
+Phương trình đã cho tương đương với
+
+x 2  x  6x  6  0 , hay x x  1  6 x  1  0 .
+
+Tức là x  1x  6  0 . Từ đó ta tìm được x  1 hoặc x  6 .
+Vậy phương trình có nghiệm x  1 hoặc x  6 .
+b.
+
+Phương trình đã cho tương đương với
+
+x 2  x  5x  5  0 , hay x x  1  5 x  1  0 .
+
+Tức là x  1x  5  0 . Từ đó ta tìm được x  1 hoặc x  5 .
+Vậy phương trình có nghiệm x  1 hoặc x  5 .
+Ví dụ 6. Giải các phương trình sau:
+a. 4x 2  4x  1  x 2 ;
+
+b. 4x 2  1  2x  13x  5 .
+Lời giải
+a.
+
+Phương trình đã cho tương đương với
+
+2x  1  x , hay 2x  1  x  0 .
+2
+
+2
+
+2
+
+2
+
+1
+3
+
+Tức là x  13x  1  0 . Từ đó ta tìm được x  1 hoặc x   .
+1
+3
+
+Vậy phương trình có nghiệm x  1 và x   .
+b.
+
+Phương trình đã cho tương đương với
+
+2x  12x  1  2x  13x  5 , hay 2x  13x  5  2x  1  0 .
+1
+2
+
+Tức là 2x  1x  4  0 . Từ đó ta tìm được x  4 hoặc x   .
+1
+2
+
+Vậy phương trình có nghiệm x  4 và x   .
+4. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Ví dụ 7. Giải các phương trình sau:
+a. x 2  2x  1  9  0 ;
+b. x 3  7x 2  3x 2  12x .
+Lời giải
+Xét phương trình x 2  2x  1  9  0 .
+
+a.
+
+Phương trình đã cho tương đương với x  1  9  0 , hay x  1  3x  1  3  0 , tức là
+2
+
+x  2x  4  0 .
+
+Từ đó ta tìm được x  2 , hoặc x  4 .
+Vậy nghiệm của phương trình ban đầu là x  2 và x  4 .
+Xét phương trình x 3  7x 2  3x 2  12x .
+
+b.
+
+Phương trình đã cho tương đương với
+x 3  7x 2  3x 2  12x  0
+
+
+
+
+
+ x x 2  10x  12  0 hay x x  4 x  3  0 .
+
+Từ đó ta tìm được x  0 hoặc x  3 hoặc x  4 .
+Vậy nghiệm của phương trình ban đầu là x  0, x  3 và x  4 .
+Ví dụ 8. Giải các phương trình sau:
+a. 2x  5  x  2 ;
+2
+
+2
+
+b. x  1  4 x 2  2x  1 .
+2
+
+Lời giải
+a.
+
+Phương trình đã chô tương đương với
+
+2x  5  x  2  0 , hay 2x  5  x  22x  5  x  2  0 .
+2
+
+2
+
+Tức là x  7 3x  3  0 . Từ đó ta tìm được x  1 hoặc x  7 .
+Vậy phương trình có nghiệm x  1 và x  7 .
+b.
+
+Phương trình đã cho tương đương với
+
+2 x  1  x  1  0 , hay 2x  2  x  12x  2  x  1  0 .
+2
+
+2
+
+1
+3
+
+Tức là 3x  1x  3  0 . Từ đó ta tìm được x  3 hoặc x  .
+5. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+1
+3
+
+Vậy phương trình có nghiệm x  3 và x  .
+Chú ý: với hai phương trình này có thể giải bằng cách chuyển về phương trình có chứa dấu giá trị
+tuyệt đối (sẽ trình bày ở cuối chương). Chẳng hạn như:
+Phương trình 2x  5  x  2 có thể đưa về dạng 2x  5  x  2 .
+2
+
+2
+
+Ví dụ 9. Giải các phương trình sau:
+a. x 2  5x   10 x 2  5x   24  0 ;
+2
+
+b. x x  1 x 2  x  1  42 .
+Lời giải
+a.
+
+Đặt t  x 2  5x  phương tình trở thành
+
+t 2  10t  24  0  t  4 t  6  0  t  4; t  6 .
+
+Với t  4 , ta có phương trình x 2  5x   4  x 2  5x  4  0 .
+Phương trình có hai nghiệm x  1; x  4 .
+Với t  6 , ta có phương trình x 2  5x  6  x 2  5x  6  0 .
+Phương trình có hai nghiệm x  2; x  3 .
+Vậy phương trình đã cho có bốn nghiệm x  1; x  4; x  2; x  3 .
+b.
+
+Xét phương trình x x  1 x 2  x  1  42 .
+
+Phương trình đã cho có thể viết thành x 2  x x 2  x  1  42 .
+Đặt t  x 2  x , ta được phương trình
+t t  1  42  t 2  t  42  0  t  6t  7   0  t  6; t  7 .
+
+Với t  6 , ta có phương trình x 2  x  6  x 2  x  6  0 .
+Phương trình có hai nghiệm x  2; x  3 .
+Với t   7 , ta có phương trình x 2  x  7  x 2  x  7  0 .
+
+1
+27
+Phương trình này vô nghiệm do x 2  x  7  x     0 .
+2
+
+
+
+2 
+
+Vậy phương trình đã cho có hai nghiệm x  2; x  3 .
+6. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+4
+
+Ví dụ 10.Giải phương trình: 2 x  5   x  3
+2
+
+2
+
+Lời giải. Chuyển các số hàng về vế trái: 2 x  5   x  3  0 .
+2
+
+2
+
+Áp dụng hằng đẳng thức đáng nhớ: a 2  b 2  a  ba  b ta được:
+
+2 x  5   x  3 2 x  5  x  3  0 ,
+
+ 
+
+Hay 3 x  8 x  2  0 .
+Phương trình tích này cho ta:
+x 
+
+8
+và x  2 .
+3
+
+Ví dụ 11.Giải phương trình:  x 4 16 x 3 1 x  3  0 .
+Lời giải. Để ý rằng:
+x 4 16   x 2   4   x 2  4 x 2  4   x  2 x  2 x 2  4 ,
+2
+
+2
+
+ x 1   x 1 x  x 1
+3
+
+2
+
+Phương trình đã cho trở thành:
+
+ x  2 x  2 x 2  4 x 1 x 2  x  1 x  3  0
+
+1
+3
+Vì x  4 và x  x  1 =  x    là hai số dương, nên ta có thể viết:
+
+2 
+4
+2
+
+2
+
+2
+
+ x  2 x  2 x 1 x  3  0
+Phương trình tích này cho ta: x  2 ; x  1 và x  3 .
+B.DẠNG BÀI TẬP NÂNG CAO
+
+
+
+ 
+
+
+
+Ví dụ 1. Giải phương trình: 2 x 2  x  6  3 2 x 2  x  3  9  0 .
+Ví dụ 2. Giải phương trình:
+
+ x  2  x  3 x  5 x  6   31 x  8x  12   128
+2
+
+Ví dụ 3. Giải các phương trình:
+a)
+
+3y 3  7 y 2  7 y  3  0
+
+(1)
+
+7. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+(1)
+
+2 y 4  9 y 3  14 y 2  9 y  2  0
+
+b)
+
+(2)
+
+Ví dụ 4. Giải phương trình  4 x  7  4 x  5  x  1 2 x  1  9 .
+Ví dụ 5. Giải các phương trình:
+a)  4 x  3   2 x  5    2 x  8 
+3
+
+3
+
+3
+
+b)  3 x  2016    3 x  2019    6 x  3 
+3
+
+3
+
+3
+
+c)  2 x  7    9  2 x   152
+3
+
+3
+
+LỜI GIẢI DẠNG NÂNG CAO
+
+
+
+ 
+
+
+
+Ví dụ 1. Giải phương trình: 2 x 2  x  6  3 2 x 2  x  3  9  0 .
+Giải
+Đặt 2 x 2  x  6  y thì 2 x 2  x  3  y  3 phương trình trở thành
+2 x 2  x  6  0
+y  0
+y  3  y  3   9  0  y  y  3  0  
+ 2
+ 2 x  x  3  0
+y  3  0
+2
+
+ 2 x  3 x  2   0
+
+ 2 x  3 x  1  0
+
+ *
+**
+
+Từ  *  x  1,5; x  2
+Từ  **  x  1,5; x  1 .
+Tập nghiệm của phương trình là  S  2; 1,5;1;1,5 .
+Ví dụ 2. Giải phương trình:
+
+ x  2  x  3 x  5 x  6   31 x  8x  12   128
+2
+
+Giải
+
+ x  2  x  3 x  5 x  6   31 x  8x  12   128
+2
+
+8. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+ x 2  8 x  12 x 2  8 x  15  31 x 2  8 x  12  128
+
+2
+
+Đặt x 2  8 x  12  y thì x 2  8 x  15  y  3
+Khi ấy phương trình (2) trở thành y  y  3   31y  128
+ y 2  3y  31y  128  0  y 2  4 y  32 y  128  0
+
+y  4  0
+ y  y  4   32  y  4   0   y  4  y  32   0  
+ y  32  0
+Với y  4  0  x 2  8 x  16  0   x  4   0  x  4
+2
+
+Với y  32  0  x 2  8 x  20  0  x 2  10x  2 x  20  0
+  x  10  x  2   0  x  10 hoặc x  2
+
+Vậy tập nghiệm của phương trình là S  2; 4;10
+Ví dụ 3. Giải các phương trình:
+c)
+
+3y 3  7 y 2  7 y  3  0
+
+(1)
+
+d)
+
+2 y 4  9 y 3  14 y 2  9 y  2  0
+
+(2)
+Giải
+
+a)
+
+1  3y  3y  10y  10y  3y  3  0
+3
+
+2
+
+2
+
+ 3y 2  y  1  10y  y  1  3  y  1  0
+
+
+
+
+
+  y  1 3y 2  10y  3  0   y  1 3y  1 y  3  0
+ y  1
+y 1  0
+
+ 1 
+1
+
+ 3 y  1  0   y  .Vậy tập nghiêm của (8) là S  1; ;3
+
+3
+ 3 
+y  3  0
+y  3
+
+
+b) Với y = 0 từ (2) ta có VT  2  0 nên y = 0 không là nghiệm của (2)
+9. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Do y = 0 không phải là nghiệm của phương trình  y  0 . Do đó chia hai vế của phương
+
+
+1 
+1
+trình cho y2 ta có  2   2  y 2  2   9  y    14  0
+y
+y  
+
+Đặt t  y 
+
+1
+1
+thì t 2  2  y 2  2 . Do đó ta có 2 t 2  2  9t  14  0
+y
+y
+
+
+
+
+
+ 2t 2  9t  10  0  2t 2  5t  4t  10  0   t  2  2t  5   0
+
+y  1
+2
+
+
+ y  2y  1  0
+t  2  0
+ y  1  0
+y  2
+
+ 2
+
+ 
+
+ y  2  2 y  1  0
+2 y  2  5 y  0
+1
+ 2t  5  0
+
+ y 
+2
+ 
+2
+
+1
+
+Vậy tập nghiệm của phương trình (2) là S   ;1;2 
+2
+
+
+Nhận xét: Trong phương trình đối xứng, nếu a là nghiệm thì
+
+Ví dụ 4. Giải phương trình  4 x  7  4 x  5  x  1 2 x  1  9 .
+Giải
+Ta có:  4 x  7  4 x  5  x  1 2 x  1  9
+  4 x  7  4 x  5  4 x  4  4 x  2   72
+
+
+
+
+
+
+
+ 16 x 2  36 x  14 16 x 2  36 x  20  72
+Đặt 16 x 2  36 x  17  y , ta có:
+
+ y  3 y  3  72  y  9  72  y  81  y  9
+2
+
+2
+
+Với 16 x 2  36 x  17  9  4 x 2  9 x  2  0  4 x 2  8 x  x  2  0
+ 4 x 2  8x  x  2  0  4 x  x  2   x  2  0
+
+x  2  0
+ x  2
+  x  2  4 x  1  0  
+
+4x  1  0
+ x  0,25
+10. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+1
+cũng là nghiệm,
+a
+
+Với 16 x 2  36 x  17  9  16 x 2  36 x  26  0 vô nghiệm vì
+2
+
+
+9  23
+16 x  36 x  26   4 x   
+ 0, x
+2
+4
+
+2
+
+Vậy tập nghiệm của phương trình là S  2; 0,25
+Ví dụ 5. Giải các phương trình:
+d)  4 x  3   2 x  5    2 x  8 
+3
+
+3
+
+3
+
+e)  3 x  2016    3 x  2019    6 x  3 
+3
+
+3
+
+3
+
+f)  2 x  7    9  2 x   152
+3
+
+3
+
+Hướng dẫn giải – đáp số
+Trong các bài toán xuất hiện các dạng  a  b  ;  a  b  và a3  b3
+3
+
+3
+
+
+
+Lưu ý:  a  b   a3  b3  3ab  a  b  và a3  b3   a  b  a2  ab  b2
+3
+
+a) Đặt y  4 x  3; z  2 x  5 thì y  z  2 x  8 . Ta có:
+y 3  z3   y  z   y 3  z3  y 3  z3  3 yz  y  z   3yz  y  z   0
+3
+
+y  0
+4 x  3  0
+ x  0, 75
+
+
+
+hay  2 x  5  0   x  2,5
+ z  0
+y  z  0
+2 x  8  0
+ x  4
+
+
+
+
+Tập nghiệm của phương trình là S  4; 0,75;2;5
+b) Đặt u  3 x  2016; v  3x  2019 thì u  v  6 x  3 .
+Phương trình trên trở thành u3  v3   u  v   0 hay
+3
+
+u3  v3  u3  v3  3uv  u  v    0  3uv  u  v   0
+u  0
+3 x  2016  0
+ x  672
+
+
+
+ v  0
+ 3 x  2019  0   x  673
+u  v  0
+6 x  3  0
+ x  0,5
+
+
+
+
+Tập nghiệm của phương trình là S  672; 0,5;673
+11. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+
+
+c)
+
+ 2 x  7   9  2 x   152 .
+3
+
+3
+
+Đặt 2 x  8  y thì 2 x  7  y  1;9  2 x  1  y .
+Do đó phương trình trở thành  y  1  1  y   152
+3
+
+3
+
+Khai triển, rút gọn (hoặc dùng hằng đẳng thức a3  b3 , ta được
+6 y 2  2  152  6 y 2  150  0  6  y  5  y  5  0
+
+ Với y  5  0 thì 2 x  8  5  0  x  1,5
+
+
+Với y  5  0 thì 2 x  8  5  0  x  6,5
+
+Tập nghiệm của phương trình là S  1,5;6,5
+C.PHIẾU BÀI TỰ LUYỆN
+1.Giải các phương trình:
+a. 2 x  7 x  3  x 2  9 ;
+b. 3 x  4 x  4   x  4 ;
+2
+
+c. 3 x  1   x  3 ;
+2
+
+2
+
+d. 5 x 2  3 x  2  4 x 2  3 x  2 ;
+2
+
+2
+
+e.  4 x  3 x 2  9   x  316 x 2  9 .
+2.Giải phương trình: y 2  y 1 y  1  72 .
+3.Giải các phương trình sau:
+a.
+
+x  2x  3x  5  x  2 x ;
+
+b.
+
+2x 2  x  3  6x .
+
+1.
+
+Cho phương trình 4x 2  25  k 2  4kx  0 , ở đó k là tham số.
+
+a.
+b.
+c.
+
+2
+
+2
+
+Giải phương trình khi k  0 ;
+
+Giải phương trình khi k  3 ;
+
+Với giá trị bào của k phương trình nhận x  2 là nghiệm.
+
+4.Giải các phương trình sau:
+a.
+
+x 3  2x 2  x  2  0 ;
+
+b.
+
+x 3  2x 2  x  2  0 .
+
+12. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+5.Giải các phương trình sau:
+a.
+
+3x 2  7x  20  0 ;
+
+b.
+
+3x 2  5x  2  0 .
+
+6.Giải các phương trinh sau:
+a.
+b.
+
+x  x   4 x  x   12 ;
+2
+
+2
+
+2
+
+x x  1x  1x  2  24 .
+
+7.Giải phương trình: x 2  6x  9  15 x 2  6x  10  1 .
+2
+
+8. Cho phương trình
+a)  2 x  5    2 x  3   16
+4
+
+4
+
+b)  4 x  19    4 x  20    39  8 x 
+4
+
+4
+
+4
+
+c)  5 x  2,5    5 x  1,5   80
+4
+
+4
+
+Lời giải phiếu bài tự luyện
+1.
+a.Ta có thể viết:  2 x  7  x  3   x  3 x  3 hay
+
+ 2 x  7  x  3   x  3 x  3  0 .
+Đặt x  3 làm thừa số chung:
+
+ x  3  2 x  7    x  3   0 hay  x  3 x  4   0 .
+Suy ra x  3 và x  4 .
+b. Đưa về phương trình tích số:  x  4  x  4   0 .
+Ta có: x  4
+c. Đáp số: x  
+
+1
+và x  2 .
+2
+
+d. Đưa về phương trình tích số:
+
+x  3x  2  3x  2  x  6   0 .
+Đáp số: x  0 ; x  
+
+2
+và x  6 .
+3
+
+13. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+e.Đáp số: x  0 ; x  
+
+3
+và x  3 .
+4
+
+2. y 2  y  1 y  1  72  y 4  y 2  72  0
+  y 2  9  y 2  9    y 2  9   0   y 2  9  y 2  8   0 .
+
+Vì y 2  8  0 với mọi y , nên y 2  9  0   y  3 y  3  0  y  3 .
+
+3.
+
+a.Phương trình đã cho biến đổi thành x  2 x 2  3x  5  x 2   0 , hay x  25  3x   0 .
+5
+3
+
+Vậy phương trình có nghiệm x  2 và x  .
+b.Phương trình đã cho biến đỏi thành x 2x  1  3 2x  1 , hay 2x  1x  3  0 .
+1
+2
+
+Vậy phương trình có nghiệm x  3 và x  .
+4.
+
+a. khi k  0 , ta có phương trình 4x 2  25  0 , hay 2x  52x  5  0 .
+Vậy khi k  0 phương trình có nghiệm là x 
+
+5
+5
+và x   .
+2
+2
+
+b.Khi k  3 , ta có phương trình 4x 2  112x  16  0 , hay x  1x  4  0 .
+Vậy khi k  3 phương trình có nghiệm là x  1 và x  4 .
+c.Thay giá trị x  2 vào phương trình, ta được k 2  8k  9  0 .
+Coi đây là phương trình ẩn k , ta có k  1k  9  0 .
+Từ đó ta có k  1 và k  9 là các giá trị cần tìm.
+Vậy với k  1 và k  9 phương trình có nghiệm là x  2
+5.
+a.Biến đổi phương trình đã cho, ta có
+
+
+
+
+
+x 2 x  2  x  2  0 , hay x  2 x 2  1  0 .
+
+Ta thấy x 2  1  0 với mọi giá trị x , nên phương trình trở thành x  2  0 .
+Vậy phương trình có nghiệm x  2 .
+b.Biến đổi phương trình đã cho, ta có
+14. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+
+
+
+
+x 2 x  2  x  2  0 , hay x  2 x 2  1  0 .
+
+Tức là x  2x  1x  1  0 .
+Vậy phương trình có nghiệm là x  2 và x  1 .
+6.
+a.Biến đổi phương trình đã cho, ta có
+
+3x 2  12x  5x  20  0 , hay 3x x  4  5 x  4  0 .
+
+Tức là x  43x  5  0 .
+5
+3
+
+Vậy phương trình có nghiệm là x  4 và x  .
+b.Biến đổi phương trình đã cho, ta có
+
+3x 2  6x  x  2  0 , hay 3x x  2  x  2  0 .
+
+Tức là x  23x  1  0 .
+Vậy phương trình có nghiệm là x  
+
+1
+và x  2 .
+3
+
+7.
+a. đặt x 2  x  y , ta có phương trình y 2  4y  12  0 .
+
+Biến đổi phương trình đã cho, ta có y  6y  2  0 .
+Phương trình có nghiệm y  6 và y  2 .
+Với y  6 , ta có x 2  x   6 , hay x 2  x  6  0 .
+
+1
+21
+Phương trình có thể viết dưới dạng x     0 , nên phương trình vô nghiệm.
+2 
+4
+
+2
+
+Với y  2 , ta có x 2  x  2 , hay x 2  x  2  0 .
+Phương trình có thể viết dưới dạng x  1x  2  0 .
+Phương trình có nghiệm là x  1 và x  2 .
+Vậy phương trình đã cho có hai nghiệm là x  1 và x  2 .
+b.Biến đổi phương trinhd đã cho, ta có
+
+x  x x  x  2  24 .
+2
+
+2
+
+15. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Đặt x 2  x  y , ta có phương trình y y  2  24 , hay y 2  2y  24  0 .
+Tức là ta có y  4y  6  0 . Phương trình có nghiệm y  4 và y  6 .
+
+1
+15
+Với y  4 , ta có phương trình x  x   4 , hay x     0 , nên phương trình vô
+2 
+4
+
+2
+
+2
+
+nghiệm.
+Với y  6 , ta có phương trình x 2  x  6 , hay x  2x  3  0 . Phương trình này có
+nghiệm là x  3 và x  2 .
+Vậy phương trình đã cho có hai nghiệm là x  3 và x  2 .
+c.Ta viết lại phương trình dưới dạng x 2  6x  9  15 x 2  6x  9  16  0 .
+2
+
+Đặt y  x 2  6x  9  x  3  0 , ta có phương trình y 2  15y  16  0 .
+2
+
+Hay y  1y  16  0 , phương trình này có nghiệm y  1 và y  16 .
+Do y  x  3  0 , nên chỉ có giá trị y  16 thích hợp.
+2
+
+Với y  16 , ta có phương trình x  3  16 .
+2
+
+Hay x  7 x  1  0 , phương trình có nghiệm x  1 và x  7 .
+Vậy phương trình đã cho có hai nghiệm là x  1 và x  7 .
+8.
+Lưu ý dạng a 4  b 4 và  a  b   a 4  4a3 b  6a 2 b 2  4ab3  b 4
+4
+
+a) Đặt 2 x  4  y phương trình trở thành  y  1   y  1  16
+4
+
+4
+
+ y 4  4 y 3  6 y 2  4 y  1  y 4  4 y 3  6 y 2  4 y  1  16
+
+
+
+
+
+
+
+ 2 y 4  12 y 2  14  0  y 4  6 y 2  7  0  y 2  1 y 2  7  0
+Do y 2  7  0, y nên y 2  1  0   2 x  4   1  0
+2
+
+2 x  5  0
+ x  2,5
+  2 x  5 2 x  3  0  
+
+2 x  3  0
+ x  1,5
+Tập nghiệm của phương trình là S  1,5;2,5 .
+16. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+Chú ý: Có thế đặt 2 x  5  y và 2 x  3  z ta có y 4  z 4   y  z  (bạn đọc tự giải).
+4
+
+b) Đặt 4 x  19  y; 4 x  20  z thì y  z  8 x  39 ta có y 4  z 4   y  z   0
+4
+
+ y 4  z4  y 4  4 y 3 z  6 y 2 z2  4 yz3  z 4  0
+
+
+
+6
+ 4 y 3 z  6 y 2 z2  4 yz3  0  4 yz  y 2  yz  z2   0
+4
+
+
+2
+
+y  0
+ 4 x  19  0
+ x  4, 75
+3 
+7 
+ 4 yz  y  z   z2   0  
+
+
+4  16 
+
+z  0
+ 4 x  20  0
+x  5
+
+
+Tập nghiệm của phương trinh là S  4, 75;5
+c)
+
+ 5 x  2,5   4 x  1,5  80
+4
+
+4
+
+Đặt 5 x  0,5  y phương trình trở thành  y  2    y  2   80
+4
+
+4
+
+Ta dùng khai triển của  y  2   y 4  8 y 3  24 y 2  32 y  16
+4
+
+ y  2   y  8y  24 y  32 y  16
+4
+
+4
+
+3
+
+2
+
+Thay vào, chuyển vế, rút gọn được phương trình y 3  4 y  5  0
+
+
+
+
+
+ y 3  1  4 y  4  0   y  1 y 2  y  1  4  y  1  0
+2
+
+
+1  19
+  y  1 y  y  5  0  y  1 vì y  y  5   y     0, y
+2
+4
+
+
+
+
+2
+
+
+
+2
+
+Do đó 5 x  0, 5  1  x  0,1 .
+========== TOÁN HỌC SƠ ĐỒ ==========
+
+17. TOÁN HỌC SƠ ĐỒ - THCS.TOANMATH.com
+
+

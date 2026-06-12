@@ -1,0 +1,8712 @@
+CHƯƠNG I: PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+BÀI 1: KHÁI NIỆM PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+
+c, trong đó a , b và c là các số đã
+- Phương trinh bậc nhất hai ẳn x và y là hệ thức dạng ax + by =
+biết (a ≠ 0 hoặc b ≠ 0) .
+- Nếu tại x = x0 và y = y0 ta có ax0 + by0 =
+c là một khẳng định đúng thì cặp số ( x0 ; y0 ) được gọi
+là một nghiệm của phương trình ( 1 ).
+
+5;0 x + y =
+−1;0 x + 0 y =
+3 , hệ thức nào là phương trình bậc
+Ví dụ 1. a) Trong các hệ thức 4 x + 3 y =
+nhất hai ẩn? Hệ thức nào không là phương trình bậc nhất hai ẩn?
+5 ?
+b) Trong các cặp só́ (2; −1) và (1;0) , cặp số nào là nghiệm của phương trình 4 x + 3 y =
+5.
+Ví dụ 2. Giả sử ( x, y ) là nghiệm của phương trình bậc nhất hai ẩn x + 2 y =
+a) Hoàn thành bảng sau đây:
+
+x
+
+-2
+
+-1
+
+0
+
+?
+
+?
+
+y
+
+?
+
+?
+
+?
+
+1
+
+2
+
+Từ đó suy ra 5 nghiệm của phương trình đã cho.
+b) Tính y theo x . Tù đó cho biết phương trình đă cho có bao nhiêu nghiệm?
+Ví dụ 3. Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mối phương trình bậc nhất hai ấn
+sau:
+
+3;
+a) x + 2 y =
+
+−2 ;
+b) 0 x + y =
+
+3.
+c) x + 0 y =
+
+Nhận xét. Trong mặt phẳng toạ độ, tập hợp các điểm có toạ độ ( x; y ) thoả mãn phương trình bậc
+c là một đường thẳng. Đường thẳng đó gọi là đường thẳng ax + by =
+c.
+nhất hai ẩn ax + by =
+2. HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN
+
+c và a′x + b′y =
+c′ được gọi là một hệ hai
+1. Một cặp gồm hai phương trình bậc nhất hai ẩn ax + by =
+c
+ax + by =
+phương trình bậc nhất hai ẩn. Ta thường viết hệ phương trình đó dưới dạng: 
+c′
+a′x + b′y =
+
+( *)
+
+2. Mỗi cặp số ( x0 ; y0 ) được gọi là một nghiệm của hệ (*) nếu nó đồng thời là nghiệm của cả hai phương
+trình của hệ (*).
+Mỗi nghiệm của hệ (*) chính là một nghiệm chung của hai phương trình của hệ (*).
+Ví dụ 4. Trong các hệ phương trình sau, hệ nào không phải là hệ hai phương trình bậc nhất hai ẩn, vì sao?
+2 x = −6
+a) 
+1
+5 x + 4 y =
+
+−3
+x + 2 y =
+b) 
+1
+0 x + 0 y =
+
+1
+3 x − y =
+c) 
+3
+x + y =
+
+0
+2 x − y =
+Ví dụ 5. Giải thích tại sao cặp số (1; 2) là một nghiệm của hệ phương trình 
+3
+x + y =
+
+Chú ý: Trong Ví dụ 5 , cặp số (1; 2) là nghiệm của hệ phương trình đã cho có nghĩa là điểm M (1; 2) vừa
+thuộc đường thẳng d1 : 2 x − y =,
+0 vừa thuộc đường thẳng d 2 : x + y =.
+3 Vậy M là giao điểm của hai
+đường thẳng d1 và d 2 (H.1.2).
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.1. Phương trình nào sau đây là phương trình bậc nhất hai ẩn, vì sao?
+
+0 ; b) 4 x + 0 y =
+−2 ;
+a) 5 x − 8 y =
+
+1;
+c) 0 x + 0 y =
+
+9.
+d) 0 x − 3 y =
+
+1.2. a) Tìm giá trị thích hợp thay cho dấu "?" trong bảng sau rồi cho biết 6 nghiệm của phương trình
+2x − y =
+1:
+
+b) Viết nghiệm tổng quát của phương trình đã cho.
+1.3. Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mổi phương trình bậc nhất hai ẩn sau:
+
+3;
+a) 2 x − y =
+
+5.
+c) 3 x + 0 y =
+
+−4 ;
+b) 0 x + 2 y =
+
+2 x = −6
+1.4. a) Hệ phương trình 
+có là một hệ hai phương trình bậc nhất hai ẩn không, vì sao? vì sao?
+1
+5 x + 4 y =
+b) Cặp số (−3; 4) có là một nghiệm của hệ phương trình đó hay không, vì sao?
+1.5. Cho các cặp số (−2;1), (0; 2), (1;0), (1,5;3), (4; −3) và hai phương trình
+5x + 4 y =
+8
+
+(1)
+
+3x + 5 y =
+−3
+
+( 2)
+
+Trong các cặp số đã cho:
+a) Những cặp số nào là nghiệm của phương trình (1)?
+b) Cặp số nào là nghiệm của hệ hai phương trình gồm (1) và (2)?
+
+8 và 3 x + 5 y =
+−3 trên cùng một mặt phẳng toạ độ để minh hoạ kết luận ở
+c) Vẽ hai đường thẳng 5 x + 4 y =
+câu b.
+
+C. CÁC DẠNG TOÁN
+
+c
+DẠNG 1. XÉT CẶP SỐ ( x0 ; y0 ) CÓ LÀ NGHIỆM CỦA PHƯƠNG TRÌNH ax + by =
+KHÔNG?
+1. Phương pháp giải
+
+c , nếu đẳng thức đúng thì cặp ( x0 ; y0 ) là nghệm
+Thay x = x0 , y = y0 vào phương trình ax + by =
+c.
+của phương ax + by =
+2. Các ví dụ
+Ví dụ 1. Trong các cặp số (−2; 1) , ( 0; 2 ) , ( −1; 0 ) , (1,5; 3) và ( 4; − 3) cặp số nào là nghiệm của
+phương trình:
+
+8?
+a) 5 x + 4 y =
+
+−3 ?
+b) 3 x + 5 y =
+
+Ví dụ 2. Xem xét cặp số (2; −1) có là nghiệm của mỗi phương trình sau không ?
+a) 2 x + 3 y =
+1;
+b) 2 x − 3 y =
+1:
+c)
+
+3
+x + 4y =
+−1 .
+2
+
+c VÀ VẼ ĐƯỜNG
+DẠNG 2. TÌM NGHIỆM TỔNG QUÁT CỦA PHƯONG TRÌNH ax + by =
+THẲNG BIỂU DIỄN TẬP NGHIỆM CỦA NÓ
+1. Phương pháp giải
+
+c
+1. - Tìm nghiệm tổng quát của phương trình ax + by =
+c − ax
+
+c − by
+y =
+- Nếu a ≠ 0 thì tìm x theo y : x =
+và công thức nghiệm tổng quát là: 
+b
+a
+
+x ∈ 
+c − by
+
+c − ax
+x =
+- Nếu b ≠ 0 thì tìm y theo x : y =
+và công thức nghiệm tổng quát là: 
+a
+b
+ y ∈ 
+
+2. Vẽ đường thẳng có phương trình: ax + by =
+c
+
+y
++ Nếu b ≠ 0 thì vẽ đường thẳng=
+
+1
+( c − ax ) .
+b
+
++ Nếu b = 0 thì vẽ đường thẳng x =
+
+c
+cùng phương với trục tung.
+a
+
+2. Các ví dụ
+Ví dụ 1: Với mỗi phương trình sau, tìm nghiệm tổng quát của phương trình và vẽ đường thẳng biểu
+diễn tập nghiệm của nó:
+a) 3 x − y =
+2
+
+b) x + 5 y =
+3 c) 4 x − 3 y =
+−1
+
+d) x + 5 y =
+0
+
+e) 4 x + 0 y =
+−2
+
+f) 0 x + 2 y =
+5
+
+Ví dụ 2. Cho hai phương trình x + 2 y =
+4 và x − y =
+1 . Vẽ hai đường thẳng biểu diễn tập nghiệm
+của hai phương trình đó trên cùng một hệ tọa độ. Xác định tọa độ giao điểm của hai đường thẳng và
+cho biết toạn độ của nó là nghiệm của phương trình nào.
+DẠNG 3. TÍNH KHOẢNG CÁCH TỪ GỐC TỌA ĐỘ O ĐẾN MỘT ĐƯỜNG THẲNG
+1. Phương pháp giải
+Khoảng cách d từ gốc O đến đường thẳng: ax + by =
+d OH
+=
+c được tính theo công thức=
+
+c
+a 2 + b2
+
+Với H là hình chiếu của O lên đường thẳng.
+Cho x = 0 ⇒ y =
+
+c
+b
+
+Cho y = 0 ⇒ x =
+
+c
+a
+
+ c
+Đường thẳng cắt trục tung tại A  0;  và cắt trục hoành tại điểm
+ b
+c 
+B  ;0 
+a 
+
+c
+c
+1
+1
+1
++
+Kẻ đường cao OH của ∆ABO , ta có: =
+mà OA =
+và OB =
+2
+2
+2
+b
+a
+OH
+OA OB
+Do đó
+
+c
+1
+b2 a 2 a 2 + b2
+.
+=
++ 2 =
+⇒ OH =
+2
+2
+2
+OH
+c
+c
+c
+a 2 + b2
+
+2. Các ví dụ
+Ví dụ 1. Tính khoảng cách từ gốc tọa độ O đến đường thẳng 3 x − 4 y =
+1.
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Trong các cặp số ( 0; 4 ) , ( −1;3) , (1;1) , ( 2;3) , ( 4;6 ) cặp nào là nghiệm của phương trình
+5x − 3 y =
+2
+
+Câu 2. Kiểm tra cặp số sau có phải là nghiệm của phương trình 2 x − y − 1 =0 hay không?
+a) (1;1) ;
+b) (0,5;3) .
+
+0
+Câu 3: Trong các cặp số (2;1) , (3; −1) , (0;5) cặp số nào là nghiệm của phương trình x + 2 y − 4 =
+Câu 4. Tìm nghiệm tổng quát và vẽ đường thẳng biểu diễn tập nghiệm của nó:
+a) 2 x + y =
+6
+
+b) x + 3 y =
+2
+
+d) 2 x + 0 y =
+4
+
+e) 0 x − 3 y =
+3
+
+c) 3 x − 2 y =
+1
+
+Câu 5. Tìm nghiệm tổng quát và biểu diễn tập nghiệm các phương trình sau
+
+0;
+a) 3 x − y − 2 =
+3.
+b) 0 x + 2 y =
+Câu 6. Tìm tất cả các nghiệm nguyên của phương trình
+
+a) 2 x + y =
+0
+
+b) x + 3 y =
+0
+
+c) 3 x − 2 y =
+1
+
+a
+Câu 7. Cho đường thẳng d có phương trình ( a − 1) x + 2 y =
+a) Xác định a để d :
+i) song song với trục hoành
+ii) song song với trục tung
+iii) song song với đường thẳng x − y =
+1
+b) Tìm điểm cố định mà d luôn đi qua với mọi a
+Câu 8. Vẽ các đường thẳng x =
+−1; y =
+−3 . Gọi A, B, C , D là các giao điểm của chúng
+3; x =
+1; y =
+a) Chứng minh A, B, C , D là 4 đỉnh của hình vuông
+b) Viết phương trình các đường thẳng chứa hai đường chéo của hình vuông
+c) Tính diện tích của tam giác tạo bởi hai trục tọa độ và đường chéo của hình vuông
+
+0.
+Câu 9. Cho đường thẳng d có phương trình ( m + 2 ) x + ( m + 3) y − m + 8 =
+Định m để d :
+a) Song song với trục hoành
+b) Song song với trục tung
+c) Chứng minh d luôn đi qua điểm A ( −1; 2 )
+Câu 10. Tìm m trong mỗi trường hợp sau
+
+0;
+1. (1; 2 ) là nghiệm của phương trình mx + y − 5 =
+0.
+2. Điểm A(0;3) thuộc đường thẳng 4 x + my − 6 =
+Câu 11. Tính khoảng cách từ gốc tọa độ O đến đường thẳng 8 x + 6 y =
+3.
+
+BÀI 2. GIẢI HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. PHƯƠNG PHÁP THẾ
+Cách giải hệ phương trình bằng phương pháp thế:
+Buớc 1. Từ một phương trình của hệ, biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình còn lại
+của hệ để được phương trình chỉ còn chứa một ẩn.
+Bước 2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ đã cho.
+3
+2 x − y =
+Ví dụ 1. Giải hệ phương trình 
+bẳng phương pháp thế.
+4
+x + 2 y =
+Chú ý: Tuỳ theo hệ phương trình, ta có thể lựa chọn cách biểu diễn x theo y hoặc biểu diễn y
+theo x .
+−2
+x − y =
+Ví dụ 2. Giải hệ phương trình 
+bằng phương pháp thế.
+8
+2 x − 2 y =
+− x + y =−2
+Ví dụ 3. Giải hệ phương trình 
+bằng phương pháp thế.
+6
+3 x − 3 y =
+2. PHƯƠNG PHÁP CỘNG ĐẠI SỐ
+Cách giải hệ phương trình bằng phương pháp cộng đại số:
+Để giải một hệ hai phương trình bậc nhất hai ẩn có hệ số của cùng một ẩn nào đó trong hai phương
+trình bằng nhau hoặc đối nhau, ta có thể làm như sau:
+Bước 1. Cộng hay trừ từng vế của hai phương trình trong hệ để được phương trình chỉ còn chứa
+một ẩn.
+Bước 2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ phương trình đã cho.
+12
+−2 x + 5 y =
+Ví dụ 4. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+4
+2 x + 3 y =
+9
+5 x − 7 y =
+Ví dụ 5. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+1
+5 x − 3 y =
+Chú ý. Trường hợp trong hệ phương trình đã cho không có hai hệ số của cùng một ẩn bằng nhau
+hay đối nhau, ta có thể đưa về trường hợp đã xét bằng cách nhân hai vế của mỗi phương trình với
+một số thích hợp (khác 0 ).
+7
+3 x + 2 y =
+bằng phương pháp cộng đại số.
+Ví dụ 6. Giải hệ phương trình 
+−4
+2 x − 3 y =
+2
+3 x − 5 y =
+Ví dụ 7. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+−4
+−6 x + 10 y =
+3. SỬ DỤNG MÁY TÍNH CẦM TAY ĐỂ TÌM NGHIỆM CỦA HỆ HAI PHƯƠNG TRÌNH
+BẬC NHẤT HAI ẨN
+Cách tìm nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay
+
+Muốn tìm nghiệm của hệ hai phương trình bậc nhất hai ẳn bằng máy tính cẩm tay (MTCT), chúng
+ta cẩn sử dụng loại máy có chức năng này (thường có phím MODE). Trước hết ta phải viết hệ
+c1
+a1 x + b1 y =
+phương trình cẩn tìm nghiệm dưới dạng: 
+c2
+a2 x + b2 y =
+0
+4
+2 x + 3 y − 4 =
+2 x + 3 y =
+Chẳng hạn để tìm nghiệm của hệ 
+, ta viết nó dưới dạng 
+. Khi đó, ta có
+0
+7
+5 x + 6 y − 7 =
+5 x + 6 y =
+=
+a1 2,=
+b1 3,=
+c1 4;=
+a2 5,=
+b2 6 và c2 = 7 . Lần lượt thực hiện các bước sau (với máy tính thích
+hợp):
+Bước 1. Vào chức năng giải hệ hai phương trình bậc nhất hai ẩn bằng cách nhấn các phím
+(xem màn hìh sau bước 1, con trỏ ở vị trí a1 ).
+Bước 2. Nhập các số=
+a1 2,=
+b1 3,=
+c1 4;=
+a2 5,=
+b2 6 và c2 = 7 bằng cách nhấn:
+(xem màn hình sau bước 2).
+Bước 3. Đọc kết quả: Sau khi kết thúc bước 2, nhấn , màn hình cho x = −1 ; nhấn tiếp phím ),
+màn hình cho y = 2 (xem màn hìhh sau bước 3). Ta hiểu nghiệm của hệ phương trình là (−1; 2) .
+
+Chú ý:
+1. Muốn xoá số vừa mới nhập thì nhấn phím
+; muốn thay đổi số đã nhập ở một vị trí nào đó thì
+di chuyển con trỏ đến vị trí đó rồi nhập số mới.
+2. Nhấn phím
+
+hay
+
+để chuyển đổi hiển thị các giá trị của x và y trong kết quả.
+
+3. Nếu máy báo "Infinite Sol" thì hệ phương trình đã cho có vô số nghiệm. Nếu máy báo "NoSolution" thì hệ phương trình đã cho vô nghiệm.
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.6. Giải các hệ phương trình sau bằng phương pháp thế:
+3
+x − y =
+a) 
+2
+3 x − 4 y =
+
+13
+7 x − 3 y =
+b) 
+2
+4 x + y =
+
+1
+0,5 x − 1,5 y =
+c) 
+− x + 3 y =2
+
+1.7. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+6
+3 x + 2 y =
+a) 
+14
+2 x − 2 y =
+
+3
+0,3 x + 0,5 y =
+b) 
+1,5
+1,5 x − 2 y =
+
+8
+−2 x + 6 y =
+c) 
+−12
+3 x − 9 y =
+
+−3
+2 x − y =
+1.8. Cho hệ phương trình 
+, trong đó m là số đã cho. Giải hệ phương trình
+2
+−2m x + 9 y = 3(m + 3)
+trong mối trường hợp sau:
+a) m = −2 ;
+
+b) m = −3 ;
+
+c) m = 3 .
+
+1.9. Dùng MTCT thích hợp để tìm nghiệm của các hệ phương trình sau:
+0
+12 x − 5 y + 24 =
+a) 
+0
+−5 x − 3 y − 10 =
+
+2
+1
+ x− y =
+b)  3
+3
+ x − 3 y =
+2;
+
+1
+3 x − 2 y =
+
+c) 
+2
+− x + 3 y =0
+
+3
+4
+11
+ 9 x − 5 y =
+d) 
+2 x + 1 y =
+−2
+5
+ 9
+
+C. CÁC DẠNG TOÁN
+DẠNG 1: GIẢI HỆ PHƯƠNG TRÌNH BẰNG PHƯƠNG PHÁP THẾ
+1. Phương pháp giải
+•
+
+Bước 1: Dùng quy tắc biến đổi hệ phương trình đã cho để được một hệ phương trình
+mới trong đó có một phương trình một ẩn
+
+•
+
+Bước 2: Giải phương trình một ẩn vừa có rồi suy ra nghiệm của hệ đã cho
+
+2. Các ví dụ
+Ví dụ 1. Giải hệ phương trình sau bằng phương pháp thế
+ x  y  3
+a) 
+3 x  4 y  2
+
+7 x  3 y  5
+b) 
+4 x  y  2
+
+ x  3 y  2
+
+c) 
+
+
+
+5 x  4 y  11
+
+Ví dụ 2. Giải phương trình sau bằng phương pháp thế
+3 x  2 y  11
+a ) 
+4 x  5 y  3
+
+
+x y
+
+
+ 1
+
+b)  2 3
+
+
+5 x  8 y  3
+
+
+Ví dụ 3. Giải hệ phương trình bằng phương pháp thế
+
+x  y 5  0
+a) 
+
+
+
+ x 5  3 y  1 5
+
+(2  3) x  3 y  2  5 3
+b) 
+
+
+4 x  y  4  2 3
+
+Ví dụ 4. Giải hệ phương trình sau
+
+
+x  3y 1
+
+
+Trong mỗi trường hợp sau
+ 2
+
+(
+a
+1).
+x
+6
+y
+2
+a
+
+
+
+
+
+
+a) a = -1
+
+b) a = 0
+
+c) a = 1
+
+Ví dụ 5. Giải phương trình sau bằng phương pháp thế:
+3 x  y  5
+a) 
+5 x  2 y  23
+
+3 x  5 y  1
+b) 
+2 x  y  8
+
+Ví dụ 6. Giải hệ phương trình sau bằng phương pháp thế:
+
+ x 2
+ 
+c)  y 3
+
+ x  y 10  0
+
+ x 2  y 3  1
+a) 
+ x  y 3  2
+
+
+
+x  2 2 y  5
+b) 
+
+
+
+ x 2  y  1 10
+
+( 2 1) x  y  2
+c) 
+ x  ( 2  1) y  1
+
+
+Ví dụ 7.
+a) Xác định hệ số a,b biết rằng hề phương trình
+2 x  by  4
+Có nghiệm là ( 2 1; 2 )
+
+bx  ay  5
+b) Cũng hỏi như vậy, nếu hệ phương trình có nghiệm là: ( 2 1; 2)
+Ví dụ 8. Biết rằng: Đa thức P(x) chia hết cho đa thức x-a khi và chỉ khi P(a) = 0
+Hãy tìm các giá trị của n sao cho đa thức sau đông thời chia hết cho x+1 và x-3
+
+P( x)  mx3  (m  2) x 2  (3n  5) x  4n
+DẠNG 2. ĐẶT ẨN PHỤ ĐƯA VỀ PHƯƠNG PHÁP THẾ
+1. Phương pháp giải
+- Đặt điều kiện để hệ có nghĩa
+- Đặt ẩn phụ và điều kiện của ẩn phụ (nếu có)
+- Giải hệ theo các ẩn phụ đã đặt
+- Trở lại ẩn đã cho để tìm nghiệm của hệ
+2. Các ví dụ
+Ví dụ 1. Giải hệ phương trình
+
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+1
+ 1
+2
+ x − 2 + y −1 =
+
+b) 
+ 2 − 3 =
+1
+ x − 2 y − 1
+
+3 x 2 + y 2 =
+5
+c)  2
+2
+1
+ x − 3 y =
+
+Ví dụ 2: Giải hệ phương trình
+
+ 1− x
+2 y +1
++
+=
+2
+
+a)  2 y + 1
+1− x
+x − y =
+1
+
+
+
+ x − y = 2 y −1
+b) 
+
+ y + 1 =2 x
+
+DẠNG 3. GIẢI HỆ PHƯƠNG TRÌNH BẰNG PHƯƠNG PHÁP CỘNG ĐẠI SỐ
+1. Phương pháp giải
+•
+
+Bước 1: Nhân hai vế của mỗi phương trình với một số thích hợp (nếu cần) sao cho các
+hệ số của một ẩn nào đó trong hai phương trình của hệ bằng nhau hoặc đối nhau.
+
+•
+
+Bước 2: Áp dụng quy tắc cộng đại số để được hệ phương trình mới, trong đó có một
+phương trình mà hệ số của một trong hai ẩn bằng 0 (tức là phương trình một ẩn)
+
+•
+
+Bước 3: Giải phương trình một ẩn vừa thu được rồi suy ra nghiệm của hệ đã cho.
+
+2. Các ví dụ
+
+Ví dụ 1. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+3
+8
+6
+3 x + y =
+2 x + 5 y =
+4 x + 3 y =
+a) 
+b) 
+c) 
+7
+0
+4
+2 x − y =
+2 x − 3 y =
+2 x + y =
+−2
+3
+0,3 x + 0,5 y =
+2 x + 3 y =
+d) 
+e) 
+−3
+1,5
+1,5 x − 2 y =
+3 x − 2 y =
+Ví dụ 2. Giải các hệ phương trình sau bằng phương pháp cộng đại số
+ x 2 − 3 y =
+5 x 3 + y =
+1
+2 2
+b) 
+
+−2
+2
+2 x + y 2 =
+ x 6 − y 2 =
+Ví dụ 3. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+a)
+
+4
+−5x + 2 y =
+a) 
+−7
+6x − 3 y =
+
+11
+2 x − 3 y =
+b) 
+5
+−4 x + 6 y =
+
+10
+3 x − 2 y =
+
+c)  2
+1
+3
+ x − 3 y =
+3
+
+Ví dụ 4. Giải hệ phương trình sau:
+
+) (
+) (
+
+(
+(
+
+)
+)
+
+ 1+ 2 x + 1− 2 y =
+5 (1)
+
+
+3 ( 2)
+ 1+ 2 x + 1+ 2 y =
+
+Ví dụ 5. Ta biết rằng: Một đa thức bằng 0 khi và chỉ khi tất cả các hệ số của nó bằng 0. Hãy tìm các
+giá trị của và để đa thức sau (với biến số x ) bằng đa thức 0:
+P ( x=
+)
+
+( 3m − 5n + 1) x + ( 4m − n − 10 )
+
+DẠNG 4. ĐẶT ẨN PHỤ ĐƯA VỀ PHƯƠNG PHÁP CỘNG
+1. Phương pháp giải
+Đặt điều kiện (nếu có)
+- Đặt ẩn phụ và điều kiện của ẩn phụ (nếu có)
+- Giải hệ phương trình theo các ẩn phụ đã đặt
+- Trở lại ẩn ban đầu để tìm nghiệm của hệ.
+2. Các ví dụ
+Ví dụ 1. Giải các hệ phương trình:
+2 ( x + y ) + 3 ( x − y ) =
+4
+a) 
+5
+( x + y ) + 2 ( x − y ) =
+
+2 ( x − 2 ) + 3 (1 + y ) =
+−2
+b) 
+−3
+3 ( x − 2 ) − 2 (1 + y ) =
+
+Ví dụ 2. Bằng cách đặt ẩn phụ (theo hướng dẫn), đưa các hệ phương trình sau về dạng hệ hai
+phương trình bậc nhất hai ẩn rồi giải:
+
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+Hướng dẫn: Đặt u =
+
+1
+1
+, v= ;
+x
+y
+
+4
+ 1
++
+2
+ x − 2 y −1 =
+
+b) 
+ 2 − 3 =
+1
+
+ x − 2 y −1
+
+Hướng dẫn: Đặt u =
+
+1
+1
+, v=
+;
+x−2
+y −1
+
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Giải các hệ phương trình sau bằng phương pháp thế
+3
+5 x − 4 y =
+a) 
+4
+2 x + y =
+Câu 2. Giải các hệ phương trình sau:
+
+ 5x 2 y
+19
+ 3 − 5 =
+b) 
+4 x + 3 y =
+21
+
+2
+5
+5
+ 4
+ x + y −1 − 2x − y + 3 =
+2
+
+b) 
+1
+7
+ 3
++
+=
+ x + y − 1 2 x − y + 3 5
+
+
+13
+2 x + 3 y =
+a) 
+3
+
+3 x − y =
+
+Câu 3. Giải hệ phương trình
+1
+ 2
+3
+x+ y + x− y =
+
+a) 
+ 1 − 3 =
+1
+ x + y x − y
+Câu 4. Giải hệ phương trình:
+
+3 x − 2 y =
+−2
+b) 
+1
+2 x + y =
+
+( x − 1)2 − 2 y =
+2 x − 1 − y − 1 =
+1
+2
+a) 
+b) 
+2
+1
+ x − 1 + y − 1 =2
+3 ( x − 1) + 3 y =
+Câu 5. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+5 x = 6 y
+b) 
+=
+ x 2 ( y − 6 )
+
+2x-3y = 1
+a) 
+ x+3 y = 2
+
+2
+4 x − 3 y =
+c) 
+4
+x + y =
+
+Câu 6. Giải các hệ phương trình sau
+ 2x- 3 y = 1
+a) 
+ x+ 3 y = 2
+
+ x − 2 2 y =
+5
+b) 
+ 2 x + y =1 − 10
+
+Câu 7. Giải các hệ phương trình sau bằng phương pháp thế
+5
+7 x − 3 y =
+a) 
+2
+4 x + y =
+
+ 5 x =
+−y
+5( 3 − 1)
+b) 
+21
+2 3 x + 3 5 y =
+
+3,8
+1, 7 x − 2 y =
+c) 
+0, 4
+2,1x + 5 y =
+
+Câu 8. Giải các hệ phương trình sau bằng phương pháp cộng đại số
+3
+3 x + y =
+a) 
+7.
+2 x − y =
+
+5
+8 x − 7 y =
+b) 
+−8.
+12 x + 13 y =
+
+5( x + 2 y ) =3 x − 1
+c) 
+2 x + 4= 3( x − 5 y ) − 12.
+
+Câu 9. Giải các hệ phương trình sau bằng phương pháp đặt ẩn phụ
+
+15 7
+9
+x −y=
+
+a) 
+4 + 9 =
+35.
+ x y
+
+7
+5
+
+4,5
+ x − y + 2 − x + y −1 =
+
+b) 
+3
+2
+
+4
++
+=
+ x − y + 2 x + y − 1
+
+Câu 10. Trong mặt phẳng Oxy cho ba đường thẳng ( d1 ) : 2 x − y =
+−1; ( d 2 ) : x + y =
+−2 ;
+−2 x − m . Xác định m để ba đường thẳng đã cho đồng quy.
+( d3 ) : y =
+
+LUYỆN TẬP CHUNG
+A. CÁC VÍ DỤ
+
+0, 4
+0,5 x + 0, 6 y =
+Ví dụ 1. Giải hệ phương trình 
+1, 7
+0, 4 x − 0,9 y =
+Ví dụ 2. Tìm các hệ số x, y trong phản ứng hoá học đã được cân bằng sau: 3Fe + xO 2 → yFe3O 4 .
+
+y ax + b đi qua hai điểm A(−2; −1) và B(2;3) .
+Ví dụ 3. Tìm hai số a và b để đường thẳng =
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.10. Cho hai phương trình: −=
+2 x + 5 y 7 (1) ; =
+4x − 3y 7
+
+( 2)
+
+Trong các cặp số (2;0), (1; −1), (−1;1), (−1;6), (4;3) và (−2; −5) , cặp số nào là:
+a) Nghiệm của phương trình (1)?
+b) Nghiệm của phướng trình (2)?
+c) Nghiệm của hệ gồm phương trình (1) và phương trình (2)?
+1.11. Giải các hệ phương trình sau bằng phương pháp thế:
+1
+2 x − y =
+a) 
+−1
+x − 2 y =
+
+0,5  x + 3 y =
+−2
+0,5 x − 0,5 y =
+b) 
+c) 
+1, 2
+28
+1, 2 x − 1, 2 y =
+5 x − 4 y =
+
+1.12. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+−1
+5 x + 7 y =
+a) 
+−5
+3 x + 2 y =
+
+11
+2 x − 3 y =
+b) 
+1
+−0,8 x + 1, 2 y =
+
+6
+4 x − 3 y =
+c) 
+0,8
+0, 4 x + 0, 2 y =
+
+1.13. Tìm các hệ số x,y trong phản ứng hoá học đã được cân bằng sau: 4Al + xO 2 → yAl2 O3 .
+1
+ax + by =
+1.14. Tìm a và b sao cho hệ phương trình 
+có nghiệm là (1; −2) .
+3
+ax + (b − 2) y =
+C. BÀI TẬP THÊM
+y ax + b đi qua hai điểm A và B trong mỗi
+Câu 1. Xác định a và b để đồ thị của hàm số =
+trường hợp sau:
+a) A ( 2; − 2 ) và B ( −1;3)
+
+b) A ( −4; − 2 ) và B ( 2;1)
+
+c) A ( 3; − 1) và B ( −3; 2 )
+
+d) A
+
+( 3; 2) và B ( 0; 2)
+
+Câu 2. Cho biểu thức f ( x ) = ax 2 + bx + 4 . Xác định a , b để f ( 2 ) = 6 , f ( −1) =
+0.
+Câu 3. Giải các hệ phương trình sau bằng phương pháp thế
+3
+4 x + 5 y =
+a) 
+5.
+x − 3y =
+
+1
+7 x − 2 y =
+b) 
+6
+3 x + y =
+
+1
+5 x + 3 y =
+c) 
+−1
+2 x + y =
+
+ x + y 5 =
+0
+d) 
+1 5
+ x 5 + 3 y =−
+
+Câu 4. Giải các hệ phương trình sau bằng phương pháp cộng đại số.
+1
+x − 3y =
+a) 
+11
+2 x + 3 y =
+18
+3 x + 4 y =
+c) 
+−1
+4 x − 3 y =
+
+3
+2 x − y =
+b) 
+1
+x − y =
+ 3 x − 2 y =
+1
+d) 
+4 6
+ 2 x + 3 3 y =
+
+Câu 5. Giải các hệ phương trình.
+
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+1
+ 1
+2
+ x − 2 − y −1 =
+
+b) 
+ 2 + 3 =
+1
+ x − 2 y − 1
+
+Câu 6. Cho hệ phương trình:
+1
+ x + ay =
+
+a
+−ax + y =
+a) Chứng minh hệ luôn luôn có nghiệm duy nhất với mọi a .
+b) Tìm a để hệ có nghiệm ( x; y ) sao cho x < 1 ; y < 1
+Câu 7. Cho hệ phương trình
+( a + 1) x − y =
+3
+
+a
+ax + y =
+
+a) Giải hệ với a = − 2
+b) Xác định a để hệ có nghiệm duy nhất thỏa mãn điều kiện x + y > 0
+
+4  1 1 
+1
+  + =
+3  x y 
+c) 
+2
+1 + 1 =
+ 6 x 5 y 15
+
+BÀI 3. GIẢI BÀI TOÁN BẰNG CÁCH LẬP HỆ PHƯƠNG TRÌNH
+A. CÁC VÍ DỤ
+Nhận xét. các bước giải một bài toán bẳng cách lập hệ phương trình:
+Bước 1. Lập hệ phương trình:
+- Chọn ẩn số (thường chọn hai ẩn số) và đặt điều kiện thích hợp cho các ẩn số;
+- Biểu diễn các đại lượng chưa biết theo ẩn và các đại lượng đã biết;
+- Lập hệ phương trình biểu thị mối quan hệ giữa các đại lượng.
+Bước 2. Giải hệ phương trình.
+Bước 3. Trả lời: Kiểm tra xem trong các nghiệm tìm được của hệ phương trình, nghiệm nào thoả
+mãn, nghiệm nào không thoả mãn diều kiện của ẩn, rổi kết luận.
+Ví dụ 1. Tìm hai só́ tự nhiên có tőng bằng 1 006, biết rằng nếu lấy số lớn chia cho số nhỏ thì được
+thương là 2 và số dư là 124 .
+Ví dụ 2. Hai đội công nhân cùng làm một đoạn đường trong 24 ngày thì xong. Mối ngày, đội I làm
+được nhiểu gấp rươi đội II. Hỏi nếu làm một mình thì mối đội làm xong đoạn đường đó trong bao
+lâu? (Giả sử năng suất của mổi đội là không đổi).
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.15. Tìm số tự nhiên N có hai chữ số, biết rằng tổng của hai chứ số đó bằng 12 , và nếu viết hai
+chữ số đó theo thứ tự ngược lại thì được một số lớn hơn N là 36 đơn vị.
+1.16. Điểm số trung bình của một vận động viên bắn súng sau 100 lẩn bắn là 8,69 điểm. Kết quả cụ
+thể được ghi trong bảng sau, trong đó có hai ô bị mờ không đọc được (đánh dấu "?"):
+
+Em hãy tìm lại các số bị mờ trong hai ô đó.
+1.17. Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 3600 tấn thóc. Năm nay, hai đơn
+vị thu hoạch được 4095 tấn thóc. Hỏi năm nay, mối đơn vị thu hoạch được bao nhiêu tấn thóc, biết
+rằng năm nay, đơn vị thứ nhất làm vượt mức 15% , đơn vị thứ hai làm vượt mức 12% so với năm
+ngoái?
+Hãy dùng máy tính cẩm tay để kiểm tra lại kết quả thu được.
+1.18. Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm trong 3
+giờ và người thứ hai làm trong 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thl̀
+mỗi người hoàn thành công việc trong bao lâu?
+C. CÁC DẠNG TOÁN
+DẠNG 1. TOÁN VỀ QUAN HỆ GIỮA CÁC SỐ
+1. Phương pháp giải
+
+ab 10a + b
+Biểu diễn số có hai chữ số: =
+a là chữ số hàng chục: 0 < a ≤ 9 , a ∈ N
+
+b là chữ số hàng đơn vị: 0 ≤ b ≤ 9 , b ∈ N
+- Biểu diễn số có ba chữ số: abc = 100a + 10b + c
+
+a là chữ số hàng trăm, b là chữ số hàng chục và c là chữ số hàng đơn vị.
+2. Các ví dụ
+Ví dụ 1. Tìm hai số tự nhiên, biết rằng tổng của chúng bằng 1006 và nếu lấy số lớn chia cho số nhỏ
+thì được thương là 2 và số dư là 124.
+Vậy hai số tự nhiên cần tìm là 712 và 294 .
+Ví dụ 2: Tổng các chữ số của một số là có hai chữ số bằng 6 . Nếu thêm vào số đó 18 đơn vị thì số
+thu được cũng viết bằng các chữ số đó nhưng theo thứ tự ngược lại. Hãy tìm số đó.
+DẠNG 2: TOÁN LÀM CHUNG CÔNG VIỆC
+1. Phương pháp giải
+• Toán làm chung công việc có ba đại lượng tham gia toàn bộ công việc, phần làm việc
+trong một đơn vị thời gian (năng suất), thời gian.
+1. Năng suất làm việc: đưa về một đơn vị thời gian (chẳng hạn: 1 ngày, 1 giờ, …)
+1
+Nếu một đội làm xong công việc trong x ngày thì một ngày đội đó làm được
+công việc.
+x
+Xem toàn bộ công việc là 1 .
+2. Các ví dụ
+
+4
+giờ đầy bể. Nếu lúc
+5
+6
+đầu chỉ mở vòi thứ nhất và 9 giờ sau mới mở thêm vòi thứ hai thì sau
+giờ nữa mới đầy
+5
+bể. Hỏi nếu ngay từ đầu chỉ mở vòi thứ hai thì sau bao lâu mới đầy bể?
+Ví dụ 2. Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm 3
+giờ và người thứ hai làm 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thì mỗi
+người hoàn thành công việc đó trong bao lâu ?
+Ví dụ 3 : Nếu hai vòi nước cùng chảy vào một bể nước cạn (không có nước) thì bể sẽ đầy trong 1
+2
+giờ 20 phút. Nếu mở vòi thứ nhất trong 10 phút và vòi thứ hai trong 12 phút thì chỉ được
+bể
+15
+nước. Hỏi nếu mở riêng từng vòi thì thời gian để mỗi vòi chảy đầy bể là bao nhiêu ?
+Ví dụ 4: Hai đội xe chở cát để san lấp một khu đất. Nếu hai đội cùng làm thì trong 18 ngày xong
+công việc. Nếu đội thứ nhất làm trong 6 ngày, sau đó đội thứ hai làm tiếp 8 ngày nữa thì được 40%
+công việc. Hỏi mỗi đội làm một mình thì bao lâu xong công việc ?
+Ví dụ 5. Hai vòi nước cùng chảy vào một bể thì sau 4 giờ 48 phút bể đầy. Nếu vòi I chảy trong 4 giờ,
+3
+vòi II chảy trong 3 giờ thì cả hai vòi chảy được bể. Tính thời gian mỗi vòi chảy một mình đầy bể.
+4
+
+Ví dụ 1. Hai vòi nước cùng chảy vào một bể cạn (không có nước) thì sau 4
+
+DẠNG 3. LOẠI TOÁN CHUYỂN ĐỘNG
+1. Phương pháp giải :
+−
+Toán chuyển động có ba đại lượng tham gia vào là: vận tốc, thời gian, quãng đường.
+−
+
+Gọi v là vận tốc, t là thời gian đi được, s là quãng đường đi được, ta có: S = vt .
+
+2. Các ví dụ
+Ví dụ 1. Một ô tô đi từ A và dự định đến B lúc 12 giờ trưa. Nếu xe chạy với vận tốc 35km / h thì
+sẽ đến B chậm hơn 2 giờ so với dự định. Nếu xe chạy với vận tốc 50km / h thì sẽ đến B sớm hơn
+1 giờ so với dự định. Tính độ dài quãng đường AB và thời điểm xuất phát của ô tô tại A .
+Ví dụ 2. Hai vật chuyển động đều trên một đường tròn đường kính 20cm , xuất phát cùng một lúc, từ
+cùng một điểm. Nếu chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau. Nếu chuyển động
+ngược chiều thì cứ 4 giây chúng lại gặp nhau. Tính vận tốc của mỗi vật.
+Ví dụ 3. Mỗi ngày ba của bạn An chở bạn ấy từ nhà đến trường mất 30 phút. Vì hôm nay là ngày thi
+tuyển sinh nên ba bạn ấy muốn con mình đến trường sớm hơn, do đó ông ấy đã tăng vận tốc xe lên
+15(km / h) và đến sớm hơn thường ngày là 10 phút. Hỏi quãng đường từ nhà của bạn An đến trường
+là bao nhiêu km ?
+Ví dụ 4. Một ô tô đi quãng đường AB với vận tốc 50km / h rồi đi tiếp quãng đường BC với vận tốc
+45km / h . Biết quãng đường tổng cộng dài 165 km và thời gian ô tô đi trên quãng đường AB ít hơn
+thời gian đi trên quãng đường BC là 30 phút. Tính thời gian ô tô đi trên mỗi đoạn đường.
+Ví dụ 5. Một ôtô dự định đi từ A đến B trong một thời gian nhất định. Nếu xe chạy mỗi giờ
+nhanh hơn 10 km thì đến nơi sớm hơn dự định 3 giờ, còn nếu xe chạy chậm lại mỗi giờ 10 km thì
+đến nơi chậm mất 5 giờ. Tính vận tốc của xe lúc ban đầu, thời gian dự định và chiều dài quãng
+đường AB.
+DẠNG 4. CÁC DẠNG KHÁC
+Ví dụ 1.
+
+Giải bài toán cổ sau :
+Quýt, cam mười bảy quả tươi
+Đem chia cho một trăm người cùng vui.
+Chia ba mỗi quả quýt rồi
+Còn cam mỗi quả chia mười vừa xinh.
+Trăm người, trăm miếng ngọt lành.
+Quýt, cam mỗi loại tính rành là bao ?
+Ví dụ 2. Tính độ dài hai cạnh góc vuông của một tam giác vuông, biết rằng nếu tăng mỗi cạnh lên 3
+cm thì diện tích tam giác đó sẽ tăng thêm 36cm 2 , và nếu một cạnh giảm đi 2 cm, cạnh kia giảm đi 4
+cm thì diện tích của tam giác giảm đi 26cm 2 .
+Ví dụ 3. Nhà Lan có một mảnh vườn trồng rau cải bắp. Vườn được dánh thành nhiều luống, mỗi
+luống trồng cùng một số cây cải bắp. Lan tính rằng: Nếu tăng thêm 8 luống rau, nhưng mỗi luống
+trồng ít đi 3 cây thì số cây toàn vườn ít đi 54 cây. Nếu giảm đi 4 luống, nhưng mỗi luống trồng tăng
+thêm 2 cây thì số rau toàn vườn sẽ tăng thêm 32 cây. Hỏi vườn nhà Lan trồng bao nhiêu cây rau cải
+bắp? (Số cây trong các luông như nhau).
+Ví dụ 4. Số tiền mua 9 quả thanh yên và 8 quả táo rừng thơm là 107 rupi. Số tiền mua 7 quả thanh
+yên và 7 quả táo rừng thơm là 91 rupi. Hỏi giá mỗi quả thanh yên và mỗi quả táo là bao nhiêu rupi ?
+Ví dụ 5. Điểm số trung bình của một vận động viên bắn súng sau 100 lần bắn là 8, 69 điểm. Kết quả
+cụ thể được ghi trong bảng sau, trong đó có hai ô bị mờ không đọc được (đánh dấu *) :
+Điểm số của mỗi lần
+10
+9
+8
+7
+6
+bắn
+Số lần bắn
+25
+15
+42
+*
+*
+Em hãy tìm lại các số trong số đó.
+Ví dụ 6. Một người mua hai loại hàng và phải trả tổng 2,17 triệu đồng, kể cả thuế giá trị gia tăng
+(VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là
+
+9% đối với cả hai loại hàng thì người đó phải trả tổng 2,18 triệu đồng. Hỏi nếu không kể thuế VAT
+thì người đó phải trả bao nhiêu tiền cho mỗi loại hàng ?
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Tìm một số tự nhiên có hai chữ số, tổng các chữ số của nó bằng 11 , nếu đổi chỗ hai chữ số
+hàng chục và hàng đơn vị cho nhau thì số đó tăng thêm 27 đơn vị.
+Câu 2. Tìm một số tự nhiên có ba chữ số, tổng các chữ số bằng 17 , chữ số hàng chục là 4 , nếu đổi
+chỗ các chữ số hàng trăm và hàng đơn vị cho nhau thì số giảm đi 99 đơn vị.
+Câu 4. Hai vòi nước cùng chảy vào một bể sau 4 giờ 48 phút bể đầy. Nếu vòi I chảy trong 4
+3
+giờ, vòi II chảy trong 3 giờ thì cả hai vòi chảy được bể. Tính thời gian để mỗi vòi chảy một
+4
+mình đầy bể.
+Câu 5. Một ô tô đi từ tỉnh A đến tỉnh B với một vận tốc đã định. Nếu vận tốc tăng thêm
+
+20km / h thì thời gian đi được sẽ giảm 1 giờ, nếu vận tốc giảm bớt 10km / h thì thời gian đi tăng
+thêm 1 giờ. Tính vận tốc và thời gian dự định của ô tô.
+Câu 6. Hai ca nô cùng khởi hành từ A đến B cách nhau 85km và đi ngược chiều nhau. Sau 1 giờ
+40 phút thì gặp nhau. Tính vận tốc thật của mỗi ca nô, biết rằng vận tốc ca nô đi xuôi
+dòng lớn hơn vận tốc ca nô đi ngược dòng là 9km / h và vận tốc dòng nước là 3km / h (vận tốc
+thật của ca nô không đổi).
+Câu 7. Đoạn đường AB dài 200 km . Cùng lúc một xe máy đi từ A và một ô tô đi từ B , xe máy và
+ô tô gặp nhau tại C cách A 120km . Nếu xe máy khởi hành sau ô tô 1 giờ thì gặp nhau tại D cách
+C 24 km . Tính vận tốc của ô tô và xe máy.
+Câu 8. Tìm số có ba chữ số chia hết cho 11 , biết rằng khi chia số đó cho 11 được thương
+bằng tổng các chữ số của số bị chia.
+3
+cạnh đáy. Nếu chiều xao tăng thêm 3dm và cạnh đáy
+4
+giảm đi 2dm thì diện tích của nó tăng thêm 12 dm 2 . Tính chiều cao và cạnh đáy của tam
+
+Câu 9. Một tam giác có chiều cao bằng
+
+giác.
+Câu 10. Hai giá sách có 450 cuốn. Nếu chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai sẽ bằng
+số sách ở giá thứ nhất. Tính số sách của mỗi giá.
+
+4
+5
+
+Câu 11. Một dung dịch chứa 30% axit nitơric (tính theo thể tích) và một dung dịch khác chứa 55%
+axit nitơric. Cần phải trộn thêm bao nhiêu lít dung dịch loại 1 và loại 2 để được 100 lít dung dịch
+50% axit nitơric?
+Câu 12. Hai giá sách có 450 cuốn. Nếu chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai thì số sách
+4
+trên giá thứ hai bằng số sách giá thứ nhất. Tính số sách trên mỗi giá.
+5
+
+Câu 13. Hai anh Quang và Bình góp vốn cùng kinh doanh. Anh Quang góp 13 triệu đồng, anh Bình
+góp 15 triệu đồng. Sau một thời gian kinh doanh lãi được 7 triệu đồng. Lãi được chia đều theo tỉ lệ
+góp vốn. Tính số lãi mỗi anh được hưởng.
+
+BÀI TẬP CUỐI CHƯƠNG I
+PHẦN 1. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. TRẮC NGHIỆM
+−1
+5 x + 7 y =
+1.19. Cặp số nào sau đây là nghiệm của hệ phương trình 
+?
+−5
+3 x + 2 y =
+A. (−1;1) .
+
+B. (−3; 2) .
+
+C. (2; −3) .
+
+D. (5;5) .
+
+1.20. Trên mặt phẳng toạ độ Oxy, cho các điểm A(1; 2), B(5;6), C (2;3), D(−1; −1) . Đường thẳng
+4x − 3y =
+−1 đi qua hai điểm nào trong các điểm đã cho?
+A. A và B ;
+
+B. B và C ;
+
+C. C và D ;
+
+D. D và A .
+
+B. Có nghiệm là (1;0) .
+
+C. Có nghiệm là
+
+C. Có vô số nghiệm.
+
+D. Có hai nghiệm.
+
+0,3
+1,5 x − 0, 6 y =
+1.21. Hệ phương trình 
+−2
+−2 x + y =
+A. Có nghiệm là (0; −0,5) .
+(−3; −8) .
+D. Vô nghiệm.
+1,8
+0, 6 x + 0,3 y =
+1.22. Hệ phương trình 
+−6
+2 x + y =
+A. Có một nghiệm.
+
+B. Vô nghiệm.
+
+B. TỰ LUẬN
+1.23. Giải các hệ phương trình:
+
+10
+2 x + 5 y =
+
+a)  2
+1
+ 5 x + y =
+
+0,3
+0, 2 x + 0,1 y =
+b) 
+5
+3 x + y =
+
+1
+3
+ x− y =
+c)  2
+2
+6 x − 4 y =
+2
+
+1.24. Giải các hệ phương trình:
+−2,5
+0,5 x + 2 y =
+a) 
+8,1
+0, 7 x − 3 y =
+
+−2
+5 x − 3 y =
+b) 
+19
+14 x + 8 y =
+
+−2
+2( x − 2) + 3(1 + y ) =
+c) 
+−3
+3( x − 2) − 2(1 + y ) =
+
+1.25. Tìm số tự nhiên N có hai chữ số, biết rằng nếu viết thêm chữ số 3 vào giữa hai chư số của số
+N thì được một số lớn hơn số 2 N là 585 đơn vị, và nếu viết hai chữ số của số N theo thứ tự ngược
+lại thì được một số nhỏ hơn số N là 18 đơn vị.
+1.26. Trên cánh đồng có diện tích 160 ha của một đơn vị sản xuất, người ta dành 60 ha để cấy thí
+điểm giống lúa mới, còn lại vẫn cấy giống lúa cũ. Khi thu hoạch, đầu tiên người ta gặt 8 ha giống lúa
+cũ và 7 ha giống lúa mới để đối chứng. Kết quả là 7 ha giống lúa mới cho thu hoạch nhiều hơn 8 ha
+giống lúa cũ là 2 tấn thóc. Biết rằng tổng số thóc (cả hai giống) thu hoạch cả vụ trên 160 ha là 860
+tấn. Hỏi năng suất của mỗi giống lúa trên 1 ha là bao nhiêu tấn thóc?
+1.27. Hai vật chuyển động đều trên một đường tròn đường kính 20 cm , xuất phát cùng một lúc, từ
+cùng một điểm. Nếu chuyển động ngược chiểu thì cứ sau 4 giây chúng lại gặp nhau. Nếu chuyển
+động cùng chiều thì cứ 20 giây chúng lại gặp nhau. Tính vận tốc (cm / s) của mỗi vật.
+1.28. Một người mua hai loại hàng và phải trả tổng cộng là 21,7 triệu đồng, kể cả thuế giá trị gia tăng
+(VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là
+
+9% đối với cả hai loại hàng thì người đó phải trả tổng cộng 21,8 triệu đồng. Hỏi nếu không kể thuế
+VAT thì người đó phải trả bao nhiêu tiển cho mỗi loại hàng?
+
+PHẦN 2. BÀI TẬP LÀM THÊM
+3.
+Câu 1. Cho phương trình mx + (m + 1) y =
+1. Với m = 1 , xét xem các cặp số sau, cặp số nào là nghiệm của phương trình.
+ii) (0;1)
+
+i) (3; −2)
+
+iii) (−1;0) .
+
+2. Tìm nghiệm tồng quát của phương trình trên ứng với
+i) m = −1
+
+ii) m = 2 .
+
+3. Tìm giá trị m tương ứng khi phương trình nhận các cặp số sau làm nghiệm.
+i) (3;1)
+
+ii) (2;3) .
+
+Câu 2. Giải các hệ phương trình sau và minh họa hình học kết quả tìm được :
+
+2
+2 x + 5 y =
+
+a)  2
+1
+ 5 x + y =
+
+1
+3
+ x− y =
+c)  2
+2
+3 x − 2 y =
+1
+
+0,3
+0, 2 x + 0,1 y =
+b) 
+5
+3 x + y =
+
+Câu 3. Giải các hệ phương trình sau :
+1
+ x 5 − (1 + 3) y =
+a) 
+1
+(1 − 3) x + y 5 =
+
+y
+ 2x
+2
+ x +1 + y +1 =
+
+b) 
+ x + 3y =
+−1
+ x + 1 y + 1
+
+m
+
+2 x − y =
+Câu 4. Giải hệ phương trình 
+trong mỗi trường hợp sau :
+2
+2 2
+
+4 x − m y =
+
+a) m = − 2
+
+b) m = 2
+
+c) m = 1
+
+Câu 5. Hai người ở địa điểm A và B cách nhau 3,6km , khởi hành cùng một lúc, đi ngược chiều
+nhau ở một địa điểm cách A là 2km. Nếu cả hai cùng giữ nguyên vận tốc như trường hợp trên,
+nhưng người đi chậm hơn xuất phát trước người kia 6 phút thì họ sẽ gặp nhau ở chính giữa quãng
+đường. Tính vận tốc của mỗi người.
+Câu 6. Một vật có khối lượng 124g và thể tích 15cm3 là hợp kim của đồng và kẽm. Tính xem trong
+đó có bao nhiêu gam đồng,v à bao nhiêu gam kẽm, biết rằng cứ 89g đồng thì có thể tích là 10cm3 và
+7gam kẽm có thể tích là 1cm3 .
+Câu 7. Hai đội xây dựng làm chung một công việc và dự định hoàn thành trong 12 ngày. Nhưng khi
+làm chung được 8 ngày thì đội I được điều động đi làm việc khác. Tuy chỉ còn một mình đội II làm
+việc, do cải tiến cách làm , năng suất của đội II tăng gấp đôi nên họ đã làm xong phần việc còn lại
+trong 3,5 ngày. Hỏi với năng suất ban đầu , nếu mỗi đội làm một mình thì phải làm trong bao nhiêu
+ngày mới xong công việc trên ?
+
+Câu 8. Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 720 tấn thóc. Năm nay, đơn vị
+thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái. Do đó cả hai đơn
+vị thu hoạch được 819 tấn thóc. Hỏi mỗi năm, mỗi đơn vị thu hoạch được bao nhiêu tấn thóc ?
+ x + 1 + y − 1 =
+5
+Câu 9. Giải hệ phương trình : 
+ x + 1 = 4 y − 4
+Câu 10. Quãng đường AB gồm một đoạn lên dốc dài 4 km, một đoạn xuống dốc dài 5km. Một
+người đi xe đạp từ A đến B hết 40phút và đi từ B về A hết 41 phút ( vận tốc lên dốc lúc đi và về
+như nhau, vận tốc xuống dốc lúc đi và về như nhau). Tính vận tốc lúc lên dốc và lúc xuống dốc.
+Câu 11. Tuổi hai anh em cộng lại bằng 21. Tuổi anh hiện nay gấp đôi tuổi em lúc anh bằng tuổi em
+hiện nay.Tính tuổi của mỗi người hiện nay.
+1
+mx − y =
+Câu 12. Với giá trị nào của m, n thì hệ 
+có nghiệm ( − 1;0 ) ?
+x
++
+y
+=
+n
+
+Câu 13. Cho ba đường thẳng
+−3 ;
+( d1 ) : x − 2 y =
+
+( d2 ) : 2 x + y =
+
+2 + 2;
+
+( d m ) : mx − (1 − 2m ) y =5 − m
+1. Xác định m để ba đường thẳng ( d1 ) ; ( d 2 ) và ( d m ) đồng quy.
+2. Chứng minh rằng ( d m ) luôn đi qua một điểm cố định với mọi m .
+
+CHƯƠNG I: PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+BÀI 1: KHÁI NIỆM PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. PHƯƠNG TRÌNH BẬC NHẤT 2 ẨN
+
+c, trong đó a , b và c là các số đã
+- Phương trinh bậc nhất hai ẳn x và y là hệ thức dạng ax + by =
+biết (a ≠ 0 hoặc b ≠ 0) .
+- Nếu tại x = x0 và y = y0 ta có ax0 + by0 =
+c là một khẳng định đúng thì cặp số ( x0 ; y0 ) được gọi
+là một nghiệm của phương trình ( 1 ).
+
+5;0 x + y =
+−1;0 x + 0 y =
+3 , hệ thức nào là phương trình bậc
+Ví dụ 1. a) Trong các hệ thức 4 x + 3 y =
+nhất hai ẩn? Hệ thức nào không là phương trình bậc nhất hai ẩn?
+5 ?
+b) Trong các cặp só́ (2; −1) và (1;0) , cặp số nào là nghiệm của phương trình 4 x + 3 y =
+Lời giải
+
+5 và 0 x + y =
+−1
+c . Nhưng chỉ có hai hệ thức 4 x + 3 y =
+a) Cả ba hệ thức đều có dạng ax + by =
+thoả mãn điều kiện a ≠ 0 hoặc b ≠ 0 nên là phương trình bậc nhất hai ẩn.
+3 có a= b= 0 , khôngthoả mãn điều kiện trên nên hệ thức đó không phải là
+Hệ thức 0 x + 0 y =
+phương trình bậc nhất hai ẩn.
+5 , vì 4 ⋅ 2 + 3 ⋅ (−1) =5
+b) Cặp số (2; −1) là một nghiệm của phương trình 4 x + 3 y =
+5 , vì 4 ⋅1 + 3 ⋅ 0 = 4 ≠ 5.
+Cặp số (1;0) không là nghiệm của phương trình 4 x + 3 y =
+5.
+Ví dụ 2. Giả sử ( x, y ) là nghiệm của phương trình bậc nhất hai ẩn x + 2 y =
+a) Hoàn thành bảng sau đây:
+
+x
+
+-2
+
+-1
+
+0
+
+?
+
+?
+
+y
+
+?
+
+?
+
+?
+
+1
+
+2
+
+Từ đó suy ra 5 nghiệm của phương trình đã cho.
+b) Tính y theo x . Tù đó cho biết phương trình đă cho có bao nhiêu nghiệm?
+Lời giải
+a) Ta có:
+
+x
+
+-2
+
+-1
+
+0
+
+3
+
+1
+
+y
+
+7
+2
+
+3
+
+5
+2
+
+1
+
+2
+
+7
+
+ 5
+Vậy 5 nghiệm của phương trình đã cho là:  −2;  , ( −1;3) ,  0,  , ( 3;1) , (1; 2 ) .
+2
+
+ 2
+5− x
+b) Ta có y =
+. Với mỗi giá trị x tuỳ ý cho trước, ta luôn tìm được một giá trị y tương ứng.
+2
+Do đó phương trình đã cho có vô số nghiệm.
+Chú ý. Mỗi phương trình bậc nhất hai ẩn đều có vô số nghiệm.
+
+Ví dụ dưới đây trình bày cách viết các
+
+nghiệm và biểu diển hình học tất cả các nghiệm của một phương trình bậc nhất hai ẩn.
+Ví dụ 3. Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mối phương trình bậc nhất hai ấn
+sau:
+
+3;
+a) x + 2 y =
+
+−2 ;
+b) 0 x + y =
+
+3.
+c) x + 0 y =
+
+Lời giải
+
+3 .(1)
+a) Xét phượng trình x + 2 y =
+−0,5 x + 1,5 .
+Ta viết (1) dưới dạng y =
+Mỗi cặp số ( x; −0,5 x + 1,5) với x ∈  tuỳ ý, là một nghiệm của (1).
+Khi đó ta nói phương trình (1) có nghiệm (tổng quát) là: ( x, −0,5 x + 1,5) với x ∈  tùy ý.
+
+−0,5 x + 1,5 .
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng y =
+
+3.
+Ta cũng goi đường thẳng này là đường thẳng d : x + 2 y =
+Để vẽ đường thảng d , ta chỉ cần xác định hai điểm tuỳ ý của nó, chẳng hạn A(0;1,5) và B(3;0) rồi
+vẽ đường thẳng đi qua hai điểm đó (H.1.1a).
+
+−2 .(2)
+b) Xét phương trình 0 x + y =
+Ta viết gọn (2) thành y = −2 . Phương trình (2) có nghiệm là ( x; −2) với x ∈  tuỳ ý.
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng song song với trục hoành và cắt trục
+tung tại điểm (0; −2) . Ta gọi đó là đường thẳng y = −2 (H.1.1b).
+
+3 .(3)
+c) Xét phương trình x + 0 y =
+Ta viết gọn (3) thành x = 3 . Phương trình (3) có nghiệm là (3; y ) với y ∈  tuỳ ý.
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng song song với trục tung và cắt trục
+hoành tại điểm (3;0) . Ta gọi đó là đường thẳng x = 3(H.1.1c) .
+
+Nhận xét. Trong mặt phẳng toạ độ, tập hợp các điểm có toạ độ ( x; y ) thoả mãn phương trình bậc
+c là một đường thẳng. Đường thẳng đó gọi là đường thẳng ax + by =
+c.
+nhất hai ẩn ax + by =
+2. HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN
+
+c và a′x + b′y =
+c′ được gọi là một hệ hai
+1. Một cặp gồm hai phương trình bậc nhất hai ẩn ax + by =
+c
+ax + by =
+phương trình bậc nhất hai ẩn. Ta thường viết hệ phương trình đó dưới dạng: 
+c′
+a′x + b′y =
+
+( *)
+
+2. Mỗi cặp số ( x0 ; y0 ) được gọi là một nghiệm của hệ (*) nếu nó đồng thời là nghiệm của cả hai phương
+trình của hệ (*).
+Mỗi nghiệm của hệ (*) chính là một nghiệm chung của hai phương trình của hệ (*).
+Ví dụ 4. Trong các hệ phương trình sau, hệ nào không phải là hệ hai phương trình bậc nhất hai ẩn, vì sao?
+2 x = −6
+a) 
+1
+5 x + 4 y =
+
+−3
+x + 2 y =
+b) 
+1
+0 x + 0 y =
+
+1
+3 x − y =
+c) 
+3
+x + y =
+
+Lời giải
+Hệ phương trình b) không phải là hệ hai phương trình bậc nhất hai ẩn, vì phương trình thứ hai của hệ là
+0x + 0 y =
+1 không phải là phương trình bậc nhất hai ẩn.
+0
+2 x − y =
+Ví dụ 5. Giải thích tại sao cặp số (1; 2) là một nghiệm của hệ phương trình 
+3
+x + y =
+Lời giải
+Ta thấy khi x = 1 và y = 2 thì:
+- 2 x − y = 2 ⋅1 − 2 = 0 nên (1; 2) là nghiệm của phương trình thứ nhất;
+- x + y =1 + 2 =3 nên (1; 2) là nghiệm của phương trình thứ hai.
+Vậy (1; 2) là nghiệm chung của hai phương trình, nghĩa là (1; 2) là một nghiệm của hệ phương trình đã
+cho.
+Chú ý: Trong Ví dụ 5 , cặp số (1; 2) là nghiệm của hệ phương trình đã cho có nghĩa là điểm M (1; 2) vừa
+thuộc đường thẳng d1 : 2 x − y =
+0 , vừa thuộc đường thẳng d 2 : x + y =
+3 . Vậy M là giao điểm của hai
+đường thẳng d1 và d 2 (H.1.2).
+
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.1. Phương trình nào sau đây là phương trình bậc nhất hai ẩn, vì sao?
+
+0 ; b) 4 x + 0 y =
+−2 ;
+a) 5 x − 8 y =
+
+1;
+c) 0 x + 0 y =
+
+9.
+d) 0 x − 3 y =
+
+Lời giải
+
+0 có dạng ax + by =
+c với a =5 ≠ 0, b =−8 ≠ 0 .
+a) Phương trình 5 x − 8 y =
+0 là phương trình bậc nhất hai ẩn.
+Do đó, phương trình 5 x − 8 y =
+
+−2 có dạng ax + by = c với a= 4 ≠ 0 .
+b) Phương trình 4 x + 0 y =
+−2 là phương trình bậc nhất hai ẩn.
+Do đó, phương trình 4 x + 0 y =
+1 có dạng ax + by =
+c với=
+a 0,=
+b 0.
+c) Phương trình 0 x + 0 y =
+1 không phải là phương trình bậc nhất hai ẩn.
+Do đó, phương trình 0 x + 0 y =
+9 có dạng ax + by =
+c với b =−3 ≠ 0 .
+d) Phương trình 0 x − 3 y =
+
+9 là phương trình bậc nhất hai ẩn.
+Do đó, phương trình 0 x − 3 y =
+1.2. a) Tìm giá trị thích hợp thay cho dấu "?" trong bảng sau rồi cho biết 6 nghiệm của phương trình
+2x − y =
+1:
+
+b) Viết nghiệm tổng quát của phương trình đã cho.
+Lời giải
+a)-Với x = −1 , ta có y =2 ⋅ (−1) − 1 =−2 − 1 =−3 ;
+- Với x = −0,5 , ta có y =2 ⋅ (−0,5) − 1 =−1 − 1 =−2 ;
+- Với x = 0 , ta có y =2.0 − 1 =0 − 1 =−1 ;
+-Với x = 0,5 , ta có y = 2 ⋅ 0,5 − 1 = 1 − 1 = 0 ;
+- Với x = 1 , ta có y = 2 ⋅1 − 1 = 2 − 1 = 1 ;
+-Với x = 2 , ta có y = 2.2 − 1 = 4 − 1 = 3 .
+Vậy ta có bảng sau:
+
+x
+
+-1
+
+−0,5
+
+0
+
+0,5
+
+1
+
+2
+
+=
+y 2x −1
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+3
+
+Vậy 6 nghiệm của phương trình đã cho là (−1; −3), (−0,5; −2), (0; −1), (0,5;1), (1;1), (2 ; 3) .
+
+y 2 x − 1 . Với mỗi giá trị x tùy ý cho trước, ta luôn tìm được một giá trị y tương ứng.
+b) Ta có =
+Do đó, phương trình đã cho có vô số nghiệm.
+1.3. Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mổi phương trình bậc nhất hai ẩn sau:
+
+3;
+a) 2 x − y =
+
+−4 ;
+b) 0 x + 2 y =
+
+5.
+c) 3 x + 0 y =
+
+Lời giải
+
+3(1)
+a) Xét phương trình 2 x − y =
+y 2 x − 3 . Mỗi cặp số ( x; 2 x − 3) với x ∈  tùy ý, là một nghiệm của (1).
+Ta viết (1) dưới dạng =
+Khi đó, ta nói phương trình (1) có nghiệm (tổng quát) là: ( x; 2 x − 3) với x ∈  tùy ý.
+
+y 2x − 3 .
+Mỗi nghiệm này là tọa độ một điểm thuộc đường thẳng =
+y 2x − 3 , chẳng hạn A(0; −3), B(1 ; −1) .
+Ta xác định được hai điểm tùy ý của đường thẳng =
+Ta biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn như sau:
+
+−4(2) .
+b) Xét phương trình 0 x + 2 y =
+Ta viết gọn (2) thành y = −2 . Phương trình (2) có nghiệm ( x; −2) với x ∈  tùy ý.
+Mỗi nghiệm này là tọa độ một điểm thuộc đường thẳng song song với trục hoành và cắt trục tung tại điểm
+M(0; −2) . Ta gọi đó là đường thẳng y = −2 .
+Ta biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn như sau:
+
+5(2) .
+c) Xét phương trình 3 x + 0 y =
+5
+5 
+Ta viết gọn (2) thành x = . Phương trình (2) có nghiệm  ; y  với y ∈  tùy ý.
+3
+3 
+Mỗi nghiệm này là tọa độ một điểm thuộc đường thẳng song song với trục tung và cắt trục hoành tại điểm
+5
+5 
+ ;0  Ta gọi đó là đường thẳng x = .
+3
+3 
+Ta biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn như sau:
+
+2 x = −6
+1.4. a) Hệ phương trình 
+có là một hệ hai phương trình bậc nhất hai ẩn không, vì sao? vì sao?
+1
+5 x + 4 y =
+b) Cặp số (−3; 4) có là một nghiệm của hệ phương trình đó hay không, vì sao?
+Lời giải
+a) Hệ phương trình đã cho là hệ hai phương trình bậc nhất hai ẩn vì cả hai phương trình của hệ đã cho đều là
+phương trình bậc nhất hai ẩn.
+
+−3; y =
+4 vào hệ phương trình đã cho, ta có:
+b) Thay x =
+2 x =2 ⋅ (−3) =−6 nên (−3; 4) là nghiệm của phương trình thứ nhất;
+
+5 x + 4 y =5 ⋅ (−3) + 4 ⋅ 4 =−15 + 16 =1 nên (−3; 4) là nghiệm của phương trình thứ hai.
+Do đó (−3; 4) là nghiệm chung của hai phương trình, nghĩa là (−3; 4) là một nghiệm của hệ phương trình đã
+cho.
+1.5. Cho các cặp số (−2;1), (0; 2), (1;0), (1,5;3), (4; −3) và hai phương trình
+5x + 4 y =
+8
+
+(1)
+
+3x + 5 y =
+−3
+
+( 2)
+
+Trong các cặp số đã cho:
+a) Những cặp số nào là nghiệm của phương trình (1)?
+b) Cặp số nào là nghiệm của hệ hai phương trình gồm (1) và (2)?
+
+8 và 3 x + 5 y =
+−3 trên cùng một mặt phẳng toạ độ để minh hoạ kết luận ở
+c) Vẽ hai đường thẳng 5 x + 4 y =
+câu b.
+Lời giải
+
+−2; y =
+1 vào phương trình (1), ta có:
+a)- Thay x =
+5 x + 4 y =5 ⋅ (−2) + 4 ⋅1 =−10 + 4 =−6 ≠ 8 nên (−2;1) không phải là nghiệm của phương trình (1) .
+x 0;=
+y 2 vào phương trình (1), ta có:
+- Thay=
+
+5 x + 4 y = 5.0 + 4.2 = 0 + 8 = 8 nên (0; 2) là nghiệm của phướng trình (1).
+x 1;=
+y 0 vào phương trình (1), ta có:
+- Thay=
+5 x + 4 y = 5 ⋅1 + 4 ⋅ 0 = 5 + 0 = 5 ≠ 8 nên (1;0) không phải là nghiệm của phương trình (1) .
+=
+x 1,5;
+=
+y 3 vào phương trình (1), ta có:
+- Thay
+5 x + 4 y = 5 ⋅1,5 + 4 ⋅ 3 = 7,5 + 12 = 19,5 ≠ 8 nên (1,5;3) không phải là nghiệm của phương trình (1) .
+- Thay x = 4; y = −3 vào phương trình (1), ta có:
+
+5 x + 4 y= 5.4 + 4 ⋅ (−3)= 20 − 12= 8 nên (4; −3) là nghiệm của phướng trình (1).
+Vậy cặp số là nghiệm của phương trình (1) là (0; 2) và (4; −3) .
+b) Để cặp số là nghiệm của hệ hai phương trình gồm phương trình (1) và phương trình (2) thì cặp số đó phải
+là nghiệm của phương trình (1). Khi đó, ta có:
+
+x 0;=
+y 2 vào phương trình (2), ta có:
+- Thay=
+3 x + 5 y = 3 ⋅ 0 + 5 ⋅ 2 = 0 + 10 = 10 ≠ −3 nên (0; 2) không phải là nghiệm của phương trình (2).
+- Thay x = 4; y = −3 vào phương trình (2), ta có:
+
+3 x + 5 y =3 ⋅ 4 + 5 ⋅ (−3) =12 − 15 =−3 nên (4; −3) là nghiệm của phương trình (2).
+Ta thấy nghiệm chung của phương trình (1) và phương trình (2) là cặp số (4; -3 ).
+Do đó, cặp số ( 4 ; - 3 ) là nghiệm của hệ gồm phương trình (1) và phương trình (2).
+
+8
+c) Đường thẳng 5 x + 4 y =
+8
+8 
+Cho x = 0 ⇒ y = 2 ⇒ A(0; 2) ; y = 0 ⇒ x = ⇒ B  ;0 
+5
+5 
+
+8 đi qua điểm A và B
+Đường thẳng 5 x + 4 y =
+−3
+Đường thẳng 3 x + 5 y =
+Cho x = 0 ⇒ y =
+
+−3
+ −3 
+⇒ C  0;  ; y =0 ⇒ x =−1 ⇒ D(−1;0) .
+5
+ 5 
+
+−3 đi qua điểm C và D
+Đường thẳng 3 x + 5 y =
+
+C. CÁC DẠNG TOÁN
+
+c
+DẠNG 1. XÉT CẶP SỐ ( x0 ; y0 ) CÓ LÀ NGHIỆM CỦA PHƯƠNG TRÌNH ax + by =
+KHÔNG?
+1. Phương pháp giải
+
+c , nếu đẳng thức đúng thì cặp ( x0 ; y0 ) là nghệm
+Thay x = x0 , y = y0 vào phương trình ax + by =
+c.
+của phương ax + by =
+2. Các ví dụ
+Ví dụ 1. Trong các cặp số (−2; 1) , ( 0; 2 ) , ( −1; 0 ) , (1,5; 3) và ( 4; − 3) cặp số nào là nghiệm của
+phương trình:
+
+8?
+a) 5 x + 4 y =
+
+−3 ?
+b) 3 x + 5 y =
+Giải
+
+8.
+a) Ta có các cặp số ( 0; 2 ) và ( 4; − 3) là nghiệm của phương trình 5 x + 4 y =
+
+−3 .
+a) Các cặp số ( −1; 0 ) và ( 4; − 3) là nghiệm của phương trình 3 x + 5 y =
+Ví dụ 2. Xem xét cặp số (2; −1) có là nghiệm của mỗi phương trình sau không ?
+a) 2 x + 3 y =
+1;
+b) 2 x − 3 y =
+1:
+c)
+
+3
+x + 4y =
+−1 .
+2
+
+Giải.
+a) Thay x = 2, y = −1 vào phương trình 2 x + 3 y =
+1 ta dược:
+2.2 + 3.(−1) = 4 − 3 = 1 nên (2; −1) là nghiệm của phương trình 2 x + 3 y =
+1.
+
+b) Thay x = 2; y = −1 vào phương trình 2 x − 3 y =
+1 ta dược :
+2.2 − 3.(−1) = 4 + 3 = 7 ≠ 1 nên (2; −1) không là nghiệm của phương trình 2 x − 3 y =
+1.
+
+c) Thay x = 2; y = −1 vào phương trình
+
+3
+⋅ x + 4 y =−1 ta dượo
+2
+
+3
+3
+⋅ 2 + 4 ⋅ (−1) =3 − 4 =−1 nên (2; −1) là nghiệm của phương trình ⋅ x + 4 y =−1 .
+2
+2
+
+c VÀ VẼ ĐƯỜNG
+DẠNG 2. TÌM NGHIỆM TỔNG QUÁT CỦA PHƯONG TRÌNH ax + by =
+THẲNG BIỂU DIỄN TẬP NGHIỆM CỦA NÓ
+1. Phương pháp giải
+
+c
+1. - Tìm nghiệm tổng quát của phương trình ax + by =
+c − ax
+
+c − by
+y =
+và công thức nghiệm tổng quát là: 
+- Nếu a ≠ 0 thì tìm x theo y : x =
+b
+a
+
+∈
+
+x
+
+
+c − by
+
+c − ax
+x =
+- Nếu b ≠ 0 thì tìm y theo x : y =
+và công thức nghiệm tổng quát là: 
+a
+b
+ y ∈ 
+
+2. Vẽ đường thẳng có phương trình: ax + by =
+c
+
+y
++ Nếu b ≠ 0 thì vẽ đường thẳng=
+
+1
+( c − ax ) .
+b
+
++ Nếu b = 0 thì vẽ đường thẳng x =
+
+c
+cùng phương với trục tung.
+a
+
+2. Các ví dụ
+Ví dụ 1: Với mỗi phương trình sau, tìm nghiệm tổng quát của phương trình và vẽ đường thẳng biểu
+diễn tập nghiệm của nó:
+a) 3 x − y =
+2
+
+b) x + 5 y =
+3 c) 4 x − 3 y =
+−1
+
+d) x + 5 y =
+0
+
+e) 4 x + 0 y =
+−2
+
+f) 0 x + 2 y =
+5
+Giải
+
+a) Ta có 3 x − y = 2 ⇔ y = 3 x − 2
+y 3x − 2
+=
+Nghiệm tổng quát của phương trình là: 
+x ∈ 
+
+−5 y + 3 .
+b) Ta có x + 5 y =
+3⇔x=
+Nghiệm tổng quát của phương trình là:
+
+−5 y + 3
+x =
+
+y∈
+
+1
+c) Ta có 4 x − 3 y =−1 ⇔ y = ( 4 x + 1)
+3
+1
+
+=
+( 4 x + 1)
+y
+Nghiệm tổng quát của phương trình là: 
+3
+
+x ∈ 
+
+ x = −5 y
+d) Nghiệm tổng quát của phương trình là: 
+y∈
+
+1
+
+x = −
+e) Nghiệm tổng quát của phương trình là: 
+2
+ y ∈ 
+5
+
+y =
+f) Nghiệm tổng quát của phương trình là: 
+2
+
+x ∈ 
+Ví dụ 2. Cho hai phương trình x + 2 y =
+4 và x − y =
+1 . Vẽ hai đường thẳng
+biểu diễn tập nghiệm của hai phương trình đó trên cùng một hệ tọa độ. Xác định tọa độ giao điểm
+của hai đường thẳng và cho biết toạn độ của nó là nghiệm của phương trình nào.
+Giải
+
+Đường thẳng x + 2 y =
+4 qua hai điểm ( 0; 2 ) và ( 4;0 ) .
+Đường thẳng x − y =
+1 qua hai điểm ( 0; −1) và (1;0 ) .
+Giao điểm của hai đường thẳng có tọa độ ( 2;1) . Đó là nghiệm của hai
+phương trình đã cho.
+DẠNG 3. TÍNH KHOẢNG CÁCH TỪ GỐC TỌA ĐỘ O ĐẾN MỘT ĐƯỜNG THẲNG
+1. Phương pháp giải
+Khoảng cách d từ gốc O đến đường thẳng: ax + by =
+d OH
+=
+c được tính theo công thức=
+
+c
+a 2 + b2
+
+Với H là hình chiếu của O lên đường thẳng.
+Cho x = 0 ⇒ y =
+
+c
+b
+
+Cho y = 0 ⇒ x =
+
+c
+a
+
+ c
+Đường thẳng cắt trục tung tại A  0;  và cắt trục hoành tại điểm
+ b
+c 
+B  ;0 
+a 
+c
+c
+1
+1
+1
++
+Kẻ đường cao OH của ∆ABO , ta có: =
+mà OA =
+và OB =
+2
+2
+2
+a
+b
+OH
+OA OB
+Do đó
+
+c
+1
+b2 a 2 a 2 + b2
+.
+=
++ 2 =
+⇒ OH =
+2
+2
+2
+2
+OH
+c
+c
+c
+a + b2
+
+2. Các ví dụ
+Ví dụ 1. Tính khoảng cách từ gốc tọa độ O đến đường thẳng 3 x − 4 y =
+1.
+Giải
+Áp dụng công thức d =
+=
+d
+
+c
+a 2 + b2
+
+ta có khoảng cách từ O đến đường thẳng 3 x − 4 y =
+1 là
+
+c
+1
+.
+=
+32 + 42 5
+
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Trong các cặp số ( 0; 4 ) , ( −1;3) , (1;1) , ( 2;3) , ( 4;6 ) cặp nào là nghiệm của phương trình
+5x − 3 y =
+2
+
+Hướng dẫn giải
+Các cặp số là nghiệm của phương trình: 5 x − 3 y =
+2 là (1;1) và (4;6)
+Câu 2. Kiểm tra cặp số sau có phải là nghiệm của phương trình 2 x − y − 1 =0 hay không?
+a) (1;1) ;
+
+b) (0,5;3) .
+Hướng dẫn giải
+a. Thay x = 1 và y = 1 vào phương trình, ta có 2.1 − 1 − 1 =0 . Vậy (1;1) là nghiệm của
+phương trình.
+b. Thay x = 0,5 và y = 3 vào phương trình, ta có 2.0,5 − 3 − 1 =−3 ≠ 0 . Vậy (0,5;3) không là
+nghiệm của phương trình.
+
+0
+Câu 3: Trong các cặp số (2;1) , (3; −1) , (0;5) cặp số nào là nghiệm của phương trình x + 2 y − 4 =
+Hướng dẫn giải
+ Với (2;1) , ta có 2 + 2 ⋅1 − 4 =0 ⇒ ( 2;1) là nghiệm.
+ Với ( 3; −1) , ta có 3 + 2 ⋅ (−1) − 4 =−3 ≠ 0 ⇒ (3; −1) không là nghiệm.
+ Với ( 0;5) , ta có 0 + 2 ⋅ 5 − 4 = 6 ≠ 0 ⇒ ( 0;5) không là nghiệm.
+Câu 4. Tìm nghiệm tổng quát và vẽ đường thẳng biểu diễn tập nghiệm của nó:
+a) 2 x + y =
+6
+
+b) x + 3 y =
+2
+
+d) 2 x + 0 y =
+4
+
+e) 0 x − 3 y =
+3
+
+c) 3 x − 2 y =
+1
+
+Hướng dẫn giải
+−2 x + 6
+y =
+a) 
+;
+x ∈ 
+
+−3 x + 2
+y =
+b) 
+y∈
+
+3
+1
+
+y
+x−
+=
+c) 
+2
+2
+ x ∈ 
+
+x = 2
+d) 
+y∈
+
+ y = −1
+e) 
+x ∈ 
+
+Câu 5. Tìm nghiệm tổng quát và biểu diễn tập nghiệm các phương trình sau
+
+0;
+a) 3 x − y − 2 =
+3.
+b) 0 x + 2 y =
+Hướng dẫn giải
+x ∈ 
+0 ⇔ y = 3x − 2 ⇔ 
+a) 3 x − y − 2 =
+;
+y 3x − 2
+=
+
+x ∈ 
+3
+
+3 ⇔ y =⇔ 
+b) 0 x + 2 y =
+3.
+2
+ y = 2
+
+Câu 6. Tìm tất cả các nghiệm nguyên của phương trình
+a) 2 x + y =
+0
+
+b) x + 3 y =
+0
+Hướng dẫn giải
+
+c) 3 x − 2 y =
+1
+
+a) ( x; − 2 x), x ∈ 
+
+b) (−3 y; y ), y ∈ 
+
+x −1
+3x − 1
+c) Từ 3 x − 2 y =1 ⇒ y =
+=x +
+2
+2
+
+Vì y ∈  nên
+
+x −1
+=t ∈  ⇒ x =2t + 1
+2
+
+ x= 2t + 1
+Khi đó: y= 3t + 1 .Vậy 
+;t ∈ 
+ y= 3t + 1
+
+a
+Câu 7. Cho đường thẳng d có phương trình ( a − 1) x + 2 y =
+a) Xác định a để d :
+i) song song với trục hoành
+ii) song song với trục tung
+iii) song song với đường thẳng x − y =
+1
+b) Tìm điểm cố định mà d luôn đi qua với mọi a
+Hướng dẫn giải
+a) i) a = 1 ;
+ii) Không tồn tại;
+iii) a = −1.
+ 1
+b) A 1;  .
+ 2
+
+Câu 8. Vẽ các đường thẳng x =
+3; x =
+−1; y =
+1; y =
+−3 . Gọi A, B, C , D là các giao điểm của chúng
+a) Chứng minh A, B, C , D là 4 đỉnh của hình vuông
+b) Viết phương trình các đường thẳng chứa hai đường chéo của hình vuông
+c) Tính diện tích của tam giác tạo bởi hai trục tọa độ và đường chéo của hình vuông
+Hướng dẫn giải
+a) A(−1;1); B(3;1); C (3; − 3); D(−1; − 3)
+b) BD : y= x − 2 ;
+
+AC : y = − x
+
+c) S = 2 .
+
+0.
+Câu 9. Cho đường thẳng d có phương trình ( m + 2 ) x + ( m + 3) y − m + 8 =
+Định m để d :
+a) Song song với trục hoành
+b) Song song với trục tung
+c) Chứng minh d luôn đi qua điểm A ( −1; 2 )
+Hướng dẫn giải
+a) m = −2 ;
+
+b) m = 3 .
+
+Câu 10. Tìm m trong mỗi trường hợp sau
+
+0;
+1. (1; 2 ) là nghiệm của phương trình mx + y − 5 =
+
+0.
+2. Điểm A(0;3) thuộc đường thẳng 4 x + my − 6 =
+Hướng dẫn giải
+
+x 1,=
+y 2 vào phương trình ta có m.1 + 2 − 5 =
+1. Thay=
+0⇔m=
+3.
+x 0,=
+y 3 vào đường thẳng, ta có 4.0 + m.3 =
+2. Thay=
+2.
+6 ⇔m=
+Câu 11. Tính khoảng cách từ gốc tọa độ O đến đường thẳng 8 x + 6 y =
+3.
+Hướng dẫn giải
+d
+=
+
+c
+3
+=
+a 2 + b 2 10
+
+BÀI 2. GIẢI HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN.
+A. KIẾN THỨC CƠ BẢN CẦN NẮM
+1. PHƯƠNG PHÁP THẾ
+Cách giải hệ phương trình bằng phương pháp thế:
+Buớc 1. Từ một phương trình của hệ, biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình còn lại
+của hệ để được phương trình chỉ còn chứa một ẩn.
+Bước 2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ đã cho.
+3
+2 x − y =
+Ví dụ 1. Giải hệ phương trình 
+bẳng phương pháp thế.
+4
+x + 2 y =
+Lời giải
+
+y 2 x − 3 . Thế vào phương trình thứ hai của hệ, ta được
+Từ phương trình thứ nhất của hệ ta có =
+x + 2(2 x − 3) =
+4 hay 5 x − 6 =
+4 , suy ra x = 2 .
+Từ đó y = 2 ⋅ 2 − 3 = 1 . Vậy hệ phương trình đã cho có nghiệm là (2;1) .
+Chú ý: Tuỳ theo hệ phương trình, ta có thể lựa chọn cách biểu diễn x theo y hoặc biểu diễn y
+theo x .
+−2
+x − y =
+Ví dụ 2. Giải hệ phương trình 
+bằng phương pháp thế.
+8
+2 x − 2 y =
+Lời giải
+Từ phương trình thứ nhất ta có x= y − 2 . Thế vào phương trình thứ hai, ta được
+
+2( y − 2)=
+− 2 y 8 hay 0=
+y − 4 8 (1). Do không có giá trị nào của y thoả mãn hệ thức (1) nên hệ
+phương trình đã cho vô nghiệm.
+− x + y =−2
+Ví dụ 3. Giải hệ phương trình 
+bằng phương pháp thế.
+6
+3 x − 3 y =
+Lời giải
+Từ phương trình thứ nhất ta có y= x − 2 .(2)
+
+6 hay 0 x = 0(3) .
+Thế vào phương trình thứ hai, ta được 3 x − 3( x − 2) =
+Ta thấy mọi giá trị của x đểu thoả mãn (3).
+Với giá trị tuỳ ý của x , giá trị tương ứng của y được tính bởi (2).
+Vậy hệ phương trình đã cho có nghiệm là ( x; x − 2) với x ∈  tuỳ ý.
+2. PHƯƠNG PHÁP CỘNG ĐẠI SỐ
+Cách giải hệ phương trình bằng phương pháp cộng đại số:
+Để giải một hệ hai phương trình bậc nhất hai ẩn có hệ số của cùng một ẩn nào đó trong hai phương
+trình bằng nhau hoặc đối nhau, ta có thể làm như sau:
+
+Bước 1. Cộng hay trừ từng vế của hai phương trình trong hệ để được phương trình chỉ còn chứa
+một ẩn.
+Bước 2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ phương trình đã cho.
+12
+−2 x + 5 y =
+Ví dụ 4. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+4
+2 x + 3 y =
+Lời giải
+Cộng từng vế hai phương trình ta được 8 y = 16 , suy ra y = 2 .
+Thế y = 2 vào phương trình thứ hai ta được 2 x + 3 ⋅ 2 =4 , hay 2 x = −2 , suy ra x = −1 .
+Vậy hệ phương trình đã cho có nghiệm là (−1; 2) .
+9
+5 x − 7 y =
+Ví dụ 5. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+1
+5 x − 3 y =
+Lời giải
+
+8 , suy ra
+Trừ từng vế của hai phương trình, ta được (5 x − 5 x) + (−7 y + 3 y ) = 9 − 1 hay −4 y =
+y = −2 .
+Thế y = −2 vào phương trình thứ nhất, ta được 5 x − 7 ⋅ (−2) =9 hay 5 x + 14 =
+9 , suy ra x = −1 .
+Vậy hệ phương trình đã cho có nghiệm là (−1; −2) .
+Chú ý. Trường hợp trong hệ phương trình đã cho không có hai hệ số của cùng một ẩn bằng nhau
+hay đối nhau, ta có thể đưa về trường hợp đã xét bằng cách nhân hai vế của mỗi phương trình với
+một số thích hợp (khác 0 ).
+7
+3 x + 2 y =
+Ví dụ 6. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+−4
+2 x − 3 y =
+Lời giải
+Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 2 , ta
+được:
+21
+9 x + 6 y =
+Cộng từng vế hai phương trình của hệ mới, ta được 13 x = 13 hay x = 1 .
+
+−8
+4 x − 6 y =
+Thế x = 1 vào phương trình thứ nhất của hệ đã cho, ta có 3 ⋅1 + 2 y =7 , suy ra y = 2 . Vậy hệ
+phương trình đã cho có nghiệm là (1; 2) .
+2
+3 x − 5 y =
+Ví dụ 7. Giải hệ phương trình 
+bằng phương pháp cộng đại số.
+−4
+−6 x + 10 y =
+Lời giải
+2
+3 x − 5 y =
+Chia hai vế của phương trình thứ hai cho 2, ta được hệ 
+−2.
+−3 x + 5 y =
+
+0 . Hệ thức này luôn thoả mãn với các
+Cộng từng vế hai phương trình của hệ mới ta có 0 x + 0 y =
+giá trị tuỳ ý của x và y .
+
+y
+2 , suy ra =
+Với giá trị tuỳ ý của x , giá trị của y được tính nhờ hệ thức 3 x − 5 y =
+2
+ 3
+phương trình đä cho có nghiệm là  x; x −  với x ∈  .
+5
+ 5
+
+3
+2
+x − . Vậy hệ
+5
+5
+
+3. SỬ DỤNG MÁY TÍNH CẦM TAY ĐỂ TÌM NGHIỆM CỦA HỆ HAI PHƯƠNG TRÌNH
+BẬC NHẤT HAI ẨN
+Cách tìm nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay
+Muốn tìm nghiệm của hệ hai phương trình bậc nhất hai ẳn bằng máy tính cẩm tay (MTCT), chúng
+ta cẩn sử dụng loại máy có chức năng này (thường có phím MODE). Trước hết ta phải viết hệ
+c1
+a1 x + b1 y =
+phương trình cẩn tìm nghiệm dưới dạng: 
+c2
+a2 x + b2 y =
+0
+4
+2 x + 3 y − 4 =
+2 x + 3 y =
+, ta viết nó dưới dạng 
+. Khi đó, ta có
+Chẳng hạn để tìm nghiệm của hệ 
+0
+7
+5 x + 6 y − 7 =
+5 x + 6 y =
+=
+a1 2,=
+b1 3,=
+c1 4;=
+a2 5,=
+b2 6 và c2 = 7 . Lần lượt thực hiện các bước sau (với máy tính thích
+hợp):
+Bước 1. Vào chức năng giải hệ hai phương trình bậc nhất hai ẩn bằng cách nhấn các phím
+(xem màn hìh sau bước 1, con trỏ ở vị trí a1 ).
+Bước 2. Nhập các số=
+a1 2,=
+b1 3,=
+c1 4;=
+a2 5,=
+b2 6 và c2 = 7 bằng cách nhấn:
+(xem màn hình sau bước 2).
+Bước 3. Đọc kết quả: Sau khi kết thúc bước 2, nhấn , màn hình cho x = −1 ; nhấn tiếp phím ),
+màn hình cho y = 2 (xem màn hìhh sau bước 3). Ta hiểu nghiệm của hệ phương trình là (−1; 2) .
+
+Chú ý:
+1. Muốn xoá số vừa mới nhập thì nhấn phím
+; muốn thay đổi số đã nhập ở một vị trí nào đó thì
+di chuyển con trỏ đến vị trí đó rồi nhập số mới.
+2. Nhấn phím
+
+hay
+
+để chuyển đổi hiển thị các giá trị của x và y trong kết quả.
+
+3. Nếu máy báo "Infinite Sol" thì hệ phương trình đã cho có vô số nghiệm. Nếu máy báo "NoSolution" thì hệ phương trình đã cho vô nghiệm.
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.6. Giải các hệ phương trình sau bằng phương pháp thế:
+3
+x − y =
+a) 
+2
+3 x − 4 y =
+
+13
+7 x − 3 y =
+b) 
+2
+4 x + y =
+Lời giải
+
+1
+0,5 x − 1,5 y =
+c) 
+− x + 3 y =2
+
+3
+x − y =
+a) 
+2
+3 x − 4 y =
+
+2,
+Từ phương trình thứ nhất ta có x= y + 3 . Thế vào phương trình thứ hai, ta được 3( y + 3) − 4 y =
+2 , suy ra − y =−7 hay y = 7 .
+tức là 3 y + 9 − 4 y =
+Từ đó x = 7 + 3 = 10 . Vậy hệ phương trình đã cho có nghiệm là (10;7) .
+13
+7 x − 3 y =
+b) 
+2
+4 x + y =
+
+−4 x + 2 . Thế vào phương trình thứ nhất, ta được
+Từ phương trình thứ hai ta có y =
+7 x − 3(−4 x + 2) =
+13 , tức là 7 x + 12 x − 6 =
+13 , suy ra 19 x = 19 hay x = 1 .
+Từ đó y =−4 ⋅1 + 2 =−2 . Vậy hệ phương trình đã cho có nghiệm là (1; −2) .
+1
+0,5 x − 1,5 y =
+c) 
+− x + 3 y =2
+
+x 3 y − 2 . Thế vào phương trình thứ nhất, ta được
+Từ phương trình thứ hai ta có =
+0,5(3 y − 2) − 1,5 y =
+1 , tức là 1,5 y − 1 − 1,5 y =
+1 , suy ra 0 y = 2 .
+Do không có giá trị nào của y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+1.7. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+6
+3 x + 2 y =
+a) 
+14
+2 x − 2 y =
+
+3
+0,3 x + 0,5 y =
+b) 
+1,5
+1,5 x − 2 y =
+
+8
+−2 x + 6 y =
+c) 
+−12
+3 x − 9 y =
+
+Lời giải
+
+20 hay 5 x = 20 , suy ra x = 4 .
+a) Cộng từng vế của hai phương trình ta được 3 x + 2 y + 2 x − 2 y =
+6 hay 2y = −6 , suy ra y = −3 .
+Thế x = 4 vào phương trình thứ nhất, ta được 3.4 + 2y =
+Vậy hệ phương trình đã cho có nghiệm là (4; −3) .
+b) Nhân hai vế của phương trình thứ nhất với 10 và nhân hai vế của phương trình thứ hai với 2 , ta
+được:
+30
+3 x + 5 y =
+
+3
+3 x − 4 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 9y = 27 hay y = 3 .
+Thế y = 3 vào phương trình thứ hai của hệ mới, ta có 3 x − 4.3 =
+3 hay 3 x = 15 , suy ra x = 5 .
+Vậy hệ phương trình đã cho có nghiệm là (5;3) .
+c) Chia hai vế của phương trình thứ nhất cho 2 và chia hai vế của phướng trình thứ hai với 3, ta
+được:
+− x + 3 y =4
+
+−4
+x − 3y =
+
+0 . Hệ thức này luôn thỏa mãn với các
+Cộng từng vế hai phương trình của hệ mới, ta được 0 x + 0 y =
+giá trị tùy ý của x và y .
+−4 , suy ra =
+y
+Với giá trị tùy ý của x , giá trị của y được tính nhờ hệ thức x − 3 y =
+
+1
+4
+x+ .
+3
+3
+
+4
+ 1
+Vậy hệ phương trình đã cho có nghiệm là  x; x +  với x ∈  .
+3
+ 3
+
+−3
+2 x − y =
+, trong đó m là số đã cho. Giải hệ phương trình
+1.8. Cho hệ phương trình 
+2
+−2m x + 9 y = 3(m + 3)
+trong mối trường hợp sau:
+a) m = −2 ;
+
+b) m = −3 ;
+
+c) m = 3 .
+
+Lời giải
+−3
+2 x − y =
+a) Với m = −2 ta có hệ phương trình 
+.
+3
+−8 x + 9 y =
+−12
+8 x − 4 y =
+Nhân hai vế của phương trình thứ nhất với 4 , ta được: 
+.
+3
+−8 x + 9 y =
+
+9
+Cộng từng vế hai phương trình của hệ mới, ta được 5 y = −9 hay y = − .
+5
+Thế y = −
+
+x= −
+
+12
+.
+5
+
+9
+9
+24
+−3 hay 2 x = − , suy ra
+vào phương trình thứ nhất của hệ đã cho, ta có 2 x + =
+5
+5
+5
+
+ 12 9 
+Vậy hệ phương trình đã cho có nghiệm là  − ; −  .
+5
+ 5
+
+−3
+2 x − y =
+b) Với m = −3 ta có hệ phương trình 
+.
+0
+−18 x + 9 y =
+−3
+2 x − y =
+Chia hai vế của phương trình thứ hai cho 9 , ta được: 
+.
+0
+−2 x + y =
+
+−3 (1).
+Cộng từng vế hai phương trình của hệ mới, ta được 0 x + 0 y =
+Do không có giá trị nào của x và y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+−3
+2 x − y =
+c) Với m = 3 ta có hệ phương trình 
+18
+−18 x + 9 y =
+−3
+2 x − y =
+Chia hai vế của phương trình thứ hai cho 9 , ta được: 
+.
+2
+−2 x + y =
+
+−1 (1).
+Cộng từng vế hai phương trình của hệ mới, ta được 0 x + 0 y =
+Do không có giá trị nào của x và y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+
+1.9. Dùng MTCT thích hợp để tìm nghiệm của các hệ phương trình sau:
+0
+12 x − 5 y + 24 =
+a) 
+0
+−5 x − 3 y − 10 =
+
+2
+1
+ x− y =
+b)  3
+3
+ x − 3 y =
+2;
+
+1
+3 x − 2 y =
+
+c) 
+2
+− x + 3 y =0
+
+3
+4
+11
+ 9 x − 5 y =
+d) 
+2 x + 1 y =
+−2
+ 9
+5
+Lời giải
+
+−24
+12 x − 5 y =
+a) Ta đưa hệ phương trình đã cho về dạng 
+.
+−10
+5 x + 3 y =
+Ta có a1 =
+12, b1 =
+−5, c1 =
+−24, a 2 =
+5, b 2 =
+3, c 2 =
+−10 .
+Lần lượt thực hiện các bước sau (với máy tính thích hợp):
+Bước 1. Vào chức năng giải hệ hai phương trình bậc nhất hai ẩn bằng cách bấm các phím
+(xem màn hình sau bước 1, con trỏ ở vị trí a1 ).
+
+Bước 2. Nhập các số a1 =
+12, b1 =
+−5, c1 =
+−24, a2 =
+5, b2 =
+3, c2 =
+−10 bằng cách bấm:
+(xem màn hìhh sau bước 2)
+
+Bước 3. Đọc kết quả: Sau khi kết thúc bước 2, bấm = , màn hình cho x = –2 bấm tiếp bàn
+phím = ), màn hình cho y = 0 (xem màn hình sau bước 3).
+
+Vậy nghiệm của hệ phương trình đã cho là (−2;0) .
+
+1
+2
+, b1 =
+−1, c1 =, a2 =
+1, b2 =
+−3, c2 =
+2
+b) Ta có a1 =
+3
+3
+Lần lượt thực hiện các bước sau (với máy tính thích hợp):
+Bước 1. Vào chức năng giải hệ hai phương trình bậc nhất hai ẩn bằng cách bấm các phím
+(xem màn hình sau bước 1, con trỏ ở vị trí a1 ).
+
+1
+2
+, b1 =
+−1, c1 =, a2 =
+1, b2 =
+−3, c2 =
+2 bằng cách bấm:
+Bước 2. Nhập các số a1 =
+3
+3
+
+Bước 3. Đọc kết quả: Sau khi kết thúc bước 2, bấm = (xem màn hình sau bước 3).
+
+Vậy hệ phương trình đã cho vô nghiệm.
+
+4
+3
+2
+1
+− , c1 =
+−2 .
+, b1 =
+11, a2 =
+, b2 =
+, c2 =
+d) Ta có a1 =
+9
+5
+9
+5
+Lần lượt thực hiện các bước tương tự ta được: x =
+9
+
+Vậy nghiệm của hệ phương trình là  ; −15  .
+2
+
+
+9
+; y = −15 .
+2
+
+C. CÁC DẠNG TOÁN
+DẠNG 1: GIẢI HỆ PHƯƠNG TRÌNH BẰNG PHƯƠNG PHÁP THẾ
+1. Phương pháp giải
+•
+
+Bước 1: Dùng quy tắc biến đổi hệ phương trình đã cho để được một hệ phương trình
+mới trong đó có một phương trình một ẩn
+
+•
+
+Bước 2: Giải phương trình một ẩn vừa có rồi suy ra nghiệm của hệ đã cho
+
+2. Các ví dụ
+Ví dụ 1. Giải hệ phương trình sau bằng phương pháp thế
+ x  y  3
+a) 
+3 x  4 y  2
+
+7 x  3 y  5
+b) 
+4 x  y  2
+
+
+ x  3 y  2
+c) 
+
+
+
+5 x  4 y  11
+Giải
+
+ x  y  3
+ y  x  3
+ y  x  3
+a) Ta có: 
+ 
+ 
+3 x  4 y  2 3  4 y  2 3 x  4( x  3)  2
+ y  x  3
+ y  x  3  x  10
+ 
+ 
+
+x  12  2  x  10
+ y  7
+Vậy hệ có nghiệm duy nhất: (10;7)
+7 x  3 y  5 
+7 x  3 y  5 
+7 x  3(2  4 x)  5
+b) 
+
+
+
+
+
+
+4 x  y  2
+
+
+ y  2  4x
+ y  2  4x
+
+11
+
+
+ x  19
+
+
+7
+6
+12
+5
+19
+11
+x
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ y  2  4x
+ y  2  4x 
+ y  6
+
+
+19
+
+
+
+ 11 6 
+Vậy hệ có nghiệm duy nhất:  ; 
+19 19 
+
+25
+
+
+x
+
+
+
+
+x  3 y  2 
+
+ x  2  3 y
+ x  2  3 y
+
+19
+
+
+
+
+
+
+
+
+21
+
+
+
+5 x  4 y  11 
+5(2  3 y )  4 y  11 
+10 19 y  4 y  11 
+
+y
+
+
+19
+
+
+c)
+
+ 25 21
+Vậy hệ có nghiệm duy nhất  ;
+
+ 19 19 
+Ví dụ 2. Giải phương trình sau bằng phương pháp thế
+3 x  2 y  11
+a ) 
+4 x  5 y  3
+
+
+x y
+
+
+ 1
+
+b)  2 3
+
+
+
+5 x  8 y  3
+
+Giải
+a) Từ phương trình thứ nhất của hệ ta có y =
+4x-5.
+
+3 x 11
+thay y vào phương trình thứ 2
+2
+
+3 x 11
+= 3  -7x=- 49  x= 7
+2
+
+Từ đó: y =
+
+3.7 11
+ 5 Vậy hệ có nghiệm duy nhất (7;5)
+2
+
+b)Từ phương trình thứ nhất của hệ ta có:
+Thế y vào phương trình thứ 2: 5x-8. (
+ x-3. Từ đó y =
+
+y x
+3.x
+ 1  y 
+3
+3 2
+2
+
+3x
+ 3)  3  7 x  21
+2
+
+3.3
+3
+3 
+2
+2
+
+Vậy hệ có nghiệm duy nhất: (3;
+
+3
+)
+2
+
+Ví dụ 3. Giải hệ phương trình bằng phương pháp thế
+
+x  y 5  0
+a) 
+
+
+
+ x 5  3 y  1 5
+
+(2  3) x  3 y  2  5 3
+b) 
+4 x  y  4  2 3
+
+Giải
+
+a) Từ phương trình thứ nhất của hệ ta có: x   y 5 . Thay vào phường trình thứ 2 ta được:
+
+5 1
+2
+
+( y 5). 5  3 y  1 5  2 y  1 5  y 
+Từ đó: x  
+
+5 1
+5 5
+. 5
+2
+2
+
+ 5  5 5 1
+
+Vậy hệ có nghiệm duy nhất 
+;
+ 2
+2 
+
+b) Từ phương trình thứ 2 của hệ ta có: y  4  2 3  4 x thay y vào phương trình thứ 2 ta được:
+
+(2  3).x  3.(4  2 3  4 x)  2  5 3
+ (14  3).x  14  3  x  1 . Từ đó y  2 3
+Vậy hệ phương trình có nghiệm duy nhất (1; 2 3)
+Ví dụ 4. Giải hệ phương trình sau
+a) a = -1
+
+b) a = 0
+
+
+x  3y 1
+
+
+Trong mỗi trường hợp sau
+ 2
+
+
+(a  1).x  6 y  2a
+
+c) a = 1
+
+Giải
+
+x  3 y  1
+a) Với a = -1 ta có hệ : 
+
+
+
+ 2 x  6 y  2
+
+
+x  1 3 y
+
+ x  1 3 y
+
+Hệ phương trình vô nghiệm
+
+
+
+2(1 3 y )  6 y  2 
+ 2  2
+
+
+
+b) Với
+
+ x  3 y  1
+a  0 ta có hệ 
+
+ x  6 y  0
+
+
+x  1 3 y 
+x2
+
+
+
+
+
+x  1 3 y
+
+
+
+
+
+
+
+1 3 y  6 y  y  1
+ y  1
+
+
+
+
+
+3
+3
+
+
+Hệ có nghiệm (2;
+
+1
+)
+3
+
+ x  3 y  1
+ x  3 y  1
+c) Với a= 1 ta có hệ 
+ 
+2 x  6 y  2 2 x  6 y  2
+
+ x  1 3 y
+Hệ có vô só nghiệm theo công thức 
+
+
+
+y  R
+Ví dụ 5. Giải phương trình sau bằng phương pháp thế:
+3 x  y  5
+a) 
+5 x  2 y  23
+
+3 x  5 y  1
+b) 
+2 x  y  8
+Giải
+
+3 x  y  5
+ y  3 x  5
+ y  3 x  5
+ 
+ 
+
+
+
+
+a) Ta có: 5 x  2 y  23 5 x  2(3 x  5)  23 11x  33
+ x  3
+Hệ có nghiệm (3;4)
+ 
+ y  4
+
+
+
+3x  5 y  1
+
+ y  2x  8
+ y  2x  8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+x
+y
+8
+3
+x
+5(2
+x
+8)
+1
+
+
+
+
+
+13 x  39
+b)
+
+ x  3
+hệ có nghiệm (-3;2)
+
+
+
+
+y  2
+
+ x 2
+ 
+3 x  2 y
+ y  10  x
+ 
+ 
+y 3
+
+ y  10  x 3 x  2(10  x)
+x  y 10  0 
+
+
+
+c)
+
+ x 2
+ 
+c)  y 3
+
+ x  y 10  0
+
+ y  10  x  x  4
+hệ có nghiệm (4;6)
+ 
+
+5 x  20
+ y  6
+Ví dụ 6. Giải hệ phương trình sau bằng phương pháp thế:
+ x 2  y 3  1
+a) 
+ x  y 3  2
+
+
+
+x  2 2 y  5
+b) 
+
+
+
+ x 2  y  1 10
+
+( 2 1) x  y  2
+c) 
+ x  ( 2  1) y  1
+
+
+Giải
+
+ x  2  y 3
+
+ x 2  y 3  1  x  2  y 3
+ 
+ 
+a) 
+1
+ x  y 3  2
+ 2( 2  y 3)  y 3  1  y 
+
+
+
+3( 2  1)
+
+x 1
+
+
+2 1
+
+
+)
+Hệ có nghiệm (1;
+
+2
+1
+
+
+y
+
+3
+
+
+3
+
+
+
+ x  2 2 y  5
+ x  2 2  5
+b) 
+ 
+ x 2  y  1 10  2(2 2 y  5)  y  1 10
+
+
+2 2 3 5
+
+ x  2 2 y  5  x 
+5
+ 
+ 
+5 y  1 2 10
+
+1 2 10
+
+ y 
+
+5
+ 2 2  3 5 1 2 10 
+
+Hệ có nghiệm 
+;
+
+
+5
+5
+
+( 2 1) x  y  2  y  ( 2 1) x  2
+
+c) 
+
+
+ x  ( 2  1) y  1
+ x  ( 2  1)  ( 2 1) x  2   1
+
+3 2
+
+ y  ( 2 1) x  2  x 
+2
+
+ 
+
+3x  3  2
+
+1
+3 2
+
+ y  ( 2 1).
+ 2
+
+2
+2
+ 3  2 1 
+Vậy hệ có nghiệm : 
+; 
+2
+2 
+
+
+Ví dụ 7.
+a) Xác định hệ số a,b biết rằng hề phương trình
+2 x  by  4
+Có nghiệm là ( 2 1; 2 )
+
+bx  ay  5
+
+b) Cũng hỏi như vậy, nếu hệ phương trình có nghiệm là: ( 2 1; 2)
+Giải
+a) Vì: (1;-2) là nghiệm của hệ nên thay x=1, y=-2 vào hệ ta có:
+
+
+2  2b  4 b  3
+
+
+b  2a  5 a  5  b  4
+
+2
+Vậy với a=-4, b=3 thì hệ đã cho có nghiệm (1; -2)
+b) Tương tự thay x =
+Vậy với a=
+
+2 1, y  2 vào hệ ta được.
+
+2  5 2
+và b  2  2
+2
+
+Thì hệ đã cho có nghiệm ( 2 1; 2 )
+Ví dụ 8. Biết rằng: Đa thức P(x) chia hết cho đa thức x-a khi và chỉ khi P(a) = 0
+Hãy tìm các giá trị của n sao cho đa thức sau đông thời chia hết cho x+1 và x-3
+
+P( x)  mx3  (m  2) x 2  (3n  5) x  4n
+Giải
+
+P(x) chia hết cho x + 1 ⇔ P(−1) =
+0
+−m + (m − 2) + (3n − 5) − 4n =
+⇔ −7 − n =0
+
+(1)
+
+P( x) chia hết cho x − 3 ⇔ P(−3)
+= 27 m + 9(m − 2) − 3(3n − 5) − 4=
+n 0
+⇔ 36m − 13n =
+3
+
+(2)
+
+Từ (1), (2) ta có hệ phương trình ẩn m và n
+
+n = −7
+−7 − n =0
+
+⇔
+−22
+
+3 m =
+36m − 13n =
+9
+
+Vậy với m = −
+
+22
+và n = −7 thì đa thức P(x) đồng thời chia hết cho x + 1 và x − 3
+9
+
+DẠNG 2. ĐẶT ẨN PHỤ ĐƯA VỀ PHƯƠNG PHÁP THẾ
+1. Phương pháp giải
+- Đặt điều kiện để hệ có nghĩa
+- Đặt ẩn phụ và điều kiện của ẩn phụ (nếu có)
+- Giải hệ theo các ẩn phụ đã đặt
+- Trở lại ẩn đã cho để tìm nghiệm của hệ
+2. Các ví dụ
+Ví dụ 1. Giải hệ phương trình
+
+1
+ 1
+2
+ x − 2 + y −1 =
+
+b) 
+ 2 − 3 =
+1
+ x − 2 y − 1
+
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+Giải
+a) Điều kiện x ≠ 0, y ≠ 0
+
+X
+Đặt=
+
+1
+1
+1
+X −Y =
+=
+,Y
+ta có hệ 
+5
+x
+y
+3 X + 4Y =
+
+Thay X = 1 + Y vào phương trình thứ hai
+3(1 + Y ) + 4Y =5 ⇔ Y =
+
+2 9
+2
+, khi đó X =1 + =
+7 7
+7
+
+Trở lại ẩn x, y của hệ: X =
+
+Y=
+
+9 1
+7
+= ⇔x=
+7 x
+9
+
+2 1
+7
+= ⇔ y=
+7 y
+2
+
+7 7
+Vậy hệ có nghiệm  ; 
+9 2
+Đặt X
+b) Điều kiện x ≠ 2, y ≠ 1 . =
+
+1
+1
+=
+,Y
+x−2
+y −1
+
+7
+
+X=
+
+2
+X +Y =
+
+5
+Ta có hệ 
+Giải ra ta được 
+1
+2 X − 3Y =
+Y = 3
+
+5
+7
+ 1
+
+=
+x−2
+
+=
+x−2 5
+
+Khi đó 
+⇔
+ 1 =3
+ y −1
+=
+
+1
+5
+y
+−
+
+
+
+
+5
+19
+
+x
+=
+
+
+7
+7
+⇔
+5
+y 8
+=
+
+3
+3
+
+
+ 19 8 
+Vậy hệ có nghiệm  , 
+ 7 3
+2
+X x=
+, Y y 2 (Điều kiện X ≥ 0, Y ≥ 0 )
+c) Đặt=
+
+5
+3 X + Y =
+Ta có hệ 
+Giải hệ bằng phương pháp thay thế ta được:
+1
+ X − 3Y =
+
+2
+2
+5
+3 x + y =
+c)  2
+2
+1
+ x − 3 y =
+
+8
+
+ 2
+=
+ X 5=
+ x
+⇔
+
+1
+
+ y2
+=
+Y =
+
+
+5
+
+
+8
+2 10
+8
+±
+=
+±
+x =
+5
+5
+
+5
+⇔
+1
+1
+5
+y =
+±
+=
+±
+
+5
+5
+5
+
+Vậy hệ có 4 nghiệm:
+ 2 10 5   2 10
+5   2 10 5   2 10
+5
+;
+;−
+;
+;−
+
+ ; 
+ ;  −
+ ;  −
+
+5   5
+5  
+5
+5  
+5
+5 
+ 5
+
+Ví dụ 2: Giải hệ phương trình
+
+ 1− x
+2 y +1
++
+=
+2
+
+a)  2 y + 1
+1− x
+x − y =
+1
+
+
+
+ x − y = 2 y −1
+b) 
+
+ y + 1 =2 x
+
+Giải
+a) Nhận xét:
+
+Đặt t =
+
+1− x 2 y +1
+=2
+.
+2 y +1 1− x
+
+1− x
+(t > 0) thì
+2 y +1
+
+2 y +1 1
+=
+1− x
+t
+
+Phương trình thứ nhất của hệ trở thành:
+1
+t + = 2 ⇔ (t − 1) 2 = 0 ⇔ t = 1
+t
+
+Khi đó
+
+1− x
+=1 ⇔ 1 − x =2 y + 1 ⇔ x =−2 y
+2 y +1
+
+Thay x = −2 y vào phương trình thứ hai của hệ ta được:
+−3 y =⇔
+1
+y=
+−
+
+1
+2
+, khi đó x =
+3
+3
+
+ 2 1
+Vậy hệ có nghiệm  , − 
+ 3 3
+b) Áp dụng: a =b ⇔ a =
+±b . Ta có:
+ x − y = 2 y −1
+ x = 3y −1
+x − y = 2 y −1 ⇔ 
+⇔
+ x − y =−2 y + 1  x =− y + 1
+
+x 3 y − 1 vào phương trình thứ hai của hệ ta được: y + 1= 6 y − 2 ⇔ y =
+Trường hợp 1: Thay =
+Khi đó x =
+
+4
+ 2 1
+. Ta có nghiệm  ; 
+5
+ 3 3
+
+3
+5
+
+ 4 3
+ 2 1
+Vậy hệ có hai nghiệm  ;  và  ; 
+ 3 3
+5 5
+
+DẠNG 3. GIẢI HỆ PHƯƠNG TRÌNH BẰNG PHƯƠNG PHÁP CỘNG ĐẠI SỐ
+1. Phương pháp giải
+•
+
+Bước 1: Nhân hai vế của mỗi phương trình với một số thích hợp (nếu cần) sao cho các
+hệ số của một ẩn nào đó trong hai phương trình của hệ bằng nhau hoặc đối nhau.
+
+•
+
+Bước 2: Áp dụng quy tắc cộng đại số để được hệ phương trình mới, trong đó có một
+phương trình mà hệ số của một trong hai ẩn bằng 0 (tức là phương trình một ẩn)
+
+•
+
+Bước 3: Giải phương trình một ẩn vừa thu được rồi suy ra nghiệm của hệ đã cho.
+
+2. Các ví dụ
+Ví dụ 1. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+3
+3 x + y =
+a) 
+7
+2 x − y =
+−2
+2 x + 3 y =
+d) 
+−3
+3 x − 2 y =
+
+8
+2 x + 5 y =
+b) 
+0
+2 x − 3 y =
+3
+0,3 x + 0,5 y =
+e) 
+1,5
+1,5 x − 2 y =
+Giải
+
+6
+4 x + 3 y =
+c) 
+4
+2 x + y =
+
+a) Cộng từng vế hai phương trình của hệ ta có:
++y 3
++y 3 =
+3 x=
+3 x=
+x 2
+⇔
+⇔
+
+−3
+7
+10
+2 x − y =
+5 x =
+y =
+Hệ có nghiệm ( 2; − 3)
+b) Lấy phương trình thứ nhất của hệ trừ phương trình thứ hai ta được:
+3
+
+5y 8
+5y 8
+2 x +=
+2 x +=
+x =
+⇔
+⇔
+2
+
+− 3y 0 =
+2 x =
+8 y 8
+ y = 1
+3 
+Hệ có nghiệm duy nhất  ;1
+2 
+
+c)
+
+3y 6
+3y 6
+3y 6 =
+4 x +=
+4 x +=
+4 x +=
+x 3
+⇔
+⇔
+⇔
+
+4
+12
+−6
+−2
+2 x + y =
+6 x + 3 y =
+−2 x =
+y =
+
+Hệ có nghiệm duy nhất ( 3, − 2 )
+−2
+−4
+−4
+−1
+2 x + 3 y =
+4 x + 6 y =
+4 x + 6 y =
+x =
+⇔
+⇔
+⇔
+
+−3
+−9
+−13
+0
+9 x − 6 y =
+13 x =
+y =
+d) 3 x − 2 y =
+Hệ có nghiệm duy nhất ( 5,3)
+
+2 y 12
+2 y 12 =
+y 3 1, 2 x +=
+=
+0,3 x + 0,5
+1, 2 x +=
+x 5
+⇔
+⇔
+⇔
+
+x − 2 y 1,5
+x − 2 y 1,5 =
+=
+=
+1,5
+2, 7 x 13,5 =
+y 3
+e) 1,5
+Hệ có nghiệm duy nhất ( 5,3)
+Ví dụ 2. Giải các hệ phương trình sau bằng phương pháp cộng đại số
+a)
+
+ x 2 − 3 y =
+1
+
+−2
+2 x + y 2 =
+
+5 x 3 + y =
+2 2
+b) 
+2
+ x 6 − y 2 =
+Giải
+
+a) Nhân phương trình thứ nhất với − 2 , ta được:
+ x 2 − 3 y =
+−2 x + 3 2 y =
+−4 2 y =
+1
+− 2
+− 2 −2
+⇔
+⇔
+
+
+
+−2
+−2
+−2
+2 x + y 2 =
+2 x + y 2 =
+2 x + y 2 =
+
+
+3
+2
+2
+y
+ x =− +
+ x =−1 −
+
+
+4 8
+2
+⇔
+⇔
+ y = −1 − 2
+ y =− 1 − 2
+
+
+4
+4 4
+ 3
+2 1
+2
+Hệ có nghiệm duy nhất  − +
+;− −
+
+4 4 
+ 4 8
+
+b) Nhân phương trình thứ nhất với
+5x 6 + x 6 = 6 ⇔ x =
+
+2 rồi cộng từng vế hai phương trình, ta được:
+
+1
+6
+
+1
+
+1
+x=
+
+
+x
+=
+6
+
+
+6
+Từ đó, hệ đã cho tương đương với 
+⇔
+x 6 − y 2 =
+y = − 1
+2
+
+
+2
+
+1 
+ 1
+Hệ có nghiệm duy nhất 
+;−
+
+2
+ 6
+Ví dụ 3. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+4
+−5x + 2 y =
+a) 
+−7
+6x − 3 y =
+
+11
+2 x − 3 y =
+b) 
+5
+−4 x + 6 y =
+Giải
+
+10
+3 x − 2 y =
+
+c)  2
+1
+3
+ x − 3 y =
+3
+
+2
+
+x=
+
+−
++
+=
+−
++
+=
+−
++
+=
+y
+x
+y
+x
+y
+5x
+2
+4
+15
+6
+12
+15
+6
+12
+
+
+
+
+3
+a) 
+⇔
+⇔
+⇔
+−7
+−14
+−2
+6x − 3 y =
+12 x − 6 y =
+−3 x =
+ y = 11
+
+3
+
+ 2 11 
+Hệ có nghiệm duy nhất  ; 
+3 3 
+− 3 y 11
+− 6 y 22
+− 6 y 22
+2 x=
+4 x=
+4 x=
+b) 
+⇔
+⇔
+−4 x + 6 y= 5 −4 x + 6 y= 5 0 x + 0 y= 27
+Hệ vô nghiệm
+
+10
+3 x − 2 y =
+10
+3 x − 2 y =
+1
+
+⇔ 3 x − 2 y = 10 ⇔ y = ( 3 x − 10 )
+c)  2
+1⇔
+10
+2
+3
+3 x − 2 y =
+ x − 3 y =
+3
+1
+
+=
+( 3x − 10 )
+y
+Hệ có vố số nghiệm: 
+2
+ x ∈ R
+Ví dụ 4. Giải hệ phương trình sau:
+
+(
+(
+
+) (
+) (
+
+)
+)
+
+ 1+ 2 x + 1− 2 y =
+5 (1)
+
+
+3 ( 2)
+ 1+ 2 x + 1+ 2 y =
+
+Giải
+
+−
+2⇔ y=
+Lấy (1) trừ (2) ta được: −2 2 y =
+Thay y = −
+
+2
+2
+
+2
+vào (1):
+2
+
+(1 + 2 ) x − (1 − 2 ) . 22 = 5 ⇔ x = −6 +27 2
+ −6 + 7 2
+2
+Vậy hệ có nghiệm duy nhất 
+;
+−
+
+
+2
+2 
+
+
+Ví dụ 5. Ta biết rằng: Một đa thức bằng 0 khi và chỉ khi tất cả các hệ số của nó bằng 0. Hãy tìm các
+giá trị của và để đa thức sau (với biến số x ) bằng đa thức 0:
+P ( x=
+)
+
+( 3m − 5n + 1) x + ( 4m − n − 10 )
+Giải:
+
+3m − 5n + 1 =0
+P ( x ) bằng đa thức 0 (viết là P ( x ) = 0 ) ⇔ 
+0
+4m − n − 10 =
+
+−1 3m − 5n =
+−1
+−1
+m = 3
+3m − 5n =
+3m − 5n =
+⇔
+⇔
+⇔
+⇔
+10
+n = 2
+ 4m − n =
+−20m + 5n =50
+−17 m =−51
+Vậy với m = 3 , n = 2 thì P ( x ) = 0 .
+DẠNG 4. ĐẶT ẨN PHỤ ĐƯA VỀ PHƯƠNG PHÁP CỘNG
+1. Phương pháp giải
+Đặt điều kiện (nếu có)
+- Đặt ẩn phụ và điều kiện của ẩn phụ (nếu có)
+- Giải hệ phương trình theo các ẩn phụ đã đặt
+- Trở lại ẩn ban đầu để tìm nghiệm của hệ.
+2. Các ví dụ
+Ví dụ 1. Giải các hệ phương trình:
+2 ( x + y ) + 3 ( x − y ) =
+4
+a) 
+5
+( x + y ) + 2 ( x − y ) =
+
+2 ( x − 2 ) + 3 (1 + y ) =
+−2
+b) 
+−3
+3 ( x − 2 ) − 2 (1 + y ) =
+Giải
+
+u, x− y =
+v , ta có hệ phương trình (ẩn u , v ):
+a) Cách 1: Đặt x + y =
+4
+2u + 3v =
+
+5
+u + 2v =
+Hệ này có nghiệm ( u; v ) =
+
+( −7; 6 ) , suy ra hệ đã cho tương đương với
+1
+
+x= −
+
+−7
+x + y =
+
+2
+⇔
+
+x
+y
+6
+13
+−
+=
+
+y = −
+
+2
+
+
+ 1 13 
+Vậy hệ có nghiệm duy nhất  − ; − 
+2
+ 2
+Cách 2: Thu gọn vế trái của hai phương trình trong hệ, ta được hệ tương đương:
+1
+
+=
+−
+x
+
+4
+5 x − v =
+
+2
+⇔
+
+−
+=
+x
+v
+3
+5
+13
+
+y = −
+
+2
+
+
+b) Đặt u= x − 2 , v = 1 + y , ta có hệ:
+1
+2u + 3v =−2
+u =−1  x − 2 =−1  x =
+⇔
+⇔
+⇔
+
+0
+0
+−3
+−1
+3u − 2v =
+v =
+1 + y =
+y =
+
+Vậy hệ có nghiệm duy nhất (1; − 1)
+Ví dụ 2. Bằng cách đặt ẩn phụ (theo hướng dẫn), đưa các hệ phương trình sau về dạng hệ hai
+phương trình bậc nhất hai ẩn rồi giải:
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+Hướng dẫn: Đặt u =
+
+1
+1
+, v= ;
+x
+y
+
+4
+ 1
+2
+ x − 2 + y −1 =
+
+b) 
+ 2 − 3 =
+1
+
+ x − 2 y −1
+
+Hướng dẫn: Đặt u =
+
+1
+1
+, v=
+;
+x−2
+y −1
+
+Giải
+a) Điều kiện x ≠ 0 , y ≠ 0
+Đặt X =
+
+1
+1
+, Y = ; Ta có hệ
+x
+y
+
+1 9
+9
+7
+
+
+=
+X
+=
+x=
+
+
+
+X
+=
+−
+Y
+1
+4
+X
+=
+−
+4
+Y
+4
+4X
+=
+−
+4
+Y
+4
+
+
+
+
+x 7
+
+7
+9
+⇔
+⇔
+⇔
+⇔
+⇔
+
+=
+3X+4Y 5 =
+3X+4Y 5=
+7X 9
+Y = 2
+1 = 2
+y = 7
+
+
+ y 7
+7
+2
+
+7 7
+Hệ có nghiệm duy nhất  ; 
+9 2
+b) Điều kiện x ≠ 2 , y ≠ 1
+Đặt X =
+
+1
+1
+,Y=
+. Ta có hệ
+x−2
+y −1
+
+7
+ 1
+19
+7
+
+
+=
+x=
+X=
+
+
+
+2
+3
+3
+6
+3X+3
+6
+X
+Y
+X
+Y
+Y
+=
++
+=
++
+=
+
+
+
+x−2 5
+
+
+7
+5
+⇔
+⇔
+⇔
+⇔
+⇔
+
+=
+2X-3Y 1 =
+2X-3Y 1=
+5X 7
+ 1 =3
+y = 8
+Y = 3
+
+3
+5
+
+ y − 1 5
+
+ 19 8 
+Hệ có nghiệm duy nhất  ; 
+ 7 3
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Giải các hệ phương trình sau bằng phương pháp thế
+3
+5 x − 4 y =
+a) 
+4
+2 x + y =
+
+ 5x 2 y
+19
+ 3 − 5 =
+b) 
+4 x + 3 y =
+21
+
+2
+
+Hướng dẫn giải
+a) x
+=
+
+19
+14
+;y
+=
+13
+13
+
+b) x = 9; y = −10
+
+Câu 2. Giải các hệ phương trình sau:
+5
+5
+ 4
+ x + y −1 − 2x − y + 3 =
+2
+
+b) 
+1
+7
+ 3
++
+=
+ x + y − 1 2 x − y + 3 5
+Hướng dẫn giải
+
+2 x + 3 y =
+13
+
+a) 
+3
+
+3 x − y =
+
+a) Xét hai trường hợp y ≥ 0, y < 0 hệ có nghiệm (2;3) .
+b) Đặt u
+=
+
+1
+1
+ −10 19 
+=
+;v
+;
+; .
+x + y −1
+2x − y + 3  3 3 
+
+Câu 3. Giải hệ phương trình
+1
+ 2
+3
+x+ y + x− y =
+
+a) 
+ 1 − 3 =
+1
+ x + y x − y
+
+3 x − 2 y =
+−2
+b) 
+1
+2 x + y =
+Hướng dẫn giải
+
+a)=
+Đặt u
+
+1
+1  77 −63 
+;v
+; ;
+=
+.
+x+ y
+x − y  20 20 
+
+b) Đặt
+=
+u
+
+=
+x; v
+
+y ; ( u , v ≥ 0 ) ; (0;1) .
+
+Câu 4. Giải hệ phương trình:
+
+2 x − 1 − y − 1 =
+1
+a) 
+ x − 1 + y − 1 =2
+
+( x − 1)2 − 2 y =
+2
+b) 
+2
+1
+3 ( x − 1) + 3 y =
+Hướng dẫn giải
+
+a) Đặt u = x − 1; v = y − 1; ( u , v ≥ 0 ) ; (2; 2)
+ 2 2 −5 
+b) 1 ±
+;  .
+3
+9 
+
+
+Câu 5. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+2x-3y = 1
+a) 
+ x+3 y = 2
+
+5 x = 6 y
+b) 
+=
+ x 2 ( y − 6 )
+
+Hướng dẫn giải
+
+2
+4 x − 3 y =
+c) 
+4
+x + y =
+
+ 1
+a) 1; 
+ 3
+
+b) (8;15)
+
+c) (2; 2)
+
+Câu 6. Giải các hệ phương trình sau
+ x − 2 2 y =
+5
+b) 
+ 2 x + y =1 − 10
+
+ 2x- 3 y = 1
+a) 
+ x+ 3 y = 2
+
+Hướng dẫn giải
+
+
+2 −1 
+a) 1;
+
+3 
+
+
+ 2 2 − 3 5 1 − 2 10 
+;
+b) 
+ .
+5
+5
+
+
+
+Câu 7. Giải các hệ phương trình sau bằng phương pháp thế
+5
+7 x − 3 y =
+a) 
+2
+4 x + y =
+
+ 5 x =
+−y
+5( 3 − 1)
+b) 
+21
+2 3 x + 3 5 y =
+
+3,8
+1, 7 x − 2 y =
+c) 
+0, 4
+2,1x + 5 y =
+
+Lời giải
+a) Thế y= 2 − 4 x ở phương trình dưới vào phương trình trên ta được
+
+
+
+11
+
+x=
+7 x − 3(2=
+x − 6 5 
+− 4 x) 5 19
+=
+19
+⇔
+⇔
+$
+
+2 − 4x
+2 − 4x
+y =
+y =
+ y = −6
+
+
+19
+
+
+ 11 −6 
+Kết luận: Nghiệm của hệ là  ;  .
+ 19 19 
+
+y
+b) Thế=
+
+5( x + 1 − 3) ở phương trình trên vào phương trình dưới ta được
+
+=
+=
+y
+y
+5( x + 1 − 3)
+5( x + 1 − 3)
+⇔
+
+2 3 x + 15( x + 1 − 3)= 21 (15 + 2 3) x= 3(2 + 5 3)
+
+
+3(2 + 5 3) 3(2 + 3 3)(15 − 2 3) 3 ⋅ 71 3
+=
+=
+= =
+x
+⇔
+225 − 12
+213
+15 + 2 3
+
+=
+5( 3 + 1 −=
+3)
+5
+y
+
+3
+
+Kết luận: Nghiệm của hệ là ( 3; 5) .
+c) Thế y =
+
+1, 7 x − 3,8
+ở phương trình trên vào phương trình dưới ta được
+2
+
+ 198 −73 
+;
+Kết luận: Nghiệm của hệ là 
+.
+ 127 127 
+Câu 8. Giải các hệ phương trình sau bằng phương pháp cộng đại số
+3
+3 x + y =
+a) 
+7.
+2 x − y =
+
+5
+8 x − 7 y =
+b) 
+−8.
+12 x + 13 y =
+
+5( x + 2 y ) =3 x − 1
+c) 
+2 x + 4= 3( x − 5 y ) − 12.
+
+Lời giải
+a) Cộng hai phương trình của hệ cho nhau ta được phương trình
+5 x = 10 ⇔ x = 2 .
+
+ x 2=
+=
+x 2
+Do đó:
+⇔
+
+7
+−3
+y =
+2 x − y =
+
+Kết luận: Nghiệm của hệ là (2; −3) .
+b) Nhân phương trình đầu của hệ cho 3, nhân phương trình sau của hệ cho 2 và trừ theo vế hai phương
+trình của hệ, ta được
+
+
+
+−31
+
+y
+=
+24 x=
+
+x − 7 y 5 
+− 21 y 15
+8=
+47
+⇔
+⇔
+
+−16
+−31
+24 x + 26 y =
+47 y =
+x = 9 .
+
+
+188
+
+
+ 9 −31 
+;
+Kết luận: Nghiệm của hệ là 
+.
+ 188 47 
+5( x + 2 y ) =3 x − 1
+5 x + 10 y =3 x − 1
+2 x + 10 y =−1
+c) 
+⇔
+⇔
+2 x + 4 =3( x − 5 y ) − 12
+2 x + 4 =3 x − 15 y − 12
+− x + 15 y =−16
+Nhân hai vế của phương trình sau cho 2 và cộng với phương trình đầu ta được
+−33
+
+y=
+
+−1
+− x + 15 y =−16
+2 x + 10 y =
+
+40
+⇔
+⇔
+
+−32
+40 y = −33
+−2 x + 30 y =
+ x = 29
+
+8
+
+ 29 −33 
+;
+Kết luận: Nghiệm của hệ là 
+.
+ 8 40 
+Câu 9. Giải các hệ phương trình sau bằng phương pháp đặt ẩn phụ
+
+15 7
+9
+x −y=
+
+a) 
+4 + 9 =
+35.
+ x y
+
+7
+5
+
+4,5
+ x − y + 2 − x + y −1 =
+
+b) 
+3
+2
+
++
+=
+4
+ x − y + 2 x + y − 1
+Lời giải
+
+a) Đặt u =
+
+1
+1
+, v = ( x ≠ 0, y ≠ 0) . Ta được
+x
+y
+
+9
+36
+15u − 7v =
+v = 3
+163v = 489
+60u − 28v =
+⇔
+⇔
+⇔
+
+36
+35
+525
+4u + 9v =
+u = 2
+60u − 28v =
+60u + 135v =
+
+x
+Do đó=
+
+1
+1
+=
+,y
+.
+2
+3
+
+b)
+Đặt u
+=
+
+1
+1
+=
+,v
+, ( x − y + 2 ≠ 0, x + y − 1 ≠ 0) . Ta được
+x− y+2
+x + y −1
+
+u = 1
+4,5
+9
+14u − 10v =
+7u − 5v =
+29u = 29
+
+⇔
+⇔
+⇔
+
+1
+
+20
+4
+4,5
+15u + 10v =
+3u + 2v =
+7u − 5v =
+v = 2
+1
+
+1
+x=
+x − y + 2 =
+
+
+
+4
+Do đó 
+1 ⇔
+ x + y − 1 =2
+y = 5
+
+4
+Câu 10. Trong mặt phẳng Oxy cho ba đường thẳng ( d1 ) : 2 x − y =
+−1; ( d 2 ) : x + y =
+−2 ;
+−2 x − m . Xác định m để ba đường thẳng đã cho đồng quy.
+( d3 ) : y =
+
+Lời giải
+Tọa độ giao điểm của hai đường thẳng ( d1 ) và ( d 2 ) là nghiệm của hệ
+2 x − y =
+−1  x =
+−1
+⇔
+
+−2
+−1
+y =
+x + y =
+
+Ba đường thẳng đã cho đồng quy khi và chỉ khi ( d3 ) đi qua ( − 1; −1) . Tức là
+
+−1 =−2 ⋅ ( − 1) − m ⇔ m =3.
+Vậy m = 3 .
+
+LUYỆN TẬP CHUNG
+A. CÁC VÍ DỤ
+
+0, 4
+0,5 x + 0, 6 y =
+Ví dụ 1. Giải hệ phương trình 
+1, 7
+0, 4 x − 0,9 y =
+Lời giải
+4
+5 x + 6 y =
+Nhân hai vế của mỗi phương trình với 10 , ta được: 
+(1)
+17
+4 x − 9 y =
+Ta giải hệ (1). Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai
+12
+15 x + 18 y =
+với 2 , ta được hệ: 
+( 2 ) . Cộng từng vế của hai phương trình của hệ (2) ta được
+34
+8 x − 18 y =
+23 x = 46 , suy ra x = 2 .
+
+4 hay 6 y = −6 , suy ra y = −1 .
+Thế x = 2 vào phương trình thứ nhất của (1), ta được 5 ⋅ 2 + 6 y =
+Vậy hệ phương trình đã cho có nghiệm là (2; −1) .
+Ví dụ 2. Tìm các hệ số x, y trong phản ứng hoá học đã được cân bằng sau: 3Fe + xO 2 → yFe3O 4 .
+Lời giải
+Vì số nguyên tử của Fe và O ở cả hai vế của phương trình phản ứng phải bằng nhau nên ta có hệ
+y =1
+3 = 3 y
+x 2,=
+y 1.
+phương trình 
+hay 
+. Giải hệ này ta được=
+ x = 2 y.
+2 x = 4 y
+
+y ax + b đi qua hai điểm A(−2; −1) và B(2;3) .
+Ví dụ 3. Tìm hai số a và b để đường thẳng =
+Lời giải
+
+y ax + b đi qua điểm A(−2; −1) nên a (−2) + b =−1 hay −2a + b =−1 . Tương tự,
+Đường thẳng =
+y ax + b đi qua điểm B(2;3) nên a ⋅ 2 + b =
+đường thẳng =
+3 hay 2a + b =
+3.
+−2a + b =−1
+Từ đó, ta có hệ phương trình với hai ẩn là a và b : 
+3.
+ 2a + b =
+Cộng từng vế hai phương trình của hệ, ta được 2b = 2 , suy ra b = 1 .
+Thay b = 1 vào phương trình thứ nhất, ta có −2a + 1 =−1 , suy ra a = 1 . Vậy ta có đường thẳng
+y= x + 1 .
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.10. Cho hai phương trình: −=
+2 x + 5 y 7 (1) ; =
+4x − 3y 7
+
+( 2)
+
+Trong các cặp số (2;0), (1; −1), (−1;1), (−1;6), (4;3) và (−2; −5) , cặp số nào là:
+a) Nghiệm của phương trình (1)?
+b) Nghiệm của phướng trình (2)?
+c) Nghiệm của hệ gồm phương trình (1) và phương trình (2)?
+Lời giải
+
+x 2;=
+y 0 vào phương trình (1), ta có:
+a) - Thay=
+−2 x + 5 y = (−2) ⋅ 2 + 5 ⋅ 0 = (−4) + 0 =−4 ≠ 7 nên (2;0) không phải là nghiệm của phương trình (1) .
+- Thay x = 1; y = −1 vào phương trình (1), ta có:
+
+−2 x + 5 y = (−2) ⋅1 + 5 ⋅ (−1) = (−2) − 5 = −7 ≠ 7 nên (1; −1) không phải là nghiệm của phương trình
+(1) .
+−1; y =
+1 vào phương trình (1), ta có:
+- Thay x =
+−2 x + 5 y = (−2) ⋅ (−1) + 5 ⋅1 = 2 + 5 = 7 nên (−1;1) là nghiệm của phương trình (1).
+−1; y =
+6 vào phương trình (1), ta có:
+- Thay x =
+−2 x + 5 y = (−2) ⋅ (−1) + 5 ⋅ 6 = 2 + 30 = 32 ≠ 7 nên (−1;6) không phải là nghiệm của phương trình
+(1) .
+x 4;=
+y 3 vào phương trình (1), ta có:
+- Thay=
+
+−2 x + 5 y =(−2) ⋅ 4 + 5.3 =−8 + 15 =7 nên (4;3) là nghiệm của phương trình (1).
+−2; y =
+−5 vào phương trình (1), ta có:
+- Thay x =
+−2 x + 5 y =(−2) ⋅ (−2) + 5 ⋅ (−5) =4 − 25 =−21 ≠ 7 nên (−2; −5) không phải là nghiệm của phương
+trình (1).
+Vậy cặp số là nghiệm của phương trình (1) là (−1;1) và (4;3) .
+
+x 2;=
+y 0 vào phương trình (2), ta có:
+b) - Thay=
+4 x − 3 y = 4 ⋅ 2 − 3 ⋅ 0 = 8 − 0 = 8 ≠ 7 nên (2;0) không phải là nghiệm của phương trình (2) .
+- Thay x = 1; y = −1 vào phương trình (2), ta có:
+
+4 x − 3 y = 4 ⋅1 − 3 ⋅ (−1) = 4 + 3 = 7 nên (1; −1) là nghiệm của phương trình (2).
+−1; y =
+1 vào phương trình (2), ta có:
+- Thay x =
+4 x − 3 y =4 ⋅ (−1) − 3 ⋅1 =−4 − 3 =−7 ≠ 7 nên (−1;1) không phải là nghiệm của phương trình (2).
+−1; y =
+6 vào phương trình (2), ta có:
+- Thay x =
+
+4 x − 3 y =4 ⋅ (−1) − 3 ⋅ 6 =−4 − 18 =−22 ≠ 7 nên (−1;6) không phải là nghiệm của phương trình (2).
+x 4;=
+y 3 vào phương trình (2), ta có:
+- Thay=
+4 x − 3 y = 4 ⋅ 4 − 3 ⋅ 3 = 16 − 9 = 7 nên (4;3) là nghiệm của phương trình (2).
+
+−2; y =
+−5 vào phương trình (2), ta có:
+- Thay x =
+4 x − 3 y =4 ⋅ (−2) − 3 ⋅ (−5) =−8 + 15 =7 nên (−2; −5) là nghiệm của phương trình (2).
+Vậy cặp số là nghiệm của phương trình (2) là (1; −1), (4;3) và (−2; −5) .
+c) Ta thấy cặp số (4;3) là nghiệm chung của phương trình (1) và phương trình (2).
+Do đó, nghiệm của hệ gồm phương trình (1) và phương trình (2) là cặp số (4; 3).
+
+1.11. Giải các hệ phương trình sau bằng phương pháp thế:
+1
+2 x − y =
+a) 
+−1
+x − 2 y =
+
+−2
+0,5  x + 3 y =
+0,5 x − 0,5 y =
+b) 
+c) 
+1, 2
+28
+1, 2 x − 1, 2 y =
+5 x − 4 y =
+Lời giải
+
+y 2 x − 1 . Thế vào phương trình thứ hai, ta được
+a) Từ phương trình thứ nhất ta có =
+x − 2(2 x − 1) =
+−1 , tức là x − 4 x + 2 =−1 , suy ra −3 x =
+−3 hay x = 1 . Từ đó y = 2 ⋅1 − 1 = 1 .
+Vậy hệ phương trình đã cho có nghiệm là (1;1) .
+b) Chia hai vế của phương trình thứ nhất cho 0,5 và chia hai vế của phương trình thứ hai cho 1,2 ta
+được:
+1
+x − y =
+. Từ phương trình thứ nhất ta có y= x − 1 . Thế vào phương trình thứ hai, ta được
+
+1
+x − y =
+
+x −=
+( x − 1) 1, t?c là x =
+− x + 1 1, suy=
+ra 0 x 0. Ta thấy mọi giá trị của x đều thỏa mãn hệ thức (2).
+Với mọi giá trị tùy ý của x, giá trị tương ứng của y được tính bởi (1).
+Vậy hệ phương trình đã cho có nghiệm là ( x; x − 1) với x ∈  tùy ý.
+
+−3 y − 2 . Thế vào phương trình thứ hai, ta được
+c) Từ phương trình thứ nhất ta có x =
+5(−3 y − 2) − 4 y =
+28 , tức là −15 y − 10 − 4 y =
+28 , suy ra −19 y =
+38 hay y = −2 . Từ đó
+x = (−3) ⋅ (−2) − 2 = 4 .
+Vậy hệ phương trình đã cho có nghiệm là (4; −2) .
+1.12. Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+−1
+5 x + 7 y =
+a) 
+−5
+3 x + 2 y =
+
+11
+2 x − 3 y =
+b) 
+1
+−0,8 x + 1, 2 y =
+
+6
+4 x − 3 y =
+c) 
+0,8
+0, 4 x + 0, 2 y =
+
+Lời giải
+a) Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 5 , ta
+−3
+15 x + 21 y =
+được 
+. Trừ từng vế hai phương trình của hệ mới, ta được 11y = 22 hay y = 2 .
+−25
+15 x + 10 y =
+Thế y = 2 vào phương trình thứ hai của hệ đã cho, ta có 3 x + 2.2 =
+−5 hay 3 x = −9 , suy ra x = −3 .
+Vậy hệ phương trình đã cho có nghiệm là (−3; 2) .
+11
+2 x − 3 y =
+b) Chia hai vế của phương trình thứ hai với 0,4 ta được: 
+Cộng từng vế hai phương
+2,5
+−2 x + 3 y =
+trình của hệ mới, ta được 0 x + 0 y =
+13,5 (1) .
+Do không có giá trị nào của x và y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+6
+4 x − 3 y =
+c) Nhân hai vế của phương trình thứ hai với 10 , ta được: 
+8
+4 x + 2 y =
+
+−2 hay y =
+Trừ từng vế hai phương trình của hệ mới, ta được −5 y =
+Thế y =
+
+2
+.
+5
+
+9
+2
+2
+36
+6 hay 4 x =
+vào phương trình thứ nhất của hệ đã cho, ta có 4 x − 3 ⋅ =
+, suy ra x = .
+5
+5
+5
+5
+
+9 2
+Vậy hệ phương trình đã cho có nghiệm là  ;  .
+5 5
+
+1.13. Tìm các hệ số x,y trong phản ứng hoá học đã được cân bằng sau: 4Al + xO 2 → yAl2 O3 .
+Lời giải
+Vì số nguyên tử Al và O ở cả hai vế của phương trình phản ứng bằng nhau nên ta có hệ phương
+y = 2
+y = 2
+4 = 2 y
+
+
+x 3;=
+y 2.
+trình 
+hay 
+. Vậy các hệ số x, y cần tìm là=
+3 , suy ra 
+3
+2 x = 3 y
+ x = 2 ⋅ 2 = 3
+ x = 2 y
+1
+ax + by =
+1.14. Tìm a và b sao cho hệ phương trình 
+có nghiệm là (1; −2) .
+3
+ax + (b − 2) y =
+Lời giải
+a ⋅1 + b ⋅ (−2) =1
+Hệ phương trình đã cho có nghiệm là (1; −2) nên ta có 
+a ⋅1 + (2 − b) ⋅ (−2) =3
+1
+1
+a − 2b =
+a − 2b =
+Suy ra, 
+hay 
+.
+7
+3
+a + 2b =
+a + 2b − 4 =
+Cộng từng vế hai phương trình của hệ mới, ta được 2a = 8 hay a = 4 .
+Thế a = 4 vào phương trình thứ nhất của hệ mới, ta có 4 − 2b =
+1 hay 2b = 3 , suy ra b =
+
+3
+.
+2
+
+ 3
+Vậy hệ phương trình đã cho có nghiệm là  4;  .
+ 2
+
+C. BÀI TẬP THÊM
+y ax + b đi qua hai điểm A và B trong mỗi
+Câu 1. Xác định a và b để đồ thị của hàm số =
+trường hợp sau:
+a) A ( 2; − 2 ) và B ( −1;3)
+
+b) A ( −4; − 2 ) và B ( 2;1)
+
+c) A ( 3; − 1) và B ( −3; 2 )
+
+d) A
+
+( 3; 2) và B ( 0; 2)
+
+Giải
+a) Vì A ( 2; − 2 ) thuộc đồ thị nên 2a + b =−2
+
+3 . Ta có hệ phương trình ẩn là a và b :
+Vì B ( −1;3) thuộc đồ thị nên −a + b =
+
+5
+
+a= −
+
++
+=
+−
+b
+2a
+2
+
+
+3
+⇔
+
+3
+−a + b =
+b = 4
+
+3
+
+
+5
+4
+y ax + b đi qua hai điểm A ( 2; − 2 ) và B ( −1;3) .
+Vậy với a = − , b = thì đồ thị hàm số =
+3
+3
+
+y ax + b
+b) Thay tọa độ của A ( −4; − 2 ) và B ( 2;1) vào =
+1
+
+-4a + b =−2 a =
+⇔
+ta có hệ: 
+2
+2
+ 2a + b =
+b = 0
+1
+
+a= −
+
+3a + b =−1
+
+2
+c) Ta có hệ 
+⇔
+2
+−3a + b =
+b = 1
+
+2
+
+ 3a + b =
+a = 0
+2
+d) Ta có hệ 
+⇔
+2
+0.a + b =
+b = 2
+
+Câu 2. Cho biểu thức f ( x ) = ax 2 + bx + 4 . Xác định a , b để f ( 2 ) = 6 , f ( −1) =
+0.
+Hướng dẫn giải
+
+a=
+−1; b =
+3.
+Câu 3. Giải các hệ phương trình sau bằng phương pháp thế
+3
+4 x + 5 y =
+a) 
+5.
+x − 3y =
+
+1
+7 x − 2 y =
+b) 
+6
+3 x + y =
+
+1
+5 x + 3 y =
+c) 
+−1
+2 x + y =
+
+ x + y 5 =
+0
+d) 
+1 5
+ x 5 + 3 y =−
+
+Lời giải
+3
+ x= 5 + 3 y
+4 x + 5 y =
+ x= 5 + 3 y
+1. 
+⇔
+⇔
+3
+5
+3
+4(5 + 3 y ) + 5 y =
+x − 3y =
+4 x + 5 y =
+ x= 5 + 3 y
+ x= 5 + 3 y
+ x = 5 + 3 ⋅ (−1) = 2
+⇔
+⇔
+⇔
+17 y = −17
+ y = −1
+ y = −1
+
+) (2; −1) .
+Vậy hệ phương trình đã cho có nghiệm là ( x; y=
+
+1
+7 x − 2 y =
+ y= 6 − 3 x
+y = 3
+ y= 6 − 3 x
+ y= 6 − 3 x
+⇔
+⇔
+⇔
+⇔
+1
+6
+1
+7 x − 2(6 − 3 x) =
+x = 1
+3 x + y =
+13 x = 13
+7 x − 2 y =
+
+2. 
+
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = (1;3) .
+
+1
+ y =−1 − 2 x
+5 x + 3 y =
+ y =−1 − 2 x
+⇔
+⇔
+1
+−1
+5 x + 3 y =
+2 x + y =
+5 x + 3(−1 − 2 x) =1
+
+3. 
+
+ y =−1 − 2 ⋅ (−4) =7
+ y =−1 − 2 x
+⇔
+⇔
+ x = −4
+ x = −4
+Vậy nghiệm của hệ phương trình đã cho là ( x; y ) = (−4;7) .
+
+ x + y 5 =
+0
+−y 5
+−y 5
+ x =
+ x =
+⇔
+⇔
+4. 
+1 5
+1 5
+1 5
+− y 5 5 + 3 y =−
+ x 5 + 3 y =−
+ x 5 + 3 y =−
+
+
+5 5
+x
+−
+x = − y 5
+=
+
+
+2
+2
+⇔
+−1 + 5 ⇔ 
+y =
+ y = −1 + 5
+2
+
+
+2
+
+ 5 5 −1 + 5 
+; y ) 
+− ;
+Vậy hệ phương trình đã cho có nghiệm là ( x=
+.
+2 
+ 2 2
+Câu 4. Giải các hệ phương trình sau bằng phương pháp cộng đại số.
+1
+x − 3y =
+a) 
+11
+2 x + 3 y =
+18
+3 x + 4 y =
+c) 
+−1
+4 x − 3 y =
+
+3
+2 x − y =
+b) 
+1
+x − y =
+ 3 x − 2 y =
+1
+d) 
+4 6
+ 2 x + 3 3 y =
+Lời giải
+
+=
+x 4
+=
+x − 3y 1 =
+x 4
+3 x 12 =
+1. 
+⇔
+⇔
+⇔
+y 11  x − 3=
+y 1 4 − 3=
+y 1 =
+y 1
+2 x + 3=
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = (4;1) .
+2 x=
+x 2
+−y 3 =
+=
+=
+x 2
+ x 2
+2. 
+⇔
+⇔
+⇔
+−y 1
+− y 1 2=
+−y 1 =
+y 1
+ x=
+ x=
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = (2;1) .
+3=
+12 x=
+25 y 75
+y 3
+x + 4 y 18
++ 16 y 72 =
+=
+=
+x 2
+3. 
+⇔
+⇔
+⇔
+⇔
+−1 12 x − 9 y =
+−3
+−9
+−9
+4x − 3y =
+3
+y =
+12 x − 9 y =
+12 x − 9 ⋅ 3 =
+
+
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = (2;3) .
+
+ 3x − 2 y 1
+11 y 11 2 =
+6x − 2 y
+2 =
+2
+ =
+=
+ y
+4. 
+⇔
+⇔
+⇔
+x−2 2
++ 3 3y 4 6
+6 x + 9 y 12 2
+6x − 2 y
+2
+ 6 =
+ 2 x=
+ =
+ =
+
+2
+
+ x = 3
+⇔
+ y = 2
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = ( 3; 2) .
+Câu 5. Giải các hệ phương trình.
+
+1 1
+1
+x − y =
+
+a) 
+3 + 4 =
+5
+ x y
+
+1
+ 1
+2
+ x − 2 − y −1 =
+
+b) 
+ 2 + 3 =
+1
+ x − 2 y − 1
+Lời giải
+
+1. Điều kiện xác định x ≠ 0, y ≠ 0 .
+a
+Đặt=
+
+1
+1
+=
+,b
+, hệ phương trình đã cho trở thành
+x
+y
+
+a − b =1
+a =1 + b
+a =1 + b
+a =1 + b
+⇔
+⇔
+⇔
+
+4b 5 3a +
+4b 5 3(1 + b) +
+4b 5 =
+=
+=
+=
+7b 2
+3a +
+1 9
+
+2
+9
+7
+
+
+=
+1+
+a=
+x=
+
+a =
+
+
+
+x 7
+
+7
+7
+9
+. Khi đó ta có 
+⇔
+⇔
+⇔
+b 2=
+b 2
+1 = 2
+y = 7
+=
+
+
+
+ y 7
+7
+7
+2
+
+(nhận)
+
+7 7
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) =  ;  .
+9 2
+2. Điều kiện xác định x ≠ 2, y ≠ 1 .
+=
+Đặt a
+
+1
+1
+=
+,b
+, hệ phương trình đã cho trở thành
+x−2
+y −1
+
+
+
+
+
+7
+
+a= 2 + b
+a=
+a − b = 2
+a = 2 + b
+
+
+
+
+
+a = 2 + b
+
+
+5
+⇔
+⇔
+⇔
+3 ⇔
+
+1 2(2 + b) + 3b =
+1 5b =
+−3
+2a + 3b =
+b = − 5
+b = − 3
+
+
+
+5
+
+
+
+1
+19
+
+ x = a + 2 = 7
+Từ đó thay vào ta tìm được 
+(nhận)
+ y = 1 +1 = 2
+
+5
+b
+
+ 19 2 
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) =  ;  .
+ 7 5
+
+4  1 1 
+1
+  + =
+3  x y 
+c) 
+2
+1 + 1 =
+ 6 x 5 y 15
+
+3. Điều kiện xác định x ≠ 0, y ≠ 0 .
+Đặt=
+a
+
+1
+1
+=
+,b
+, hệ phương trình đã trở thành
+x
+y
+
+3
+4a + 4b =
++ 4b 3 20a +
+=
+20b 15 =
+4b 1
+
+4a=
+⇔
+⇔
+1
+2 ⇔
+1
++ 6b 4
+24b 16
+20b 15
+20a +=
+5a =
+20a +=
+ 6 a + 5 b =
+15
+
+1
+
+b 4=
+b
+⇔
+⇔
+1
+20a + 20
+a
+15 =
+=
+⋅
+
+
+4
+
+1 1
+1
+=
+4 Khi đó ta có  x 2 ⇔  x = 2 (nhận)
+
+
+1
+y = 4
+1 = 1
+ y 4
+2
+
+Vậy hệ phương trình đã cho có nghiệm là ( x; y ) = (2; 4) .
+Câu 6. Cho hệ phương trình:
+1
+ x + ay =
+
+a
+−ax + y =
+a) Chứng minh hệ luôn luôn có nghiệm duy nhất với mọi a .
+b) Tìm a để hệ có nghiệm ( x; y ) sao cho x < 1 ; y < 1
+Giải
+a) Ta có với a ≠ 0 thì
+2a
+
+y= 2
+1
+x
+ay
++
+=
+
+
+1
+ax + a y =
+a
+ x + ay =
+a +1
+
+
+⇔
+⇔
+⇔
+
+2
+2
+2a
+a
+=
+−ax + y =
+−ax + y a
+ 1 + a y =
+x = 1− a
+
+a2 + 1
+2
+
+(
+
+)
+
+Với a = 0 thì hệ có nghiệm (1; 0 )
+ 1 − a 2 2a 
+Vậy với mọi a hệ có nghiệm duy nhất ( x; y ) =  2 ; 2
+
+ a +1 a +1 
+
+b) Ta có x < 1 ⇔
+
+y <1⇔
+
+1 − a2
+< 1 ⇔ 1 − a 2 < a 2 + 1 ⇔ 2a 2 > 0 ⇔ a ≠ 0
+a2 + 1
+
+2a
+2
+< 1 ⇔ 2a < a 2 + 1 ⇔ ( a-1) > 0 ⇔ a ≠ 1
+a +1
+2
+
+Vậy với a ≠ 0 và a ≠ 1 thì hệ có nghiệm ( x; y ) sao cho x < 1 ; y < 1 .
+Câu 7. Cho hệ phương trình
+( a + 1) x − y =
+3
+
+a
+ax + y =
+
+a) Giải hệ với a = − 2
+b) Xác định a để hệ có nghiệm duy nhất thỏa mãn điều kiện x + y > 0
+Giải
+ 3− 2 2+ 2 2 
+a) Hệ có nghiệm duy nhất 
+ 1 − 2 2 ; 1 − 2 2 
+
+
+
+b) Cộng hai vế của hai phương trình ta được:
+
+( 2a + 1) x =a + 3
+Nếu a ≠ −
+
+1
+a+3
+a 2 + 3a a 2 − 2a
+thì x =
+, từ đó y =a − ax =a −
+=
+2a + 1
+2
+2a + 1
+2a + 1
+
+ a + 3 a 2 − 2a 
+1
+Vậy với a ≠ − thì hệ có nghiệm duy nhất 
+;
+ . Khi đó
+2
+ 2a + 1 2a + 1 
+x +=
+y
+
+a + 3 a 2 − 2a a 2 − a + 3
++
+=
+2a + 1 2a + 1
+2a + 1
+
+BÀI 3. GIẢI BÀI TOÁN BẰNG CÁCH LẬP HỆ PHƯƠNG TRÌNH
+A. CÁC VÍ DỤ
+Nhận xét. các bước giải một bài toán bẳng cách lập hệ phương trình:
+Bước 1. Lập hệ phương trình:
+- Chọn ẩn số (thường chọn hai ẩn số) và đặt điều kiện thích hợp cho các ẩn số;
+- Biểu diễn các đại lượng chưa biết theo ẩn và các đại lượng đã biết;
+- Lập hệ phương trình biểu thị mối quan hệ giữa các đại lượng.
+Bước 2. Giải hệ phương trình.
+Bước 3. Trả lời: Kiểm tra xem trong các nghiệm tìm được của hệ phương trình, nghiệm nào thoả
+mãn, nghiệm nào không thoả mãn diều kiện của ẩn, rổi kết luận.
+Ví dụ 1. Tìm hai só́ tự nhiên có tőng bằng 1 006, biết rằng nếu lấy số lớn chia cho số nhỏ thì được
+thương là 2 và số dư là 124 .
+Lời giải
+- Gọi hai số cần tìm là x và y , trong đó x < y . Số dư trong phép chia y cho x là 124 nên x > 124
+. Vậy điều kiện của hai ẩn là x, y ∈  và 124 < x < y . Tổng hai số bằng 1006 nên ta có phương
+1006 .
+trình x + y =
+
+y 2 x + 124 .
+Khi chia y cho x ta được thương là 2 , dư 124 nên ta có phương trình =
+ x + y =
+1006
+Do đó, ta có hệ phương trình 
+y 2 x + 124
+=
+
+(1)
+( 2)
+
+- Giải hệ phương trình:
+
+y 2 x + 124 vào (1), ta được 3 x + 124 =
+Từ (2) thế =
+1006 hay 3 x = 882 , suy ra x = 294 .
+Từ đó ta được y= 2.294 + 124= 712 .
+- Các giá trị x = 294 và y = 712 thoả mãn các diều kiện của ẩn.
+Vậy hai số cẩn tìm là 294 và 712.
+Ví dụ 2. Hai đội công nhân cùng làm một đoạn đường trong 24 ngày thì xong. Mối ngày, đội I làm
+được nhiểu gấp rươi đội II. Hỏi nếu làm một mình thì mối đội làm xong đoạn đường đó trong bao
+lâu? (Giả sử năng suất của mổi đội là không đổi).
+Lời giải
+- Gọi x là số ngày để đội I hoàn thành công việc nếu làm riêng một mình; y là số ngày để đội II
+hoàn thành công việc nếu làm riêng một mình. Điếu kiện: x > 0 và y > 0 .
+Mối ngày đội I làm được
+
+1
+1
+(công việc) và đội II làm được
+(công việc).
+x
+y
+
+1
+1
+Mới ngày đội I làm được nhiểu gấp rưỡi đội II nên ta có phương trình = 1,5 ⋅ hay
+x
+y
+1 3 1
+=
+⋅
+(1) .
+x 2 y
+Hai đội làm chung trong 24 ngày thì xong công việc nên mối ngày, hai đội làm chung thì được
+(công việc). Ta
+
+có phương trình
+
+- Nếu đặt u =
+
+1 1 1
++ =
+x y 24
+
+1
+24
+
+ 1 3 1
+⋅
+ =
+ x 2 y
+( 2 ) . Từ (1) và (2), ta có hệ phương trình (I) 
+1
+1 + 1 =
+ x y 24
+
+1
+1
+và v = thì ta có hệ phương trình bậc nhất hai ẩn mới là u và v : (II)
+x
+y
+
+3
+
+u = 2 v
+
+u + v =1
+
+24
+
+( 3)
+( 4)
+
+3
+3
+1
+5
+1
+1
+v vào phương trình (4), ta được v + v = , hay v =
+, suy ra v =
+.
+2
+24
+60
+2
+2
+24
+3
+3 1
+1
+Do đó u = v = ⋅ = .
+2
+2 60 40
+Giải hệ (II): Thế u =
+
+Từ đó, ta có: u=
+
+1 1
+1 1
+=
+suy ra x= 40; v= =
+suy ra y = 60 .
+y 60
+x 40
+
+- Các giá trị tìm được của x và y thoả mãn diều kiện của ẩn.
+Trả lời: Nếu làm một mình thì đội I làm xong đoạn đường đó trong 40 ngày, còn đội II làm xong
+trong 60 ngày.
+B. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+1.15. Tìm số tự nhiên N có hai chữ số, biết rằng tổng của hai chứ số đó bằng 12 , và nếu viết hai
+chữ số đó theo thứ tự ngược lại thì được một số lớn hơn N là 36 đơn vị.
+Lời giải
+Gọi số cần tìm là ab ( a, b ∈ * ;0 < a < b < 10 ) .
+Tổng của hai chữ số bằng 12 nên ta có a + b =
+12 . (1)
+Số ban đầu là =
+ab 10a + b .
+Khi đổi chỗ hai chữ số thì ta được số mới là ba
+= 10b + a .
+Số mới lớn hơn số cũ 36 đơn vị nên ta có phương trình
+
+10a + b + 36= 10b + a hay 9b − 9a= 36, suy ra b − a= 4
+
+( 2 ) . Từ (1) và (2), ta có hệ phương
+
+12
+a + b =
+trình 
+.
+4
+b − a =
+Trừ từng vế hai phương trình của hệ mới, ta được 2a = 8 hay a = 4 (thỏa mãn điều kiện).
+Thay a = 4 vào phương trình thứ nhất của hệ, ta có 4 + b =
+12 , suy ra b = 12 − 4 = 8 (thỏa mãn điều
+kiện).
+Vậy số cần tìm là 48.
+1.16. Điểm số trung bình của một vận động viên bắn súng sau 100 lẩn bắn là 8,69 điểm. Kết quả cụ
+thể được ghi trong bảng sau, trong đó có hai ô bị mờ không đọc được (đánh dấu "?"):
+
+Em hãy tìm lại các số bị mờ trong hai ô đó.
+Lời giải
+Gọi số thứ nhất bị mờ là x , số thứ hai bị mờ là y ( x > 0, y > 0) .
+
+100 hay x + y =
+18 . (1)
+Số lần bắn là 100 nên ta có: 25 + 42 + x + 15 + y =
+Điểm số trung bình của một vận động viên bắn súng sau 100 lần bắn là 8,69 điểm nên ta có phương
+trình:
+
+10.25 + 9.42 + 8 x + 7.15 + 6 y =
+100.8, 69
+⇔ 250 + 378 + 8 x + 105 + 6 y =
+869 ⇔ 8 x + 6 y =
+136 ⇔ 4 x + 3 y =
+68
+
+( 2)
+
+18
+x + y =
+Từ (1) và (2), ta có hệ phương trình: 
+(I ) .
+68
+4 x + 3 y =
+54
+3 x + 3 y =
+.
+Nhân hai vế của phương trình thứ nhất với 3 , ta được: 
+68
+4 x + 3 y =
+Trừ từng vế hai phương trình của hệ mới, ta được − x =−14 hay x = 14 (thỏa mãn điều kiện).
+
+18 suy ra y = 4 (thỏa mãn điều
+Thế x = 14 vào phương trình thứ nhất của hệ (I), ta có 14 + y =
+kiện).
+Vậy số thứ nhất bị mờ là 14 , số thứ hai bị mờ là 4 .
+1.17. Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 3600 tấn thóc. Năm nay, hai đơn
+vị thu hoạch được 4095 tấn thóc. Hỏi năm nay, mối đơn vị thu hoạch được bao nhiêu tấn thóc, biết
+rằng năm nay, đơn vị thứ nhất làm vượt mức 15% , đơn vị thứ hai làm vượt mức 12% so với năm
+ngoái?
+Hãy dùng máy tính cẩm tay để kiểm tra lại kết quả thu được.
+Lời giải
+Gọi số thóc của hai đơn vị thu hoạch được trong năm ngoái lần lượt là x, y (tấn thóc) ( x, y > 0) .
+
+Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 3600 tấn thóc nên ta có phương trình
+x+ y =
+3600 (tấn thóc) (1) .
+Năm nay đội thứ nhất làm vượt mức 15% so với năm ngoái nên năm nay đội sẽ thu hoạch được
+115% x = 1,15 x (tấn thóc).
+Đội thứ hai làm vượt mức 12% so với năm ngoái nên năm nay đội sẽ thu hoạch được
+112% y = 1,12 y (tấn thóc).
+
+4095 (2)
+Nên năm nay hai đội thu hoạch được 4095 tấn thóc, ta có phương trình 1,15 x + 1,12 y =
+(tấn thóc).
+3600
+x + y =
+Từ (1) và (2), ta có hệ phương trình: 
+.
+4095
+1,15 x + 1,12 y =
+
+=
+y 3600 − x . Thế vào phương trình thứ hai, ta được
+Từ phương trình thứ nhất ta có
+1,15 x + 1,12(3600 − x) =
+4095 , tức là 0, 03 x + 4032 =
+4095 .
+Suy ra 0, 03 x = 63 hay x = 2100 (thỏa mãn điều kiện).
+Từ đó y = 3600 − 2100 = 2415 (thỏa mãn điều kiện).
+Vậy năm nay đội thứ nhất thu hoạch được 2415 tấn thóc, đội thứ hai thu hoạch được 1680 tấn thóc.
+1.18. Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm trong 3
+giờ và người thứ hai làm trong 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thl̀
+mỗi người hoàn thành công việc trong bao lâu?
+Lời giải
+Gọi x (giờ) và y (giờ) lần lượt là thời gian để người thứ nhất và người thứ hai một mình hoàn thành
+công việc. ( x > 16, y > 16) .
+Trong 1 giờ, người thứ nhất làm được
+
+1
+(công việc).
+x
+
+Trong 1 giờ, người thứ hai làm được
+
+1
+(công việc).
+y
+
+Trong 1 giờ, cả hai người làm được
+
+1 1
++ (công việc).
+x y
+
+1 1
+Cả hai người cùng làm sẽ hoàn thành công việc trong 16 giờ nên ta có phương trình 16  +  =
+1
+x
+y
+
+
+hay
+
+1 1 1
++ = . (1)
+x y 16
+
+Người thứ nhất làm trong 3 giờ, người thứ hai làm trong 6 giờ thì hoàn thành 25% công việc (hay
+1
+1
+1 1
+1
+1 1
+công việc) nên ta có phương trình 3 ⋅ + 6 ⋅ = hay + 2 ⋅ = ( 2 ) .
+x
+y 4
+x
+y 12
+4
+
+1 1 1
+x + y =
+16
+
+Từ (1) và (2), ta có hệ phương trình: 
+.
+1
+1
+1
+ + 2⋅ =
+ x
+y 12
+1
+
++
+=
+u
+v
+
+1
+1
+16
+;v
+. Khi đó hệ phương trình trở thành: 
+.
+Đặt=
+u =
+1
+x
+y
+u + 2v =
+
+12
+Trừ từng vế hai phương trình của hệ mới, ta được 2v − v =
+Thế v =
+
+1 1
+1
+−
+hay v =
+.
+12 16
+48
+
+1
+1
+1
+vào phương trình thứ nhất của hệ (I), ta có u + v = suy ra u =
+.
+16
+48
+24
+
+- Với u =
+
+1
+1 1
+thì =
+, suy ra x = 24 (thỏa mãn điều kiện).
+24
+x 24
+
+- Với v =
+
+1
+1 1
+thì =
+, suy ra y = 48 (thỏa mãn điều kiện).
+48
+y 48
+
+Vậy nếu làm riêng, người thứ nhất hoàn thành công việc sau 24 giờ và người thứ hai hoàn thành
+công việc trong
+48 giờ.
+C. CÁC DẠNG TOÁN
+DẠNG 1. TOÁN VỀ QUAN HỆ GIỮA CÁC SỐ
+1. Phương pháp giải
+
+ab 10a + b
+Biểu diễn số có hai chữ số: =
+a là chữ số hàng chục: 0 < a ≤ 9 , a ∈ N
+b là chữ số hàng đơn vị: 0 ≤ b ≤ 9 , b ∈ N
+- Biểu diễn số có ba chữ số: abc = 100a + 10b + c
+
+a là chữ số hàng trăm, b là chữ số hàng chục và c là chữ số hàng đơn vị.
+2. Các ví dụ
+Ví dụ 1. Tìm hai số tự nhiên, biết rằng tổng của chúng bằng 1006 và nếu lấy số lớn chia cho số nhỏ
+thì được thương là 2 và số dư là 124.
+Giải
+Gọi hai số tự nhiên cần tìm là x , y ( x là số lớn). Theo để bài ta có hệ phương trình:
+
+ x + y =
+1006 (1)
+
+x 2 y + 124 ( 2 )
+=
+
+= 1006 ⇔ =
+y 294
+Thay (2) và (1): 3 y + 124
+Từ đó x = 172 .
+Vậy hai số tự nhiên cần tìm là 712 và 294 .
+Ví dụ 2: Tổng các chữ số của một số là có hai chữ số bằng 6 . Nếu thêm vào số đó 18 đơn vị thì số
+thu được cũng viết bằng các chữ số đó nhưng theo thứ tự ngược lại. Hãy tìm số đó.
+Giải:
+Gọi chữ số hàng chục là x , chữ số hàng đơn vị là y :
+0 < x, y ≤ 9, x, y ∈ N
+Theo đề bài ta có:
+6
+6
+x + y =
+x + y =
+
+⇔ 
+
+yx
+
+10 x + y + 18= 10 y + x
+ xy + 18 =
+6
+6
+x + y =
+x + y =
+x = 2
+⇔
+⇔ 
+⇔ 
+−18
+9 x − 9 y =
+ x − y =−2
+y = 4
+Vậy số cần tìm là 24 .
+DẠNG 2: TOÁN LÀM CHUNG CÔNG VIỆC
+1. Phương pháp giải
+• Toán làm chung công việc có ba đại lượng tham gia toàn bộ công việc, phần làm việc
+trong một đơn vị thời gian (năng suất), thời gian.
+1. Năng suất làm việc: đưa về một đơn vị thời gian (chẳng hạn: 1 ngày, 1 giờ, …)
+1
+Nếu một đội làm xong công việc trong x ngày thì một ngày đội đó làm được
+công việc.
+x
+Xem toàn bộ công việc là 1 .
+2. Các ví dụ
+
+4
+giờ đầy bể. Nếu lúc
+5
+6
+đầu chỉ mở vòi thứ nhất và 9 giờ sau mới mở thêm vòi thứ hai thì sau
+giờ nữa mới đầy
+5
+bể. Hỏi nếu ngay từ đầu chỉ mở vòi thứ hai thì sau bao lâu mới đầy bể?
+Giải:
+4
+24
+Ta có 4 giờ =
+giờ.
+5
+5
+Gọi x (giờ) là thời gian để vòi thứ nhất chảy đầy bể ( x > 0 ) ; y (giờ) là thời gian để vòi thứ
+hai chảy đầy bể ( y > 0 ).
+1
+1
+Trong một giờ vòi thứ nhất chảy được
+bể, vòi thứ hai chảy được
+bể.
+y
+x
+24
+5
+Hai vòi cùng chảy đầy bể sau
+giờ nên 1 giờ cả hai cùng chảy được
+bể. Ta có phương
+5
+24
+trình :
+
+Ví dụ 1. Hai vòi nước cùng chảy vào một bể cạn (không có nước) thì sau 4
+
+1 1 5
++ =
+x y 24
+Trong 9 giờ, vòi thứ nhất chảy được
+nên ta có phương trình :
+
+(1)
+
+61 1 
+6
+9
+bể và
+giờ, hai vòi cùng chảy được  +  bể
+5 x y
+x
+5
+
+9 61 1 
++  + =
+1 (2)
+x 5 x y
+
+1 1 5
+x + y =
+24
+
+Từ (1) và (2) ta có hệ phương trình : 
+9 + 6  1 + 1  =
+1
+ x 5  x y 
+1
+1
+u =
+,y
+Đặt=
+. Ta có hệ :
+x
+y
+1
+5
+
+
+5
+u=
+
+
+u + v =
+ x = 12
+u + v =
+
+12
+24
+⇔ 
+⇔ 
+⇔ 
+24
+
+y = 8
+51u + 6v =
+v = 1
+9u + 6 ( u + v ) =
+5
+1
+
+
+8
+5
+Vậy nếu ngay từ đầu chỉ mở vòi thứ hai thì sau 8 giờ sẽ đầy bể.
+Ví dụ 2. Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm 3
+giờ và người thứ hai làm 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thì mỗi
+người hoàn thành công việc đó trong bao lâu ?
+Giải :
+1
+Ta có 25% = .
+4
+Gọi x (giờ) là thời gian người thứ nhất hoàn thành công việc ( x > 0 ) ; y (giờ) là thời gian người thứ
+hai hoàn thành xong công việc ( y > 0 ) .
+Trong 1 giờ người thứ nhất hoàn thành được
+
+1
+1
+công việc, người thứ hai hoàn thành được
+công
+y
+x
+
+việc.
+Hai người cùng làm công việc trong 16 giờ thì trong một giờ hai người cùng làm được
+
+1
+công việc.
+16
+
+1 1 1
+x + y =
+16
+
+Ta có hệ phương trình : 
+1
+3 + 6 =
+
+x y 4
+
+Giải hệ phương trình ta được
+=
+x 24;
+=
+y 48 .
+Vậy nếu làm riêng thì người thứ nhất hoàn thành công việc trong 24 giờ và người thứ hai hoàn thành
+công việc trong 48 giờ.
+Ví dụ 3 : Nếu hai vòi nước cùng chảy vào một bể nước cạn (không có nước) thì bể sẽ đầy trong 1
+2
+giờ 20 phút. Nếu mở vòi thứ nhất trong 10 phút và vòi thứ hai trong 12 phút thì chỉ được
+bể
+15
+nước. Hỏi nếu mở riêng từng vòi thì thời gian để mỗi vòi chảy đầy bể là bao nhiêu ?
+Giải :
+Ta có : 1 giờ 20 phút = 80 phút.
+
+Gọi x (phút) là thời gian vòi thứ nhất chảy riêng một mình đầy bể và y (phút) là thời gian vòi thứ
+hai chảy riêng một mình đầy bể ( x, y > 0 ) .
+Trong một phút vòi thứ nhất chảy được
+
+1
+1
+bể và vòi thứ hai chảy được
+bể.
+y
+x
+
+Ta có hệ phương trình :
+1 1 1
+x + y =
+80
+
+
+2
+10 + 12 =
+ x
+y 15
+Giải hệ phương trình ta được
+=
+x 120,
+=
+y 240 .
+Vậy vòi thứ nhất chảy đầy bể trong 120 phút ( 2 giờ) và vòi thứ hai chả đầy bể trong 240 phút ( 4
+giờ).
+Ví dụ 4: Hai đội xe chở cát để san lấp một khu đất. Nếu hai đội cùng làm thì trong 18 ngày xong
+công việc. Nếu đội thứ nhất làm trong 6 ngày, sau đó đội thứ hai làm tiếp 8 ngày nữa thì được 40%
+công việc. Hỏi mỗi đội làm một mình thì bao lâu xong công việc ?
+Lời giải
+Gọi thời gian để đội một làm một mình xong công việc là x (ngày).
+Gọi thời gian để đội hai làm một mình xong công việc là y (ngày).
+Một ngày đội một làm được
+
+1
+(công việc).
+x
+
+Một ngày đội hai làm được
+
+1
+(công việc).
+y
+
+Ta có hệ phương trình:
+
+1 1 1
+1 1
+=
+x + y =
+
+18
+ x = 45
+
+ x 45
+⇔
+⇔
+
+2
+ y = 30.
+6 + 8 =
+1 = 1
+ y 30
+ x y 5
+Vậy đội một làm 45 ngày và đội hai làm 30 ngày.
+Ví dụ 5. Hai vòi nước cùng chảy vào một bể thì sau 4 giờ 48 phút bể đầy. Nếu vòi I chảy trong 4 giờ,
+3
+vòi II chảy trong 3 giờ thì cả hai vòi chảy được bể. Tính thời gian mỗi vòi chảy một mình đầy bể.
+4
+Lời giải
+Ta có 4 giờ 48 phút bằng
+
+24
+giờ.
+5
+
+Gọi thời gian vòi một chảy đầy bể là x giờ ( x > 0 ) .
+Gọi thời gian vòi hai chảy đầy bể là y giờ ( y > 0 ) .
+
+Một giờ vòi một chảy được
+
+1
+bể.
+x
+
+Một giờ vòi hai chảy được
+
+1
+bể.
+y
+
+Ta có hệ phương trình:
+
+1 1 5
+1 1
+x + y =
+ x = 12
+24
+ x = 12
+
+⇔
+⇔
+
+3
+y = 8
+3 + 4 =
+1 = 1
+ x y 4
+ y 8
+Vậy thời gian vòi một chảy đầy bể là 12 giờ và vòi hai chảy đầy bể là 8 giờ.
+DẠNG 3. LOẠI TOÁN CHUYỂN ĐỘNG
+1. Phương pháp giải :
+−
+Toán chuyển động có ba đại lượng tham gia vào là: vận tốc, thời gian, quãng đường.
+−
+Gọi v là vận tốc, t là thời gian đi được, s là quãng đường đi được, ta có: S = vt .
+2. Các ví dụ
+Ví dụ 1. Một ô tô đi từ A và dự định đến B lúc 12 giờ trưa. Nếu xe chạy với vận tốc 35km / h thì
+sẽ đến B chậm hơn 2 giờ so với dự định. Nếu xe chạy với vận tốc 50km / h thì sẽ đến B sớm hơn
+1 giờ so với dự định. Tính độ dài quãng đường AB và thời điểm xuất phát của ô tô tại A .
+Giải
+Gọi x (km) là độ dài quãng đường AB và y (giờ) là thời gian dự định đi để đến B đúng lúc 12 giờ
+: x 35 ( y + 2 )
+trưa ( x, y > 0 ) . Thời gian ô tô đến B khi chạy với vận tốc 35km / h là y + 2 nên ta có=
+(1)
+=
+x 50 ( y − 1)
+Thời gian ô tô đến B khi chạy với vận tốc 50km / h là y − 1 nên
+(2)
+Từ (1) và (2) ta có hệ phương trình :
+=
+ x 35 ( y + 2 )
+
+=
+ x 50 ( y − 1)
+Giải hệ phương trình ta có nghiệm ( x, y ) = ( 350;8 ) .
+Vậy AB = 350km , ô tô xuất phát từ A lúc 4 giờ sáng.
+Ví dụ 2. Hai vật chuyển động đều trên một đường tròn đường kính 20cm , xuất phát cùng một lúc, từ
+cùng một điểm. Nếu chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau. Nếu chuyển động
+ngược chiều thì cứ 4 giây chúng lại gặp nhau. Tính vận tốc của mỗi vật.
+Giải
+Gọi vận tốc của hai vật lần lượt là x (cm/s) và y (cm/s) ( x > y > 0 ) .
+Khi chuyển động cùng chiều, cứ 20 giây chúng lại gặp nhau, nghĩa là quãng đường mà vật đi nhanh
+hơn đi được trong 20 giây hơn quãng đường vật kia cũng đi trong 20 giây là đúng 1 vòng
+20π
+(1)
+( = 20π cm ) . Ta có phương trình 20 ( x − y ) =
+Khi chuyển động ngược chiều, cứ 4 giây chúng lại gặp nhau, nghĩa là tổng quãng đường hai vật đi
+20π (2)
+được trong 4 giây là đúng một vòng. Ta có phương trình 4 ( x + y ) =
+Từ (1) và (2) ta có hệ phương trình :
+
+20π
+20 ( x − y ) =
+π
+x − y =
+ x = 3π
+⇔
+⇔
+
+5π
+20π
+ y = 2π
+x + y =
+4 ( x + y ) =
+Vậy vận tốc của mỗi vật là 3π cm / s và 2π cm / s .
+Ví dụ 3. Mỗi ngày ba của bạn An chở bạn ấy từ nhà đến trường mất 30 phút. Vì hôm nay là ngày thi
+tuyển sinh nên ba bạn ấy muốn con mình đến trường sớm hơn, do đó ông ấy đã tăng vận tốc xe lên
+15(km / h) và đến sớm hơn thường ngày là 10 phút. Hỏi quãng đường từ nhà của bạn An đến trường
+là bao nhiêu km ?
+Giải
+Gọi vận tốc xe thường ngày là x(km / h), x > 0; Quãng đường từ nhà của bạn An đến trường là
+
+y (km) ( y > 0 ) Theo đề ta có phương trình
+
+y 1
+= .
+x 2
+
+Do ba bạn An tăng vận tốc lên 15(km / h) và đến sớm hơn 10 phút nên
+
+y
+1
+= .
+x + 15 3
+
+y 1
+ x = 2
+ x = 30
+Từ đó ta có hệ phương trình 
+⇔
+ y = 15 .
+ y =1
+ x + 15 3
+Vậy quãng đường từ nhà của bạn An đến trường là 15 km.
+Ví dụ 4. Một ô tô đi quãng đường AB với vận tốc 50km / h rồi đi tiếp quãng đường BC với vận tốc
+45km / h . Biết quãng đường tổng cộng dài 165 km và thời gian ô tô đi trên quãng đường AB ít hơn
+thời gian đi trên quãng đường BC là 30 phút. Tính thời gian ô tô đi trên mỗi đoạn đường.
+Lời giải
+Gọi thời gian ô tô đi trên mỗi đoạn đường lần lượt là x, y ( x, y > 0 , đơn vị: giờ).
+Đổi 30 phút = 0,5h . Theo đề bài, ta có hệ phương trình
+50 x + =
+45 y 165 =
+ x 1,5
+⇔
+
+=
+ y 2.
+ y − x 0,5=
+
+Vậy thời gian ô tô đi hết quãng đường AB là 1,5 giờ. Thời gian ô tô đi hết quãng đường BC là 2
+giờ.
+Ví dụ 5. Một ôtô dự định đi từ A đến B trong một thời gian nhất định. Nếu xe chạy mỗi giờ
+nhanh hơn 10 km thì đến nơi sớm hơn dự định 3 giờ, còn nếu xe chạy chậm lại mỗi giờ 10 km thì
+đến nơi chậm mất 5 giờ. Tính vận tốc của xe lúc ban đầu, thời gian dự định và chiều dài quãng
+đường AB.
+Lời giải
+Gọi x( km / h ) là vận tốc ô tô lúc đầu ( x > 10 ) , và y (h) là thời gian ô tô dự định đi từ A đến B
+( y > 0)
+Theo hài ra ta có hệ phương trình
+
+( x + 10 )( y −=
+−3 x + 10
+3) xy
+=
+y 30 =
+ x 40
+⇔
+⇔
+
+y + 5) xy
+− 10 y 50 =
+ y 15
+( x − 10 )( =
+5 x =
+Vậy vận tốc xe lúc đầu là 40km / h . Quãng đường AB dài 40 ⋅15 =
+600km .
+DẠNG 4. CÁC DẠNG KHÁC
+Ví dụ 1.
+
+Giải bài toán cổ sau :
+Quýt, cam mười bảy quả tươi
+Đem chia cho một trăm người cùng vui.
+Chia ba mỗi quả quýt rồi
+Còn cam mỗi quả chia mười vừa xinh.
+Trăm người, trăm miếng ngọt lành.
+Quýt, cam mỗi loại tính rành là bao ?
+Giải
+Gọi số lượng quýt, cam lần lượt là x, y ( x, y > 0 )
+
+17
+x + y =
+Ta có hệ phương trình : 
+100
+3 x + 10 y =
+
+⇔
+
+ x = 10
+
+y = 7
+
+Vậy số quýt là 10 quả và cam là 7 quả.
+Ví dụ 2. Tính độ dài hai cạnh góc vuông của một tam giác vuông, biết rằng nếu tăng mỗi cạnh lên 3
+cm thì diện tích tam giác đó sẽ tăng thêm 36cm 2 , và nếu một cạnh giảm đi 2 cm, cạnh kia giảm đi 4
+cm thì diện tích của tam giác giảm đi 26cm 2 .
+Giải
+Gọi hai cạnh góc vuông của tam giác vuông là x (cm) và y (cm) ( x > 0, y > 0 ) thì diện tích tam giác
+là
+
+1
+xy .
+2
+
+Nếu tăng mỗi cạnh lên 3 cm thì diện tích tam giác là
+
+1
+( x + 3)( y + 3) , ta có phương trình :
+2
+
+1
+1
+( x + 3)( y + 3)= xy + 36
+2
+2
+
+(1)
+
+Nếu một cạnh giảm đi 2 cm, cạnh kia giảm đi 4 cm thì diện tích tam giác là 1 ( x − 2 )( y − 4 ) . Khi đó
+ta có :
+
+2
+
+1
+1
+( x − 2 )( y − 4 )= xy − 26
+2
+2
+
+(2)
+
+Từ (1) và (2) ta có hệ phương trình :
+1
+1
+x + 3)( y + 3)=
+xy + 36
+(
+( x + 3)( y + 3) = xy + 72
+
+21
+x = 9
+x + y =
+2
+2
+⇔ 
+⇔ 
+⇔ 
+
+30
+ y = 12
+2 x + y =
+( x − 2 )( y − 4 ) = xy − 52
+ 1 ( x − 2 )( y − 4 )= 1 xy − 26
+
+2
+2
+Vậy độ dài hai cạnh góc vuông của tam giác vuông là 9 cm và 12 cm.
+Ví dụ 3. Nhà Lan có một mảnh vườn trồng rau cải bắp. Vườn được dánh thành nhiều luống, mỗi
+luống trồng cùng một số cây cải bắp. Lan tính rằng: Nếu tăng thêm 8 luống rau, nhưng mỗi luống
+trồng ít đi 3 cây thì số cây toàn vườn ít đi 54 cây. Nếu giảm đi 4 luống, nhưng mỗi luống trồng tăng
+thêm 2 cây thì số rau toàn vườn sẽ tăng thêm 32 cây. Hỏi vườn nhà Lan trồng bao nhiêu cây rau cải
+bắp? (Số cây trong các luông như nhau).
+
+Giải :
+Gọi x (luống) là số luống của vườn nhà Lan và y (cây) là số cây trong mỗi luống ( x, y > 0 và x, y
+nguyên). Khi đó số cây bắp cải toàn vườn là xy (cây). Nếu tăng thêm 8 luống rau và mỗi luống trồng
+ít đi 3 cây thì số cây trong vườn là ( x + 8 )( y − 3) , ta có phương trình :
+
+( x + 8)( y − 3) = xy − 54
+
+(1)
+
+Nếu giảm đi 4 luống và tăng thêm 2 cây ở mỗi luống thì số cây trong vườn là ( x − 4 )( y + 2 ) . Khi
+đó ta có :
+
+( x − 4 )( y + 2 ) = xy + 32
+
+(2)
+
+Từ (1) và (2) ta có hệ phương trình :
+
+( x + 8 )( y − 3) = xy − 54
+−30
+−3 x + 8 y =
+⇔
+
+40
+( x − 4 )( y + 2 ) = xy + 32 2 x − 4 y =
+Giải hệ ta được
+: x 50
+=
+=
+; y 15 .
+Vậy vườn nhà Lan trồng 50.15 = 750 cây bắp cải.
+Ví dụ 4. Số tiền mua 9 quả thanh yên và 8 quả táo rừng thơm là 107 rupi. Số tiền mua 7 quả thanh
+yên và 7 quả táo rừng thơm là 91 rupi. Hỏi giá mỗi quả thanh yên và mỗi quả táo là bao nhiêu rupi ?
+Giải
+Goi x (rupi) là giá mỗi quả thanh yên và y (rupi) là giá mỗi quả táo rừng thơm ( x, y > 0 ) .
+107
+9 x + 8 y =
+Ta có hệ phương trình : 
+91
+7 x + 7 y =
+Giải hệ ta được=
+: x 3=
+; y 10 .
+Vậy mỗi quả thanh yên giá 3 rupi và mỗi quả táo rừng thơm giá 10 rupi.
+Ví dụ 5. Điểm số trung bình của một vận động viên bắn súng sau 100 lần bắn là 8, 69 điểm. Kết quả
+cụ thể được ghi trong bảng sau, trong đó có hai ô bị mờ không đọc được (đánh dấu *) :
+Điểm số của mỗi lần
+7
+6
+10
+9
+8
+bắn
+Số lần bắn
+25
+15
+42
+*
+*
+Em hãy tìm lại các số trong số đó.
+Giải :
+Gọi x là số thứ nhất, y là số thứ hai ( x, y > 0 )
+
+Ta có hệ phương trình :
+100
+18
+25 + 42 + x + 15 + y =
+ x = 14
+x + y =
+⇔
+⇔
+
+100.8, 69
+136
+10.25 + 9.42 + 8.x + 7.15 + 6. y =
+y = 4
+8 x + 6 y =
+Vậy số thứ nhất là 14 , số thứ hai là 4 .
+
+Ví dụ 6. Một người mua hai loại hàng và phải trả tổng 2,17 triệu đồng, kể cả thuế giá trị gia tăng
+(VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là
+9% đối với cả hai loại hàng thì người đó phải trả tổng 2,18 triệu đồng. Hỏi nếu không kể thuế VAT
+thì người đó phải trả bao nhiêu tiền cho mỗi loại hàng ?
+Giải
+Gọi x (triệu đồng) là số tiền phải trả cho loại hàng thứ nhất và y (triệu đồng) là số tiền phải trả cho
+loại hàng thứ hai nếu không kể thuế VAT. Khi đó, số tiền phải trả cho loại hàng thứ nhất, (kể cả thuế
+
+VAT 10% ) là 110 x triệu đồng, loại hàng thứ hai, (kể cả thuế VAT 8% ), là
+phương trình :
+
+100
+
+108
+y triệu đồng. Ta có
+100
+
+110
+108
+2,17 .
+x+
+y=
+2,17 hay 1,1x + 1, 08 y =
+100
+100
+Khi thuế VAT là 9% cho cả hai loại hàng thì số tiền phải trả là :
+109
+2,18 .
+2,18 hay 1, 09 x + 1, 09 y =
+( x + y) =
+100
+Ta có hệ phương trình :
+2,17
+1,1x + 1, 08 y =
+
+2,18
+1, 09 x + 1, 09 y =
+Giải hệ ta được
+: x 0,5
+=
+=
+; y 1,5 .
+Vậy nếu không kể thuế VAT thì người đó phải trả 0,5 triệu đồng cho loại hàng thứ nhất và 1,5 triệu
+đồng cho loại hàng thứ hai.
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Tìm một số tự nhiên có hai chữ số, tổng các chữ số của nó bằng 11 , nếu đổi chỗ hai chữ số
+hàng chục và hàng đơn vị cho nhau thì số đó tăng thêm 27 đơn vị.
+
+Hướng dẫn giải
+Gọi số có hai chữ số là: ab
+=
+a + b 11 =
+a 4
+Ta có hệ: 
+⇔
+a + b) 27 =
+10b + a − (10=
+b 7
+Số cần tìm là 47 .
+Câu 2. Tìm một số tự nhiên có ba chữ số, tổng các chữ số bằng 17 , chữ số hàng chục là 4 , nếu đổi
+chỗ các chữ số hàng trăm và hàng đơn vị cho nhau thì số giảm đi 99 đơn vị.
+Giải
+Số cần tìm có dạng x 4 y ta có hệ
+ x + y 13 =
+x 6
+⇔
+
++ x) 99 =
+100 x + 40 + y − (100 y + 40=
+y 7
+Câu 4. Hai vòi nước cùng chảy vào một bể sau 4 giờ 48 phút bể đầy. Nếu vòi I chảy trong 4
+3
+giờ, vòi II chảy trong 3 giờ thì cả hai vòi chảy được bể. Tính thời gian để mỗi vòi chảy một
+4
+mình đầy bể.
+Hướng dẫn giải
+Gọi x, y (giờ) lần lượt là thời gian vòi I, vòi II chảy một mình đầy bể.
+1 1 5
+x + y =
+24
+
+Ta có hệ: 
+3
+4 + 3 =
+ x y 4
+
+Câu 5. Một ô tô đi từ tỉnh A đến tỉnh B với một vận tốc đã định. Nếu vận tốc tăng thêm
+
+20km / h thì thời gian đi được sẽ giảm 1 giờ, nếu vận tốc giảm bớt 10km / h thì thời gian đi tăng
+thêm 1 giờ. Tính vận tốc và thời gian dự định của ô tô.
+Hướng dẫn giải
+Gọi vận tốc của ô tô là x (km / h) và thời gian đi của ô tô là y (h) ( x, y > 0) .
+y − 1) xy =
+( x + 20)(=
+ x 40
+Ta có hệ phương trình: 
+⇔
+y + 1) xy =
+( x − 10)(=
+y 3
+Câu 6. Hai ca nô cùng khởi hành từ A đến B cách nhau 85km và đi ngược chiều nhau. Sau 1 giờ
+40 phút thì gặp nhau. Tính vận tốc thật của mỗi ca nô, biết rằng vận tốc ca nô đi xuôi
+dòng lớn hơn vận tốc ca nô đi ngược dòng là 9km / h và vận tốc dòng nước là 3km / h (vận tốc
+thật của ca nô không đổi).
+Hướng dẫn giải
+Gọi vận tốc thật của ca nô đi xuôi dòng là x (km / h) và vận tốc thật của ca nô đi ngược dòng là
+y (km / h) ( x, y > 3)
+
+9
+ x + 3 − ( y − 3) =
+ x = 27
+
+⇔
+Ta có hệ phương trình:  5
+5
+85
+ y = 24
+ 3 ( x + 3) + 3 ( y − 3) =
+Câu 7. Đoạn đường AB dài 200 km . Cùng lúc một xe máy đi từ A và một ô tô đi từ B , xe máy và
+ô tô gặp nhau tại C cách A 120km . Nếu xe máy khởi hành sau ô tô 1 giờ thì gặp nhau tại D cách
+C 24 km . Tính vận tốc của ô tô và xe máy.
+Hướng dẫn giải
+Gọi vận tốc của xe máy là x (km / h) và vận tốc của ô tô là y (km / h) ( x, y > 0)
+120 80
+ x = y
+ x = 60
+
+Ta có hệ phương trình 
+⇔
+ y = 40
+104 − 96 =
+1
+ y
+x
+
+Câu 8. Tìm số có ba chữ số chia hết cho 11 , biết rằng khi chia số đó cho 11 được thương
+bằng tổng các chữ số của số bị chia.
+Hướng dẫn giải
+Gọi số cần tìm là xyz , ta có:
+100 x + 10 y + z= 11( x + y + z ) ⇔ 89 x= 10 z + y= zy
+
+⇒ x = 1, y = 9, z = 8 ta có số 198.
+
+3
+cạnh đáy. Nếu chiều xao tăng thêm 3dm và cạnh đáy
+4
+giảm đi 2dm thì diện tích của nó tăng thêm 12 dm 2 . Tính chiều cao và cạnh đáy của tam
+
+Câu 9. Một tam giác có chiều cao bằng
+
+giác.
+Hướng dẫn giải
+Cạnh đáy 20dm , chiều cao 15dm .
+Câu 10. Hai giá sách có 450 cuốn. Nếu chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai sẽ bằng
+số sách ở giá thứ nhất. Tính số sách của mỗi giá.
+
+4
+5
+
+Hướng dẫn giải
+Gọi số sách trong mỗi giá là x, y (x,y nguyên dương).
+
+450
+x + y =
+ x = 300
+
+⇔
+Ta có hệ 
+4
+ y + 50 = 5 ( x − 50 )  y = 150
+Câu 11. Một dung dịch chứa 30% axit nitơric (tính theo thể tích) và một dung dịch khác chứa 55%
+axit nitơric. Cần phải trộn thêm bao nhiêu lít dung dịch loại 1 và loại 2 để được 100 lít dung dịch
+50% axit nitơric?
+Lời giải
+Gọi x, y theo thứ tự là số lít dung dịch loại 1 và 2 ( x, y > 0 ) .
+Lượng axit nitơric chứa trong dung dịch loại 1 là
+
+30
+55
+x và loại 2 là
+y.
+100
+100
+
+Ta có hệ phương trình:
+
+100
+x + y =
+
+55
+ 30
+50.
+100 x + 100 y =
+Giải hệ này ta được: x = 20 và y = 80 .
+Vậy lượng dung dịch loại 1 là 20 lít và loại 2 là 80 lít.
+Câu 12. Hai giá sách có 450 cuốn. Nếu chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai thì số sách
+4
+trên giá thứ hai bằng số sách giá thứ nhất. Tính số sách trên mỗi giá.
+5
+Lời giải
+Gọi số sách ở giá thứ nhất là x và số sách giá thứ hai là y ( x, y nguyên dương).
+
+450.
+Hai giá sách có 450 cuốn nên ta có phương trình x + y =
+
+Khi chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai thì số sách ở giá thứ hai bằng
+thứ nhất nên ta có: y + 50 =
+
+4
+số sách giá
+5
+
+4
+( x − 50 ) .
+5
+
+Ta có hệ phương trình
+
+450
+x + y =
+
+4
+
+ y + 50 = 5 ( x − 50 ) .
+Giải hệ phương trình ta được x = 300 và y = 150.
+Vậy số sách ở giá thứ nhất là 300 cuốn, ở giá thứ hai là 150 cuốn.
+Câu 13. Hai anh Quang và Bình góp vốn cùng kinh doanh. Anh Quang góp 13 triệu đồng, anh Bình
+góp 15 triệu đồng. Sau một thời gian kinh doanh lãi được 7 triệu đồng. Lãi được chia đều theo tỉ lệ
+góp vốn. Tính số lãi mỗi anh được hưởng.
+Lời giải
+Gọi số lãi anh Quang và anh Bình được hưởng lần lượt là x, y (triệu đồng, x, y > 0 ).
+
+7.
+Vì số lãi của cả hai anh là 7 triệu đồng nên ta có phương trình x + y =
+Vì lãi tỉ lệ với vốn đã góp nên
+
+x
+y
+= .
+15 13
+
+Ta có hệ phương trình
+
+7
+x + y =
+
+y
+x
+15 = 13 .
+Giải hệ phương trình ta được x = 3, 75 và 3, 25 .
+Vậy anh Quang được lãi 3750000 đồng và anh Bình được lãi 3250000 đồng.
+
+BÀI TẬP CUỐI CHƯƠNG I
+PHẦN 1. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. TRẮC NGHIỆM
+−1
+5 x + 7 y =
+1.19. Cặp số nào sau đây là nghiệm của hệ phương trình 
+?
+−5
+3 x + 2 y =
+A. (−1;1) .
+
+B. (−3; 2) .
+
+C. (2; −3) .
+
+D. (5;5) .
+
+Lời giải
+Chọn B
+Nhân hai vế của phương trình thứ nhất cho 3 và chia hai vế của phương trình thứ hai cho 5 , ta được:
+−3
+15 x + 21 y =
+
+−25
+15 x + 10 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 11y = 22 hay y = 2 .
+Thế y = 2 vào phương trình thứ hai của hệ đã cho, ta có 3 x + 2.2 =
+−5 hay 3 x = −9 , suy ra x = -3 .
+Do đó, hệ phương trình đã cho có nghiệm là (−3; 2) .
+1.20. Trên mặt phẳng toạ độ Oxy, cho các điểm A(1; 2), B(5;6), C (2;3), D(−1; −1) . Đường thẳng
+4x − 3y =
+−1 đi qua hai điểm nào trong các điểm đã cho?
+A. A và B ;
+
+B. B và C ;
+
+C. C và D ;
+
+D. D và A .
+
+Lời giải
+Chọn C
+
+x 1;=
+y 2 vào phương trình đường thẳng, ta có: 4 ⋅1 − 3 ⋅ 2 =4 − 6 =−2 ≠ −1 .
+- Thay=
+−1 không đi qua A(1; 2) .
+Suy ra đường thẳng 4x − 3y =
+Do đó, loại đáp án A và D .
+
+x 5;=
+y 6 vào phương trình đường thẳng, ta có: 4 ⋅ 5 − 3 ⋅ 6 = 20 − 18 = 2 ≠ −1 .
+- Thay=
+−1 không đi qua B(5;6) .
+Suy ra đường thẳng 4x − 3y =
+Do đó, loại đáp án B.
+
+x 2;=
+y 3 vào phương trình đường thẳng, ta có: 4 ⋅ 2 − 3 ⋅ 3 =8 − 9 =−1 .
+- Thay=
+−1 không đi qua C (2;3) .
+Suy ra đường thẳng 4 x − 3 y =
+0,3
+1,5 x − 0, 6 y =
+1.21. Hệ phương trình 
+−2
+−2 x + y =
+A. Có nghiệm là (0; −0,5) .
+(−3; −8) .
+D. Vô nghiệm.
+
+B. Có nghiệm là (1;0) .
+Lời giải
+
+Chọn C
+
+C. Có nghiệm là
+
+Chia hai vế của phương trình thứ nhất cho 0,3 và nhân hai vế của phương trình thứ hai với 2 , ta
+được:
+1
+5 x − 2 y =
+
+−4
+−4 x + 2 y =
+Cộng từng vế hai phương trình của hệ mới, ta được x = −3 .
+
+−2 , suy ra
+Thế x = −3 vào phương trình thứ hai của hệ đã cho, ta có (−2) ⋅ (−3) + y =−2 hay 6 + y =
+y = −8 .
+Do đó, hệ phương trình đã cho có nghiệm là (−3; −8) .
+1,8
+0, 6 x + 0,3 y =
+1.22. Hệ phương trình 
+−6
+2 x + y =
+A. Có một nghiệm.
+
+B. Vô nghiệm.
+
+C. Có vô số nghiệm.
+
+D. Có hai nghiệm.
+
+Lời giải
+Chọn B
+6
+2 x + y =
+Chia hai vế của phương trình thứ nhất cho 0,3 ta được: 
+−6
+2 x + y =
+Trừ từng vế hai phương trình của hệ mới, ta được 0 x + 0 y =
+12
+
+(1) .
+
+Do không có giá trị nào của x và y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+B. TỰ LUẬN
+1.23. Giải các hệ phương trình:
+
+10
+2 x + 5 y =
+
+a)  2
+1
+ 5 x + y =
+
+1
+3
+ x− y =
+c)  2
+2
+6 x − 4 y =
+2
+
+0,3
+0, 2 x + 0,1 y =
+b) 
+5
+3 x + y =
+
+Lời giải
+10
+2 x + 5 y =
+.
+a) Nhân hai vế của phương trình thứ nhất với 5 , ta được: 
+5
+2 x + 5 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 0 x + 0 y =
+5
+
+(1) .
+
+Do không có giá trị nào của x và y thỏa mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+3
+2 x + y =
+b) Nhân hai vế của phương trình thứ nhất với 10 , ta được: 
+5
+3 x + y =
+Trừ từng vế hai phương trình của hệ mới, ta được x = 2 .
+
+5 hay 6 + y =
+5 , suy ra y = −1 .
+Thế x = 2 vào phương trình thứ hai của hệ đã cho, ta có 3 ⋅ 2 + y =
+Vậy hệ phương trình đã cho có nghiệm là (2; −1) .
+
+c) Nhân hai vế của phương trình thứ nhất với 2 và chia hai vế của phương trình thứ nhất cho 2 , ta
+1
+3 x − 2 y =
+.
+được: 
+1
+3 x − 2 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 0 x = 0 . Phương trình nghiệm đúng với mọi x ∈  .
+
+1 hay 2=
+y 3 x − 1 , suy ra =
+y
+Ta có 3 x − 2 y =
+
+3
+1
+x− .
+2
+2
+
+x ∈ 
+
+Vậy hệ phương trình có vô số nghiệm. Các nghiệm của hệ được viết như sau 
+3
+1
+y
+x−
+=
+2
+2
+1.24. Giải các hệ phương trình:
+−2,5
+0,5 x + 2 y =
+a) 
+8,1
+0, 7 x − 3 y =
+
+−2
+5 x − 3 y =
+b) 
+19
+14 x + 8 y =
+
+−2
+2( x − 2) + 3(1 + y ) =
+c) 
+−3
+3( x − 2) − 2(1 + y ) =
+Lời giải
+
+a) Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 2 , ta
+−7,5
+1,5 x + 6 y =
+được: 
+16, 2
+1, 4 x − 6 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 2,9 x = 8, 7 , suy ra x = 3 .
+Thế x = 3 vào phương trình thứ nhất của hệ đã cho, ta có 0,5 ⋅ 3 + 2 y =−2,5 hay 2 y = −4 , suy ra
+y = −2 .
+Vậy hệ phương trình đã cho có nghiệm là (3; −2) .
+b) Nhân hai vế của phương trình thứ nhất với 8 và nhân hai vế của phương trình thứ hai với 3 , ta
+−16
+40 x − 24 y =
+được: 
+.
+57
+42 x + 24 y =
+Trừ từng vế hai phương trình của hệ mới, ta được 82x = 41 , suy ra x =
+Thế x =
+
+1
+.
+2
+
+1
+3
+1
+9
+vào phương trình thứ nhất của hệ đã cho, ta có 5 ⋅ − 3 y =−2 hay 3 y = , suy ra y = .
+2
+2
+2
+2
+
+1 3
+Vậy hệ phương trình đã cho có nghiệm là  ;  .
+2 2
+
+x 2; b =
+1+ y .
+c) Đặt a =−
+−2
+2a + 3b =
+Khi đó phương trình đã cho trở thành 
+(1)
+−3.
+3a − 2b =
+Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 2, ta được:
+−6
+6a + 9b =
+
+−6
+6a − 4b =
+
+Trừ từng vế hai phương trình của hệ mới, ta được 13b = 0 , suy ra b = 0 .
+Thế x = 0 vào phương trình thứ nhất của hệ (1), ta có 2a + 3 ⋅ 0 =−2 hay 2a = −2 , suy ra a = −1
+- Với a = −1 thì x − 2 =−1 , suy ra x = 1 .
+
+0 , suy ra y = −1 .
+- Với b = 0 thì 1 + y =
+Vậy hệ phương trình đã cho có nghiệm là (1; −1) .
+1.25. Tìm số tự nhiên N có hai chữ số, biết rằng nếu viết thêm chữ số 3 vào giữa hai chư số của số
+N thì được một số lớn hơn số 2 N là 585 đơn vị, và nếu viết hai chữ số của số N theo thứ tự ngược
+lại thì được một số nhỏ hơn số N là 18 đơn vị.
+Lời giải
+Gọi số có hai chữ số cần tìm là ab(10 ≤ ab ≤ 99, x ∈ , y ∈ ) .
+Sau khi viết thêm chữ số 3 vào giữa hai chữ số của số n thì ta được số mới có dạng a3b
+Nếu viết thêm chữ số 3 vào giữa hai chữ số của số n thì được một số lớn hơn số 2n là 585 đơn vị
+nên ta có phương trình:
+
+585 ⇔ 100a + 30 + b − 20a − 2b =
+a3b − 2ab =
+585 ⇔ 100a + 30 + b − 2(10a + b) =
+585
+555
+⇔ 80a − b =
+
+(1)
+
+Khi viết hai chữ số của số n theo thứ tự ngược lại thì ta được số có dạng ba .
+Thì được một số nhỏ hơn số n là 18 đơn vị nên ta có phương trình
+
+18 ⇔ 10a + b − 10b − a =
+ab − ba =
+18 ⇔ 10a + b − (10b + a ) =
+18 ⇔ a − b =
+2
+
+( 2)
+
+555
+80a − b =
+Từ (1) và (2) ta có hệ phương trình 
+.
+2
+a − b =
+Trừ từng vế của hai phương trình ta có (80a − b) − (a − b) = 555 − 2 hay 79a = 55 , suy ra a = 7 (thỏa
+mãn điều kiện).
+- Với a = 7 thay vào phương trình thứ hai ta được b = 5 (thỏa mãn điều kiện).
+Vậy số tự nhiên n có hai chữ số cần tìm là 75 .
+1.26. Trên cánh đồng có diện tích 160 ha của một đơn vị sản xuất, người ta dành 60 ha để cấy thí
+điểm giống lúa mới, còn lại vẫn cấy giống lúa cũ. Khi thu hoạch, đầu tiên người ta gặt 8 ha giống lúa
+cũ và 7 ha giống lúa mới để đối chứng. Kết quả là 7 ha giống lúa mới cho thu hoạch nhiều hơn 8 ha
+giống lúa cũ là 2 tấn thóc. Biết rằng tổng số thóc (cả hai giống) thu hoạch cả vụ trên 160 ha là 860
+tấn. Hỏi năng suất của mỗi giống lúa trên 1 ha là bao nhiêu tấn thóc?
+Lời giải
+Số ha cấy lúa cũ là: 160 - 60 = 100 (ha).
+Gọi năng suất của mỗi giống lúa trên 1 ha là x, y (tấn thóc) ( x > 0, y > 0) .
+Số lúa cũ thu được trên 8 ha giống lúa cũ là 8x (tấn thóc).
+Số lúa mới thu được trên 7 ha giống lúa mới là 7 y (tấn thóc).
+
+Kết quả 7 ha giống lúa mới cho thu hoạch nhiều hơn 8 ha giống lúa cũ là 2 tấn thóc nên ta có phương
+trình
+7 y − 8x =
+2
+
+(1)
+
+Số lúa cũ thu được trên 100 ha giống lúa cũ là 100x (tấn thóc).
+Số lúa mới thu được trên 60 ha giống lúa mới là 60y (tấn thóc).
+Tổng số thóc (cả hai giống) thu hoạch cả vụ trên 160 ha là 860 tấn nên ta có phương trình
+100 x + 60 y =
+860 hay 5 x + 3 y =
+43 . (2)
+2
+7 y − 8 x =
+.
+Từ (1) và (2) ta có hệ phương trình 
+43
+5 x + 3 y =
+Nhân cả hai vế của phương trình thứ nhất với 3 , phương trình thứ hai với 7 ta được hệ phương trình
+6
+21 y − 24 x =
+(I ) .
+
+301
+35 x + 21 y =
+Nhân cả hai vế của phương trình thứ nhất với 3 , phương trình thứ hai với 7 ta được hệ phương trình
+6
+21 y − 24 x =
+.
+
+301
+35 x + 21 y =
+
+6 − 301 hay −59 x =
+Trừ từng vế của hai phương trình ta được (21 y − 24 x) − (35 x + 21 y ) =
+−295 nên
+x = 5 (thỏa mãn điều kiện).
+43 hay 3 y = 18 , suy ra y = 6 (thỏa
+Thế x = 5 vào phương trình thứ hai của hệ (I), ta có 5 ⋅ 5 + 3 y =
+mãn điều kiện).
+Vậy trên 1 ha, năng suất của mỗi giống lúa cũ là 5 tấn thóc, năng suất của mỗi giống lúa mới là 6 tấn
+thóc.
+1.27. Hai vật chuyển động đều trên một đường tròn đường kính 20 cm , xuất phát cùng một lúc, từ
+cùng một điểm. Nếu chuyển động ngược chiểu thì cứ sau 4 giây chúng lại gặp nhau. Nếu chuyển
+động cùng chiều thì cứ 20 giây chúng lại gặp nhau. Tính vận tốc (cm / s) của mỗi vật.
+Lời giải
+
+62,8( cm) .
+Chu vi của hình tròn là 20 ⋅ 3,14 =
+Không mất tổng quát, xét trường hợp vật thứ nhất chuyển động nhanh hơn vật thứ hai.
+Gọi vận tốc ( cm / s) của mỗi vật là x, y ( x > y > 0) .
+Quãng đường vật thứ nhất đi được sau 20 giây là 20 x( cm) .
+Quãng đường vật thứ hai đi được sau 20 giây là 20y(cm) .
+Hai vật chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau nên ta có phương trình
+3,14 . (1)
+20 x − 20 y =
+62,8 hay x − y =
+Quãng đường vật thứ nhất đi được sau 4 giây là 4 x( cm) .
+Quãng đường vật thứ hai đi được sau 4 giây là 4 y ( cm) .
+
+chuyển động ngược chiều thì cứ sau 4 giây chúng lại gặp nhau nên ta có phương trình
+=
+4 x + 4 y 62,84 hay
+=
+x + y 15, 7
+( 2)
+3,14
+x − y =
+Từ (1) và (2) ta có hệ phương trình 
+.
+15, 7
+x + y =
+Cộng từng vế của hai phương trình ta có x − y + x + y= 3,14 + 15, 7 hay 2 x = 18,84 nên
+x = 9, 42(t / m) . Thay x = 9, 42 vào phương trình đầu ta được y = 6, 28(t / m) .
+Vậy vận tốc của 2 vật lần lượt là 9, 42 cm / s và 6, 28 cm / s .
+1.28. Một người mua hai loại hàng và phải trả tổng cộng là 21,7 triệu đồng, kể cả thuế giá trị gia tăng
+(VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là
+9% đối với cả hai loại hàng thì người đó phải trả tổng cộng 21,8 triệu đồng. Hỏi nếu không kể thuế
+VAT thì người đó phải trả bao nhiêu tiển cho mỗi loại hàng?
+Lời giải
+Gọi số tiền người mua hàng phải trả đối với loại hàng thứ nhất và loại hàng thứ hai không kể thuế
+VAT là x, y ( x, y > 0) (triệu đồng)
+Khi thuế giá trị gia tăng (VAT) tới mức 10% đối với loại hàng thứ nhất thì giá tiền của loại hàng thứ
+nhất là 110% x = 1,1x .
+8% đối với loại hàng thứ hai thì giá tiền của loại hàng thứ hai là 108% y = 1, 08 y .
+
+Người mua hàng phải trả tổng cộng là 21,7 triệu đồng nên ta có phương trình
+
+1,1x + 1, 08 y =
+21, 7. Nếu thuế VAT là 9% đối với cả hai loại hàng thì giá tiền của loại hàng thứ nhất
+là
+
+109% x = 1, 09 x. Giá tiền của loại hàng thứ hai là 109% y = 1, 09 y .
+Người đó phải trả tổng cộng 21,8 triệu đồng nên ta có phương trình
+1, 09 x +=
+1, 09 y 21,8 hay
+=
+x + y 20. (2)
+21, 7
+1,1x + 1, 08 y =
+Từ (1) và (2), ta có hệ phương trình 
+.
+20
+x + y =
+
+x 20 − y . Thay vào phương trình nhất ta được:
+Từ phương trình thứ hai ta có =
+1,1(20 − y ) + 1, 08 y =
+21, 7 hay −0, 02 y =
+0,3 nên y = 15 (thỏa mãn điều kiện).
+Với y = 15 thì x = 5 (thóa mãn điều kiện).
+Vậy nếu không kể thuế VAT thì người đó phải trả 5 triệu đồng cho mặt hàng thứ nhất và 15 triệu cho
+mặt hàng thứ hai.
+PHẦN 2. BÀI TẬP LÀM THÊM
+3.
+Câu 1. Cho phương trình mx + (m + 1) y =
+1. Với m = 1 , xét xem các cặp số sau, cặp số nào là nghiệm của phương trình.
+i) (3; −2)
+
+ii) (0;1)
+
+2. Tìm nghiệm tồng quát của phương trình trên ứng với
+i) m = −1
+
+ii) m = 2 .
+
+iii) (−1;0) .
+
+3. Tìm giá trị m tương ứng khi phương trình nhận các cặp số sau làm nghiệm.
+i) (3;1)
+
+ii) (2;3) .
+
+Lời giải
+3.
+1. Với m = 1 , ta có phương trình 2 x + 3 y =
+i) Thay x = 3, y = −2 vào phương trình, ta có 2 ⋅ 3 + 3 ⋅ (−2) = 6 ≠ 3 nên ( 3; −2) không là nghiệm của
+phương trình.
+
+x 0,=
+y 1 vào phương trình, ta có 2 ⋅ 0 + 3 ⋅1 =3 nên (0;1) là nghiệm của phương trình.
+ii) Thay=
+−1, y =
+0 vào phương trình, ta có 2 ⋅ (−1) + 3 ⋅ 0 =−2 ≠ 3 nên (−1;0) không là nghiệm
+iii) Thay x =
+của phương trình.
+2. Tìm nghiệm tổng quát.
+i) Với m = −1 ta có phương trình −1 ⋅ x + (−1 + 1) y =3 ⇔ x =−3 .
+ x = −3
+Vậy phương trình có nghiệm tổng quát 
+.
+y∈
+
+2
+3⇔ y=
+− x +1 .
+ii) Với m = 2 ta có phương trình 2 x + 3 y =
+3
+x ∈ 
+
+.
+Vậy phương trình có nghiệm tổng quát 
+2
+1
+y
+=
+−
+x
++
+
+3
+3
+3
+
+− y+
+3
+3
+x =
+3⇔ x=
+− y + . Vậy phương trình có nghiệm tổng quát 
+Hoặc: 2 x + 3 y =
+2
+2.
+2
+2
+ y ∈ 
+3. Tìm giá trị m tương ứng khi phương trình nhận các cặp số sau làm nghiệm.
+
+1
+x 3,=
+y 1 vào phương trình, ta có 3m + (m + 1) ⋅1 =3 ⇔ m =.
+i) Thay=
+2
+
+x 2,=
+y 3 vào phương trình, ta có 2m + (m + 1) ⋅ 3 =
+3⇔m=
+ii) Thay=
+0.
+Câu 2. Giải các hệ phương trình sau và minh họa hình học kết quả tìm được :
+
+2
+2 x + 5 y =
+
+a)  2
+1
+ 5 x + y =
+
+0,3
+0, 2 x + 0,1 y =
+b) 
+5
+3 x + y =
+Giải
+
+2
+2 x + 5 y =
+2
+2 x + 5 y =
+
+a) Ta có :  2
+Hệ vô nghiệm .
+⇔
+5
+1
+2 x + 5 y =
+ 5 x + y =
+
+1
+3
+ x− y =
+c)  2
+2
+3 x − 2 y =
+1
+
+5 song song với nhau .
+Học sinh tự vẽ hình. Hai đường thẳng 2x +5y = 2 và 2 x + 5 y =
+
+1
+y 0,3
+y 3 =
+=
+2 x +
+=
+ x 2 3 x − 2 y =
+1
+0, 2 x + 0,1
+b) Ta có : 
+⇔=
+y
+(3 x − 1)
+⇔
+⇔
+
+−
+=
+x
+y
+3
+2
+1
+3
+5
+3
+5
+1
+x
+y
+x
+y
+y
++
+=
++
+=
+=
+−
+2
+
+
+
+
+
+
+Hệ có nghiệm duy nhất (2 ;-1) .
+
+0,3 và 3x + y =
+5 cắt nhau tại điểm (2 ;-1) .
+Hai đường thẳng 0, 2 x + 0,1 y =
+1
+3
+1
+1
+ x − y = 3 x − 2 y =
+(3 x − 1)
+y
+⇔=
+c)  2
+2 ⇔
+3
+2
+1
+x
+−
+y
+=
+2
+
+3 x − 2 y =
+1
+
+1
+
+=
+(3 x − 1)
+3
+1
+y
+1 trùng nhau.
+Hệ có vô số nghiệm 
+. Hai đường thẳng
+x − y = và 3 x − 2 y =
+2
+2
+2
+ x ∈ 
+Câu 3. Giải các hệ phương trình sau :
+y
+ 2x
+2
+ x +1 + y +1 =
+
+b) 
+ x + 3y =
+−1
+ x + 1 y + 1
+
+ x 5 − (1 + 3) y =
+1
+a) 
+1
+(1 − 3) x + y 5 =
+
+Giải
+5 x − 5(1 + 3) y =
+5
+1
+ x 5 − (1 + 3) y =
+a) Ta có : 
+⇔
+1
+(1 − 3) x + y 5 =
+−2 x + 5(1 + 3) y =1 + 3
+
+1+ 3 + 5
+
+1+ 3 + 5
+x =
+x =
+x 5 − 1+ 3 y =
+3
+1
+
+
+
+3
+⇔
+⇔
+⇔
+2 + 5 + 15
+3 x =+
+y =
+ y = −1 + 3 + 5
+1 3+ 5
+
+
+3 3 +1
+3
+
+
+(
+
+)
+
+(
+
+)
+
+ 1 + 3 + 5 −1 + 3 + 5 
+Vậy hệ có nghiệm duy nhất 
+;
+ .
+3
+3
+
+
+
+b) Điều kiện : x ≠ −1; y ≠ −1
+Đặt
+: u
+=
+
+x
+y
+. Ta có hệ phương trình :
+=
+;v
+x+l
+y+l
+
+
+ x
+1+ 3 2
+1+ 3 2
+
+1+ 3 2
+x=
+=
+=
+u
+
+
+
+2u + v = 2
+5
+ x +1
+4−3 2
+
+
+5
+⇔
+⇔
+⇔
+
+−1
+u + 3v =
+ y = −2 − 2
+y = − 2 + 2
+ v = −2 − 2
+
+
+
+5
+5
+7+ 2
+ y +1
+
+
+ 1+ 3 2 2 + 2 
+Hệ có nghiệm duy nhất : 
+;−
+ .
+4
+3
+2
+7
+2
+−
++
+
+
+m
+
+2 x − y =
+Câu 4. Giải hệ phương trình 
+trong mỗi trường hợp sau :
+2
+2 2
+
+4 x − m y =
+
+a) m = − 2
+
+b) m = 2
+
+c) m = 1
+
+Giải
+y 2x − m
+=
+y 2x − m
+m
+
+2 x − y =
+=
+Ta có : 
+⇔
+⇔
+
+
+2
+3
+2
+2
+2 2
+2 2
+4 x − m y =
+
+2 ( 2 − m ) x =2 2 − m
+4 x − m ( 2 x − m ) =
+
+(1) .
+
+a) Với m = − 2 phương trình (1) trở thành 0.x = 4 2 , vô nghiệm.
+Vậy hệ đã cho vô nghiệm.
+b) Với m = 2 phương trình (1) trở thành 0.x = 0 , đúng với mọi x .
+
+x ∈ 
+Vậy hệ đã cho có nghiệm 
+.
+=
+−
+y
+2
+x
+2
+
+
+
+c) Với m = 1 phương trình (1) trở thành 2=
+x 2 2 −1 ⇔ =
+x
+
+2 2 −1
+2
+
+
+2 2 −1
+x =
+Vậy hệ đã cho có nghiệm : 
+2
+
+=
+y 2 2 − 2
+
+Câu 5. Hai người ở địa điểm A và B cách nhau 3,6km , khởi hành cùng một lúc, đi ngược chiều
+nhau ở một địa điểm cách A là 2km. Nếu cả hai cùng giữ nguyên vận tốc như trường hợp trên,
+nhưng người đi chậm hơn xuất phát trước người kia 6 phút thì họ sẽ gặp nhau ở chính giữa quãng
+đường. Tính vận tốc của mỗi người.
+Giải
+Gọi vận tốc của người xuất phát từ A là v1 (m/phút) , của người đi từ B là v 2 (m/phút) . Điều kiện
+
+v1 > 0, v 2 > 0 , Khi gặp nhau tại địa điểm cách A là 2km, người xuất phát từ A đi được 2000m,
+người xuất phát từ B đi được 1600. Ta có phương trình :
+2000 1600
+=
+v1
+v2
+
+(1)
+
+Điều đó còn cho thấy người xuất phát từ B đi chậm hơn. Khi người đi từ B xuất phát trước người
+kia 6 phút thì hai người gặp nhau ở chính giữa quãng đường, nghĩa là mỗi người đi được 1,8km =
+1800
+1800
+1800m. Ta có phương trình :
++6=
+( 2) .
+v1
+v2
+Đặt
+
+20 x = 16 y
+100
+100
+= y , từ (1) và (2), ta có hệ phương trình : 
+= x và
+18 y
+v2
+v1
+18 x + 6 =
+
+ 4 5
+Hệ phương trình này có nghiệm ( x, y ) =  ;  . Từ đó suy ra :
+ 3 3
+100 4
+100 5
+= ⇔ v1 = 75;
+= ⇔ v2 = 60
+v1
+3
+v2
+3
+
+Các giá trị tìm được v1 và v2 thỏa mãn các điều kiện của bài toán. Vậy vận tốc đi từ A là
+75m/phút, của người đi từ B là 60m/phút.
+Câu 6. Một vật có khối lượng 124g và thể tích 15cm3 là hợp kim của đồng và kẽm. Tính xem trong
+đó có bao nhiêu gam đồng,v à bao nhiêu gam kẽm, biết rằng cứ 89g đồng thì có thể tích là 10cm3 và
+7gam kẽm có thể tích là 1cm3 .
+Giải
+Gọi x và y lần lượt là số gam đồng và kẽm có trong vật đó (x, y > 0) .
+Vì khối lượng của vật là 124g nên ta có phương trình x + y = 124 .
+Thể tích của x gam đồng là
+
+1
+10
+x ( cm3 ) . Thể tích của y gam kẽm là y ( cm3 )
+89
+7
+
+Vì thể tích của vật là 15cm3 nên ta có phương trình :
+
+10
+1
+x+ y =
+15
+89
+7
+
+124
+x + y =
+
+Từ đó ta có hệ phương trình : 10
+1
+15
+ 89 x + 7 y =
+
+=
+x 89;
+=
+y 35
+Giải hệ phương trình ta được
+Vậy số gam đồng trong vật là 89gam và số gam kẽm trong vật là 35gam .
+Câu 7. Hai đội xây dựng làm chung một công việc và dự định hoàn thành trong 12 ngày. Nhưng khi
+làm chung được 8 ngày thì đội I được điều động đi làm việc khác. Tuy chỉ còn một mình đội II làm
+việc, do cải tiến cách làm , năng suất của đội II tăng gấp đôi nên họ đã làm xong phần việc còn lại
+trong 3,5 ngày. Hỏi với năng suất ban đầu , nếu mỗi đội làm một mình thì phải làm trong bao nhiêu
+ngày mới xong công việc trên ?
+Giải
+Với năng suất ban đầu , giả sử đội I làm xong công việc trong x ngày, đội II làm trong y ngày ( x, y
+nguyên dương )
+Theo dự định hai đội hoàn thành công việc trong 12 ngày nên có phương trình :
+1 1 1
++ =.
+x y 12
+
+8 2
+1
+= (công việc) ; còn lại công việc do đội II làm. Do năng
+12 3
+3
+1
+2
+suất gấp đôi nên đội II làm mỗi ngày được công việc và hoàn thành nốt công việc nói trên
+3
+y
+2 1
+trong 3,5 ngày. Do đó ta có phương trình : 3,5. = ⇔ y = 21
+y 3
+Trong 8 ngày, cả hai đội làm được
+
+1 1 1
+ x = 28
+ + =
+Ta có hệ phương trình :  x y 12 ⇔ 
+ y = 21
+ y = 21
+
+Vậy đội I làm trong 28 ngày và đội II làm trong 21 ngày .
+Câu 8. Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 720 tấn thóc. Năm nay, đơn vị
+thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái. Do đó cả hai đơn
+vị thu hoạch được 819 tấn thóc. Hỏi mỗi năm, mỗi đơn vị thu hoạch được bao nhiêu tấn thóc ?
+Giải :
+Gọi x và y lần lượt là số tấn thóc mà hai đơn vị thu hoạch được trong năm ngoái ( x, y > 0), ta có :
+
+720
+x+ y =
+
+(1)
+
+Năm năy đơn vị thứ nhất vượt 15% mà đơn vị thứ hai vượt 12% nên số tấn thọc thu được của mỗi
+115 112
+x;
+y
+đơn vị trong năm nay lần lượt là :
+100 100
+Do đó ta có phương trình :
+
+115
+112
+x+
+y=
+819
+100
+100
+
+(2)
+
+112
+115
+819
+x+
+y=
+
+Từ (1) và (2) ta có hệ phương trình : 100
+.
+100
+
+720
+x + y =
+
+=
+=
+y 300 .
+Giải hệ phương trình ta được
+: x 420;
+Vậy năm ngoái đội I thu hoạch được 420 tấn thóc, đội II thu hoạch được 300 tấn thóc.
+Năm nay đội I thu hoạch được 483 tấn thóc, đội II thu hoạch được 336 tấn thóc.
+ x + 1 + y − 1 =
+5
+Câu 9. Giải hệ phương trình : 
+ x + 1 = 4 y − 4
+Hướng dẫn giải
+Từ phương trình thứ hai của hệ ta có 4 y − 4 ≥ 0 ⇒ y ≥ 1 . Ta có hệ:
+
+ x + 1 + y − 1 =5
+
+ x + 1 = 4 y − 4
+Giải tìm y = 2 . Hệ có hai nghiệm ( 3; 2 ) , ( −5; 2 ) .
+
+Câu 10. Quãng đường AB gồm một đoạn lên dốc dài 4 km, một đoạn xuống dốc dài 5km. Một
+người đi xe đạp từ A đến B hết 40phút và đi từ B về A hết 41 phút ( vận tốc lên dốc lúc đi và về
+như nhau, vận tốc xuống dốc lúc đi và về như nhau). Tính vận tốc lúc lên dốc và lúc xuống dốc.
+Hướng dẫn giải
+Gọi vận tốc lên dốc và vận tốc xuống dốc lần lượt là x và y ( km / h ) ( x, y > 0 ) .
+Thời gian đi từ A đến B là:
+
+4 5
+5 4
++ ( h ) và thời gian đi từ B về A là: + ( h ) . Ta có hệ:
+x y
+x y
+
+4 5 2
+x + y =
+3
+ x = 12
+
+⇔
+
+41
+ y = 15
+5 + 4 =
+ x y 60
+Câu 11. Tuổi hai anh em cộng lại bằng 21. Tuổi anh hiện nay gấp đôi tuổi em lúc anh bằng tuổi em
+hiện nay.Tính tuổi của mỗi người hiện nay.
+Hướng dẫn giải
+Gọi x, y lần lượt là tuổi anh và em hiện nay
+
+21
+x + y =
+ x = 12
+
+Ta có hệ 
+x⇔
+y = 9
+ x − y = y − 2
+1
+mx − y =
+Câu 12. Với giá trị nào của m, n thì hệ 
+có nghiệm ( − 1;0 ) ?
+n
+x + y =
+Lời giải
+Hệ có nghiệm (-1; 0) khi và chỉ khi cặp số trên thỏa mãn cả hai phương trình của hệ, hay
+
+m.( − 1) − 0 =
+n
+1 và ( − 1) + 0 =
+−1; n =
+−1
+Từ đó m =
+Câu 13. Cho ba đường thẳng
+−3 ;
+( d1 ) : x − 2 y =
+
+( d2 ) : 2 x + y =
+
+2 + 2;
+
+( d m ) : mx − (1 − 2m ) y =5 − m
+1. Xác định m để ba đường thẳng ( d1 ) ; ( d 2 ) và ( d m ) đồng quy.
+2. Chứng minh rằng ( d m ) luôn đi qua một điểm cố định với mọi m .
+Lời giải
+
+1. Tọa độ giao điểm của ( d1 ) và ( d 2 ) là nghiệm của hệ phương trình
+
+−3
+ x − 2 y =
+x = 1
+⇔
+
+ 2 x + y = 2 + 2
+y = 2
+Vậy tọa độ giao điểm của ( d1 ) và ( d 2 ) là M (1; 2 ) .
+Ba đường thẳng ( d1 ) ; ( d 2 ) và ( d m ) đồng quy khi và chỉ khi:
+
+M ∈ ( d m ) ⇔ m ⋅1 − (1 − 2m ) ⋅ 2 = 5 − m ⇔ m =
+Vậy với m =
+
+7
+thì ba đường thẳng ( d1 ) ; ( d 2 ) và ( d m ) đồng quy.
+6
+
+2. Đặt E ( x0 ; y0 ) là điểm cố định thuộc ( d m ) . Khi đó
+mx0 − (1 − 2m ) y0 = 5 − m, ∀m ∈ 
+⇔ ( x0 + 2 y0 + 1 ) m = y0 + 5, ∀m ∈ 
+
+y0 + 1 0 =
+ x + 2=
+x 9
+⇔ 0
+⇔ 0
+ y0 + 5 =0
+ y0 =−5.
+
+Vậy điểm cố định mà ( d m ) luôn đi qua là E (9; −5) .
+
+7
+.
+6
+
+

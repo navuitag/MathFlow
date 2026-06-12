@@ -1,0 +1,2402 @@
+1/
+CHUYÊN ĐỀ ĐỒ THỊ HÀM SỐ y  ax  b (a  0)
+A.KIẾN THỨC CẦN NHỚ
+1. Đồ thị hàm số bậc nhất
+Hàm số bậc nhất y = ax + b với a  0 có đồ thị là một đường thẳng,
+kí hiệu là d: y = ax + b
+2. Cách vẽ đồ thị của hàm số bậc nhất
+Xét đường thẳng d: y = ax + b với a  0
+.Nếu b = 0 ta có d: y = ax đi qua gốc tọa độ O(0;0) và điểm A(1; a).
+.Nếu b  0 thì d đi qua hai điểm A(0; b) và B   b ;0 
+ a 
+3. Chú ý
+.Trục hoành là đường thẳng : y = 0
+.Trục tung là đường thẳng : x = 0
+B.CÁC DẠNG BÀI TẬP MINH HỌA
+Dạng 1: Vẽ đồ thị hàm số bậc nhất
+Phương pháp giải: Xét đường thẳng d: y = ax + b với a  0
+.Nếu b = 0 ta có d: y = ax đi qua gốc tọa độ O(0;0) và điểm A(1; a).
+.Nếu b  0 thì d đi qua hai điểm A(0; b) và B   b ;0 
+
+
+
+Bài 1 : Cho hàm số y  f  x  
+
+a
+
+
+
+
+1
+x 3.
+2
+
+a. Tính f  0  ; f 1 ; f  1 ; f  2  ; f  2  ; f  8 ;
+b. Vẽ đồ thị của hàm số trên.
+Bài 2: Biểu diễn các điểm sau trên mặt phẳng tọa độ.
+A  3; 2  ; B 1; 4  ; C  5; 0  ; D  0;3  ; E  1; 4 
+
+Dạng 2: Tìm tham số m để hàm số là hàm số bậc nhất, đồng biến, nghịch biến.
+1. Tìm điều kiện xác định của hàm số là bậc nhất…
+2. Xét x1; x2 thuộc tập xác định của hàm số với x1 < x2
+a. Nếu f(x1 )  f(x 2 )  f(x 2 )  f (x1 )  0  Hàm số y  f  x  đồng biến
+
+2/
+b. Nếu f(x1 )  f(x 2 )  f(x 2 )  f(x1 )  0  Hàm số y  f  x  nghịch biến
+Bài 3: Tìm m để hàm số sau là hàm số bậc nhất?
+y   m  4  x  2009
+
+a.
+
+b. y   2m  3  x  2m  1
+c. y 
+
+m2
+x4
+m2
+
+d. y  3  m .x  5 3  m
+Bài 4: Cho hàm số y   m  5  x  2010 . Tìm m để hàm số trên là
+a. Hàm số bậc nhất
+b. Hàm số đồng biến, nghịch biến
+Bài 5 : Cho hàm số y   m 2  5m  6  x  2 . Tìm m để
+a. Hàm số trên là hàm số bậc nhất
+b. Hàm số đồng biến, nghịch biến
+c. Đồ thị hàm số đi qua điểm A 1; 4 
+Dạng 3 : Xét tính đồng quy của ba đường thẳng.
+Phương pháp giải:
+‐
+
+Ba đường thẳng đồng quy là ba đường thẳng phân biệt và cùng đi qua một điểm
+
+‐
+
+Để xét tính đồng quy của ba đường thẳng ( phân biệt) cho trước, ta làm như sau:
+
+1. Tìm tọa độ giao điểm của hai trong ba đường thẳng đã cho.
+2. Kiểm tra nếu giao điểm vừa tìm được thuộc đường thẳng còn lại thì kết luận ba đường thẳng đó đồng
+quy.
+Bài 6 : Cho ba đường thẳng.
+
+d1 : y  4 x  3 ; d 2 : y  3x  1 ; d3 : y  x  3
+Chứng minh rằng d1 ; d 2 ; d 3 đồng quy.
+
+3/
+Bài 7 : Cho ba đường thẳng.
+d1 : y  x  4 ; d 2 : y  2 x  3 ; d3 : y  mx  m  1
+Tìm m để ba đường thẳng trên đồng quy.
+Bài 8 : Cho ba đường thẳng.
+d1 : y  3 x  8 ; d 2 : y  2 x  3 ; d3 : y  3mx  2m  1
+Tìm m để ba đường thẳng trên đồng quy.
+Dạng 4: Tìm điểm cố định của đường thẳng phụ thuộc tham số
+Phương pháp giải: Cho đường thẳng d: y = ax + b phụ thuộc tham số m
+1. Điểm I(x0;y0) được gọi là điểm cố định của d nếu I luôn thuộc d với mọi giá trị của m.
+2. Để tìm điểm cố định của d, ta làm như sau:
+.Gọi I(x0;y0) là điểm cố định của d => y0= ax0 + b với mọi m.
+.Biến đổi y0= ax0 + b về dạng A(x0;y0)m + B(x0;y0) = 0
+Hoặc A(x0;y0) m2 + B(x0;y0) m + C(x0;y0) = 0
+A x ;y  0
+.Ta có A(x0;y0)m + B(x0;y0) = 0 với mọi m    0 0 
+ B  x 0 ; y 0   0
+
+.Tương tự A(x0;y0) m2 + B(x0;y0) m + C(x0;y0) = 0 với mọi m
+ A x 0 ; y 0   0
+
+  B x 0 ; y 0   0
+ C x ; y   0
+0
+0
+
+
+.Từ đó tìm được x0; y0 và kết luận.
+Bài 9 :
+a.Chứng minh x0  y0  2 là điểm cố định mà đường thẳng  : y  1  2m  x  m 
+
+7
+luôn đi qua với
+2
+
+mọi giá trị của tham số m
+b.Cho đường thẳng d : y   2m  1 x  m  2 với m là tham số. Tìm điểm cố định mà d luôn đi qua
+với mọi m
+
+4/
+Dạng 5: Tính chu vi và diện tích tam giác
+Phương pháp giải toán
+1. Cho đồ thị hàm số y  f  x  .
+2. Một điểm  x 0 ; y 0  được gọi là thuộc đồ thị hàm số nếu khi ta thay các giá trị toạ độ của điểm đó vào
+phương trình của hàm số và thoả mãn
+ y  f  x0   y0
+
+3. Một điểm  x 0 ; y 0  được gọi là không thuộc đồ thị hàm số nếu khi ta thay các giá trị toạ độ của điểm
+đó vào phương trình của hàm số mà không thoả mãn  y  f  x 0   y 0 .
+4.Vận dụng công thức chu vi và diện tích tích theo yêu cầu bài toán
+Bài 10: Xác định các điểm sau trên hệ trục toạ độ Oxy.
+A  0; 3  ; B  l;3  ,C  2; 2  ; D  2;6  ; M  0; 4 
+
+
+
+
+
+Bài 11: Cho hàm số y  f  x   x .Trong các điểm A  4;2  , B  2;1 , C  9;3  , D 8;2 2 , điểm nào
+thuộc và điểm nào không thuộc đồ thị của hàm số.
+Bài 12 : Vẽ trên mặt phẳng Oxy các điểm A  l;2  ; B   l; 0  ; C  2; 0 
+a.Tính diện tích tam giác ABC (theo đơn vị đo của trục toạ độ).
+b. Tính chu vi tam giác ABC (theo đơn vị đo của trục toạ độ).
+HƯỚNG DẪN
+Dạng 1: Vẽ đồ thị hàm số bậc nhất
+Bài 1 :
+a.Lập bảng giá trị tương ứng của x và f  x  .
+
+5/
+2
+f  x 
+
+4
+1
+x3
+2
+
+b.Hs tự vẽ ĐTHS
+Bài 2 :
+y
+B
+
+4
+D 3
+A
+
+2
+1
+-1
+
+C
+-5
+
+O
+
+-3
+
+1
+
+2
+
+x
+
+-2
+
+E
+
+-4
+
+Dạng 2: Tìm tham số m để hàm số là hàm số bậc nhất, đồng biến, nghịch biến.
+Bài 3:
+a ......  m  4  0  m  4
+3
+b ......  2m  3  0  m 
+2
+m  2  0
+m  2
+m2
+c ...... 
+0
+
+m2
+m  2  0
+m  2
+d ......  3  m  0  3  m  0  m  3
+
+Bài 4:
+a ......  m  5  0  m  5
+
+b. + hàm số đồng biến  m  5  0  m  5
++ hàm số nghịch biến  m  5  0  m  5
+
+6/
+Bài 5:
+a.Hàm số đã cho là hàm số bậc nhất
+m  2  0
+ m 2  5m  6  0   m  2  m  3  0  
+m  3  0
+
+b.Hàm số đồng biến
+ m  2  0
+ m  2
+
+
+m  3
+m  3  0
+m  3
+ m 2  5m  6  0   m  2  m  3  0  
+
+
+ m  2  0
+ m  2
+m  2
+
+
+ m  3  0
+ m  3
+*) Hàm số nghịch biến
+ m  2  0
+m  2
+
+
+2  m  3
+m  3  0
+m  3
+ m 2  5m  6  0   m  2  m  3  0  
+
+
+ m  2  0
+m  2
+ khong tm
+
+
+ m  3  0
+  m  3
+a. Vì đồ thị hàm số đi qua A 1; 4  nên :
+4   m 2  5m  6  .1  2  m 2  5m  4  0   m  1 m  4   0
+m  1  0
+m  1
+
+
+m  4  0
+m  4
+
+Dạng 3 : Xét tính đồng quy của ba đường thẳng.
+Bài 6:
+Gọi I  d1  d 2
+Tìm được I   2;5 
+Thay tọa độ I vào d3 thấy thỏa mãn
+Vậy d1 ; d 2 ; d 3 đồng quy.
+
+Bài 7:
+Gọi I  d1  d 2
+
+7/
+Tìm được I   7; 11
+Thay tọa độ I vào d3 tìm được m  2
+Với m  2 suy ra d3 : y  2 x  3 trùng với d2
+Vậy: Không có giá trị nào của m để 3 đường thẳng trên đồng quy.
+
+Bài 8: Giải tương tự Bài tập 7. Tìm được m 
+
+6
+5
+
+Dạng 4: Tìm điểm cố định của đường thẳng phụ thuộc tham số
+Bài 9:
+1
+a.Thay x  ; y  3 vào  ta thấy luôn thỏa mãn vói mọi m .
+2
+
+b.Gọi I   x0 ; y0  là điểm cố định của d
+Suy ra :
+y0   2m  1 x0  m  2 với mọi m
+  2 x0  1 m   x0  y0  2   0 với mọi m
+
+ 2 x0  1  0
+
+ x0  y0  2  0
+ 1 5
+Từ đó ta tìm được   ;   là điểm cố định của d
+ 2 2
+
+Dạng 5: Tính chu vi và diện tích tam giác
+Bài 10:
+A  0; 3  ; B  l;3  ,C  2; 2  ; D  2;6  ; M  0; 4 
+
+8/
+
+Bài 11:
+Thay toạ độ từng điểm đã cho vào phương trình y  f  x   x .
++ xA = 4 thay vào hàm số: f  4   4  2  y A , suy ra A thuộc đồ thị hàm số.
++ xB = 2 thay vào hàm số: f  2   2  y B , suy ra B không thuộc đồ thị hàm số.
++ xC = 9 thay vào hàm số: f  9   9  3  y C , suy ra C thuộc đồ thị hàm số.
++ xD = 8 thay vào hàm số: f  8  8  2 2  y D , suy ra D thuộc đồ thị hàm số.
+Vậy, các điểm A, C, D thuộc đồ thị, điểm B không thuộc đồ thị.
+
+Bài 12:
+Biểu diễn các điểm A  l;2  ; B   l; 0  ; C  2; 0  trên hệ trục toạ độ Oxy.
+
+a. Ta có: BC  BO  OC  1  2  3 , AH = 2
+SABC 
+
+1
+1
+BC.AH  .3.2  3 (đơn vị diện tích)
+2
+2
+
+b. Ta có: BH  BO  OH   l  l  2
+Tam giác AHB vuông tại H, theo định lý Phytago, ta có:
+
+AB2  AH2  BH2  22  22  8
+Suy ra AB  2 2 .
+
+9/
+Tương tự, tam giác AHC vuông tại H, ta có: AC2  AH2  CH2  22  12  5 .
+Suy ra AC  5
+Vậy chu vi tam giác ABC bằng: AB  BC  CA  2 2  3  5 (đơn vị độ dài)
+
+Dạng 6.Nâng cao phát triển tư duy
+Dạng 1: Tính đồng biến – nghịch biến - điểm thuộc đồ thị .
+Bài 1:Tìm m để mỗi hàm số sau đây đồng biến hoặc nghịch biến
+a) y  ( m  1) x  2
+
+b) y  m 2 x  1 c) y  (1  3m) x  2m
+
+Bài 2:
+a) Cho y  (m  3) x  7 . Tìm m để hàm số trên là hàm số đồng biến, nghịch biến.
+b) Cho y  (k 2  4) x  2 . Tìm k để hàm số trên là hàm số đồng biến, nghịch biến.
+
+Bài 3: Cho hàm số y  ( m  1) x  m
+a) Tìm m để đồ thị hàm số cắt trục tung tại điểm có tung độ bằng 2
+b) Tìm m để đồ thị hàm số cắt trục hoành tại điểm có hoành độ bằng -3
+
+Bài 4: Cho hàm số y  (m  1) x  3
+a) Tìm m để đồ thị hàm số đi qua điểm A(1;2)
+b) Tìm m để đồ thị hàm số đi qua điểm B(1;-2)
+
+Bài 5: Xác định a, b để đồ thị hàm số y  ax  b đi qua các điểm
+a) A(1; 2) và B (2;1) b) P (1; 2) và Q (3; 4)
+
+Dạng 2: TỔNG HỢP:
+Vẽ đồ thị - Tính khoảng cách- Tam giác( Diện tích, chu vi).
+Bài 1: Cho hai đường thẳng (d1) y 
+
+1
+x2
+2
+
+(d 2 ) : y   x  2 ; (d3 ) : y  3 x
+a) Vẽ (d1), (d2); (d3) trên cùng một hệ tọa độ
+b) Gọi A, B lần lượt giao điểm của(d1), (d2) trên Ox, C là giao điểm của (d1), (d2). Tính chu vi tam giác
+ABC
+c) Tính khoảng cách từ gốc tọa độ O đến (d2)
+
+Bài 2: Cho 3 đường thẳng ( d1 ) : y 
+
+1
+1
+x  1; (d 2 ) : y  2 x  4; (d 3 ) : y  x  4
+2
+2
+
+10/
+a) Vẽ đồ thị các đường thẳng thẳng trên cùng một hệ trục tọa độ
+b) Cho (d2) cắt (d1) và (d3) tại A, B, (d1) cắt trục Ox tại C. Tính SABC
+
+Bài 3: Cho hàm số y  (2m  1) x  3 có đồ thị là đường thẳng (d)
+a) Tìm m để (d) đi qua điểm A(2 ;5)
+b) Vẽ đồ thị của (d) ứng với m vừa tìm được ở câu a. Gọi giao điểm của (d) với hai trục Ox và Oy là M,
+N. Tính diện tích tam giác OMN.
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất
+d) Tìm điểm cố định mà (d) luôn đi qua với mọi m
+
+Bài 4: Cho hàm số y  (m  2) x  2 có đồ thị là đường thẳng (d)
+a) Tìm m để hàm số đồng biến, nghịch biến
+b) Tìm m để khoảng cách từ gốc tọa độ O đến (d) bằng 1.
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất
+d) Tìm điểm cố định mà (d) luôn đi qua
+e) Tìm m để (d) cắt hai trục Ox, Oy tại A và B sao cho S AOB  4
+
+Bài 5: Cho hàm số y  (2m  1) x  4 có đồ thị là đường thẳng (d)
+a) Tìm m để hàm số trên đồng biến, nghịch biến.
+b) Vẽ (d) khi m = 2.
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) bằng 2
+d) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất.
+
+Bài 6. Cho hàm số y   m  2  x  2 có đồ thị là đường thẳng (d)
+a) Tìm m để hàm số trên là hàm số bậc nhất
+b) Tìm m để (d) cắt Ox tại điểm có hoành độ bằng 2
+c) Tìm m để khoảng cách từ gốc tọa độ đến (d) bằng
+
+HƯỚNG DẪN
+Dạng 1: Tính đồng biến – nghịch biến - điểm thuộc đồ thị .
+Bài 1: Tìm m để mỗi hàm số sau đây đồng biến hoặc nghịch biến
+a) y  ( m  1) x  2
+
+b) y  m 2 x  1 c) y  (1  3m) x  2m
+
+Lời giải
+Hàm số bậc nhất đồng biến khi a  0 và nghịch biến khi a  0 .
+
+11/
+a, y   m  1 x  2 đồng biến khi m  1 nghịch biến khi m  1 .
+b, y  m 2 x  1 do m 2  0 m nên hàm số luôn nghịch biến khi m  0 .
+c, y  (1  3m )x  2m hàm số đồng biến khi
+
+Bài 2:
+
+(
+
+)
+
+(
+
+)
+
+1
+1
+ m và nghịch biến khi  m .
+3
+3
+
+a) Cho y = m+3 x + 7 . Tìm m để hàm số trên là đồng biến, nghịch biến.
+2
+b) Cho y = k -4 x - 2 . Tìm k để hàm số trên là đồng biến, nghịch biến.
+
+Lời giải
+
+(
+
+)
+
+a) *Để hàm số y = m+3 x + 7 đồng biến khi:
+
+m+3>0
+m > -3
+*Để hàm số y = (m+3) x + 7 nghịch biến khi:
+m+3<0
+m < -3
+
+(
+
+)
+
+2
+b) *Để hàm số y = k -4 x - 2 đồng biến khi:
+
+k 2-4 > 0
+(k-2)(k +2) > 0
+k < -2; k > 2
+
+(
+
+)
+
+2
+*Để hàm số y = k -4 x - 2 nghịch biến khi:
+
+k 2-4 < 0
+(k-2)(k +2) < 0
+ -2 < k < 2
+Bài 3: Cho hàm số y  ( m  1) x  m
+a) Tìm m để đồ thị hàm số cắt trục tung tại điểm có tung độ bằng 2
+b) Tìm m để đồ thị hàm số cắt trục hoành tại điểm có hoành độ bằng -3
+
+Lời giải
+a, Khi hàm số cắt trục tung tại điểm có tung độ bằng 2, tức là đồ thị hàm số đã cho sẽ đi qua điểm (0;2)
+. Vậy 2  (m  2).0  m  m  2 .
+b, Khi hàm số cắt trục hoành tại điểm có hoành độ bằng -3, tức là đồ thị hàm số đi qua điểm ( 3;0) . Vậy:
+0  ( m  2).( 3)  m  6  2m  0  m  3 .
+
+Bài 4: Cho hàm số y  (m  1) x  3
+a) Tìm m để đồ thị hàm số đi qua điểm A(1;2)
+b) Tìm m để đồ thị hàm số đi qua điểm B(1;-2)
+
+12/
+Lời giải
+a, Để hàm số đi qua điểm A(1;2) thì 2  (m  1).1  3  m  0 .
+b, Để hàm số đi qua điểm B(1; 2) thì 2  (m  1).1  3  m  4 .
+
+Bài 5: Xác định a, b để đồ thị hàm số y  ax  b đi qua các điểm
+a) A(1; 2) và B (2;1) b) P (1; 2) và Q (3; 4)
+
+Lời giải
+Cho hàm số y  ax  b . Để đồ thị hàm số đi qua:
+2  a.1  b
+ a  1
+
+1  a.2  b
+b  3
+
+a, A(1;2) và B(2;1) thì 
+
+2  a.1  b
+a  1
+
+4  a.3  b
+b  1
+
+b, P (1;2) và Q(3; 4) thì 
+
+Dạng 2: TỔNG HỢP:
+Vẽ đồ thị - Tính khoảng cách- Tam giác( Diện tích, chu vi).
+Bài 1.
+
+Cho hai đường thẳng  d1  : y 
+
+a) Vẽ  d1  và  d 2 
+
+; (d3)
+
+1
+x  2 và  d 2  : y   x  2 (d 3 ) : y  3 x
+;
+2
+
+trên cùng một hệ trục tọa độ.
+
+b) Gọi A và B lần lượt là giao điểm của  d1  và  d 2  với trục Ox. C là giao điểm của  d1  và  d 2 
+. Tính chu vi tam giác ABC .
+c) Tính khoảng cách từ gốc tọa độ O đến  d 2  .
+
+Lời giải
+
+13/
+
+a) Vẽ  d1  :
+Cho x  0 thì y  2 ta được điểm  0;2  .
+Cho y  0 thì x  4 ta được điểm  4;0 
+
+ d1  là đường thẳng đi qua 2 điểm  0;2 ;  4;0 
+Vẽ  d 2  :
+Cho x  0 thì y  2 ta được điểm  0;2  .
+Cho y  0 thì x  2 ta được điểm  2;0 
+
+ d1  là đường thẳng đi qua 2 điểm  0;2  ;  2;0 
+b) Theo câu a ta có A  4;0  và B  2;0  ;
+Tọa độ giao điểm của C là nghiệm của hệ:
+
+1
+
+x  0
+y  x  2
+
+ C  0; 2 
+2
+
+y
+
+2
+
+ y   x  2
+Theo công thức tính khoảng cách giữa hai điểm ta tính được:
+
+AB  6; AC  2 5; BC  2 2
+Vậy chu vi tam giác ABC bằng: 6  2 5  2 2 (đơn vị độ dài)
+c) Gọi m là khoảng cách từ O đến  d 2  . Áp dụng hệ thức lượng trong tam giác vuông OBC ta có:
+
+1
+1
+1
+1
+1
+1
+
+
+ 2  2  2  m  2 (đơn vị độ dài)
+2
+2
+2
+m
+OB
+OC
+m
+2
+2
+Bài 3: Cho 3 đường thẳng  d1  : y 
+
+1
+1
+x  1 ;  d 2  : y  2 x  4 ;  d3  : y  x  4 .
+2
+2
+
+a) Vẽ đồ thị các đường thẳng trên cùng một hệ trục tọa độ.
+
+b) Cho  d 2  cắt  d1  và  d3  tại A và B ,  d1  cắt trụ Ox tại C . Tính S ABC .
+
+Giải:
+
+14/
+a) Ta có  d1  cắt trục tung tại  0; 1 cắt trục hoành tại
+
+ 2;0  .
+
+ d 2  cắt trục tung tại  0; 4 cắt trục hoành tại  2;0
+
+ d3  cắt trục tung tại  0; 4 cắt trục hoành tại  8;0 
+Nên ta có đồ thị hình bên
+b) Tọa độ của A là nghiệm của hệ
+
+6
+
+1
+x
+
+
+ y  x 1
+
+5
+
+2
+
+ y  2 x  4
+ y  8
+
+5
+Dễ thấy B  0; 4  ; C  2;0  và  d1    d 2 
+Do đó SABC 
+
+1
+AB. AC
+2
+
+Ta có
+
+AB 
+
+ x A  xB    y A  y B 
+
+AC 
+
+ xA  xC    y A  yC 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2 70
+ 6
+  8
+
+   0      4   
+5
+ 5
+ 5
+
+2
+
+2
+
+8 5
+ 6
+  8 
+   2    0 
+5
+ 5
+  5
+
+
+1 2 70 8 5 8 14
+.
+.
+
+2 5
+5
+5
+8 14
+Vậy SABC 
+đvdt
+5
+
+Suy ra S ABC 
+
+Bài 4: Cho hàm số y  (2m  1) x  3 có đồ thị là đường thẳng (d)
+a) Tìm m để (d) đi qua điểm A(2 ;5)
+b) Vẽ đồ thị của (d) ứng với m vừa tìm được ở câu a. Gọi giao điểm của (d) với hai trục Ox và Oy là M,
+N. Tính diện tích tam giác OMN.
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất
+d) Tìm điểm cố định mà (d) luôn đi qua với mọi m
+
+Lời giải
+a) Vì A  2;5    d   thay x  2; y  5 vào  d  ta được: 5   2m  1  .2  3  m  1
+b) Với m  1   d  : y  x  3 .
+
+15/
+Giao của đồ thị  d  với Ox : y  0  x  3  M  3;0 
+Giao của đồ thị  d  với Oy : x  0  y  3  N  0;3 
+y
+
+y
+
+3
+
+B
+H
+
+-3
+
+0 1
+
+A
+
+x
+
+0 1
+
+x
+
+1
+1
+9
+(đvdt)
+Diện tích OMN là: S  . OM .ON  .3.3 
+2
+2
+2
+c) Với m 
+Với m 
+
+1
+  d  : y  3  khoảng cách từ điểm O đến  d  là 3 (*)
+2
+
+3
+1
+;0  , cắt Oy tại B  0;3  .
+. Đồ thị hàm số cắt Ox tại A 
+2
+2
+m
+
+1
+
+
+
+Kẻ OH  AB  khoảng cách từ O đến  d  là OH .
+Áp dụng hệ thức lượng cho tam giác vuông OAB ta có:
+
+
+1
+1
+1
+
+
+2
+2
+OH
+OA
+OB 2
+
+1
+ 2m  1  1 1
+
+   OH  3 (**)
+2
+9
+9 9
+OH
+
+Từ (*) và (**) suy ra max OH  3 . Dấu bằng xảy ra khi m 
+Vậy m 
+
+1
+2
+
+1
+thì khoảng cách lớn nhất từ O đến đường thẳng  d  là 3.
+2
+
+d) Ta có:  d  : y   2m  1  x  3  2mx  3  x  y  0  1 
+x  0
+Gọi I  x; y  là điểm cố định, suy ra phương trình  1  có nghiệm với m  
+3  x  y  0
+x  0
+
+ I  0;3  . Vậy đường thẳng  d  luôn đi qua điểm cố định I  0;3  .
+y 3
+
+16/
+Bài 4: Cho hàm số y  (m  2) x  2 có đồ thị là đường thẳng (d)
+a) Tìm m để hàm số đồng biến, nghịch biến
+b) Tìm m để khoảng cách từ gốc tọa độ O đến (d) bằng 1.
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất
+d) Tìm điểm cố định mà (d) luôn đi qua
+e) Tìm m để (d) cắt hai trục Ox, Oy tại A và B sao cho S AOB  4
+
+Lời giải
+a) Hàm số đồng biến khi m  2  0  m  2
+Hàm số nghịch biến khi: m  2  0  m  2
+b) Với m  2   d  : y  2 : Không thỏa mãn.
+
+2
+;0  , cắt Oy tại B  0; 2  .
+Với m  2 , đường thẳng  d  cắt Ox tại A 
+m2 
+Kẻ OH  AB  OH  1.
+Áp dụng hệ thức lượng cho tam giác vuông OAB ta có:
+1
+1
+1
+1 m  2
+1
+
+
+ 
+  m  2 3
+2
+2
+2
+1
+4
+4
+OH
+OA OB
+2
+
+c) Với m  2   d  : y  2 nên khoảng cách từ O đến đường thẳng là 2.
+Với m  2 . Theo ý b ta có:
+1
+1
+1
+1
+m  2 1 1
+
+
+
+
+   OH  2
+2
+2
+2
+2
+4
+4 4
+OH
+OA OB
+OH
+2
+
+Vậy max OH  2 . Dấu bằng xảy ra khi m  2 .
+Vậy m  2 thì max OH  2 .
+d) Đường thẳng  d  : y   m  2  x  2 luôn đi qua điểm cố định I  0; 2  .
+
+2
+;0  ; B  0; 2 
+e) Đường thẳng  d  cắt hai trục tọa độ tại A, B  m  2 . Khi đó A 
+m2 
+m  5
+
+1
+1 2
+1
+2
+Vì S OAB  4  OA.OB  4 
+.2  4  m  2   
+(tmđk) .
+2
+2 m2
+2
+m  3
+
+2
+
+Bài 5: y   2m  1 x  4
+
+d 
+
+17/
+a) Tìm m để hàm số đồng biến, nghịch biến trên tập xác định R
+b) Vẽ (d) khi m = 2 .
+c) Tìm m để khoảng cách từ gốc tọa độ O đến (d) bằng 2.
+d) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất.
+GIẢI
+
+y   2m  1 x  4
+
+d 
+
+a. Tìm m để hàm số đồng biến, nghịch biến
+
+1
+2
+1
+* Để hàm số nghịch biến  a < 0  2m  1  0  m 
+2
+1
+1
+* Vậy để hàm số đồng biến
+ m  ; nghịch biến  m 
+2
+2
+
+* Để hàm số đồng biến  a  0  2m  1  0  m 
+
+b. Vẽ (d) khi m = 2
+Thay m = 2 vào hs (d) ta có:
+(d) : y   2 . 2 – 1 x  4  y  3x  4
+Cho x  0  y  4  A  0 ; 4 
+
+y 0 x 
+
+4
+4
+ B ( ;0)
+3
+3
+
+Ta vẽ đồ thị
+
+8
+
+6
+
+y = 3x + 4
+
+4
+
+A
+
+2
+
+B
+15
+
+10
+
+O
+
+5
+
+5
+
+10
+
+15
+
+2
+
+4
+
+c. Tìm m để khoảng cách từ gốc tọa độ O đến (d) bằng 2.
+x  0  y  4  A  0 ; 4
+Cho
+
+y  0 x 
+
+4
+ 4
+
+ B
+;0 
+2m  1
+ 2m  1 
+
+1
+
+m  
+2
+
+
+18/
+8
+
+d
+6
+
+y = 3x + 4
+
+4
+
+A
+
+2
+
+B
+15
+
+10
+
+H
+O
+
+5
+
+5
+
+10
+
+15
+
+2
+
+4
+
++ Kẻ OH  AB = {H}
++ Vì khoảng cách từ (O) đến AB = 2  OH = 2 (đvđd)
++ Xét ∆ OAB (vuông tại O) có OH là đường cao :
+1
+1
+1
+
+
+(HTL)
+2
+2
+OA OB
+OH 2
+1
+1
+1
+ 2
+ 2
+2
+4  4 
+2
+
+
+ 2m  1 
+1 (2m  1) 2 1
+(2m  1) 2 3
+ 
+ 
+
+16
+16
+4
+16
+16
+3
+ (2m  1)  3  2m  1   3
+
+3 1
+m 
+ 2m.1  3
+2
+
+
+
+ 3 1
+ 2m  1   3
+m 
+2
+
+
+(t / m)
+
+
+3 1
+m 
+2
++ Vậy để khoảng cách từ O đến đường thẳng (d) bằng 2  
+
+ 3 1
+m 
+
+2
+d) Tìm m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất.
+Xét ∆ OAB (vuông tại O): OH  AB
+
+(t / m)
+
+19/
+
+1
+1
+1
+
+
+2
+2
+(OA) (OB )
+(OH ) 2
+1 (2m  1) 2
+1
+ 
+
+OH 2
+16
+16
+(2m  1) 2  1
+1
+
+
+OH 2
+16
+16
+
+ OH 2
+(2m  1) 2 1
+4
+ OH 
+(2m  1) 2  1
++ Ta có: A(0; 4) là điểm mà (d) luôn đi qua
++ Xét ∆ OAB (vuông tại O) : OH  OA (quan hệ đường, điểm)
++ Dấu “ =” xảy ra  H  A
+4
+
+4
+(2m  1) 2  1
+
+ (2m1)2 1 1  (2m1)2 1 1
+ 2m 1
+
+0 m
+
+1
+ (ko t/ m)
+2
+
+Vậy không có giá trị của m để khoảng cách từ gốc tọa độ O đến (d) lớn nhất.
+
+Bài 6. Cho hàm số y   m  2  x  2 có đồ thị là đường thẳng (d)
+d) Tìm m để hàm số trên là hàm số bậc nhất
+e) Tìm m để (d) cắt Ox tại điểm có hoành độ bằng 2
+f) Tìm m để khoảng cách từ gốc tọa độ đến (d) bằng 1
+
+Giải :
+Hàm số y   m  2  x  2 có a  m  2, b  2
+a) Để hàm số trên là hàm số bậc nhất thì a  0  m  2  0  m  2
+ b 
+b) Ta có đồ thị hàm số y  ax  b ( a  0 ) luôn cắt trục hoành tại điểm có tọa độ   ; 0 
+ a 
+b
+2
+2
+nên theo đề bài, để (d) cắt Ox tại điểm có hoành độ bằng 2 thì   2 
+a
+m2
+ m  1 ( thỏa mãn điều kiện m  2 )
+c) Gọi A, B theo thứ tự là giao điểm của đường thẳng (d) với trục hoành và trục tung.
+
+20/
+ 2
+
+Suy ra A 
+;0  và B  0; 2 
+m2 
+2
+2
+
+Khi đó OA 
+, OB  2
+m2 2m
+Kẻ OH  AB ( H  AB ) thì OH là khoảng cách từ gốc tọa độ
+đến đường thẳng (d)
+Xét OAB vuông tại O đường cao OH , ta có:
+
+y
+d
+2
+
+B
+
+H
+
+ 2  m   1  m 2  4m  5
+1
+1
+1
+
+
+
+OH 2 OA2 OB 2
+4
+4
+4
+2
+mặt khác, OH  1  m  4m  5  4
+2
+
+-2
+
+1
+
+O
+
+A
+
+1
+
+m-2
+2
+
+A
+
+  m  2  3  m  2   3
+2
+
+m  2  3
+
+.
+ m  2  3
+Vậy với m  2  3 hoặc m  2  3 thì khoảng cách từ gốc tọa độ đến (d) bằng 1
+
+C.TRẮC NGHIỆM RÈN PHẢN XẠ
+Câu 1. Chọn khẳng định đúng về đồ thị hàm số y = ax + b (a ¹ 0) .
+A. Là đường thẳng đi qua gốc tọa độ.
+
+B. Là đường thẳng song song với trục hoành.
+
+æ b ö
+C. Là đường thẳng đi qua hai điểm A(0;b), B ççç- ; 0÷÷÷ với b ¹ 0 .
+è a ÷ø
+
+D. Là đường cong đi qua gốc tọa
+
+độ.
+Câu 2. Chọn khẳng định đúng về đồ thị hàm số y = ax + b (a ¹ 0) với b = 0
+
+A. Là đường thẳng đi qua gốc tọa độ.
+
+B. Là đường thẳng song song với trục hoành.
+æ b ö
+C. Là đường thẳng đi qua hai điểm A(1; 0), B ççç- ; 0÷÷÷ .
+D. Là đường cong đi qua gốc tọa độ.
+è a ÷ø
+Câu 3. Trong các hình vẽ sau, hình vẽ nào là đồ thị hàm số y = 2x + 1
+
+x
+
+21/
+
+A. Hình 4.
+
+B. Hình 2.
+
+C. Hình 3.
+
+D. Hình 1.
+
+Câu 4. Trong các hình vẽ sau, hình vẽ nào là đồ thị hàm số y = 3x - 2 .
+
+A. Hình 4.
+
+B. Hình 2.
+
+Câu 5. Đồ thị hàm số y = 5x -
+
+æ 22 ö
+A. A ççç1; ÷÷÷ .
+è 5 ÷ø
+
+C. Hình 3.
+
+D. Hình 1.
+
+2
+đi qua điểm nào sau đây?
+5
+
+æ1 3ö
+B. B ççç ; ÷÷÷ .
+è 5 5 ø÷
+
+æ 2
+3ö
+C. C ççç- ; - ÷÷÷ .
+è 25 5 ÷ø
+
+D. D (2;10) .
+
+Câu 6. Cho hai đường thẳng d1 : y = x - 1 và d2 : y = 2 - 3x . Tung độ giao điểm của d1; d2 có tọa độ
+là:
+
+22/
+A. y = -4 .
+
+B. y =
+
+7
+.
+4
+
+C. y =
+
+1
+.
+4
+
+1
+D. y = - .
+4
+
+Câu 7. Cho hai đường thẳng d1 : y = 2x - 2 và d2 = 3 - 4x . Tung độ giao điểm của d1; d2 có tọa độ là.
+1
+A. y = - .
+3
+
+B. y =
+
+2
+.
+3
+
+C. y = 1 .
+
+D. y = -1 .
+
+Câu 8. Cho đường thẳng d : y = 2x + 6 . Giao điểm của d với trục tung là:
+
+æ 1ö
+A. P ççç0; ÷÷÷ .
+è 6 ø÷
+
+B. N (6; 0) .
+
+C. M (0; 6) .
+
+D. D(0; -6) .
+
+1
+Câu 9. Cho đường thẳng d : y = 3x - . Giao điểm của d với trục tung là:
+2
+
+æ1 ö
+A. A ççç ; 0÷÷÷ .
+è 6 ÷ø
+
+æ 1ö
+B. B ççç0; ÷÷÷ .
+è 2 ÷ø
+
+æ -1ö
+C. C ççç0; ÷÷÷ .
+è 6 ÷ø
+
+æ
+1ö
+D. D ççç0; - ÷÷÷ .
+2 ÷ø
+è
+
+Câu 10. Cho hàm số y = (1 - m )x + m . Xác định m để đồ thị hàm số cắt trục hoành tại điểm có hoành
+độ x = -3 .
+A. m =
+
+1
+.
+2
+
+Câu 11. Cho hàm số y =
+hoành độ x = 9 .
+A. m = -7 .
+
+B. m =
+
+3
+.
+4
+
+3
+C. m = - .
+4
+
+D. m =
+
+4
+.
+5
+
+m +2
+x - 2m + 1 . Xác định m để đồ thị hàm số cắt trục hoành tại điểm có
+3
+
+B. m = -7 .
+
+C. m = -2 .
+
+D. m = -3 .
+
+Câu 12. Cho hàm số y = (3 - 2m )x + m - 2 , xác định m để đồ thị hàm số cắt trục tung tại điểm có
+tung độ y = -4 .
+A. m = 1 .
+
+B. m = -1 .
+
+Câu 13. Cho hàm số y = (2 - m )x -
+
+C. m = -2 .
+
+D. m = 2 .
+
+5+m
+. Xác định m để hàm số cắt trục
+2
+
+tung tại điểm có tung độ y = 3 .
+
+A. m = 11 .
+
+B. m = -11 .
+
+C. m = -12 .
+
+D. m = 1 .
+
+Câu 14. Cho hàm số y = mx - 2 có đồ thị là đường thẳng d1 và hàm số y =
+thẳng d2 . Xác định m để hai đường thẳng d1 và
+
+d2 cắt nhau tại một điểm có hoành độ x = -4 .
+
+1
+x + 1 có đồ thị là đường
+2
+
+23/
+1
+A. m = - .
+4
+
+B. m =
+
+1
+.
+4
+
+C. m =
+
+1
+.
+2
+
+1
+D. m = - .
+2
+
+Câu 15. Cho hàm số y = mx - 2 có đồ thị là đường thẳng d1 và hàm số y =
+
+1
+x + 1 có đồ thị là đường
+2
+
+thẳng d2 . Xác định m để hai đường thẳng d1 và
+
+d2 cắt nhau tại một điểm có hoành độ x = -4 .
+A. m = 3 .
+
+B. m = 12 .
+
+C. m = -12 .
+
+D. m = -3 .
+
+Câu 16. Cho hàm số y = 2(m - 2)x + m có đồ thị là đường thẳng d1 và hàm số y = -x - 2 có đồ thị
+là đường thẳng d2 . Xác định m để hai đường thẳng d1 và
+
+d2 cắt nhau tại một điểm có tung độ y = 3 .
+A. m =
+
+7
+.
+13
+
+B. m = -
+
+7
+.
+13
+
+C. m = -
+
+13
+.
+7
+
+D. m =
+
+13
+.
+7
+
+Câu 17. Cho hàm số y = (m + 1)x - 1 có đồ thị là đường thẳng d1 và hàm số y = x + 1 có đồ thị là
+đường thẳng d2 . Xác định m để hai đường thẳng d1 và d2 cắt nhau tại một điểm có tung độ y = 4 .
+
+A. m =
+
+3
+.
+2
+
+3
+B. m = - .
+2
+
+C. m =
+
+2
+.
+3
+
+2
+D. m = - .
+3
+
+Câu 18. Với giá trị nào của m thì hàm số y = 3x - 2m và y = -x + 1 - m cắt nhau tại một điểm trên
+trục tung?
+A. m = 1 .
+
+B. m = 0 .
+
+C. m = -1 .
+
+D. m = 2 .
+
+Câu 19. Với giá trị nào của m thì hàm số y = -2x + m + 2 và y = 5x + 5 - 2m cắt nhau tại một
+điểm trên trục tung?
+A. m = 1 .
+
+B. m = 0 .
+
+C. m = -1 .
+
+D. m = 2 .
+
+Câu 20. Cho ba đường thẳng d1 : y = -2x ;d2 : y = -3x - 1;d3 : y = x + 3 . Khẳng định nào dưới đây
+là đúng?
+
+A. Giao điểm của d1 và
+
+d3
+
+là A(2;1) .
+
+B. Ba đường thẳng trên không đồng quy.
+
+C. Đường thẳng d2 đi qua điểm B (1; 4) . D. Ba đường thẳng trên đồng quy tại điểm M (-1;2) .
+Câu 21. Cho ba đường thẳng d1 : y = -x + 5; d2 : y = 5x - 1; d3 : y = -2x + 6 . Khẳng định nào dưới
+đây là đúng?
+
+24/
+
+d
+d
+A. Giao điểm của 1 và 2 là M (0; 5) . B. Ba đường thẳng trên đồng quy tại N (1; 4) .
+C. Ba đường thẳng trên không đồng quy.
+D. Ba đường thẳng trên đồng quy tại điểm M (0; 5) .
+Câu 22. Với giá trị nào của m thì ba đường thẳng
+d1 : y = x ; d2 : y = 4 - 3x ; d3 : y = mx - 3 đồng quy?
+A. m = 1 .
+
+B. m = 0 .
+
+C. m = -1 .
+
+Câu
+23.
+Với
+giá
+trị
+nào
+của
+m
+d1 : y = 6 - 5x ; d2 : y = (m + 2)x + m;d3 : y = 3x + 2 đồng quy.
+A. m =
+
+5
+.
+3
+
+B. m =
+
+3
+.
+5
+
+5
+C. m = - .
+3
+
+D. m = 4 .
+thì
+
+ba
+
+đường
+
+thẳng
+
+D. m = -2 .
+
+Câu 24. Cho đường thẳng d : y = -3x + 2 . Gọi A, B lần lượt là giao điểm của d với trục hoành và
+trục tung. Tính diện tích tam giác OAB .
+A.
+
+4
+.
+3
+
+2
+B. - .
+3
+
+C.
+
+3
+.
+2
+
+D.
+
+2
+.
+3
+
+Câu 25. Cho đường thẳng d : y = -2x - 4 . Gọi A, B lần lượt là giao điểm của d với trục hoành và
+trục tung. Tính diện tích tam giác OAB .
+A. 2 .
+
+B. 4 .
+
+C. 3 .
+
+D. 8 .
+
+4-x
+và d2 : y = 8 - 2x . Gọi A, B lần lượt là giao điểm của d1 với
+3
+d2 và d1 với trục tung. Tổng tung độ giao điểm của A và B là:
+
+Câu 26. Cho đường thẳng d1 : y =
+
+A.
+
+4
+.
+3
+
+B.
+
+2
+.
+3
+
+C. 9 .
+
+D. 8 .
+
+Câu 27. Cho đường thẳng d1 : y = -x + 2 và d2 : y = 5 - 4x . Gọi A, B lần lượt là giao điểm của d1
+với d2 và d1 với trục hoành. Tổng tung độ giao điểm của
+A và B là:
+
+A. 2 .
+
+B. 4 .
+
+C. 3 .
+
+D. 8 .
+
+Câu 28. Gọi d1 là đồ thị hàm số y = -(2m - 2)x + 4m và d2 là đồ thị hàm số y = 4x - 1 . Xác định
+giá trị của m để M (1; 3) là giao điểm của d1 và d2 .
+
+A. m =
+
+1
+.
+2
+
+1
+B. m = - .
+2
+
+C. m = 2 .
+
+D. m = -2 .
+
+25/
+Câu 29. Gọi d1 là đồ thị hàm số y = mx + 1 và d2 là đồ thị hàm số y =
+
+1
+x - 2 . Xác định giá trị của
+2
+
+m để M (2; -1) là giao điểm của d1 và d2 .
+
+A. m = 1 .
+
+B. m = 2 .
+
+C. m = -1 .
+
+D. m = -2 .
+
+Câu
+30.
+Với
+giá
+trị
+nào
+của
+m
+thì
+ba
+đường
+thẳng
+d1 : y = (m + 2)x - 3m - 3; d2 : y = x + 2; d3 : y = mx + 2 giao nhau tại một
+điểm?
+
+A. m =
+
+1
+.
+3
+
+5
+B. m = - .
+3
+
+5
+-5
+C. m = 1; m = - . D. m =
+.
+3
+6
+
+Câu 31. Hình vẽ bên là đồ thị của hàm số nào dưới đây?
+
+A. y = 2x - 2 . B. y = 3x - 3 .
+
+C. y = x - 1 .
+
+D. y = x + 1 .
+
+C. y = x - 2 .
+
+D. y = -2x - 1 .
+
+Câu 32.
+
+A. y = 2x - 1 .
+
+HƯỚNG DẪN
+
+B. y = x - 1 .
+
+phân
+
+biệt
+
+26/
+Câu 1. Đáp án C.
+Đồ thị hàm số y = ax + b (a ¹ 0) là một đường thẳng
+Trường hợp 1: Nếu b = 0 ta có hàm số y = ax . Đồ thị của y = ax là đường thẳng đi qua gốc tọa
+độ O(0; 0) và điểm A(1; a ).
+
+æ b ö
+A(0;b), B ççç- ; 0÷÷÷ .
+è a ÷ø
+Trường hợp 2: Nếu b ¹ 0 thì đồ thị y = ax + b là đường thẳng đi qua các điểm
+Câu 2. Đáp án A.
+Đồ thị hàm số y = ax + b (a ¹ 0) là một đường thẳng
+Trường hợp 1: Nếu b = 0 ta có hàm số y = ax . Đồ thị của y = ax là đường thẳng đi qua gốc tọa
+độ O(0; 0) và điểm A(1; a ).
+
+æ b ö
+A(0;b), B ççç- ; 0÷÷÷ .
+è a ÷ø
+Trường hợp 2: Nếu b ¹ 0 thì đồ thị y = ax + b là đường thẳng đi qua các điểm
+Câu 3. Đáp án D.
+Đồ thị hàm số y = 2x + 1 là đường thẳng đi qua hai điểm có tọa độ (0;1) và (1; 3) nên hình 1 là đồ thị
+hàm số y = 2x + 1 .
+
+Câu 4. Đáp án B.
+Đồ thị hàm số y = 3x - 2 là đường thẳng đi qua hai điểm có tọa độ (0; -2) và (1;1) nên hình 2 là đồ
+thị hàm số y = 3x - 2 .
+
+Câu 5. Đáp án B.
+Thay tọa độ từng điểm vào hàm số ta được
+æ 22 ö
+22
+2
+2 22
+23 22
+A ççç1; ÷÷÷
+x = 1; y =
+y = 5x 5.1 - =
+
+=
+÷
+5
+ø . Thay
+5 vào
+5 ta được:
+5
+5
+5
+5 (vô lý).
++) Với è
+æ1 3ö
+1
+3
+2
+1 2
+2
+3
+B ççç ; ÷÷÷
+x
+=
+;
+y
+=
+y
+=
+5
+x
+5.
+=
+1
+=
+÷
+5 5ø
+5
+5 vào
+5 ta được 5 5
+5 5 (luôn đúng).
++) Với è
+. Thay
+æ 2
+3ö
+2
+3
+2
+C ççç- ; - ÷÷÷
+x = - ;y = y = 5x 25 5 ø÷
+è
+25
+5 vào
+5 , ta được:
++) Với
+. Thay
+-2 2
+3
+4
+3
+5.
+- =- - =25 5
+5
+5
+5 (vô lý).
+
+y = 5x -
+
+2
+5 ta được:
+
++) Với D(2;10) . Thay x = 2; y = 10 vào
+2
+48
+5.2 - = 10 
+= 10
+5
+5
+(vô lý).
+
+27/
+
+æ1 3ö
+2
+ B ççç ; ÷÷÷
+y
+=
+5
+x
+÷
+è 5 5 ø thuộc đồ thị hàm số
+5.
+Câu 6. Đáp án D.
+
+d
+d
+Xét phương trình hoành độ giao điểm của 1 và 2 ta được
+3
+x - 1 = 2 - 3x  4x = 3  x =
+4
+3
+3
+1
+x=
+y = -1 = d
+:
+y
+=
+x
+1
+4 vào phương trình đường thẳng 1
+4
+4.
+Thay
+ta được
+Câu 7. Đáp án A.
+d1
+
+d2
+
+2x - 2 = 3 - 4x  6x = 5  x =
+
+Xét phương trình hoành độ giao điểm của
+và
+ta được
+5
+5
+1
+x=
+y
+=
+2.
+2
+=
+6 vào phương trình đường thẳng d1 : y = 2x - 2 , ta được
+6
+3.
+Thay
+Câu 8. Đáp án C.
+Giao điểm của đường thẳng d và trục tung có hoành độ x = 0 . Thay x = 0 vào phương
+trình y = 2x + 6 ta được y = 2.0 + 6 = 6
+Vậy tọa độ giao điểm cần tìm là M (0; 6) .
+Câu 9. Đáp án D.
+
+Giao điểm của đường thẳng d và trục tung có hoành độ x = 0 . Thay x = 0 vào phương
+1
+1
+1
+y = 3x y = 3.0 - = 2 ta được
+2
+2
+trình
+æ
+1ö
+D ççç0; - ÷÷÷
+2 ÷ø
+Vậy tọa độ giao điểm cần tìm là è
+.
+Câu 10. Đáp án B.
+Đồ thị hàm số cắt trục hoành tại điểm có hoành độ x = -3 nên tọa độ giao điểm là (-3; 0)
+Thay x = -3; y = 0 vào y = (1 - m )x + m ta được (1 - m ).(-3) + m = 0
+
+ 4m - 3 = 0  m =
+
+3
+.
+4
+
+3
+.
+4
+Vậy
+Câu 11. Đáp án A.
+m=
+
+Đồ thị hàm số cắt trục hoành tại điểm có hoành độ x = 9 nên tọa độ giao điểm là (9; 0)
+m +2
+y=
+x - 2m + 1
+3
+Thay x = 9; y = 0 vào
+
+5
+6
+
+28/
+m +2
+.9 - 2m + 1 = 0  3m + 6 - 2m + 1 = 0  m = -7
+Ta được 3
+Vậy m = -7 .
+Câu 12. Đáp án C.
+Đồ thị hàm số cắt trục tung tại điểm có tung độ y = -4 nên tọa độ giao điểm là (0; -4)
+Thay x = 0; y = -4 vào y = (3 - 2m )x + m - 2 ta được (3 - 2m ).0 + m - 2 = -4  m = -2
+Vậy m = -2 .
+Câu 13. Đáp án B.
+Đồ thị hàm số cắt trục tung tại điểm có tung độ y = 3 nên tọa độ giao điểm là (0; 3)
+5+m
+(2 - m ).0 = 3  5 + m = -6  m = -11.
+2
+Thay x = 0; y = 3 ta được
+Vậy m = -11 .
+Câu 14. Đáp án A.
+
+1
+x + 1 (*)
+2
+Để hai đường thẳng d1 và d2 cắt nhau tại một điểm có hoành độ x = -4 thì x = -4 thỏa mãn
+Ta có phương trình hoành độ giao điểm của
+
+d1
+
+và
+
+d2
+
+: mx - 2 =
+
+phương trình (*).
+
+1
+1
+m.(-4) - 2 = .(-4) + 1  -4m - 2 = -2 + 1  -4m = 1  m = 2
+4.
+Suy ra
+Câu 15. Đáp án B.
+m
+x + 1 = 3x - 2
+Ta có phương trình hoành độ giao điểm của d1 và d2 là 2
+(*)
+Để hai đường thẳng d1 và d2 cắt nhau tại một điểm có hoành độ x = -1 thì x = -1 thỏa mãn
+phương trình (*).
+m
+m
+m
+.(-1) + 1 = 3.(-1) - 2  - + 1 = -5  - = -6  m = 12.
+2
+2
+Suy ra 2
+Câu 16. Đáp án D.
+Thay y = 3 vào phương trình đường thẳng
+
+d2
+
+ta được -x - 1 = 3  x = -4
+
+d
+d
+Suy ra tọa độ giao điểm của 1 và 2 là (-4; 3)
+d
+Thay x = -4; y = 3 vào phương trình đường thẳng 1 ta
+được
+
+2(m - 2).(-4) + m = 3  -7m + 16 = 3  m =
+
+13
+7 .
+Vậy
+Câu 17. Đáp án C.
+m=
+
+13
+7
+
+29/
+
+d
+Thay y = 4 vào phương trình đường thẳng 2 ta được x + 1 = 4  x = 3
+Suy ra tọa độ giao điểm của d và d là (3; 4)
+1
+
+2
+
+Thay x = 3; y = 4 vào phương trình đường thẳng
+5
+2
+(m + 1).3 - 1 = 4  m + 1 =  m =
+3
+3
+được
+
+d1
+
+ta
+
+2
+3.
+Vậy
+Câu 18. Đáp án C.
+m=
+
+Để hai đồ thị hàm số y = 3x - 2m và y = -x + 1 - m cắt nhau tại một điểm trên trục tung thì
+ìï3 ¹ -1
+ï
+ m = -1
+í
+ïïî 2m = 1 - m
+Câu 19. Đáp án A.
+Để hai đồ thị hàm số y = -2x + m + 2 và y = 5x + 5 - 2m cắt nhau tại một điểm trên trục tung thì
+ìï-2 ¹ 5
+ï
+ 3m = 3  m = 1
+í
+ïïm + 2 = 5 - 2m
+î
+Câu 20. Đáp án D.
+
+d
++) Thay tọa độ điểm A(2;1) vào phương trình đường thẳng 1 ta
+A Ï d1
+d
+được 1 = -2.2  1 = -4 ( vô lý) nên
+hay A(2;1) không là giao điểm của 1 và d . Suy ra
+3
+
+A sai.
++) Thay tọa độ điểm B (1; 4) vào phương trình đường thẳng
+
+d2
+
+ta được 4 = -3.1 - 1  4 = -4 (vô
+
+lý )
+Nên
+
+B Ï d2
+
+. Suy ra C sai.
+
++) Xét tính đồng quy của ba đường thẳng
+* Phương trình hoành độ giao điểm của d1 và
+
+d2
+
+-2x = -3x - 1  x = -1  y = -2.(-1)  y = 2
+
+Suy ra tọa độ giao điểm của
+
+d1
+
+và
+
+d2
+
+là (-1;2) .
+
+d
+* Thay x = -1; y = 2 vào phương trình đường thẳng 3 ta được 2 = -1 + 3  2 = 2 (luôn đúng)
+Vậy ba đường thẳng trên đồng quy tại điểm M (-1;2) .
+Câu 21. Đáp án B.
++) Thay tọa độ điểm M (0; 5) vào phương trình đường thẳng
+)
+Nên
+
+B Ï d2
+
+. Suy ra A,D sai.
+
+d2
+
+ta được 5 = 5.0 - 1  5 = -1 (vô lý
+
+30/
++) Xét tính đồng quy của ba đường thẳng
+d
+d :
+* Phương trình hoành độ giao điểm của 1 và 2
+-x + 5 = 5x - 1  6x = 6  x = 1  y = -1 + 5  y = 4
+
+d
+d
+Suy ra tọa độ giao điểm của 1 và 2 là (1; 4)
+d
+* Thay x = 1; y = 4 vào phương trình đường thẳng 3
+ta được 4 = -2.1 + 6  4 = 4 (luôn đúng)
+Vậy ba đường thẳng trên đồng quy tại điểm N (1; 4) .
+Câu 22. Đáp án D.
+
+d
+d
+Xét phương trình hoành độ giao điểm của 1 và 2 : x = 4 - 3x  x = 1  y = 1 .
+d
+d
+Suy ra giao điểm của 1 và 2 là M (1;1)
+Để ba đường thẳng trên đồng quy thì
+Vậy m = 4 .
+Câu 23. Đáp án A.
+
+M Î d3
+
+nên 1 = m.1 - 3  m = 4 .
+
+d
+d
+Xét phương trình hoành độ giao điểm của 1 và 3 :
+1
+7
+6 - 5x = 3x + 2  8x = 4  x =  y = .
+2
+2
+æ1 7 ö
+M ççç ; ÷÷÷
+2 2 ÷ø
+Suy ra giao điểm của d1 và d3 là è
+Để ba đường thẳng trên đồng quy thì
+5
+Vậy m =
+3
+Câu 24. Đáp án D.
+
+M Î d2
+
+7
+1
+3m
+7
+5
+= (m + 2). + m 
++1 =  m = .
+2
+2
+2
+3
+nên 2
+
+31/
+
+B(x ; 0) là giao điểm của d với trục hoành nên
+
+0 = -3x + 2  x =
+
+æ2 ö
+2
+ B ççç ; 0÷÷÷
+3
+è 3 ÷ø
+
+A(0; y ) là giao điểm của d với trục tung nên y = -3.0 + 2  y = 2  A(0;2)
+
+OA = 2 = 2;OB =
+Suy ra
+
+2
+2
+=
+3
+3
+
+2
+OAOB
+.
+2
+SOAB =
+= 3 =
+2
+2
+3 (đvdt).
+Vì tam giácOAB vuông tại O nên
+Câu 25. Đáp án B.
+2.
+
+A(x ; 0) là giao điểm của d với trục hoành nên 0 = -2x - 4  x = -2  A(-2; 0) B (0; y ) là giao
+
+điểm của d với trục tung nên y = -2.0 - 4  y = -4  B(0; -4)
+OA = -2 = 2;OB = -4 = 4
+Suy ra
+.
+Vì tam giác OAB vuông tại O nên
+OAOB
+.
+2.4
+SOAB =
+=
+=4
+2
+2
+(đvdt)
+
+Câu 26. Đáp án A.
++) Phương trình hoành độ giao điểm của d1
+
+4-x
+= 8 - 2x  24 - 6x = 4 - x  5x = 20  x = 4  y = 0 nên A(4; 0)
+3
+4-0
+4
+yB =
+ yB =
+B(0; yB )
+3
+3
++)
+là giao điểm của đường thẳng d và trục tung. Khi đó ta có
+
+và d2 là
+
+1
+
+Suy ra tổng tung độ yA + yB = 0 +
+
+4
+4
+= .
+3
+3
+
+Câu 27. Đáp án C.
++) Phương trình hoành độ giao điểm của d1 và d2 là -x + 2 = 5 - 4x  3x = 3  x = 1
+nên
+
+xA = 1
+
+32/
++) B(x B ; 0) là giao điểm của đường thẳng d1 và trục hoành. Khi đó ta có
+Suy ra tổng hoành độ
+Câu 28. Đáp án A.
+Nhận thấy
+trình
+
+M Î d2
+
+xA + xB = 1 + 2 = 3
+
+0 = -x B + 2  x B = 2
+
+.
+
+. Ta thay tọa độ điểm M vào phương trình d1 được phương
+
+3 = -(2m - 2).1 + 4m  m =
+
+1
+2
+
+1
+.
+2
+Vậy
+Câu 29. Đáp án C.
+m=
+
+M Î d2
++) Nhận thấy
++) Ta thay tọa độ điểm M vào phương trình d1 được phương trình -1 = 2.m + 1  m = -1
+Vậy m = -1 .
+Câu 30. Đáp án B.
+
+ìïm + 2 ¹ 1
+ïï
+ìïm ¹ 1
+ ïí
+Để 3 đường thẳng trên là ba đường thẳng phân biệt thì ï
+ím ¹ 1
+ïï
+ïïm ¹ -1
+î
+ïïm ¹ m + 2
+î
+d
+Xét phương trình hoành độ giao điểm của d2 và 3 :
+éx = 0
+x + 2 = mx + 2  x (m - 1) = 0  êê
+êëm = 1(ktm )
+d ,d
+Với x = 0  y = 2 nên giao điểm của 2 3 là M (0;2)
+Để ba đường thẳng trên giao nhau tại 1 điểm thì M Î d1 .
+
+5
+2 = (m + 2).0 - 3m - 3  3m = -5  m = - (tm )
+3
+Nên
+-5
+3 .
+Vậy
+Câu 31. Đáp án B.
+m=
+
+Từ hình vẽ suy ra đồ thị hàm số đi qua hai điểm có tọa độ (1; 0) (2; 3) .
+Thay tọa độ hai điểm vào mỗi hàm số ta thấy với hàm số y = 3x - 3
+
++) Thay x = 1; y = 0 và vào hàm số y = 3x - 3 ta được 0 = 3 - 3  0 = 0 (luôn đúng)
++) Thay x = 2; y = 3 và vào hàm số y = 3x - 3 ta được 3 = 3.2 - 3  3 = 3 (luôn đúng)
+Vậy đồ thị hàm số y = 3x - 3 là đường thẳng như hình vẽ.
+Câu 32. Đáp án A.
+
+.
+
+33/
+Từ hình vẽ suy ra đồ thị hàm số đi qua hai điểm có tọa độ (0; -1) và (2; 3)
+Thay tọa độ hai điểm vào mỗi hàm số ta thấy với hàm số y = 2x - 1
+
++) Thay x = 0; y = -1 và vào hàm số y = 2x - 1 ta được -1 = 2.0 - 1  -1 = -1 (luôn đúng)
++) Thay x = 2; y = 3 và vào hàm số y = 2x - 1 ta được 3 = 2.2 - 1  3 = 3 (luôn đúng)
+Vậy đồ thị hàm số y = 2x - 1 là đường thẳng như hình vẽ.
+
+

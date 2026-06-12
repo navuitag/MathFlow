@@ -22,7 +22,7 @@ export function renderQuizCard(question, options = {}) {
   return `
     <article class="quiz-card" data-question-id="${question.id}">
       <div class="quiz-meta">
-        <span>${options.workbook ? "Bài tập rèn luyện" : "Mini quiz"}${question.source === "sgk" ? ' <span class="tag tag-sgk">SGK</span>' : question.source === "sbt" ? ' <span class="tag tag-sbt">SBT</span>' : question.source === "btcb" ? ' <span class="tag tag-btcb">BTCB</span>' : question.source === "chuyen_de" ? ' <span class="tag tag-chuyen-de">Chuyên đề</span>' : ""}</span>
+        <span>${options.workbook ? "Bài tập rèn luyện" : "Mini quiz"}${question.source === "sgk" ? ' <span class="tag tag-sgk">SGK</span>' : question.source === "sbt" ? ' <span class="tag tag-sbt">SBT</span>' : question.source === "btcb" ? ' <span class="tag tag-btcb">BTCB</span>' : question.source === "chuyen_de" ? ' <span class="tag tag-chuyen-de">Chuyên đề</span>' : question.source === "special_topic" ? ' <span class="tag tag-chuyen-de">Chuyên đề</span>' : ""}</span>
         <div class="quiz-meta-actions">
           <button class="hint-btn" type="button" data-hint="${escapeHtml(question.hint || "")}">Gợi ý</button>
           ${question.solution && options.workbook ? `<button class="hint-btn solution-btn" type="button" data-solution="${escapeHtml(question.solution)}">Lời giải</button>` : ""}

@@ -1,4 +1,5 @@
 import { escapeHtml } from "../assets/js/utils.js";
+import { createSpecialTopicStudyModule } from "./specialTopicStudy.js";
 
 function getCatalog(ctx) {
   return ctx.data.specialTopics || { meta: {}, overviews: [], categories: [], topics: [] };
@@ -17,6 +18,8 @@ function encodeAssetPath(path) {
 }
 
 export function createSpecialTopicsModule(ctx) {
+  const study = createSpecialTopicStudyModule(ctx);
+
   function renderCatalog() {
     const catalog = getCatalog(ctx);
     const { meta, overviews, categories, topics } = catalog;
@@ -49,8 +52,9 @@ export function createSpecialTopicsModule(ctx) {
         <p>${escapeHtml(meta.subtitle || "")}</p>
         <div class="st-hero-stats">
           <span>${topics.length} chuyên đề</span>
+          <span>Flash Study</span>
+          <span>Bài tập rèn luyện</span>
           <span>PDF + sơ đồ</span>
-          <span>Xem trực tiếp</span>
         </div>
       </section>
       ${overviews.length ? `
@@ -64,14 +68,15 @@ export function createSpecialTopicsModule(ctx) {
   }
 
   function renderTopicCard(topic) {
-    const href = topic.pdf
-      ? `#/special-topic/${topic.id}/pdf`
-      : `#/special-topic/${topic.id}/image`;
+    const stats = study.getTopicStats(topic.id);
+    const href = `#/special-topic/${topic.id}/flash`;
     return `
       <a class="st-topic-card card-panel" href="${href}">
         <span class="st-topic-code">${escapeHtml(topic.code)}</span>
         <h3>${escapeHtml(topic.title)}</h3>
         <div class="st-topic-meta">
+          ${stats.cardCount ? `<span>${stats.cardCount} thẻ</span>` : ""}
+          ${stats.exerciseCount ? `<span>${stats.exerciseCount} bài</span>` : ""}
           ${topic.pdf ? "<span>PDF</span>" : ""}
           ${topic.image ? "<span>Sơ đồ</span>" : ""}
         </div>
@@ -98,7 +103,33 @@ export function createSpecialTopicsModule(ctx) {
     `;
   }
 
-  function renderTopicViewer(topicId, tab = "pdf") {
+  function renderTopicTabs(topic, activeTab) {
+    const tabs = [
+      { id: "flash", label: "⚡ Flash Study", href: `#/special-topic/${topic.id}/flash` },
+      { id: "workbook", label: "✏️ Bài tập", href: `#/special-topic/${topic.id}/workbook` }
+    ];
+    if (topic.pdf) tabs.push({ id: "pdf", label: "📄 PDF", href: `#/special-topic/${topic.id}/pdf` });
+    if (topic.image) tabs.push({ id: "image", label: "🗺️ Sơ đồ", href: `#/special-topic/${topic.id}/image` });
+    return `
+      <div class="st-tabs" role="tablist">
+        ${tabs.map((tab) => `
+          <a class="st-tab${tab.id === activeTab ? " active" : ""}" href="${tab.href}" role="tab">${tab.label}</a>
+        `).join("")}
+      </div>
+    `;
+  }
+
+  function resolveActiveTab(topic, tab) {
+    const valid = ["flash", "workbook", "pdf", "image"];
+    if (valid.includes(tab)) {
+      if (tab === "pdf" && !topic.pdf) return topic.image ? "image" : "flash";
+      if (tab === "image" && !topic.image) return topic.pdf ? "pdf" : "flash";
+      return tab;
+    }
+    return "flash";
+  }
+
+  function renderTopicViewer(topicId, tab = "flash", state) {
     const catalog = getCatalog(ctx);
     const topic = getTopic(catalog, topicId);
     if (!topic) return ctx.notFound("Không tìm thấy chuyên đề.");
@@ -107,16 +138,15 @@ export function createSpecialTopicsModule(ctx) {
     const prev = idx > 0 ? catalog.topics[idx - 1] : null;
     const next = idx < catalog.topics.length - 1 ? catalog.topics[idx + 1] : null;
 
-    const activeTab = tab === "image" && topic.image ? "image" : topic.pdf ? "pdf" : "image";
-    const tabs = `
-      <div class="st-tabs" role="tablist">
-        ${topic.pdf ? `<a class="st-tab${activeTab === "pdf" ? " active" : ""}" href="#/special-topic/${topic.id}/pdf" role="tab">📄 PDF</a>` : ""}
-        ${topic.image ? `<a class="st-tab${activeTab === "image" ? " active" : ""}" href="#/special-topic/${topic.id}/image" role="tab">🗺️ Sơ đồ</a>` : ""}
-      </div>
-    `;
+    const activeTab = resolveActiveTab(topic, tab);
+    const tabs = renderTopicTabs(topic, activeTab);
 
     let body = "";
-    if (activeTab === "pdf" && topic.pdf) {
+    if (activeTab === "flash") {
+      body = study.renderFlash(topicId, state);
+    } else if (activeTab === "workbook") {
+      body = study.renderWorkbook(topicId, state);
+    } else if (activeTab === "pdf" && topic.pdf) {
       const src = encodeAssetPath(topic.pdf);
       body = `
         <div class="st-pdf-wrap">
@@ -127,7 +157,7 @@ export function createSpecialTopicsModule(ctx) {
           <a class="btn secondary" href="${src}" download>Tải PDF</a>
         </div>
       `;
-    } else if (topic.image) {
+    } else if (activeTab === "image" && topic.image) {
       body = `
         <div class="st-viewer-body">
           <img class="st-doc-image" src="${encodeAssetPath(topic.image)}" alt="${escapeHtml(topic.title)}">
@@ -163,7 +193,9 @@ export function createSpecialTopicsModule(ctx) {
   }
 
   function renderTopicNav(prev, next, tab) {
-    const tabSuffix = tab === "image" ? "/image" : "/pdf";
+    const tabSuffix = tab === "flash" || tab === "workbook" || tab === "pdf" || tab === "image"
+      ? `/${tab}`
+      : "/flash";
     return `
       <nav class="st-topic-nav" aria-label="Chuyên đề trước/sau">
         ${prev
@@ -176,10 +208,12 @@ export function createSpecialTopicsModule(ctx) {
     `;
   }
 
-  function bindViewer() {
+  function bindViewer(topicId, tab) {
     document.querySelector(".st-pdf-frame")?.addEventListener("load", () => {
       document.querySelector(".st-pdf-wrap")?.classList.add("is-loaded");
     });
+    if (tab === "flash") study.bindFlash();
+    if (tab === "workbook") study.bindWorkbook(topicId);
   }
 
   return {

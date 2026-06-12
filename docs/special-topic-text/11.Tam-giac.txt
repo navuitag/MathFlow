@@ -1,0 +1,2713 @@
+CHUYÊN ĐỀ TAM GIÁC
+§ 8. TỔNG BA GÓC CỦA MỘT TAM GIÁC
+A. TÓM TẮT LÝ THUYẾT
+1. Tổng ba góc của một tam giác.
+Tổng ba góc của một tam giác bằng 180°.
+ +C
+ = 180°
+∆ ABC ⇒ 
+A+ B
+2. Áp dụng vào tam giác vuông
+a) Định nghĩa: Tam giác vuông là tam giác có một góc vuông.
+b) Tính chất: Trong tam giác vuông, hai góc nhọn phụ nhau
+∆ ABC
+ = 90°
+ +C
+⇒B
+
+ A= 90°
+3. Góc ngoài của tam giác
+a) Định nghĩa: Góc ngoài của tam giác là góc kề
+A
+bù với một góc của tam giác.
+b) Tính chất:
+• Mỗi góc ngoài của một tam giác bằng tổng hai
+góc trong không kề với nó.
+
+.
+B
+ACD= 
+A+ B
+
+B
+
+C
+
+A
+
+C
+
+D
+
+• Góc ngoài của tam giác lớn hơn mỗi góc trong
+không kề với nó.
+
+ACD > 
+A,
+
+.
+ACD > B
+B. CÁC DẠNG TOÁN
+
+Dạng 1.
+
+TÍNH SỐ ĐO GÓC CỦA MỘT TAM GIÁC
+
+Phương pháp giải.
+• Lập các đẳng thức thể hiện:
+- Tổng ba góc của tam giác bằng 180°.
+- Trong tam giác vuông, hai góc nhọn phụ nhau.
+- Góc ngoài của tam giác bằng tổng hai góc trong không kề với nó.
+• Sau đó tính số đo của góc phải tìm.
+Ví dụ 1. (Bài 1 tr.108 SGK)
+
+= 80°, C
+= 30°. Tia phân giác của góc A cắt BC ở D . Tính
+Cho tam giác ABC có B
+
+ADC , 
+ADB.
+Hướng dẫn.
+
+-180-
+
+ +C
+ = 180° ⇒ 
+A + 80° + 30=
+° 180°
+A+ B
+∆ ABC : 
+
+A 70°
+
+A=
+A
+=
+=
+= 35°.
+⇒
+A = 70° Do đó 
+1
+2
+2
+2
+
+A
+2
+
+1
+
++
+Góc ngoài 
+ADC= B
+A1
+80°
+
+= 80° + 35°= 115°
+
+30°
+
+B
+
+D
+
+(góc ngoài của ∆ ABD ).
+Suy ra 
+ADB= 180° − 115°= 65°.
+Ví dụ 2.
+
+(Bài 6 tr.109 SGK)
+Tìm số đo x ở các hình 55, 56, 57, 58 (SGK)
+H
+A
+1
+
+A
+
+K
+I
+
+2
+
+D
+E
+
+x
+
+25°
+
+x
+
+B
+
+C
+
+B
+
+Hình 55 (SGK)
+
+Hình 56 (SGK)
+H
+
+A
+1
+
+x
+
+B
+x
+55°
+
+60°
+
+B
+
+D
+
+C
+
+A
+
+Hình 57 (SGK)
+
+K
+
+Hình 58 (SGK)
+
+Giải.
+
+ + I (= 90° ) ⇒ A= B
+ ⇒ 40°= x.
+A + I1= B
+a) 
+2
+ =
+ + A =
+ACE + A =( =90° ) ⇒ ABD
+ACE ⇒ x =25°.
+b) ABD
++M
+ =90°
+IMP
+  
+1
+c)
+ ⇒ IMP = N ⇒ x = 60°.
++M
+ =90° 
+N
+1
+
+-181-
+
+E
+
+C
+
+= 90° ⇒ E
+= 90° − 
+d) 
+A+ E
+A= 90° − 55°= 35°.
++E
+= 90° + 35°= 125°.
+x= BKE
+
+Dạng 2.
+
+NHẬN BIẾT MỘT TAM GIÁC VUÔNG, TÌM CÁC GÓC BẰNG NHAU TRONG
+HÌNH VẼ CÓ TAM GIÁC VUÔNG.
+
+Phương pháp giải.
+Để nhận biết tam giác vuông, ta chứng minh tam giác đó có một góc bằng 90°. Trong hình
+vẽ có tam giác vuông, cần chú ý rằng hai góc nhọn của tam giác vuông phụ nhau.
+Ví dụ 3. (Bài 7 tr.109 SGK)
+Cho tam giác ABC vuông tại A . Kẻ AH vuông góc với BC ( H ∈ BC )
+a) Tìm các cặp góc phụ nhau trong hình vẽ.
+b) Tìm các cặp góc nhọn bằng nhau trong hình vẽ.
+Hướng dẫn.
+A
+
+ và
+ và C
+, B
+a) Các cặp góc phụ nhau: 
+A2 , B
+A1 và 
+
+1
+
+
+ và 
+A2 .
+A1 , C
+b) Các cặp góc nhọn bằng nhau:
+
+B
+
+2
+
+C
+
+H
+
+=
+A2 )
+C
+A1 (cùng phụ với 
+=
+B
+A2 (cùng phụ với 
+A1 ).
+Dạng 3.
+
+CHỨNG MINH HAI ĐƯỜNG THẲNG SONG SONG BẰNG CÁCH CHỨNG
+MINH HAI GÓC BẰNG NHAU
+
+Phương pháp giải.
+Chứng minh hai góc bằng nhau bằng cách chứng tỏ chúng cùng bằng, cùng phụ, cùng bù với
+một góc thứ ba (hoặc với hai góc bằng nhau). Từ chứng minh hai góc bằng nhau, ta chứng
+minh được hai đường thẳng song song.
+Ví dụ 4. (Bài 8 tr.109 SGK)
+= C
+= 40°. Gọi Ax là tia phân giác của góc ngoài ở đỉnh A.
+Cho tam giác ABC có B
+Hãy chứng tỏ rằng Ax //BC.
+D
+
+Hướng dẫn.
+
+= B
+ +C
+= 40° + 40°= 80°,
+CAD
+
+A
+
+1
+
+x
+
+2
+
+-182B
+
+C
+
+1
+
+A1 = 
+A2 = CAD
+= 80° : 2 = 40°.
+2
+ bằng nhau nên Ax //BC.
+Cách 1: Hai góc so le trong 
+A2 và C
+
+ bằng nhau nên Ax //BC.
+Cách 2: Hai góc đồng vị 
+A1 và B
+Dạng 4.
+
+SO SÁNH CÁC GÓC DỰA VÀO TÍNH CHẤT GÓC NGOÀI CỦA TAM GIÁC
+
+Phương pháp giải.
+Dùng tính chất: Góc ngoài của tam giác lớn hơn mỗi góc trong không kề với nó.
+Ví dụ 4. (Bài 2 tr.108 SGK)
+A
+
+Cho hình 52. Hãy so sánh:
+
+ và BAK
+
+a) BIK
+I
+
+ và BAC
+.
+b) BIC
+
+Hướng dẫn.
+
+ (góc ngoài của ∆ BAI ) (1)
+ > BAI
+a) BIK
+
+B
+
+K
+
+C
+
+ > CAI
+ (góc ngoài của ∆ CAI ) ( 2 )
+b) CIK
+ + CIK
+ > BAI
+ + CAI
+ ⇒ BIC
+ > BAC
+.
+Từ (1) và ( 2 ) suy ra: BIK
+
+C. LUYỆN TẬP
+
+ và C
+ của tam giác ABC biết:
+8.1 Dạng 1. Tính B
+ −C
+ = 10°;
+a) 
+A= 70°, B
+
+ = 2C
+.
+b) 
+A= 60°, B
+
+= 2 : 3 : 4.
+= C
+8.2 Dạng 1. Tính các góc của tam giác ABC biết rằng 
+A= B
+
+8.3 Dạng 1. Cho tam giác ABC , tia phân giác của góc B cắt tia phân giác của góc C ở I và
+ , biết rằng:
+ và BKC
+cắt đường phân giác của góc ngoài tại C ở K . Tính BIC
+a) 
+A= 70°;
+
+b) 
+A = α.
+
+ bằng cách vẽ giao điểm K của BC
+8.4 Dạng 1. Cho hình vẽ sau, trong đó AB //DE. Tính BCE
+.
+và DE rồi tính CKE
+
+-183-
+
+B
+
+A
+
+40°
+
+C
+30°
+
+D
+
+E
+
+K
+
+8.5 Dạng 1. Cho hình vẽ dưới đây. Chứng minh AB //DE bằng cách vẽ giao điểm K của AC
+.
+và DE rồi tính K
+A
+
+B
+120°
+
+C 140°
+100°
+
+K
+
+D
+
+E
+
+8.6 Dạng 1. Cho tam giác ABC. Tia phân giác của góc A cắt BC tại D. Tính 
+ADC biết rằng:
+
+= 70°, C
+= 30°;
+a) B
+
+ −C
+ = 40°.
+b*) B
+
+ có cạnh tương
+8.7 Dạng 2. Trên hình vẽ bên, các góc 
+A và HBC
+
+ứng vuông góc ( AH ⊥ BH , AK ⊥ BC ) , các góc 
+A và HBK
+
+có cạnh tương ứng vuông góc ( AH ⊥ BH , AK ⊥ BK ) . Hãy
+
+C
+H
+
+B
+A
+
+tìm mối liên hệ giữa:
+;
+a) 
+A và HBC
+
+K
+
+.
+b) 
+A và HBK
+
+ và C
+ là góc nhọn. Qua B kẻ đoạn thẳng BD vuông góc
+8.8 Dạng 2. Cho tam giác ABC B
+với AC ( D ∈ AC ) . Qua C kẻ đoạn thẳng CE vuông góc AB ( E ∈ AB ) . Gọi H là giao
+điểm của BD và CE. Hãy tìm mối liên hệ giữa:
+a) 
+ABD và 
+ACE ;
+
+.
+b) 
+A và DHE
+
+8.9 Dạng 2. Cho góc xOy , điểm A thuộc tia Ox. Kẻ AB vuông góc với Ox ( B ∈ Oy ) , kẻ BC
+vuông góc với Oy ( C ∈ Ox ) , kẻ CD vuông góc với Ox ( D ∈ Oy ) .
+a) Tìm các tam giác vuông trong hình vẽ.
+b) Tìm các góc bằng góc ABO.
+
+-184-
+
+8.10* Dạng 2. Cho tam giác ABC có 
+A= 90°. Gọi d là một đường thẳng đi qua C và vuông
+góc với BC. Tia phân giác của góc B cắt AC ở D và cắt d ở E. Kẻ CH vuông góc với
+DE ( H ∈ DE ) . Chứng minh rằng CH là tia phân giác của góc DCE.
+
+= 90°, gọi D là một điểm nằm giữa A và C . Lấy điểm
+8.11 Dạng 4. Cho tam giác ABC có B
+E thuộc tia đối của tia BD. Chứng minh rằng góc AEC là góc nhọn.
+
+§ 9 . HAI TAM GIÁC BẰNG NHAU
+A. TÓM TẮT LÝ THUYẾT
+Định nghĩa: Hai tam giác bằng
+nhau là hai tam giác có các cạnh
+tương ứng bằng nhau, các góc
+tương ứng bằng nhau.
+
+A= 
+A'
+
+=B
+'
+B
+
+ 
+∆ABC =
+∆A ' B ' C ' ⇔ C = C '
+ AB = A ' B '
+
+ AC = A ' C '
+ BC = B ' C '
+
+A
+
+A'
+
+C
+
+B
+
+B'
+
+C'
+
+B. CÁC DẠNG TOÁN
+Dạng 1. TỪ HAI TAM GIÁC BẰNG NHAU, XÁC ĐỊNH CÁC CẠNH BẰNG NHAU, CÁC
+GÓC BẰNG NHAU. TÍNH ĐỘ DÀI ĐOẠN THẲNG, SỐ ĐO GÓC.
+Phương pháp giải.
+Căn cứ vào quy ước viết các đỉnh tương ứng của hai tam giác bằng nhau theo đúng thứ
+tự, ta viết được các góc bằng nhau, các đoạn thẳng bằng nhau.
+Ví dụ 1. (Bài 11 tr.112 SGK)
+Cho ∆ABC =
+∆HIK
+a) Tìm cạnh tương ứng với cạnh BC . Tìm góc tương ứng với góc H .
+b) Tìm các cạnh bằng nhau, tìm các góc bằng nhau.
+Giải.
+a) Cạnh tương ứng với cạnh BC là cạnh IK . góc tương ứng với góc H là góc A .
+-185-
+
+.
+=K
+, B
+ = I , C
+b) Từ ∆ABC =
+A=H
+∆HIK ta có: AB = HI , AC = HK , BC = IK , 
+Ví dụ 2. (Bài 13 tr.112 SGK)
+Cho ∆ABC =
+∆DEF . Tính chu vi mỗi tam giác nói trên biết rằng AB = 4cm ,
+BC = 6cm , DF = 5cm .
+Giải.
+∆ABC =
+∆DEF suy ra: DE
+= AB
+= 4cm , EF
+= BC
+= 6cm , AC
+= DF
+= 5cm .
+
+Chu vi ∆ABC bằng: AB + BC + AC = 4 + 6 + 5 = 15 ( cm ) .
+Chu vi ∆DEF bằng: DE + EF + DF = 4 + 6 + 5 = 15 ( cm ) .
+Dạng 2: VIẾT KÍ HIỆU VỀ SỰ BẰNG NHAU CỦA HAI TAM GIÁC
+Phương pháp giải.
+Viết ba đỉnh của tam giác thứ nhất, rồi lần lượt chọn các đỉnh tương ứng của tam giác thứ
+hai.
+Ví dụ 3. (Bài 14 tr.112 SGK)
+Cho hai tam giác bằng nhau: tam giác ABC (không có hai góc nào bằng nhau, không có
+hai cạnh nào bằng nhau) và một tam giác có ba đỉnh là H , I , K . Viết kí hiệu về sự bằng
+ K
+.
+nhau của hai tam giác đó, biết rằng:=
+AB KI
+=
+, B
+Hướng dẫn.
+
+=K
+ nên B và K là hai đỉnh tương ứng. Do AB = KI mà B và K là hai đỉnh tương
+Do B
+ứng nên A và I là hai đỉnh tương ứng. Do đó ∆ABC =
+∆IKH .
+C. LUYỆN TẬP
+9.1
+
+ 100° . Tính các góc còn lại của mỗi tam
+= 35° , =
+Dạng 1. Cho ∆ABC =
+K
+∆DHK , B
+giác.
+
+9.2
+
+Dạng 1. Cho ∆ABC =
+∆DEI . Tính chu vi của mỗi tam giác trên, biết rằng AB = 5cm ,
+AC = 6cm , EI = 8cm .
+
+9.3
+
+Dạng 2. ∆AMN =
+∆DEK . Hãy viết đẳng thức trên dưới một vài dạng khác.
+
+9.4
+
+Dạng 2. Cho ∆ABC (không có hai góc nào bằng nhau, không có hai cạnh nào bằng
+nhau) bằng một tam giác có ba đỉnh là O, H , K . Viết kí hiệu về sự bằng nhau của hai tam
+giác, biết rằng:
+
+, B
+=K
+.
+a) 
+A=O
+-186-
+
+b) AB OH
+=
+=
+, BC KO .
+§10. TRƯỜNG HỢP BẰNG NHAU THỨ NHẤT CỦA TAM GIÁC CẠNH-CẠNHCẠNH (C.C.C)
+A. TÓM TẮT LÝ THUYẾT
+
+Nếu ba cạnh của tam giác này bằng ba cạnh
+của tam giác kia thì hai tam giác đó bằng nhau.
+AB = A ' B ' 
+
+AC = A ' C ' ⇒ ∆ABC = ∆A ' B ' C ' ( c.c.c )
+BC = B ' C ' 
+
+B. CÁC DẠNG TOÁN
+Dạng 1. VẼ TAM GIÁC BIẾT ĐỘ DÀI BA CẠNH
+Phương pháp giải.
+Vẽ một cạnh, rồi xác định vị trí của đỉnh còn lại của tam giác.
+Ví dụ 1. (Bài 16 tr.114 SGK)
+Vẽ tam giác ABC biết độ dài mỗi cạnh bằng 3cm . Sau đó đo mỗi góc của tam giác.
+Hướng dẫn.
+-
+
+Vẽ đoạn thẳng BC = 3cm
+
+-
+
+Vẽ cung tâm B bán kính 3cm và
+
+cung tâm C bán kính 3cm , chúng cắt nhau tại A.
+-
+
+Vẽ các đoạn thẳng AB, AC.
+
+= C
+= 60° .
+Dùng thước đo góc, ta đo được: 
+A= B
+
+Dạng 2. TÌM HOẶC CHỨNG MINH HAI TAM GIÁC BẰNG NHAU THEO TRƯỜNG
+HỢP CẠNH- CẠNH- CẠNH. SẮP XẾP LẠI TRÌNH TỰ LỜI GIẢI BÀI TOÁN
+CHỨNG MINH HAI TAM GIÁC BẰNG NHAU.
+Phương pháp giải.
+-187-
+
+-
+
+Xét hai tam giác.
+
+-
+
+Kiểm tra ba điều kiện bằng nhau: cạnh- cạnh- cạnh.
+
+-
+
+Kết luận hai tam giác bằng nhau.
+Ví dụ 2. (Bài 17 tr.114 SGK)
+Trên hình vẽ dưới đây, có các tam giác nào bằng nhau? Vì sao?
+
+Hướng dẫn.
+
+∆ABC =
+∆ABD ( c.c.c ) ;
+
+∆MPQ =
+∆QNM ( c.c.c ) ;
+
+∆HEI =
+∆KIE ( c.c.c ) ;
+
+∆HEK =
+∆KIH ( c.c.c ) .
+
+Dạng 3. SỬ DỤNG TRƯỜNG HỢP BẰNG NHAU CẠNH- CẠNH- CẠNH ĐỂ CHỨNG
+MINH HAI GÓC BẰNG NHAU
+Phương pháp giải.
+-
+
+Chọn hai tam giác có góc là hai góc cần chứng minh bằng nhau.
+
+-
+
+Chứng minh hai tam giác bằng nhau theo trường hợp cạnh- cạnh- cạnh.
+
+-
+
+Suy ra hai góc tương ứng bằng nhau.
+Ví dụ 3. (Bài 20 tr. 115 SGK)
+Cho góc xOy (hình 73 SGK). Vẽ cung tròn tâm O, cung này cắt Ox, Oy theo thứ tự ở A,
+B (). Vẽ các cung tròn tâm A và tâm B có cùng bán kính sao cho chúng cắt nhau ở
+điểm C nằm trong góc xOy (, ). Nối O với C (). Chứng minh OC là tia phân giác
+của góc xOy.
+
+Giải.
+-188-
+
+∆OBC và ∆OAC có: OB = OA (giả thiết); BC = AC (giả thiết); OC : cạnh chung. Do
+=
+đó: ∆OBC =
+AOC (hai góc tương ứng). Vậy OC là tia
+∆OAC (c.c.c). Suy ra BOC
+
+phân giác của góc xOy .
+Ví dụ 4. (Bài 23 tr. 116 SGK)
+Cho đoạn thẳng AB dài 4cm. Vẽ đường tròn tâm A bán kính 2cm và đường tròn tâm B
+bán kính 3cm, chúng cắt nhau ở C và D. Chứng minh rằng AB là tia phân giác của góc
+CAD .
+
+Hướng dẫn.
+
+ = BAD
+ (hai góc tương ứng), suy ra AB là tia phân
+∆BAC =
+∆BAD (c.c.c) suy ra BAC
+giác của góc CAD .
+C. LUYỆN TẬP
+10.1 Dạng 1 & 3. a) Vẽ tam giác ABC có BC = 2cm , AB
+= AC
+= 3cm .
+b) Gọi E là trung điểm của cạnh BC ở ∆ABC trong câu a). Chứng minh rằng AE là tia
+phân giác của góc BAC.
+10.2
+
+Dạng 1 & 3. Cho đoạn thẳng AB. Vẽ các điểm C, D sao cho ∆ABC có ba cạnh bằng
+nhau, ∆ABD cũng có ba cạnh bằng nhau. Chứng minh rằng CD là tia phân giác của góc
+ACB.
+
+10.3 Dạng 2. Tìm các tam giác bằng nhau trên hình dưới đây.
+
+10.4 Dạng 2 & 3. Cho bốn điểm A, B, C, D thuộc đường tròn ( O ) sao cho AB = CD . Chứng
+minh rằng:
+-250-
+
+a) ∆AOB =
+∆COD
+
+.
+b) 
+AOB = COD
+
+10.5 Dạng 3. Chứng minh rằng trên hình bên ta có 
+ABC = 
+ADC .
+10.6 Dạng 3. Cho hình bên dưới. Chứng minh rằng AB / / CD .
+
+§11. TRƯỜNG HỢP BẰNG NHAU THỨ HAI CỦA TAM GIÁC
+CẠNH – GÓC – CẠNH (C.G.C)
+A. TÓM TẮT LÝ THUYẾT
+1. Trường hợp bằng nhau: cạnh – góc – cạnh
+Nếu hai cạnh và góc xen giữa của tam giác này
+bằng hai cạnh và góc xen giữa của tam
+giác kia thì hai tam giác đó bằng nhau.
+
+AB = A ' B ' 
+=B
+'  ⇒ ∆ABC = ∆A ' B ' C ' ( c.g .c )
+B
+
+BC = B ' C '
+
+
+2. Hệ quả: Nếu hai cạnh góc vuông của tam giác vuông này bằng hai cạnh góc vuông của
+tam giác vuông kia thì hai tam giác vuông đó bằng nhau.
+B. CÁC DẠNG TOÁN
+Dạng 1. VẼ TAM GIÁC BIẾT HAI CẠNH VÀ GÓC XEN GIỮA
+Phương pháp giải.
+Vẽ góc, rồi xác định vị trí hai đỉnh còn lại của tam giác.
+Ví dụ 1. (Bài 24 tr. 118 SGK)
+
+.
+ và C
+Vẽ tam giác ABC biết 
+A= 90° , AB
+= AC
+= 3cm . Sau đó đo các góc B
+-251-
+
+Giải.
+-
+
+= 90°
+Vẽ góc xAy
+
+-
+
+Trên tia AX vẽ đoạn thẳng AB = 3cm .
+
+-
+
+Trên tia Ay vẽ đoạn thẳng AC = 3cm .
+
+-
+
+Vẽ đoạn thẳng BC.
+
+= C
+= 45° .
+Dùng thước đo góc, ta đo được B
+
+Dạng 2. BỔ SUNG THÊM ĐIỀU KIỆN ĐỂ HAI TAM GIÁC BẰNG NHAU THEO
+TRƯỜNG HỢP CẠNH – GÓC – CẠNH
+Phương pháp giải.
+Xét xem hai tam giác đã có các yếu tố nào bằng nhau, từ đó bổ sung thêm điều kiện để
+hai tam giác bằng nhau.
+Ví dụ 2. (bài 27 tr. 119 SGK)
+Nêu thêm một điều kiện để hai tam giác trong mỗi hình vẽ dưới đây là hai tam giác
+bằng nhau theo trường hợp cạnh – góc – cạnh:
+a) ∆ABC =
+∆ADC (Hình 86 SGK)
+b) ∆AMB =
+∆EMC (Hình 87 SGK)
+c) ∆CAB =
+∆DBA (Hình 88 SGK)
+
+Giải.
+
+ = DAC
+ thì ∆ABC =
+a) Thêm BAC
+∆ADC (c.g.c);
+b) Thêm MA = ME thì ∆AMB =
+∆EMC (c.g.c);
+
+-252-
+
+c) Thêm AC = BD thì ∆CAB =
+∆DBA (c.g.c).
+Dạng 3.
+TÌM HOẶC CHỨNG MINH HAI TAM GIÁC BẰNG NHAU THEO
+TRƯỜNG HỢP CẠNH – GÓC – CẠNH. SẮP XẾP LẠI TRÌNH TỰ GIẢI BÀI
+TOÁN CHỨNG MINH HAI TAM GIÁC BẰNG NHAU
+Phương pháp giải.
+-
+
+Xét hai tam giác.
+
+-
+
+Kiểm tra ba điều kiện bằng nhau cạnh – góc - cạnh.
+
+-
+
+Kết luận hai tam giác bằng nhau.
+Ví dụ 3. (bài 28 tr. 120 SGK)
+Trên hình 89 (SGK) có các tam giác nào bằng nhau?
+
+Giải.
+
+= 180° − 80° − 40°= 60° .
+Ta tính được D
+∆ABC và ∆KDE có:
+
+AB = KD (giả thiết);
+= D
+ =( 60° ) ;
+B
+BC = DE (giả thiết);
+
+Do đó ∆ABC =
+∆KDE (c.g.c).
+Chú ý:
+•
+
+=N
+ nên ta không
+∆ABC và ∆MNP có AB = MN , BC = NP nhưng đề bài không cho B
+kết luận được ∆ABC =
+∆MNP .
+
+•
+
+=M
+ nhưng đề bài không cho BC = MP nên ta
+∆ABC và ∆NMP có AB = NM , B
+không kết luận được ∆ABC =
+∆NMP .
+
+-253-
+
+Dạng 4. SỬ DỤNG TRƯỜNG HỢP BẰNG NHAU CẠNH – GÓC – CẠNH ĐỂ
+CHỨNG MINH HAI ĐOẠN THẲNG BẰNG NHAU, HAI GÓC BẰNG NHAU
+Phương pháp giải.
+-
+
+Chọn hai tam giác có cạnh (góc) là hai đoạn thẳng (góc) cần chứng minh bằng nhau.
+
+-
+
+Chứng minh hai tam giác ấy bằng nhau theo trường hợp cạnh – góc – cạnh.
+
+-
+
+Suy ra hai cạnh (góc) tương ứng bằng nhau.
+Ví dụ 4. (Bài 31 tr. 120 SGK)
+Cho đoạn thẳng AB, điểm M nằm trên đường trung trực của AB. So sánh độ dài các đoạn
+thẳng MA và MB.
+Hướng dẫn.
+
+∆MHA và ∆MHB có: MH : cạnh chung;
+= MHB
+= 90° (định nghĩa đường trung trực);
+MHA
+
+HA = HB (định nghĩa đường trung trực).
+∆MHB ( c.g .c )
+Do đó ∆MHA =
+Suy ra MA = MB (hai cạnh tương ứng).
+Ví dụ 5. (Bài 32 tr. 120 SGK)
+Tìm các tia phân giác trên hình 91 (SGK). Hãy chứng minh điều đó.
+Hướng dẫn.
+
+ ⇒ BH là tia phân giác của góc B.
+∆AHB =
+∆KHB ( c.g .c ) ⇒ 
+ABH =
+KBH
+ ⇒ CH là tia phân giác của góc C.
+∆AHC =
+∆KHC ( c.g .c ) ⇒ 
+ACH =
+KCH
+Ngoài ra còn có: HA và HK là các tia phân giác của góc bẹt BHC; HB và HC là các tia
+phân giác của góc bẹt AHK.
+
+Hình 91 (SGK)
+-254-
+
+C. LUYỆN TẬP
+11.1
+
+= 60° , AB
+Dạng 1. a) Vẽ tam giác ABC có B
+= BC
+= 3cm .
+
+b) Đo độ dài cạnh AC.
+11.2
+
+Dạng 2. Cho hình vẽ bên. Bổ sung thêm một
+điều kiện bằng nhau để ∆ABC =
+∆DCB
+theo trường hợp cạnh – góc – cạnh.
+
+11.3
+
+Dạng 3. Cho tam giác ABC , kẻ AH vuông góc với BC ( H ∈ BC ) . Trên tia đối của tia
+HA, lấy điểm K sao cho HK = HA . Nối KB, KC. Tìm các cặp tam giác bằng nhau trong
+hình vẽ.
+
+11.4
+
+Dạng 4. Cho tam giác ABC . Gọi I là trung điểm của AC. Trên tia đối của tia IB lấy điểm
+E sao cho IE = IB . Chứng minh rằng:
+a) AE = BC
+
+b) AE / / BC
+
+11.5
+
+Dạng 4. Cho góc xOy . Trên cạnh Ox lấy các điểm A và B, trên cạnh Oy lấy các điểm C
+và D sao cho OA = OC , OB = OD . Chứng minh rằng AD = BC .
+
+11.6
+
+Dạng 4. Cho góc xOy . Lấy điểm A trên Ox, điểm B trên Oy sao cho OA = OB . Gọi K là
+giao điểm của AB với tia phân giác của góc xOy . Chứng minh rằng:
+a) AK = KB
+
+11.7
+
+b) OK ⊥ AB
+
+Dạng 4. Cho hai đoạn thẳng AB, CD vuông góc với nhau và cắt nhau tại trung điểm của
+mỗi đoạn.
+
+a) Chứng minh rằng các đoạn thẳng AC, CB, BD, DA bằng nhau.
+b) Tìm tia phân giác của các góc (khác góc bẹt) trong hình vẽ.
+11.8
+
+Dạng 4. Cho tam giác ABC , tia phân giác của góc A cắt BC tại D. Trên tia AC lấy điểm
+E sao cho DE = DB .
+
+a) Chứng minh rằng DE = DB .
+b) Tam giác ABC có điều kiện gì thì ∆ADB =
+∆ADC ?
+c) Tam giác ABC có điều kiện gì thì DE ⊥ AC ?
+11.9
+
+Dạng 4. Hai đoạn thẳng AD và BC trên hình vẽ bên
+song song và bằng nhau. Chứng minh rằng AB / / CD .
+
+-255-
+
+11.10 Dạng 4. Cho tam giác ABC , I là trung điểm của BC. Đường thẳng vuông góc với AB tại
+B cắt đường thẳng AI tại D. Trên tia đối của tia ID, lấy điểm E sao cho IE = ID . Gọi H
+là giao điểm của CE và AB. Chứng minh rằng tam giác AHC là tam giác vuông.
+11.11 ∗ Dạng 4. Cho tam giác ABC . Gọi D là trung điểm của AC, gọi E là trung điểm của AB.
+Trên tia đối của tia DB lấy điểm M sao cho DM = DB . Trên tia đối của tia EC lấy điểm
+N sao cho EN = EC . Chứng minh rằng A là trung điểm của MN.
+11.12 ∗ Dạng 4. Cho tam giác ABC có 
+A= 50° . Vẽ đoạn thẳng AI vuông góc và bằng Ab (I
+và C khác phía đối với AB). Vẽ đoạn thẳng AK vuông góc và bằng AC (K và B khác
+phía đối với AC). Chứng minh rằng:
+a) IC = BK
+
+b) IC ⊥ BK
+
+
+11.13 ∗ Dạng 4. Cho tam giác ABC có =
+A 100° , M là trung điểm của BC. Trên tia đối của tia
+MA lấy điểm K sao cho MK = MA .
+a) Tính số đo góc ABK.
+b) Về phía ngoài của tam giác ABC , vẽ các đoạn thẳng AD vuông góc và bằng AB, AE
+vuông góc và bằng AC. Chứng minh rằng ∆ABK =
+∆DAE .
+c) Chứng minh: MA ⊥ DE .
+§12. TRƯỜNG HỢP BẰNG NHAU THỨ BA CỦA TAM GIÁC
+GÓC – CẠNH – GÓC (G.C.G)
+A. TÓM TẮT LÝ THUYẾT
+1. Trường hợp bằng nhau góc – cạnh – góc:
+Nếu một cạnh và hai góc kề của tam giác
+này bằng một cạnh và hai góc kề của
+tam giác kia thì hai tam giác đó bằng nhau.
+
+=B
+' 
+B
+
+BC = B ' C ' ⇒ ∆ABC = ∆A ' B ' C ' ( g.c.g )
+ =C
+' 
+C
+
+
+2. Trường hợp bằng nhau cạnh huyền – góc nhọn của tam giác vuông:
+Nếu cạnh huyền và một góc nhọn của tam giác vuông này
+bằng cạnh huyền và một góc nhọn của tam giác vuông kia
+-256-
+
+thì hai tam giác vuông đó bằng nhau.
+
+
+A= 
+A=' 90°
+
+BC = B ' C '  ⇒ ∆ABC = ∆A ' B ' C ' (cạnh huyền – góc nhọn)
+=B
+' 
+B
+
+B. CÁC DẠNG TOÁN
+Dạng 1. VẼ TAM GIÁC BIẾT MỘT CẠNH VÀ HAI GÓC KỀ
+Phương pháp giải.
+Vẽ một cạnh của tam giác, rồi vẽ hai tia để xác định vị trí của đỉnh còn lại.
+Ví dụ 1. (Bài 33 tr. 123 SGK)
+
+= 60° .
+Vẽ tam giác ABC biết AC = 2cm , 
+A= 90° , C
+Giải.
+-
+
+Vẽ đoạn thẳng AC = 2cm .
+
+-
+
+Trên cùng một nửa mặt phẳng bờ AC vẽ các tia Ax và Cy
+
+= 90° , 
+sao cho CAx
+ACy= 60° , chúng cắt nhau tại B.
+
+Dạng 2. TÌM HOẶC CHỨNG MINH HAI TAM GIÁC BẰNG NHAU THEO TRƯỜNG
+HỢP GÓC – CẠNH – GÓC.
+Phương pháp giải.
+-
+
+Xét hai tam giác.
+
+-
+
+Kiểm tra ba điều kiện bằng nhau góc – cạnh – góc.
+
+-
+
+Kết luận hai tam giác bằng nhau.
+Ví dụ 2. (Bài 34 tr. 123 SGK)
+Trên mỗi hình 98, 99 (SGK) có các tam giác bằng nhau? Vì sao?
+
+-257-
+
+Hình 99 (SGK)
+
+Hình 98 (SGK)
+
+Hướng dẫn
+
+a ) ABC  ABD c.g .c 
+ C
+B
+ C
+
+b) B
+1
+1
+1
+2
+ABD  ACE  g .c.g , ADC  AEB  g .c.g .
+Ví dụ 3. ( Bài 37 tr.123 SGK)
+Trên mỗi hình 101, 102, 103 (SGK) có các tam giác nào bằng nhau? vì sao?
+
+Hình 101 (SGK)
+
+Hình 102 (SGH)
+
+Hình 103 (SGK)
+
+Hướng dẫn
+
+  40o , ABC  FDE  g .c.g 
+a) Ta tính được E
+b) GHI không bằng MLK mặc dù có một cặp cạnh bằng nhau và hai cặp góc bằng nhau
+(ở hình 102 (SGK), hai cặp góc bằng nhau không kề với cặp cạnh bằng nhau
+
+-258-
+
+R
+  80o , NQR  RPN  g .c.g .
+c) Ta tính được N
+1
+1
+Dạng 3. SỬ DỤNG TRƯỜNG HỢP BẰNG NHAU GÓC – CẠNH – GÓC
+ĐỂ CHỨNG MINH HAI ĐOẠN THẲNG BẰNG NHAU.
+Phương pháp giải.
+-
+
+Chọn hai tam giác có cạnh là hai đoạn thẳng cần chứng minh bằng nhau.
+Chứng minh hai tam giác bằng nhau theo trường hợp góc – cạnh – góc.
+Suy ra hai cạnh tương ứng bằng nhau.
+
+Ví dụ 5.
+
+( Bài 38 tr. 124 SGK)
+
+Trên hình 104 (SGK) ta có AB / / CD , AC / / BD .
+Hãy chứng minh rằng AB  CD, AC  BD.
+
+Hình 104 (SGK)
+Hướng dẫn .
+Nối AC. ADB và DAC ta có:
+
+D
+ ( so le trong, AB / / CD ); AD : cạnh chung; D
+
+A
+A2 ( so le trong, AC / / BD ).
+1
+1
+2
+Do đó ADB  DAC  g .c.g  suy ra: AB  CD, BD  AC.
+Chú ý: Từ hai bài toán trên, ta suy ra : Nếu hai đoạn thẳng song song bị chắn giữa hai đường
+thẳng song song thì chúng bằng nhau.
+Ví dụ 6.
+
+(Bài 44 tr.125 SGK)
+
+ C
+ . Tia phân giác của góc A cắt BC tại D . chứng
+Cho tam giác ABC có B
+minh rằng:
+a ) ADB  ADC ;
+b) AB  AC
+
+Hướng dẫn .
+
+ C
+, A
+
+A2 nên ABD  ACD  g .c.g 
+a ) ABD và ACD có B
+1
+b) ABD  ACD (câu a) suy ra AB  AC
+
+-259-
+
+Chú ý: Từ bài toán trên , ta suy ra : Nếu một tam giác có hai góc bằng nhau thì tam giác đó có
+hai cạnh bằng nhau.
+
+Dạng 4: SỬ DỤNG NHIỀU TRƯỜNG HỢP BẰNG NHAU CỦA TAM GIÁC
+Phương pháp giải.
+Sử dụng nhiều trường hợp bằng nhau của tam giác đã học : cạnh - cạnh – cạnh , cạnh – góc –
+cạnh , góc – cạnh – góc.
+Ví dụ 7.
+
+( Bài 43 tr.125 SGK)
+
+Cho góc xOy khác góc bẹt. Lấy các điểm A, B thuộc tia Ox sao cho OA  OB. Lấy các điểm
+C , D thuộc tia Oy sao cho OC  OA, OD  OB . Gọi E là các giao điểm của AD và BC .
+Hãy dùng lập luận để giải thích
+
+a ) AD  BC
+
+b) EAB  ECD
+
+c) OE là tia phân giác của góc xOy .
+
+Hướng dẫn .
+
+a ) OAD  OCB c.g .c   AD  BC
+B
+, A
+ C
+
+.
+b) OAD  OCB cmt   D
+A2  C
+1
+1
+2
+Dễ thấy AB  CD  EAB  ECD  g .c.g 
+
+c) EAB  ECD cmt   EA  EC.
+
+OAE  OCE c.c.c  
+AOE  COE
+ OE là tia phân giác của xOy
+
+-260-
+
+Ví dụ 8 (Bài 45 tr.125 SGK)
+Cho bốn đoạn thẳng AB, BC , CD, DA trên giấy kẻ ô vuông như hình 110 (SGK). Hãy
+dùng lập luận để giải thích
+a ) AB  CD, BC  AD
+b) AB / / CD.
+
+Hướng dẫn .
+
+a ) AHB  CKD c.g .c  AB  CD;
+CEB  AFD c.g .c  BC  AD
+  AB / / CD ( có hai góc so le trong bằng
+b) ABD  CDB c.c.c  
+ABD  CDB
+nhau)
+Dạng 5. TÌM HOẶC CHỨNG MINH HIA TAM GIÁC VUÔNG BẰNG NHAU.
+Phương pháp giải
+-
+
+Xét hai tam giác vuông.
+-261-
+
+-
+
+Kiểm tra điều kiện bằng nhau cạnh – góc – cạnh, hoặc góc – cạnh – góc , hoặc cạnh huyền
+– góc nhọn.
+Kết luận hai tam giác bằng nhau.
+
+Ví dụ 9.
+
+( bài 38 tr.124 SGK)
+
+Trên mỗi hình 105, 106, 107, 108 có các tam giác vuông nào bằng nhau? Vì sao?
+Hướng dẫn
+a) Hình 105 (SGK) : AHB  AHC c.g .c.
+
+b) Hình 106 (SGK) : DKE  DKF c.g .c
+c) Hình 107 (SGK) : ABD  ACD (cạnh huyền – góc nhọn).
+d) Hình 108 (SGK) : ABD  ACD (cạnh huyền – góc nhọn )
+ AB  AC , DB  DC , DBE  DCH  g .c.g . ABH  ACE ( chẳng hạn g.c.g)
+Dạng 6.
+
+SỬ DỤNG TRƯỜNG HỢP BẰNG NHAU CẠNH HUYỀN – GÓC NHỌN ĐỂ
+CHỨNG MINH HAI ĐOẠN THẲNG BẰNG NHAU.
+
+Phương pháp giải.
+
+-262-
+
+Ví dụ 10.
+
+Chọn tam giác vuông có cạnh là hai đoạn thẳng cần chứng minh bằng nhau
+Chứng minh hai tam giác ấy bằng nhau theo trường hợp cạnh huyền – góc
+nhọn.
+Suy ra hai cạnh tương ứng bằng nhau.
+(Bài 41 tr.124 SGK)
+Cho tam giác ABC  AB  AC . Các tia phân giác của B và C cắt nhau ở I .
+
+ID  AB,  D  AB , IE  BC  E  BC , IF  AC  F  AC . Chứng minh rằng
+
+ID  IE  IF
+Hướng dẫn.
+BID  BIE (cạnh huyền – góc nhọn )  ID  IE
+
+CIE  CIF (cạnh huyền – góc nhọn )  IE  IF
+Vậy ID  IE  IF
+
+C. LUYÊN TẬP
+
+  60o , BC  4 cm, C
+  30o
+12.1 Dạng 1. a) Vẽ tam giác ABC có B
+b) Đo độ dài cạnh AB
+12.2 Dạng 2. Tìm các tam giác bằng nhau ở hình vẽ sau.
+
+-263-
+
+12.3 Dạng 3. Cho hình vẽ sau, trong đó
+OA  OD, OB  OC.
+
+AB / / CD, AB  CD.
+
+Chứng minh rằng
+
+ C
+ . Tia phân giác của góc B cắt AC ở D . Tia phân
+12.4 Dạng 3. Cho tam giác ABC có B
+giác của góc C Cắt AB ở E . So sánh độ dài các đoạn thẳng BD và CE
+12.5
+
+Dạng 3. Cho tam giác ABC có A  90o , AB  AC , điểm D thuộc cạnh AB . Đường
+thẳng qua B
+Vuông góc với CD cắt đường thẳng CA ở K . Chứng minh rằng AK  AD.
+
+𝟏𝟐. 𝟔∗ Dạng 3. Cho tam giác ABC có A  90o , AB  AC. Lấy điểm D Thuộc cạnh AB , điểm
+
+E thuộc cạnh AC sao cho AD  AE. Đường thẳng qua D và vuông góc với BE cắt
+đường thẳng CA ở K .Chứng minh rằng AK  AC.
+
+12.7* Dạng 3. Cho tam giác ABC , I là trung điểm của AB . Đường thẳng qua I và song song
+với BC
+Cắt AC ở K . Đường thẳng qua K và song song với AB cắt BC ở H . Chứng minh
+rằng :
+
+-264-
+
+a ) KH  IB
+
+b) AK  KC.
+
+12.8* Dạng 3. Trên hình vẽ sau, ta có AD  BE , DH / / EK / / BC. Chứng minh rằng
+DA  EK  BC.
+
+12.9* Dạng 3. Tam giác ABC có A  60o . Tia phân giác của góc B cắt AC ở D .Tia phân
+giác của góc C Cắt AB ở E . Gọi O là giao điểm của BD và CE
+
+
+a ) Tính BOC
+
+b) Chứng minh rằng OD  OE.
+
+12.10 Dạng 4. Cho tam giác ABC. Trên tia đối của tia AB lấy điểm D sao cho AD  AB . Trên
+tia đối của tia AC lấy điểm E sao cho AE  AC . Một đường thẳng đi qua A cắt các
+cạnh DE và BC theo thứ tự ở M và N . Chứng minh rằng AM  AN .
+12.11 Dạng 4. Cho tam giác ABC , M là trung điểm của AC . Trên tia đối của tia MB lấy điểm
+
+D sao cho MD  MB . Trên tia đối của tia BC lấy điểm E sao cho BE  BC . Gọi I là
+giao điểm của AB và DE . Chứng minh rằng IA  IB .
+12.12 Dạng 4. Cho tam giác ABC , Điểm D thuộc cạnh BC . Kẻ DE / / AC  E  AB  , kẻ
+
+DF / / AB  F  AC . gọi I là trung điểm của EF . Chứng minh rằng I là trung điểm của
+
+AD
+12.13 Dạng 5. Tìm các tam giác bằng nhau trên hình vẽ sau.
+
+-265-
+
+12.14 Dạng 6. Cho tam giác nhọn ABC và ∆ ABC = ∆ DEF. Kẻ AH ⊥ BC (H ∈ BC) và DK ⊥
+EF
+(K ∈ EF ). Chứng minh rằng AH = DK.
+12.15 Dạng 6. Cho tam giácABC. Các đường phân giác của các góc ngoài tại B và tại C cắt
+nhau ở K. Qua
+K kẻ đường thẳng vuông góc với AB, cắt đường thẳng AB ở E. Qua K kẻ
+đường thẳng vuông góc với
+AC, cắt đường thẳng AC ở F. Chứng minh rằng KE =KF.
+12.16 Dạng 6. Cho tam giác ABC có góc A bằng 90 , AB =AC. Qua A kẻ đường thẳng d sao
+0
+
+cho B và C nằm cùng phía đối với d. Kẻ BD và CE vuông góc với d (D, E ∈ d). Chứng
+minh rằng BD = AE, AD = CE.
+
+12.17* Dạng 6. Cho tam giác ABC. Ở phía ngoài tam giác ABC, vẽ các tam giác vuông tại A là
+ABD và ACE có AB = AD và AC = AE. Kẻ AH vuông góc với BC. Gọi I là giao điểm
+của HA và DE. Chứng minh rằng DI =IE.
+12.18 Dạng 6. Cho tam giác ABC . Ở phía ngoài ABC , Vẽ các tam giác ABD, ACE có
+
+
+  90o , AB  BD, AC  CE. Kẻ DI , EK vuông góc với BC  I , K  BC .
+ABD  ACE
+Chứng minh rằng BI  CK
+
+§13: TAM GIÁC CÂN
+A. TÓM TẮT LÍ THUYẾT
+1. Tam giác cân
+a) Định nghĩa: tam giác cân là tam giác có hai cạnh bằng nhau
+
+∆ ABC
+ AB = AC
+
+∆ ABC cân tại A ⇔ 
+
+b) Tính chất: Trong tam giác cân, hai góc ở đáy bằng nhau
+
+ C
+∆ ABC cân tại A ⇒ B
+c) Dấu hiệu nhận biết:
+- Theo định nghĩa.
+- Nếu một tam giác có hai góc bằng nhau thì tam giác đó là tam giác cân.
+2. Tam giác vuông cân
+a) Định nghĩa: Tam giác vuông cân là tam giác vuông có hai cạnh góc vuông
+bằng nhau.
+
+-266-
+
+∆ABC
+
+o
+∆ ABC vuông cân tại A ⇔  A = 90
+ AB = AC
+
+
+b) Tính chất: Mỗi góc nhọn của tam giác vuông cân bằng 45o
+ C
+  45o
+B
+
+3. Tam giác đều
+a) Định nghĩa: Tam giác đều là tam giác có ba cạnh bằng nhau
+
+
+ ABC
+
+
+ AB  BC  CA
+
+∆ ABC đều ⇔ 
+
+
+b) Tính chất: Trong tam giác đều mỗi góc bằng 60o
+c) Dấu hiệu nhận biết
+- Theo định nghĩa.
+- Nếu một tam giác có ba góc bằng nhau thì tam giác đó là tam giác đều.
+- Nếu một tam giác cân có một góc bằng 60 o thì tam giác đó là tam giác đều.
+
+B. CÁC DẠNG TOÁN
+Dạng 1: VẼ TAM GIÁC CÂN, TAM GIÁC VUÔNG CÂN, TAM GIÁC ĐỀU
+Phương pháp giải:
+Dựa vào các cách vẽ tam giác đã học và định nghĩa các tam giác cân, vuông cân,
+đều.
+Ví dụ 1.
+
+(Bài 46 tr.127 SGK)
+
+Dùng thước có chia xentimet và compa vẽ tam giác đều ABC có cạnh bằng 3cm.
+Hướng dẫn
+o Vẽ đoạn thẳng BC bằng 3cm.
+o Vẽ cung tròn tâm B bán kính 3cm và cung tròn tâm C bán kính 3cm, chúng
+cắt nhau tại A.
+-267-
+
+o Vẽ các đoạn thẳng AB, AC.
+
+∆ ABE = ∆ ACD (c.g.c) ⇒ BE = CD
+
+Dạng 2
+
+BỔ SUNG ĐIỀU KIỆN ĐỂ HAI TAM GIÁC , HAI TAM GIÁC VUÔNG
+CÂN, HAI TAM GIÁC ĐỀU BẰNG NHAU
+
+Phương pháp giải.
+Dựa vào các trường hợp bằng nhau của hai tam giác đã học và định nghĩa, Tính chất các
+tam giác cân, vuông cân, đều.
+Ví dụ 2
+
+Hãy bổ sung thêm một điều kiện để hai tam giác đều ABC và A ' B ' C ' bằng nhau.
+
+Giải.
+Bổ sung thêm điều kiện AB  A ' B '. khi đó ABC  A ' B ' C '
+(Theo trường hợp c. c. c, hoặc c.g.c, hoặc g.c.g).
+Ví dụ 3.
+
+Cho tam giác ABC cân tại A và tam giác A ' B ' C ' cân tại A ' . Cho biết cặp cạnh
+bên bằng nhau AB  A ' B ' .Hãy bổ sung thêm một điều kiện nữa để
+ABC  A ' B ' C '.
+
+Hướng dẫn.
+Cần bổ sung thêm một điều kiện:
+ Cặp cạnh đáy bằng nhau: BC  B ' C ', khi đó ABC  A ' B ' C 'c.c.c 
+
+ Khi đó ABC  A ' B ' C ' c.g .c .
+ Hoặc cặp góc ở đỉnh bằng nhau: A  A',
+', Khi đó ABC  A ' B ' C ' (c.g.c
+B
+ Hoặc cặp góc ở đáy bằng nhau: B
+hoặc g.c.g).
+
+-268-
+
+Dạng 3.
+
+NHẬN BIẾT MỘT TAM GIÁC LÀ TAM GIÁC CÂN, TAM GIÁC VUÔNG
+CÂN, TAM GIÁC ĐỀU
+
+Phương pháp giải.
+Dựa vào dấu hiệu nhận biết các tam giác cân, vuông cân, đều
+Ví dụ 4.
+
+(Bài 47 tr. 127 SGK)
+Trong các tam giác trên hình 116, 117, 118 (SGK) tam giác nào là tam giác cân,
+Tam giác nào là tam giác đều? Vì Sao?
+
+Hướng dẫn.
+a) Hình 116(SGK): ABD cân tại A , ACE cân tại A
+b) Hình 117 (SGK): GHI cân tại I .
+c) Hình 118 (SGK): OMN là tam giác đều
+OMK cân tại M , ONP cân tại N
+P
+  30o ).
+OKP cân tại O (vì K
+Ví dụ 5.
+
+(Bài 52 tr. 128 SGK)
+Cho góc xOy có số đo 120o , Điểm A thuộc tia phân giác của góc đó.Kẻ
+
+AB  Ox  B  Ox ,
+
+-269-
+
+AC  Oy C  Oy . Tam giác ABC là tam giác gì ? Tại sao?
+Hướng dẫn.
+
+AOB  AOC (cạnh huyền – góc nhọn), Suy ra AB  AC. Ta có :
+ O
+  60o
+O
+1
+
+2
+
+
+  60o. Tam giác ABC cân có BAC
+  60o nên là
+Nên A
+A2  30o , suy ra BAC
+1
+tam giác đều
+
+Dạng 4
+
+SỬ DỤNG ĐỊNH NGHĨA TAM GIÁC CÂN, VUÔNG CÂN, ĐỀU
+ĐỂ SUY RA CÁC ĐOẠN THẲNG BẰNG NHAU.
+
+Phương pháp giải.
+Dựa vào định nghĩa tam giác cân, vuông cân, đều.
+Ví dụ 6.
+
+Cho tam giác ABC cân tại A . Lấy các điểm D và E theo thứ tự thuộc các cạnh
+AB, AC sao cho AD  AE . Chứng minh rằng
+BE  CD.
+
+Hướng dẫn.
+
+ABC cân tại A  AB  AC.
+∆ABE =
+∆ACD ( c.g .c ) ⇒ BE =
+CD
+
+Dạng 5.
+
+SỬ DỤNG TÍNH CHẤT CỦA CÁC TAM GIÁC CÂN, VUÔNG CÂN, ĐỀU
+ĐỂ TÍNH SỐ ĐO GÓC HOẶC CHỨNG MINH HAI GÓC BẰNG NHAU.
+-270-
+
+Phương pháp giải:
+Dựa vào tính chất về góc của các tam giác cân, vuông cân, đều.
+Ví dụ 7.(Bài 51 tr.128 SGK)
+Cho tam giác ABC cân tại A. Lấy điểm D thuộc cạnh AC, điểm E thuộc cạnh AB sao cho AD
+=AE.
+a) So sánh góc ABD và góc ACE.
+b) Gọi I là giao điểm của BD và CE. Tam giác IBC là tam giác gì? Vì sao?
+Hướng dẫn.
+
+=
+
+ =C
+
+a ) ∆ABD =
+∆ACE ( c.g .c ) ⇒ ABD
+ACE tức là B
+1
+1
+
+ =C
+
+b) ∆ABC cân tại A suy ra : B
+−B
+ =C
+ −C
+ , Do đó B
+ =C
+.
+Suy ra B
+1
+1
+2
+2
+ =C
+ nên là tam giác cân
+∆IBC có B
+2
+2
+
+Dạng 6: CHỨNG MINH MỘT TAM GIÁC LÀ TAM GIÁC CÂN, VUÔNG CÂN,
+ĐỀU ĐỂ SUY
+RA HAI ĐOẠN THẲNG BẰNG NHAU, HAI GÓC BẰNG
+NHAU.
+Phương pháp giải:
+-
+
+Chứng minh một tam giác là tam giác cân, hoặc vuông cân, hoặc đều (dạng 3).
+Sử dụng định nghĩa, tính chất của các tam giác trên để suy ra hai đoạn thẳng bằng
+nhau (dạng 4), suy ra hai góc bằng nhau (dạng 5).
+
+Ví dụ 8. Cho tam giác ABC vuông tại A (AB < AC). Tia phân giác của góc A cắt BC tại D.
+Qua D kẻ đường thẳng vuông góc BC, cắt AC tại E. Trên AB lấy điểm F sao cho AF = AE.
+Chứng minh rằng:
+a) B = 
+DEC
+b) ∆DBF là tam giác cân
+c) DB = DE
+Hướng dẫn :
+a) B = 
+DEC ( vì cùng phụ với C )
+
+A
+F 2
+1
+
+B
+
+tức là B = 
+E1 (1) .
+-271-
+
+2
+
+E
+1
+
+D
+
+C
+
+b) ∆EAD = ∆FAD (c.g.c) ⇒ 
+E2 =
+F2 ⇒ 
+E1 =
+F1 (2)
+Từ (1) và (2) ⇒ B =
+F1 ⇒∆DBF cân tại D.
+
+c) ∆DBF cân tại D ⇒ DB = DF
+(3)
+∆EAD = ∆FAD (cmt) ⇒ DE = DF
+(4)
+Từ (3) và (4) ⇒ DB = DE
+Chú ý: Thay điều kiện 
+BAC
+= 
+CDE
+= 900 bởi 
+BAC
+= 
+CDE
+= α ,bài toán vẫn đúng.
+C. LUYỆN TẬP
+13.1 Dạng 1:
+a) Vẽ tam giác đều ABC. Ở phía ngoài tam giác ABC, vẽ tam giác ACD vuông cân tại C.
+b) Tính góc BAD ở câu a).
+13.2 Dạng 2: Hai tam giác vuông cân có thêm một điều kiện bằng nhau nào thì hai tam giác bằng
+nhau ?
+13.3 Dạng 3: Tìm các tam giác cân trên hình vẽ sau:
+A
+
+D
+
+A
+
+250
+
+D
+
+B
+
+A
+0
+
+B
+
+50
+
+C
+
+C
+
+a)
+
+D
+
+E
+
+b)
+
+360
+360
+
+B
+
+720
+
+C
+
+c)
+
+13.4 Dạng 4: Cho tam giác ABC cân tại A. Kẻ BH vuông góc với AC ( H∈ AC), kẻ CK vuông
+góc với AB ( K∈AB) . Chứng minh AH = AK.
+13.5 Dạng 4 và 5: Cho tam giác ABC cân tại A.Gọi D là trung điểm của BC. Chứng minh AD là
+tia phân giác của góc A.
+13.6 Dạng 5: Một góc của tam giác cân bằng 400. Tính các góc còn lại .
+13.7 Dạng 5: Tìm số đo x trên mỗi hình sau :
+
+-272-
+
+D
+
+B
+
+x
+
+C
+D
+
+x
+
+A
+
+B
+
+a)
+C
+
+A
+
+b)
+
+A
+
+A
+
+0
+
+70
+
+x
+
+B
+
+D
+
+0
+
+80
+
+C
+
+B
+
+x
+D
+
+C
+
+c)
+
+d)
+13.8 Dạng 5: Cho tam giác ABC cân tại A và tam giác đều BCD ( D và A nằm khác phía đối với
+BC. Tính số đo góc BDA.
+13.9 Dạng 5: Tam giác ABC cân tại A có A = 1000 . Lấy các điểm D và E trên cạnh BC sao cho
+BD = BA, CE = CA. Tính số đo góc DAE.
+13.10 Dạng 5: Chứng minh rằng góc ở đáy một tam giác cân bao giờ cũng là góc nhọn.
+13.11 Dạng 5: Cho tam giác ABC cân tại B. Gọi BE là đường phân giác của góc ngoài tại đỉnh
+B. Chứng minh rằng BE // AC.
+13.12 Dạng 5: Cho tam giác cân AOB (OA=OB). Trên tia đối của tia OB lấy điểm C sao cho OB
+= OC. Tính số đo góc BAC.
+13.13* Dạng 5: Tam giác ABC cân tại A, điểm M thuộc cạnh BC. Kẻ MD ⊥ AB (D ∈ AB), kẻ
+ME ⊥ AC ( E ∈ AC), kẻ BH ⊥ AC ( H ∈ AC ). Chứng minh rằng: MD + ME = BH.
+13.14* Dạng 5: Cho tam giác ABC có các góc nhỏ hơn 1200. Ở phía ngoài tam giác ABC, vẽ
+các tam giác đều ABD và ACE.
+a) Chứng minh rằng DC = BE.
+b) Gọi I là giao điểm của DC và BE. Tính số đo góc BIC.
+13.15* Dạng 3 và 5: Cho điểm M nằm trên đoạn thẳng AB.Vẽ về một phía của AB các tam giác
+đều AMC và BMD.
+a) Chứng minh rằng AD = CB.
+b) Gọi I , K theo thứ tự là trung điểm của AD và CB. Tam giác MIK là tam giác gì ?
+
+-273-
+
+13.16 Dạng 6: Cho tam giác đều ABC. Trên các cạnh AB, BC, CA lấy theo thứ tự các điểm D,
+E, F sao cho AD = BE = CF. Chứng minh rằng tam giác DEF là tam giác đều.
+13.17 Dạng 6: Cho hình vẽ bên, trong đó O là tâm của đường tròn.
+Chứng minh rằng các dây BC và AD bằng nhau.
+
+C
+
+B
+
+O
+
+13.18 Dạng 6: Cho tam giác ABC vuông tại A, kẻ AH ⊥ BC (H ∈ BC).
+Tia phân giác của góc HAC cắt BC ở D.
+A
+D
+Chứng minh rằng tam giác ABD là tam giác cân.
+13.19* Dạng 6: Cho tam giác ABC có AB < AC. Gọi Ax là tia phân giác của góc A. Qua trung
+điểm M của BC, kẻ đường thẳng vuông góc với Ax, cắt các đường thẳng AB và AC theo thứ tự
+D và E. Chứng minh rằng BD = CE.
+1
+13.20* Dạng 6: Tam giác ABC vuông tại A có AC = BC .Chứng minh rằng B = 300 .
+2
+1
+13.21* Dạng 6: Tam giác ABC vuông tại A có B = 300 .Chứng minh rằng AC = BC .
+2
+
+13.22* Dạng 6: Cho tam giác nhọn ABC . Kẻ AD ⊥ BC ( D ∈ BC), kẻ BE ⊥ AC ( E ∈ AC). Gọi
+H là giao điểm của AD và BE. Biết rằng AH = BC. Tính số đo góc BAC.
+
+§14. ĐỊNH LÝ PY-TA-GO
+A.TÓM TẮT LÝ THUYẾT
+
+1. Định lý Py-ta-go :
+Trong một tam giác vuông, bình phương của cạnh huyền bằng tổng các bình phương của hai cạn
+góc vuông
+∆ABC vuông tại A ⇒ BC2 = AB 2 + AC 2 .
+B
+2. Định lý Py-ta-go đảo:
+Nếu một tam giác có bình phương của một cạnh bằng tổng các bình
+phương của hai cạnh kia thì tam giác đó là tam giác vuông.
+∆ABC : BC 2 = AB 2 + AC 2 ⇒ 
+BAC = 900
+A
+
+B. CÁC DẠNG TOÁN
+Dạng 1: TÍNH ĐỘ DÀI MỘT CẠNH CỦA TAM GIÁC VUÔNG
+Phương pháp giải:
+Sử dụng định lí Py- ta-go. Có trường hợp phải kẻ thêm đường vuông góc để tạo thành
+tam giác vuông.
+Ví dụ 1: ( Bài 53 tr.131 SGK)
+Tìm độ dài x trên hình 127 (SGK)
+-274-
+
+C
+
+x
+
+29
+
+2
+
+1
+
+5
+
+21
+
+x
+
+12
+
+3
+
+x
+
+x
+
+Hình 127 ( SGK)
+Hướng dẫn :
+a) x 2 =52 + 122 =25 + 144 =169 =132 . Vậy x = 13
+b) x 2 =12 + 22 =1 + 4 =5 =
+
+( 5 ) . Vậy x = 5
+2
+
+c) x 2 = 292 − 212 = 841 − 441 = 400 = 202 . Vậy x = 20.
+d) x 2 =
+
+( 7 ) + 3 = 7 + 9 = 16 = 4 . Vậy x = 4.
+2
+
+2
+
+2
+
+Ví dụ 2: ( Bài 58 tr.132 SGK)
+Đố: Trong lúc anh Nam dựng tủ cho đứng thẳng, tủ có bị vướng vào trần nhà hay không ?
+( Hình 130 SGK)
+
+Hướng dẫn:
+Gọi d là đường chéo của tủ, h là chiều cao của nhà. Ta thấy :
+d 2= 202 + 42= 416 ⇒ d= 416
+h2= 212= 441 ⇒ h= 416
+
+Suy ra d < h . Như vậy khi anh Nam đẩy tủ cho thẳng đứng, tủ không bị vướng vào trần
+nhà.
+Ví dụ 3: ( Bài 60 tr.133 SGK)
+Cho tam giác nhọn ABC. Kẻ AH vuông góc với BC ( H ∈ BC ). Cho biết AB =13cm, AH
+=12 cm, HC = 16 cm. Tính các độ dài AC , BC.
+
+Hướng dẫn:
+
+-275-
+
+∆ABC vuông tại H nên theo định lí Py- ta – go có :
+2
+
+2
+
+2
+
+2
+
+2
+
+AC = AH + HC = 12 + 16 = 144 + 256 = 400 = 20
+
+A
+
+2
+
+Do đó AC = 20 cm
+∆AHB vuông tại H nên
+
+13
+12
+
+BH 2 =AB 2 − AH 2 =132 − 122 =169 − 144 =25 =52
+
+Vậy BH = 5 (cm) ⇒ BC = BH + HC = 5 + 16 = 21 (cm)
+
+B
+
+H
+
+16
+
+C
+
+Ví dụ 4: ( Bài 61 tr.133 SGK)
+Trên giấy kẻ ô vuông ( độ dài cạnh của ô vuông bằng 1), cho ∆ABC như hình 135 ( SGK).
+Tính độ dài mỗi cạnh của ∆ABC.
+Hướng dẫn:
+AB 2 =22 + 12 =5 ⇒ AB = 5
+BC 2 = 32 + 52 = 34 ⇒ BC = 34
+AC 2 =32 + 42 =25 ⇒ AC =5
+
+Ví dụ 5: ( Bài 62 tr.133 SGK)
+Đố: Người ta buộc con Cún bằng sợi dây có một đầu buộc tại điểm O làm cho con Cún
+cách điểm O nhiều nhất là 9m ( Hình 136 SGK). Con Cún có thể tới các vị trí A, B, C, D
+để canh giữ mảnh vườn hình chữ nhật ABCD hay không ? ( các kích thước như trên hình
+vẽ )
+
+Hướng dẫn:
+OA2 =32 + 42 =25 ⇒ OA =5 < 9
+OC 2 = 62 + 82 =100 ⇒ OC =10 > 9
+OD 2 = 32 + 82 =73 ⇒ OD = 73 < 9
+OB 2 = 42 + 62 =52 ⇒ OB = 52 < 9
+-276-
+
+Như vậy, con Cún có thể tới các vị trí A, B, C nhưng không tới được vị trí C .
+Dạng 2: SỬ DỤNG ĐỊNH LÝ PY-TA-GO ĐẢO ĐỂ NHẬN BIẾT TAM GIÁC VUÔNG
+Phương pháp giải:
+-
+
+Tính bình phương các độ dài ba cạnh của tam giác.
+So sánh bình phương của cạnh lớn nhất với tổng các bình phương của hai cạnh kia.
+Nếu hai kết quả bằng nhau thì tam giác đó là tam giác vuông , cạnh lớn nhất là cạnh
+huyền.
+
+Ví dụ 6: ( Bài 56 tr.131 SGK)
+Tam giác nào là tam giác vuông trong các tam giác có độ dài ba cạnh như sau :
+a) 9cm , 15cm, 12cm.
+b) 5dm, 13dm, 12dm.
+c) 7m, 7m, 10m ?
+Hướng dẫn:
+2
+=
+a ) 92 81;15
+=
+225=
+;122 144 . Ta thấy 225 = 81 + 144 nên là tam giác vuông.
+
+=
+b) 52 25;
+=
+132 169
+=
+;122 144 . Ta thấy 169 = 25 + 144 nên là tam giác vuông.
+=
+c) 72 49;
+=
+102 100 . Ta thấy 100 ≠ 49 + 49 nên tam giác không vuông.
+
+Ví dụ 7: ( Bài 57 tr.131 SGK) Cho bài toán : “ Tam giác ABC có AB = 8 ; AC = 17 , BC = 15 có
+phải là tam giác vuông không ? ” Bạn Tâm đã giải bài toán đó như sau:
+AB2 + AC2 = 82 +17 2 = 64 + 289 = 353
+BC2 = 152 = 225
+
+Do 353 ≠ 225 ⇒ AB2 + AC2 ≠ BC2 . Vậy ∆ABC không phải là tam giác vuông.
+Lời giải trên đúng hay sai ? Nếu sai, hãy sửa lại cho đúng.
+Hướng dẫn:
+Lời giải trên là sai. Sửa lại như sau :
+AB2 + BC2 = 82 +152 = 64 + 225 = 289
+AC2 = 172 = 289
+
+Ta thấy AB2 + BC2 = AC2 nên ∆ABC vuông tại B .
+C. LUYỆN TẬP
+14.1 Dạng 1. Tính độ dài cạnh huyền của một tam giác vuông cân biết cạnh góc vuông bằng
+2dm.
+-277-
+
+14.2 Dạng 1. Tính độ dài cạnh góc vuông của một tam giác vuông cân biết cạnh huyền bằng :
+a) 2m ;
+b) 18 m
+14.3 Dạng 1. Một tam giác vuông có cạnh huyền bằng 52cm, độ dài các cạnh góc vuông tỉ lệ
+với 5 và 12. Tính độ dài các cạnh góc vuông.
+14.4
+AC.
+
+Dạng 1. Cho tam giác ABC cân tại B, AB = 17cm, AC = 16cm. Gọi M là trung điểm của
+Tính BM.
+
+14.5
+
+Dạng 1. Tính các cạnh của một tam giác vuông biết tỉ số các cạnh góc vuông là 3 : 4, chu
+vi của tam giác bằng 36cm.
+
+14.6 Dạng 1. Tính độ dài x trên hình bên:
+
+A
+41
+
+15
+
+B
+
+12
+
+H
+
+x
+
+C
+
+14.7 Dạng 1. Cho tam giác ABC cân tại A có AB = 9cm, BC = 15cm. Tia phân giác của góc A
+cắt BC ở D. Chứng minh rằng 4,9cm < AD < 5cm.
+14.8 Dạng 1. Tìm số tự nhiên a cùng với các số 24 và 25 làm thành độ dài ba cạnh
+của một tam giác vuông.
+14.9* Dạng 1. Tam giác ABC có 
+A = 900 ; B = 300 , AB = 3cm.
+Tính các độ dài AC , BC.
+14.10 Dạng 1. Tính độ dài x trên hình bên.
+14.11 Dạng 1. Tính độ dài x trên hình bên.
+14.12*Dạng 1. Tính độ dài x trên các hình sau:
+
+14.13*Dạng 1. Cho tam giác ABC vuông tại A. Kẻ AH ⊥ BC ( H∈ BC). Biết HB = 9cm, HC =
+16cm.
+Tính độ dài AH.
+14.14 Dạng 1. Trên mặt phẳng tọa độ Oxy, vẽ điểm A có tọa độ ( 3; 5).
+Tính khoảng cách từ điểm A đến gốc tọa độ.
+14.15 Dạng 1. Trên mặt phẳng tọa độ Oxy, vẽ điểm A có tọa độ ( 1; 1). Đường tròn
+tâm O với bán kính OA cắt các tia Ox, Oy theo thứ tự ở B và C. Tìm tọa độ
+của các điểm B và C.
+14.16 Dạng 1. Tính độ dài của các đoạn thẳng AB, BC, CD , DA trên mặt phẳng
+tọa độ ( Hình vẽ bên, với đơn vị là đơn vị dài của hệ trục tọa độ ).
+14.17 Dạng 2. Bạn Mai vẽ tam giác ABC có AB = 4cm, AC = 8cm, BC = 9cm rồi đo thấy
+
+A = 900 và kết luận rằng tam giác ABC vuông. Điều đó có đúng không ?
+-278-
+
+14.18 Dạng 2. Chọn trong các số 5, 8, 9, 12, 13, 15
+các bộ ba số có thể là độ dài các cạnh của một tam giác vuông.
+14.19* Dạng 2. Cho hình vẽ bên, trong đó BC = 6cm, AD = 8cm.
+Chứng minh rằng AD vuông góc với BC.
+§15. CÁC TRƯỜNG HỢP BẰNG NHAU
+CỦA TAM GIÁC VUÔNG
+A.TÓM TẮT LÝ THUYẾT
+* Ngoài các trường hợp bằng nhau đã biết của hai tam giác vuông, còn có trường hợp bằng nhau
+theo
+cạnh huyền – cạnh góc vuông.
+* Nếu cạnh huyền và một cạnh góc vuông của tam giác vuông này bằng cạnh huyền và một
+cạnh góc vuông của tam giác vuông kia thì hai tam giác đó bằng nhau.
+B'
+
+B
+
+
+A =
+A' = 900 
+
+BC = B'C'  ⇒ ΔABC = ΔA'B'C'
+AC = A'C'  (cạnh huyền – cạnh góc vuông)
+
+
+A
+
+C
+
+A'
+
+C'
+
+B. CÁC DẠNG TOÁN
+Dạng 1: TÌM HOẶC CHỨNG MINH HAI TAM GIÁC VUÔNG BẰNG NHAU
+
+Phương pháp giải:
+• Xét hai tam giác vuông.
+• Kiểm tra điều kiện bằng nhau cạnh – góc – cạnh , hoặc cạnh huyền – góc nhọn, hoặc cạnh huyền –
+cạnh góc vuông.
+• Kết luận hai tam giác bằng nhau.
+Ví dụ 1: ( Bài 66 tr.137 SGK)
+Tìm các tam giác bằng nhau trên hình vẽ bên.
+Hướng dẫn:
+∆ADM = ∆AEM ( cạnh huyền – góc nhọn )
+⇒ MD = ME
+∆MDB = ∆MEC ( cạnh huyền – cạnh góc vuông)
+Ta còn suy ra AD = AE , BD = CE nên AB = AC
+Do đó ∆AMB = ∆AMC ( c – c – c ).
+Dạng 2: BỔ SUNG THÊM ĐIỀU KIỆN ĐỂ HAI TAM GIÁC VUÔNG BẰNG NHAU
+Phương pháp giải:
+-279-
+
+• Xét xem hai tam giác vuông đã có các yếu tố nào bằng nhau.
+• Xét xem cần bổ sung thêm điều kiện nào để hai tam giác bằng nhau (dựa vào các trường hợp bằng
+nhau của hai tam giác)
+Ví dụ 2: ( Bài 64 tr.136 SGK)
+Các tam giác vuông ABC và DEF có 
+A = D = 900 , AC = DF. Hãy bổ sung thêm một điều
+kiện bằng nhau (về cạnh hay về góc ) để ∆ABC = ∆DEF
+
+Hướng dẫn:
+Bổ sung AB = DE thì
+∆ABC = ∆DEF (c.g.c)
+Bổ sung C = F thì
+
+E
+
+B
+
+∆ABC = ∆DEF (g.c.g)
+Bổ sung BE = EF thì
+∆ABC = ∆DEF (cạnh huyền – cạnh góc vuông)
+
+C
+
+A
+
+D
+
+F
+
+Dạng 3: SỬ DỤNG CÁC TRƯỜNG HỢP BẰNG NHAU CỦA TAM GIÁC VUÔNG ĐỂ
+CHỨNG MINH HAI ĐOẠN THẲNG BẰNG NHAU, HAI GÓC BẰNG NHAU.
+Phương pháp giải:
+
+• Chọn hai tam giác vuông có cạnh ( góc) và hai đoạn (góc) cần chứng minh bằng nhau.
+• Tìm thêm hai điều kiện bằng nhau , trong đó có một điều kiện về cạnh để kết luận hai tam giác
+bằng nhau.
+• Suy ra hai cạnh ( góc) tương ứng bằng nhau.
+Ví dụ 3: ( Bài 63 tr.136 SGK)
+Cho tam giác ABC cân tại A. Kẻ AH ⊥ BC ( H∈ BC ). Chứng minh rằng :
+a) HB = HC
+b) 
+BAH = 
+CAH
+Hướng dẫn:
+A
+
+a) ∆AHB = ∆AHC (cạnh huyền – cạnh góc vuông)
+⇒ HB = HC.
+b) ∆AHB = ∆AHC ⇒ 
+BAH = 
+CAH .
+B
+
+H
+
+C
+
+Ví dụ 4: ( Bài 65 tr.137 SGK)
+Cho tam giác ABC cân tại A. Kẻ BH ⊥ AC ( H∈ AC ), CK ⊥ AB ( K∈ AB )
+-280-
+
+a) Chứng minh rằng AH = AK.
+b) Gọi I là giao điểm của BH và CK. Chứng minh rằng AI là tia phân giác của góc A.
+Hướng dẫn:
+
+a) ∆ABH = ∆ACK (cạnh huyền – góc nhọn)
+⇒ AH = AK .
+b) ∆AIH = ∆AIK (cạnh huyền – cạnh góc vuông)
+⇒
+IAH = 
+IAK ⇒ AI là tia phân giác của góc A.
+
+C. LUYỆN TẬP
+15.1 Dạng 1. Tìm các tam giác vuông bằng nhau trên hình sau :
+
+15.2
+
+15.3
+
+Dạng 1. Chứng minh rằng : Nếu một cạnh góc vuông và góc nhọn đối diện với cạnh ấy
+của tam giác vuông này bằng một cạnh góc vuông và góc nhọn đối diện với cạnh ấy của
+tam giác vuông kia thì hai tam giác đó bằng nhau.
+Dạng 2. Các tam giác ABC và DMN có B = 
+M = 900 ; 
+A = D . Hãy bổ sung thêm một điều
+kiện bằng nhau để ∆ABC = ∆DMN .
+
+15.4 Dạng 3. Cho hình vẽ dưới đây. Chứng minh rằng :
+a) OK là tia phân giác của góc O.
+b) MN là tia phân giác của góc M.
+
+-281-
+
+B
+
+O
+
+2
+
+D
+
+K
+
+1
+
+M
+
+2
+1
+
+N
+
+C
+
+A
+a)
+
+b)
+
+15.5. Dạng 3. Cho tam giác ABC cân tại C . Các đường trung trực của CA và của CB cắt nhau
+tại I . Chứng minh rằng CI là tia phân giác của góc C .
+15.6. Dạng 3. Cho tam giác ABC cân tại B . Qua A kẻ đường vuông góc với AB , qua C kẻ
+đường vuông góc với CB , chúng cắt nhau ở K . Chứng minh rằng BK là tia phân giác của góc
+B.
+15.7. Dạng 3. Cho tam giác ABC . Các tia phân giác của góc B và C cắt nhau ở I . Kẻ
+ID  AC  E  AC  . Chứng minh rằng AD  AE .
+15.8* Dạng 3. Cho tam giác ABC có AB  AC . Tia phân giác của góc A cắt đường trung trực
+của BC tại I . Qua I kẻ các đường thẳng vuông góc với hai cạnh của góc A , cắt các tia AB và
+AC theo thứ tự tại H và K . Chứng minh rằng:
+a) AH  AK
+b) BH  CK
+c) AK 
+
+AC  AB
+AC  AB
+, CK 
+2
+2
+
+ÔN TẬP CHƯƠNG 2
+A. BÀI TẬP ÔN TRONG SGK
+Dạng 1. CHỌN CÂU PHÁT BIỂU ĐÚNG, CHO MỘT HỆ QUẢ, TÌM ĐỊNH LÍ TRỰC TIẾP
+SUY RA HỆ QUẢ ĐÓ
+Phương pháp giải.
+Liên hệ đến các kiến thức lí thuyết tương ứng để trả lời
+Ví dụ 1: (Bài 67 tr.140 SGK)
+Điền dấu “x” vào chỗ trống (…) một cách thích hợp:
+-282-
+
+Câu
+
+Đúng Sai
+
+1. Trong một tam giác, góc nhỏ nhất là góc nhọn
+
+…
+
+…
+
+2. Trong một tam giác, có ít nhất là 2 góc nhọn
+
+…
+
+…
+
+3. Trong một tam giác, góc lớn nhất là góc tù
+
+…
+
+…
+
+4. Trong một tam giác vuông, hai góc nhọn bù nhau
+
+…
+
+…
+
+5. Nếu 
+A là góc ở đáy của một tam giác cân thì A  90
+
+…
+
+…
+
+6. Nếu 
+A là góc ở đỉnh của một tam giác cân thì A  90
+
+…
+
+…
+
+Hướng dẫn
+Câu 1 đúng, câu 2 đúng. Câu 3 sai. Chẳng hạn trong tam giác vuông, góc lớn nhất là góc
+vuông. Câu 4 sai. Sửa lại cho đúng: Trong một tam giác vuông, hai góc nhọn phụ nhau. Câu 5
+đúng. Câu 6 sai. Chẳng hạn có tam giác cân mà góc ở đỉnh bằng 100
+Ví dụ 2: (Bài 68 tr.141 SGK)
+Các tính chất sau đây được suy ra trực tiếp từ định lí nào?
+a) Góc ngoài của một tam giác bằng tổng hai góc trong không kề với nó
+b) Trong một tam giác vuông, hai góc nhọn phụ nhau
+c) Trong một tam giác đều, các góc bằng nhau
+d) Nếu một tam giác có ba góc bằng nhau thì tam giác đó là tam giác đều.
+Hướng dẫn
+Các câu a, b được suy ra từ định lí “Tổng ba góc của một tam giác bằng 180 ”
+Câu c được suy ra từ định lí “Trong tam giác cân, hai góc ở đáy bằng nhau”
+Câu d được suy ra từ định lí “Nếu một tam giác có hai góc bằng nhau thì tam giác đó là tam giác
+cân”
+Dạng 2. SỬ DỤNG TRƯỜNG HỢP BẰNG NHAU CỦA TAM GIÁC ĐỂ CHỨNG MINH HAI
+ĐOẠN THẰNG BẰNG NHAU, HAI GÓC BẰNG NHAU; TỪ ĐÓ NHẬN BIẾT TIA PHÂN
+GIÁC CỦA GÓC, ĐƯỜNG TRUNG TRỰC CỦA ĐOẠN THẲNG, HAI ĐƯỜNG THẲNG
+VUÔNG GÓC.
+Ví dụ 3. (Bài 69 tr.141 SGK)
+
+-283-
+
+Cho điểm A nằm ngoài đường thẳng a . Vẽ cung tròn tâm A cắt đường thẳng a ở B và
+C . Vẽ các cung tròn tâm B và tâm C có cùng bán kính sao cho chúng cắt nhau tại một điểm
+khác A , gọi điểm đó là D . Hãy giải thích vì sao AD vuông góc với đường thẳng a .
+Hướng dẫn.
+A
+
+
+ ABD  ACD c.c.c  A
+A2
+1
+
+1 2
+
+1
+
+Gọi H là giao điểm của AD và a .
+
+B
+
+2
+H
+
+a
+C
+
+Ta có:  AHB  AHC c.g .c , từ đó
+D
+
+chứng minh được AH  a tức là AD  a
+
+Dạng 3. NHẬN BIẾT TAM GIÁC VUÔNG, TAM GIÁC CÂN, TAM GIÁC VUÔNG CÂN,
+TAM GIÁC ĐỀU
+Phương pháp giải.
+- Để nhận biết tam giác vuông, cần chứng tỏ một góc của tam giác bằng 90 . Có trường hợp phải
+sử dụng định lý đảo của định lý Py-ta-go
+- Để nhận biết tam giác cân, cần chứng tỏ hai cạnh bằng nhau, hoặc hai góc bằng nhau.
+- Để nhận biết tam giác vuông cân, cần chứng tỏ tam giác đó vuông có hai cạnh bằng nhau, hoặc
+có hai góc bằng nhau, hoặc có một góc 45 .
+- Để nhận biết tam giá đều, cần chứng tỏ tam giác đó có ba cạnh bằng nhau, hoặc ba góc bằng
+nhau, hoặc hai góc bằng 60 , hoặc chứng tỏ đó là tam giác cân có một góc bằng 60
+Ví dụ 4. (Bài 70 tr.141. SGK)
+Cho tam giác ABC cân tại A . Trên tia đối của tia BC lấy điểm M , trên tia đối của tia CB lấy
+điểm N sao cho BM  CN .
+a) Chứng minh rằng  AMN là tam giác cân
+b) Kẻ BH  AM  H  AM  , kẻ CK  AN  K  AN  . Chứng minh rằng BH  CK .
+c) Chứng minh rằng AH  AK
+d) Gọi O là giao điểm của HB và KC . Tam giác OBC là tam giác gì? Vì sao?
+
+  60 và BM  CN  BC , hãy tính số đo các góc của tam giác AMN và xác định
+e) Khi BAC
+dạng của tam giác OBC .
+Hướng dẫn
+
+-284-
+
+A
+
+ C
+
+a)  ABC cân  B
+ABM  
+ACN
+1
+1
+
+ ABM  ACN c.g .c suy ra
+N
+  AMN là tam giác cân
+M
+b) BHM CKN (cạnh huyền – góc nhọn)
+H
+
+ BH  CK
+
+c)  ABH  ACK (cạnh huyền – cạnh góc vuông)
+
+K
+1
+
+1
+
+2
+
+M
+
+3
+
+3
+
+B
+
+ AH  AK
+
+2
+C
+
+N
+
+O
+
+ C
+B
+ C
+ OBC là tam giác cân
+d) BHM CKN (câu b) suy ra B
+2
+2
+3
+3
+  60 nên là tam giác đều suy ra
+e)  ABC cân có BAC
+
+A
+
+ C
+  60
+B
+1
+1
+
+H
+
+K
+
+ ABM có AB  BM (cùng bằng BC ) nên là tam giác
+
+
+  180 120  30
+cân, do 
+ABM  120 nên M
+2
+
+2
+
+M
+
+B
+
+1
+3
+
+  20o .  AMN có M
+N
+  30 , MAN
+  120
+Tương tự N
+
+2
+
+1
+3
+
+C
+
+N
+
+O
+
+  60 , suy ra B
+  60 . OBC cân (câu d) có B
+  60 nên
+  30 nên B
+MHB vuông có M
+3
+3
+2
+là tam giác đều.
+Ví dụ 5. (Bài 71 tr.141 SGK)
+Tam giác ABC trên giấy kẻ ô vuông (hình 151 SGK) là tam giác gì? Vì sao?
+Hướng dẫn
+H
+
+A
+
+A''
+
+
+ AHB CKAc.g .c  AB  CA, BAH
+ACK
+
+  90 nên BAH
+  CAK
+  90 .
+Ta lại có: 
+ACK  CAK
+  90
+Do đó BAC
+
+B
+
+Vậy  ABC là tam giác vuông cân
+
+C
+
+Ví dụ 6. (Bài 72 tr.141 SGK)
+
+Hình 151 (SGK)
+
+Đố vui: Dũng đố Cường dùng 12 que diêm bằng nhau để xếp thành:
+
+-285-
+
+a) Một tam giác đều
+b) Một tam giác cân mà không đều
+c) Một tam giác vuông
+Em hãy giúp Cường trong từng trường hợp trên
+Hướng dẫn
+Xem hình vẽ
+
+a)
+
+b)
+
+c)
+
+Dạng 4. TÍNH ĐỘ DÀI CẠNH CỦA TAM GIÁC VUÔNG
+Phương pháp giải
+Sử dụng Định lí Py – ta – go
+Ví dụ 7. (Bài 73 tr.141 SGK)
+Đố: Trên hình 152 (SGK), một cầu trượt có đường lên BA dài 5m , độ cao AH là 3m , độ dài
+BC là 10m và CD là 2m . Bạn Mai nói rằng đường trượt tổng cộng ACD gấp hơn hai lần
+đường lên BA . Bạn Vân nói rằng đièu đó không đúng. Ai đúng, ai sai?
+Hướng dẫn
+
+ AHB vuông tại H nên:
+
+A
+
+HB 2  AB 2  AH 2  52  32  16
+HB  4m
+
+3
+
+HC  10  4  6 m
+ AHC vuông tại H nên:
+
+5
+
+2
+D
+
+C
+
+H
+10
+
+AC 2  AH 2  HC 2  32  62  45
+Suy ra AC  45  6,7 m
+
+-286-
+
+B
+
+Độ dài đường trượt ACD bằng: 6,7  2  8,7 m , chưa bằng hai lần đường lên BA . Vậy Vân
+đúng, Mai sai.
+B. BÀI TẬP ÔN BỔ SUNG
+1. Dạng 1. Chọn câu phát biểu đúng trong các câu sau:
+a) Trong một tam giác, không thể có hai góc tù
+b) Góc ngoài của tam giác phải là góc tù
+c) Nếu cạnh đáy và góc đối diện với cạnh ấy của tam giác cân này bằng cạnh đáy và góc đối diện
+với cạnh ấy của tam giác cân kia thì hai tam giác đó bằng nhau.
+d) Nếu hai cạnh và một góc của tam giác này bằng hai cạnh và một góc của tam giác kia thì hai
+tam giác đó bằng nhau
+2. Dạng 2 và 3. Cho tam giác ABC cân tại A . Điểm D thuộc cạnh AB , điểm E thuộc cạnh AC
+sao cho AD  AE . Gọi K là giao điểm của BE và CD . Chứng minh rằng:
+b) KBD KCE
+a) BE  CD
+c) AK là tia phân giác của góc A
+
+d) KBC là tam giác cân
+
+3. Dạng 2 và 3. Cho tam giác ABC cân tại A . Lấy điểm D trên cạnh AB , điểm E trên tia đối
+của tia CA sao cho BD  CE . Gọi M là giao điểm của DE và BC . Chứng minh rằng
+DM  ME .
+4. Dạng 2. Cho hình vẽ sau đây. Chứng minh OA  OB
+D
+B
+1
+
+2
+O
+
+I
+
+2
+
+1
+
+A
+C
+
+5*. Dạng 2 và 3. Cho hình vẽ bên trên giấy kẻ ô vuông. Chứng minh rằng:
+
+H
+
+a) E
+2
+1
+
+A
+
+K
+
+b)  AHE vuông cân
+
+H
+
+c) D
+1
+1
+
+1
+
+B
+
+E
+  45
+d) D
+1
+1
+
+C
+1
+H
+
+-287-
+
+2
+
+D
+
+1
+2
+
+E
+
+  60 , AB  7cm, BC  15cm . Trên cạnh BC lấy điểm
+6. Dạng 3 và 4. Cho tam giác ABC có B
+  60 . Gọi H là trung điểm của BD .
+D sao cho BAD
+a) Tính độ dài HD
+b) Tính độ dài AC
+c) Tam giác ABC có là tam giác vuông hay không?
+-------------------- CHÚC CÁC EM HỌC TỐT -------------------THCS.TOANMATH.com
+
+-288-
+
+

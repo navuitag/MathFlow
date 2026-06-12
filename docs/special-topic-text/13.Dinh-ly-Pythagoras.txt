@@ -1,0 +1,335 @@
+BÀI 7. ĐỊNH LÍ PY-TA-GO
+Mục tiêu
+ Kiến thức
++ Nắm được nội dung định lí Py-ta-go và định lí Py-ta-go đảo.
+ Kĩ năng
++ Vận dụng định lí Py-ta-go để tính độ dài cạnh thứ ba khi biết độ dài hai cạnh của tam giác
+vuông.
++ Vận dụng định lí Py-ta-go đảo để chứng minh góc vuông hoặc tam giác vuông.
++ Áp dụng định lí Py-ta-go vào các bài toán trong thực tiễn.
+
+Trang 1
+
+I. LÍ THUYẾT TRỌNG TÂM
+Định lí Py-ta-go
+Trong một tam giác vuông, bình phương của cạnh
+huyền bằng tổng các bình phương của hai cạnh góc
+vuông
+Định lí Py-ta-go đảo
+Nếu một tam giác có bình phương một cạnh bằng
+tổng các bình phương hai cạnh kia thì tam giác đó
+là tam giác vuông.
+
+∆ABC vuông tại A  BC 2  AB 2  AC 2
+
+  90
+∆ABC có BC 2  AB 2  AC 2  BAC
+hay ∆ABC vuông tại A
+
+II. CÁC DẠNG BÀI TẬP
+Dạng 1: Tính độ dài một cạnh của tam giác vuông
+Phương pháp giải
+* Sử dụng định lí Py-ta-go và các hệ quả đi kèm.
+
+Ví dụ: Cho tam giác ABC vuông tại A. Tính độ dài
+
+* Lưu ý sử dụng các giá trị số căn bậc hai: x 2  a
+
+các cạnh của tam giác ABC biết AB  5cm ,
+
+thì x  a với mọi x  0 .
+
+AC  12cm .
+Hướng dẫn giải
+
+Bước 1. Xác định nội dung của định lí Py-ta-go đối Áp dụng định lí Py-ta-go trong tam giác vuông
+ABC, ta có AB 2  AC 2  BC 2 .
+với tam giác vuông.
+Bước 2. Dựa theo yêu cầu tính toán, ta thay số vào Với AB  5cm, AC  12cm , ta có
+BC 2  AB 2  AC 2  52  12 2  169  132
+
+hệ thức Py-ta- go và tìm độ dài cạnh cần tính.
+
+ BC  13cm .
+
+Ví dụ mẫu
+Ví dụ 1. Cho tam giác ABC vuông tại A . Tính độ dài các cạnh của tam giác ABC biết BC  15cm và
+AC  2 AC .
+
+Hướng dẫn giải
+
+Áp dụng định lí Py-ta-go trong tam giác vuông ABC, ta có AB 2  AC 2  BC 2 .
+Với BC  15cm và AB  2 AC , ta có  2 AC   AC 2  152  5 AC 2  225
+2
+
+ AC 2  45  AC  45cm . Suy ra AB  2 AC  2 45cm .
+
+Trang 2
+
+Ví dụ 2. Tính độ dài x trong hình sau
+
+Hướng dẫn giải
+Ta có BC  BH  CH  32  18  50  cm 
+Áp dụng định lí Py-ta-go trong các tam giác vuông, ta có
++ Xét ∆ACH vuông tại H có:
+AC 2  AH 2  CH 2  AH 2  AC 2  CH 2  x 2  322 . (1)
+
++ Xét ∆ABH vuông tại H có:
+AB 2  AH 2  BH 2  x 2  322  182 . (2)
+
++ Xét ∆ABC vuông tại A có AB 2  AC 2  BC 2 (3)
+Thay (1) và (2) vào (3), ta có
+x 2  322  182  x 2  50 2
+
+ 2 x 2  700  2500
+ x 2  1600
+ x  40
+
+Vậy x  40cm .
+Bài tập tự luyện dạng 1
+Câu 1: Cho tam giác ABC vuông tại B. Kết luận nào sau đây là đúng?
+A. BC 2  AB 2  AC 2 .
+
+B. AC 2  BA2  BC 2 .
+
+C. AC 2  BC 2  AB 2 .
+
+D. AB 2  AC 2  BC 2 .
+
+Câu 2: Cho tam giác ABC vuông tại A có BC  26cm, AC  10cm . Chu vi của tam giác ABC bằng
+A. 60 cm.
+
+B. 56 cm.
+
+C. 51 cm.
+
+D. 48 cm.
+
+Câu 3: Cho tam giác ABC vuông tại A, đường cao AH, H  BC .
+
+Trang 3
+
+Giá trị của x bằng
+A. x  16cm .
+
+B. x  9cm .
+
+C. x  8cm .
+
+D. x  7,5cm .
+
+Câu 4: Cho tam giác ABC vuông tại A. Tính độ dài BC biết CA  8cm và BA  4cm .
+Câu 5: Cho tam giác ABC vuông tại A . Tính độ dài các cạnh của tam giác biết AB : BC  5 :13 và chu vi
+tam giác là 90 cm.
+Câu 6: Trên hình bên, cho biết AD  DC , DC  BC , AB  13cm , AC  15cm và DC  12cm .
+
+Tính độ dài đoạn thẳng BC.
+Dạng 2: Sử dụng định lý Py-ta-go đảo để chứng minh tam giác vuông
+Phương pháp giải
+Sử dụng độ dài các cạnh trong tam giác và dùng Ví dụ: Cho ∆ABC có AB  4cm, AC  3cm và
+định lí Py-ta-go đảo để kiểm tra tam giác vuông.
+
+BC  5cm . Chứng minh rằng tam giác ABC là tam
+
+giác vuông.
+Hướng dẫn giải
+Bước 1. Xác định cạnh có độ dài lớn nhất của tam Ta có BC  5cm có độ dài lớn nhất (dự đoán có thể
+giác và hai cạnh còn lại. Tính giá trị bình phương là cạnh huyền của tam giác vuông).
+độ dài cạnh lớn nhất và tổng bình phương hai cạnh Ta có BC 2  52  25; AB 2  AC 2  42  32  25 .
+còn lại.
+Suy ra AB 2  AC 2  BC 2 .
+Bước 2. So sánh hai giá trị tính được để kiểm tra có
+Do đó theo định lí Py-ta-go đảo, tam giác ABC
+thỏa mãn định lí Py-ta-go đảo hay không.
+vuông tại A.
+Nhận xét:
++ Ví dụ trên đề cập đến một tam giác vuông có độ dài các cạnh là các số nguyên (3,4, 5). Ta cũng chứng
+minh được tam giác với độ dài các cạnh là bội số tương ứng  3k , 4k , 5k  cũng là tam giác vuông.
++ Ngoài ra, ta có thể chứng minh có một số bộ số nguyên (và bội số của các bộ số này) là độ dài các cạnh
+của tam giác vuông như:  5; 12; 13 ,  7; 24; 25  ,  9; 40; 41 ,…
+Ví dụ mẫu
+Ví dụ. Bộ số nguyên nào dưới đây là độ dài ba cạnh của một tam giác vuông?
+A.  3; 5; 7  .
+
+B.  4; 6; 8  .
+
+C.  8; 12; 15  .
+
+D. 12; 16; 20  .
+Trang 4
+
+Hướng dẫn giải
++) 7 2  49  34  32  52 nên  3; 5; 7  không là độ dài của 3 cạnh trong tam giác vuông.
++) 82  64  52  42  6 2 nên  4; 6; 8  không là độ dài của 3 cạnh trong tam giác vuông.
++) 152  225  208  12 2  82 nên  8; 12; 15  không là độ dài của 3 cạnh trong tam giác vuông.
++) 202  400  122  162 nên 12; 16; 20  là độ dài của 3 cạnh trong tam giác vuông.
+Do đó chọn đáp án D.
+Bài tập tự luyện dạng 2
+Câu 1: Bộ số nào dưới đây không phải là độ dài các cạnh của tam giác vuông?
+A. 15cm; 20cm; 25cm .
+
+B. 3cm; 7cm; 58cm .
+
+C. 7cm; 24cm; 25cm .
+
+D. 5cm; 7cm; 70cm .
+
+Câu 2: Cho tam giác ABC có đường cao AH  H  BC  . Biết rằng AH 2  BH .CH . Chứng minh rằng
+tam giác ABC là tam giác vuông.
+
+  QPK
+.
+Câu 3: Cho hình vẽ bên. Biết MP  6cm, NQ  8cm, MN  2cm , QP  8cm và NMK
+
+Chứng minh rằng MP  NQ .
+
+Trang 5
+
+ĐÁP ÁN
+Dạng 1. Tính độ dài một cạnh của tam giác vuông
+Câu 1: Chọn B
+∆ABC vuông tại B nên cạnh huyền là AC và hai cạnh góc vuông là BA, BC.
+Áp dụng định lí Py-ta-go, ta có AC 2  BA2  BC 2 .
+Câu 2: Chọn A
+∆ABC vuông tại A nên BC 2  AB 2  AC 2  AB 2  BC 2  AC 2  26 2  10 2  576  AB  24 .
+Chu vi ∆ABC là AB  AC  BC  24  10  26  60  cm  .
+Câu 3: Chọn A
+
+Áp dụng định lí Py-ta-go trong các tam giác vuông, ta có:
++) Xét ∆ABC vuông tại A nên
+
+BC 2  AB 2  AC 2  152  202  625  BC  25  cm  .
+Suy ra BH  25  x  cm  .
++) Xét ∆ABH vuông tại H và ∆ACH vuông tại H, ta có
+AB 2  AH 2  BH 2 ; AC 2  AH 2  CH 2 .
+
+Suy ra AB 2  BH 2  AC 2  CH 2   AH 2  .
+Suy ra 152   25  x   20 2  x 2 .
+2
+
+Ta tính được x  16cm .
+Câu 4:
+
+
+
+
+
+Áp dụng định lí Py-ta-go trong ∆ABC 
+A  90 ta có BC 2  AB 2  AC 2 .
+Với CA  8cm và BA  4cm , ta có BC 2  82  42  64  16  80  BC  80  cm  .
+Câu 5:
+
+
+
+
+
+Áp dụng định lí Py-ta-go trong ∆ABC 
+A  90 ta có BC 2  AB 2  AC 2 .
+
+(1)
+
+AB BC
+
+ k  0  AB  5k ; BC  13k . Thay vào (1), ta có:
+5
+13
+
+Ta có
+
+13k    5k   AC 2  AC 2  13k    5k   144k 2  AC  12k .
+2
+
+2
+
+2
+
+2
+
+Mà chu vi tam giác bằng 90cm nên AB  BC  CA  90  5k  13k  12k  90  k  3 .
+Trang 6
+
+Vậy AB  5k  15cm, AC  12k  36cm, BC  13k  39cm .
+Câu 6:
+
+Dựng AH  BC với H  BC .
+
+ (hai góc so le trong).
+Do AD // BC nên 
+ACH  CAD
+Xét ∆AHC và ∆CDA có
+
+
+  90 , AC chung, 
+.
+AHC  CDA
+ACH  CAD
+Do đó AHC  CDA (cạnh huyền - góc nhọn).
+Suy ra AH  CD  12cm (hai cạnh tương ứng).
+Áp dụng định lí Py-ta-go trong các tam giác vuông:
++) ∆AHC vuông tại H có CH 2  AC 2  AH 2  152  122  81  CH  9  cm  .
++) ∆ABH vuông tại H có BH 2  AB 2  AH 2  132  122  25  BH  5  cm  .
+Do đó BC  BH  CH  9  5  14  cm  .
+
+Dạng 2. Sử dụng định lí Py-ta-go đảo để chứng minh tam giác vuông
+Câu 1: Chọn D
+Vì
+
+ 70   70  74  5  7 nên bộ ba số 5cm; 7cm; 70cm không là độ dài ba cạnh của một tam giác
+2
+
+2
+
+2
+
+vuông.
+Câu 2:
+
+Áp dụng định lí Py-ta-go trong các tam giác vuông, ta có
++) Xét ∆ABH vuông tại H có AB 2  BH 2  AH 2 .
++) Xét ∆AHC vuông tại H có AC 2  AH 2  CH 2 .
+Trang 7
+
+Cộng từng vế 2 đẳng thức, ta được
+AB 2  AC 2  BH 2  2. AH 2  CH 2 .
+
+Theo giả thiết AH 2  BH .CH nên
+
+AB 2  AC 2  BH 2  2.BH .CH  CH 2
+ BH 2  BH .CH  BH .CH  CH 2
+ BH .  BH  CH   CH .  BH  CH 
+ BH .BC  CH .BC (do BH  CH  BC )
+
+  BH  CH  .BC  BC.BC  BC 2 .
+Vậy AB 2  AC 2  BC 2 .
+Theo định lí Py-ta-go đảo ta có ∆ABC vuông tại A.
+Câu 3:
+
+Qua N, dựng NH // MP với H  PQ .
+
+  HNP
+ (hai góc so le trong).
+Suy ra MPN
+
+  QPK
+ (giả thiết) nên MN // PQ .
+Ta có NMK
+  HPN
+ (hai góc so le trong).
+Suy ra MNP
+Xét ∆MNP và ∆HPN có
+
+  HPN
+ , NP là cạnh chung, MPN
+  HNP
+.
+MNP
+Do đó MNP  HPN  g.c.g  .
+Suy ra PH  MN  2cm; NH  MP  6cm .
+Khi đó ∆NQH có NQ  8cm, NH  6cm và QH  QP  PH  8  2  10  cm  .
+Ta có NQ 2  NH 2  82  62  100; QH 2  102  100 . Suy ra NQ 2  NH 2  HQ 2 .
+Do đó ∆NQH vuông tại N (định lí Py-ta-go đảo)  NH  NQ . Mà NH // MP (cách dựng) nên
+MP  NQ .
+
+Trang 8
+
+

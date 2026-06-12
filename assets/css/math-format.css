@@ -36,23 +36,25 @@
 }
 
 .math-sup {
-  font-size: 0.68em;
-  font-weight: 800;
-  line-height: 0;
-  margin-left: 0.04em;
+  display: inline-block;
+  font-size: 0.62em;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 0.06em;
+  vertical-align: super;
   position: relative;
-  top: -0.45em;
-  vertical-align: baseline;
+  top: -0.05em;
 }
 
 .math-sub {
-  font-size: 0.72em;
+  display: inline-block;
+  font-size: 0.68em;
   font-weight: 700;
-  line-height: 0;
-  margin-left: 0.04em;
+  line-height: 1;
+  margin-left: 0.06em;
+  vertical-align: sub;
   position: relative;
-  top: 0.2em;
-  vertical-align: baseline;
+  top: 0.05em;
 }
 
 .math-sqrt {

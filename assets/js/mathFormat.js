@@ -1,7 +1,6 @@
 import { escapeHtml } from "./utils.js";
 
 const FRAC_RE = /(\d+)\/(\d+)/g;
-const EXP_RE = /(\([^)]+\)|\d+(?:[,.]\d+)?|[a-zA-Z])(\^(\([^)]+\)|\{[^}]+\}|\d+|[a-zA-Z]+))/g;
 const SUB_RE = /([a-zA-Z])(_\{([^}]+)\}|_(\d+|[a-zA-Z]+))/g;
 const SQRT_PAREN_RE = /√\(([^)]+)\)/g;
 const SQRT_NUM_RE = /√(\d+)/g;
@@ -11,22 +10,39 @@ function wrapFrac(num, den) {
 }
 
 function wrapSup(base, exp) {
-  return `<span class="math-inline"><span class="math-base">${base}</span><sup class="math-sup">${exp}</sup></span>`;
+  const clean = String(exp).replace(/^\{|\}$/g, "").replace(/^\(|\)$/g, "");
+  return `<span class="math-inline"><span class="math-base">${base}</span><sup class="math-sup">${clean}</sup></span>`;
 }
 
 function wrapSub(base, sub) {
   return `<span class="math-inline"><span class="math-base">${base}</span><sub class="math-sub">${sub}</sub></span>`;
 }
 
-function replaceFractions(text) {
-  return text.replace(FRAC_RE, (_, num, den) => wrapFrac(num, den));
+function normalizeUnicodeExponents(text) {
+  return text
+    .replace(/²/g, "^2")
+    .replace(/³/g, "^3")
+    .replace(/⁴/g, "^4")
+    .replace(/ⁿ/g, "^n");
 }
 
 function replaceExponents(text) {
-  return text.replace(EXP_RE, (_, base, __, exp) => {
-    const clean = exp.replace(/^\{|\}$/g, "").replace(/^\(|\)$/g, "");
-    return wrapSup(base, clean);
+  const expPart = String.raw`\d+|[a-zA-Z]+`;
+  const pattern = new RegExp(
+    String.raw`\(([^)]*)\)\^(${expPart})|(?<!\d)([A-Z]{2})\^(${expPart})|(\d+(?:[,.]\d+)?|[a-zA-Z])\^(${expPart})`,
+    "g"
+  );
+
+  return text.replace(pattern, (match, parenBase, parenExp, twoBase, twoExp, singleBase, singleExp) => {
+    if (parenBase != null) return wrapSup(`(${parenBase})`, parenExp);
+    if (twoBase != null) return wrapSup(twoBase, twoExp);
+    if (singleBase != null) return wrapSup(singleBase, singleExp);
+    return match;
   });
+}
+
+function replaceFractions(text) {
+  return text.replace(FRAC_RE, (_, num, den) => wrapFrac(num, den));
 }
 
 function replaceSubscripts(text) {
@@ -55,6 +71,7 @@ export function formatMathHtml(value) {
   if (value == null || value === "") return "";
   let text = escapeHtml(String(value));
 
+  text = normalizeUnicodeExponents(text);
   text = replaceSqrt(text);
   text = replaceOperators(text);
   text = replaceExponents(text);

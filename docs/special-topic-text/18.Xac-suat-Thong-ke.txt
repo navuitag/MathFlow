@@ -1,0 +1,6312 @@
+CHƯƠNG VIII. XÁC SUẤT CỦA BIẾN CỐ TRONG MỘT SỐ MÔ HÌNH XÁC SUẤT ĐƠN
+GIẢN
+BÀI 25. PHÉP THỬ NGẪU NHIÊN VÀ KHÔNG GIAN MẪU
+A. CÁC KIẾN THỨC CƠ BẢN CẦN NHỚ
+1. Phép thử ngẫu nhiên và không gian mẫu
+•
+
+•
+
+Một hoặc một số hành động, thực nghiệm được tiến hành liên tiếp hay đồng thời mà kết quả của
+chúng không thể biết được trước khi thực hiện nhưng có thể liệt kê được tất cả các kết quả có thể
+xảy ra, được gọi là một phép thử ngẫu nhiên, gọi tắt là phép thử.
+Tập hợp tất cả các kết quả có thể xảy ra của phép thử (gọi tắt là tập tất cả các kết quả có thể của
+phép thử) được gọi là không gian mẫu của phép thử. Không gian mẫu của phép thử được kí hiệu là
+Ω.
+
+Ví dụ 1. Bạn Lan gieo một con xúc xắc và bạn Hoà gieo một đồng xu. Quan sát số chấm xuất hiện trên
+con xúc xắc và mặt xuất hiện của đồng xu.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là bạn Lan gieo một con xúc xắc và bạn Hoà gieo một đồng xu. Kết quả của phép thử là số
+chấm xuất hiện trên con xúc xắc và mặt xuất hiện của đồng xu (mặt sấp (S), mặt ngửa (N)).
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Xúc sắc
+Đồng xu
+
+S
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1; S )
+(1; N )
+
+( 2; S )
+( 2; N )
+
+( 3; S )
+( 3; N )
+
+( 4; S )
+( 4; N )
+
+( 5; S )
+( 5; N )
+
+( 6; S )
+( 6; N )
+
+N
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 12 ô của bảng trên. Do đó không gian mẫu của
+phép thử là Ω ={(1, S );(2, S );(3, S );(4, S )(5, S )(6, S );(1, N );(2, N );(3, N );(4, N );(5, N );(6, N )} .
+Vậy không gian mã̃u có 12 phần tử.
+Ví dụ 2. Một hộp kín đựng 4 quả bóng có cùng khối luợng và kích thước, được đánh số 1; 2; 3; 4. Lấy
+ngẫu nhiên lần lượt hai quả bóng từ hộp, quả bóng được lấy ra lần đầu không trả lại vào hộp. Quan sát hai
+số ghi trên hai quả bóng được lấy ra.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là lấy ngẫu nhiên lần lượt hai quả bóng từ hộp, quả bóng được lấy ra lần đầu không trả lại vào
+hộp.
+Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương ứng là số ghi trên quả bóng được lấy
+ra ở lần thứ nhất và lần thứ hai. Vì quả bóng được lấy ra lần đầu không trả lại vào hộp nên a ≠ b .
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+
+Lần 2
+
+Lần 1
+1
+2
+3
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+4
+Chú ý rằng a ≠ b nên cặp có hai phần tử trùng nhau không được tính, tức là trong bảng ta phải xoá 4 ô:
+(1,1), (2, 2), (3,3), (4, 4) .
+Do đó không gian mẫu của phép thử là
+Ω ={(1, 2);(1,3);(1, 4);(2,1);(2,3);(2, 4);(3,1);(3, 2);(3, 4);(4,1);(4, 2);(4,3)} .
+Vậy không gian mẫu có 12 phần tử.
+B. CÁC DẠNG TOÁN
+Dạng 1. Phép thử ngẫu nhiên
+Ví dụ 1. Trong các hoạt động sau, hoạt động nào là phép thử ngẫu nhiên? Tại sao?
+a) Gieo 2 khối gỗ hình lập phương, mỗi khối được sơn một màu, màu xanh và màu vàng. Quan sát màu
+sắc của mặt xuất hiện bên trên.
+b) Chọn bất kì 1 cây bút bi từ hộp có 4 cây bút bi.
+c) Chọn ra đồng thời 2 que gỗ từ hộp có 2 que gỗ màu xanh và que gỗ màu đỏ.
+Ví dụ 2. Mỗi hành động sau có phải là phép thử ngẫu nhiên? Giải thích vì sao?
+a) Trên bàn có 5 phiếu giống hệt nhau. Trên 2 phiếu có vẽ hoa mai. Trên 3 phiếu còn lại vẽ hoa đào. Bạn
+Hà Mi lấy một phiếu bất kì và quan sát hình vẽ trên đó.
+b) “Dế mèn phiêu lưu kí” là quyển sách duy nhất có trên bàn. Bạn Minh Khang lấy một quyển sách trên
+bàn để đọc.
+Ví dụ 3. Một tấm bìa cứng hình tròn được chia làm ba hình quạt bằng nhau, đánh số 1; 2;3 và được gắn
+vào trục quay cố định ở tâm (xem hình).
+
+Bạn Hiền quay tấm bìa liên tiếp hai lần và quan sát xem mũi tên chỉ vào hình quạt nào khi tấm bìa dừng
+lại. Phép thử và kết quả của phép thử là gì?
+Ví dụ 4. Gieo một con xúc xắc một lần. Phép thử và kết quả của phép thử là gì?
+Ví dụ 5. Một cửa hàng muốn tặng hai phần quà cho hai trong bốn khách hàng có lượng mua nhiều nhất
+trong tháng bằng cách rút thăm ngẫu nhiên. Việc rút thǎm tiến hành như sau: Nhân viên viết tên 4 khách
+
+hàng đó vào 4 lá phiếu để vào một chiếc hộp. Nhân viên rút ngẫu nhiên một lá phiếu trong hộp. Lá phiếu
+rút ra không trả lại vào hộp. Sau đó, nhân viên tiếp tục rút ngẫu nhiên một lá phiếu từ ba lá phiếu còn lại.
+Hai khách hàng có tên trong hai lá phiếu được rút ra là hai khách hàng được tặng quà. Phép thử và kết quả
+của phép thử là gì?
+Dạng 2. Không gian mẫu. Số phần tử của không gian mẫu
+Ví dụ 1. Xác định không gian mẫu của các phép thử ngẫu nhiên sau:
+a) Gieo 1 con xúc cắc cân đối và đồng chất hai lần.
+b) Lấy ra lần lượt 2 quả bóng từ một hộp chứa 3 quả bóng được đánh số 1 ; 2 ; 3.
+Ví dụ 2. Hai bạn nam Hùng, Dũng và hai bạn nữ Dung, Nguyệt tham gia đội văn ghệ của lớp 9A. Cô giáo
+phụ trách đội chọn ngẫu nhiên hai bạn để hát song ca. Liệt kê các cách chọn ngẫu nhiên hai bạn để hát
+song ca.
+Ví dụ 3. Viết ngẫu nhiên một số tự nhiên lẻ có hai chữ số. Tìm số phần tử của tập hợp Ω gồm các kết
+quả có thể xảy ra đối với số tự nhiên được viết ra.
+Ví dụ tương tự.
+Viết ngẫu nhiên một số tự nhiên lớn hơn 499 và nhỏ hơn 1000. Viết tập hợp các kết quả có thể xảy ra của
+phép thử. Có bao nhiêu kết quả có thể xảy ra:
+Ví dụ 4. Một hộp có chứa 5 tấm thẻ cùng loại được đánh số lần lượt từ 1 đến 5. Lấy ra ngẫu nhiên cùng
+một lúc 2 tấm thẻ từ hộp. Hãy liệt kê các phần tử của không gian mẫu của phép thử.
+Ví dụ 5. Màu hạt của đậu Hà Lan có hai kiểu hình: màu vàng và màu xanh, có hai gene ứng với hai kiểu
+hình này allele trội A và allele lặn a. Hình dạng hạt của đậu Hà Lan có hai kiểu hình: hạt trơn và hạt nhăn,
+có hai gene ứng với hai kiểu hình này allele trội B và allele lặn b . Khi cho lai hai cây đậu Hà Lan, cây
+con lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ để hình thành một cặp gene. Phép thử là
+
+cho lai hai cây đậu Hà Lan, trong đó cây bố có kiểu gene là ( AA, Bb ) , cây mẹ có kiểu gene là ( Aa, Bb ) .
+Hãy mô tả không gian mẫu của phép thử trên. Không gian mẫu có bao nhiêu phần tử?
+Gợi ý: Về kiểu gene, có hai kiểu gene ứng với màu hạt của cây con là AA; Aa.
+Có bốn kiểu gene ứng với dạng hạt của cây con là BB; Bb; bB; bb .
+
+Ví dụ 6. Trên giá sách có 4 quyển thuộc thể loại Văn học, 3 quyển thuộc thể loại Lịch sử, 2 quyển thuộc
+thể loại Khoa học viễn tưởng. Bạn Minh Anh rút ngẫu nhiên một quyển. Có bao nhiêu kết quả có thể xảy
+ra? Không gian mẫu của phép thử này gồm những phần tử nào?
+Ví dụ 7. Trong hộp thứ nhất có 5 thẻ được đánh số 1,2,3,4,5. Trong hộp thứ hai có 4 chữ cái tạo thành từ
+TOÁN. Lấy ngẫu nhiên một thẻ trong hộp thứ nhất và một chữ cái trong hộp thứ hai. Hãy mô tả không
+gian mẫu của phép thử đó.
+Ví dụ tương tự.
+Xét phép thử tung một đồng xu và một con xúc xắc 6 mặt. Hãy liệt kê các phần tử của không gian mẫu.
+C. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+8.1. Chọn ngẫu nhiên một gia đình có hai con và quan sát giới tính của hai người con đó.
+a) Phép thử và kết quả của phép thử là gì?
+
+b) Mô tả không gian mẫu của phép thử.
+8.2. Một hộp đựng 5 tấm thẻ ghi các số 1 ; 2 ; 3 ; 4 ; 5. Rút ngẫu nhiên lần lượt hai tấm thẻ từ hộp, tấm thẻ
+rút ra lần đầu không trả lại vào hộp.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+8.3. Có hai nhóm học sinh: Nhóm I có ba học sinh nam là Huy, Sơn, Tùng; nhóm II có ba học sinh nữ là
+Hồng, Phương, Linh. Giáo viên chọn ngẫu nhiên một học sinh từ mỗi nhóm.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+8.4. Xếp ngẫu nhiên ba bạn Mai, Việt, Lan trên một chiếc ghế dài.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Bạn Tùng gieo một con xúc xắc và bạn Sơn gieo một đồng xu liên tiếp hai lần.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Câu 2. Túi I có 2 viên bi màu đen, kí hiệu là B1 , B2 và 2 viên bi màu trắng, kí hiệu là T1 , T2 . Túi II có 3
+viên bi màu xanh, ki hiệu là X 1 , X 2 , X 3 và 2 viên bi màu đỏ, kí hiệu là D1 , D2 , các viên bi có cùng kich
+thước. Từ mỗi túi lấy ngẫu nhiên một viên bi.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Câu 3. Bạn Minh gieo một đồng xu và bạn Ngọc lấy ngẫu nhiên một quả bóng từ một hộp chứa 4 quả
+bóng với các màu xanh, đỏ, tím, vàng.
+a) Phép thử là gì?
+b) Có bao nhiêu kết quả có thể? Mô tả không gian mẫu của phép thử.
+Câu 4. Túi A chứa 4 tấm thẻ được đánh số 1,2,3,4. Túi B chứa 4 viên bi với các màu xanh, đỏ, tím, vàng.
+Từ túi A rút ngẫu nhiên một tấm thẻ đồng thời từ tưi B lấy ngẫu nhiên một viên bi.
+a) Phép thử là gi?
+b) Có bao nhiêu kết quả có thể? Mô tả không gian mẫu của phép thử.
+Câu 5. Một hộp đựng 6 chiếc kẹo với các nhãn hiệu A, B, C , D, E , F . Bạn Lan lấy ngẩu nhiên một chiếc
+kẹo cho vào cặp sách của mình. Tiếp đó bạn Hồng lấy ngẫu nhiên một chiếc kẹo từ hộp.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần từ?
+Câu 6. Một tấm bìa hình tròn được chia làm năm hình quạt tròn có diện tích bằng nhau, trên mỗi hình
+quạt lần lượt ghi các số 1,2,3,4,5 và được gắn vào trục quay có mũi tên cố định ở tâm. Bạn An quay tấm
+bia hai lần và quan sát xem mũi tên chỉ vào hình quạt nào khi tấm bia dừng lại.
+
+a) Phép thử và kết quả của phép thử là gi?
+b) Mô tả không gian mẫu của phép thử.
+Câu 7. Một hộp chứa 3 quả bóng bàn và 2 quả bóng gôn. Trong các hoạt động sau, hoạt động nào là phép
+thử ngẫu nhiên?
+a) Chọn ra đồng thời 5 quả bóng từ hộp.
+b) Chọn ra lần lượt 5 quả bóng từ hộp, bóng lấy ra không được trả lại hộp.
+c) Chọn ra đồng thời 2 quả bóng gôn từ hộp.
+d) Chọn ra đồng thời 2 quả bóng bàn từ hộp.
+Câu 8. Một hộp đựng 4 tấm thẻ ghi các số 5;6;8;9 . Lấy ngẫu nhiên lần lượt 2 tấm thẻ từ hộp. Tấm thẻ
+lấy ra lần đầu không được trả lại hộp.
+a) Xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Tích các số ghi trên hai tấm thẻ là số lẻ".
+Câu 9. Một hộp chứa 2 cây bút xanh và 1 cây bút tím.
+a) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 cây bút từ hộp.
+b) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây
+bút lấy ra lần thứ nhất không được trả lại hộp trước khi lấy cây bút thứ hai.
+c) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây
+bút lấy ra lần thứ nhất được trả lại hộp trước khi lấy cây bút thứ hai.
+Câu 10. Hộp thứ nhất chứa 2 tấm thẻ cùng loại được đánh số 1; 2 . Hộp thứ hai chứa 3 tấm thẻ cùng loại
+được đánh số 3; 4;5 . Bạn Hà lấy ngẫu nhiên 1 tấm thẻ từ hộp thứ nhất và 1 tấm thẻ từ hộp thứ hai.
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Các số trên hai thẻ lấy ra đều là số lẻ". Có bao nhiêu kết
+quả thuận lợi cho biến cố A?
+Câu 11. Một nhóm học sinh gồm 2 bạn lớp 9 A là Đăng, Phước và 3 bạn lớp 9 B là Dung, Thọ và Thuý.
+Thầy giáo chọn ngẫu nhiên 1 học sinh lớp 9 A và 1 học sinh lớp 9B từ nhóm trên.
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần từ?
+b) Liệt kê các kết quả thuận lợi cho biến cố A: "Tên của hai bạn được chọn đều có chữ cái n ". Có bao
+nhiêu kết quả thuận lợi cho biến cố A ?
+Câu 12. Peter sẽ đến thăm Thủ đô Hà Nội, Thành phố Huế và Thành phố Hồ Chí Minh trong chuyến du
+lịch Việt Nam của mình. Peter dự định thăm ba thành phố trên theo một thứ tự ngẫu nhiên. Hãy mô tả
+không gian mẫu của phép thử.
+Câu 13. Ba bạn Bắc, Trung, Nam vào một quán giải khát. Bắc gọi một li sinh tố bơ, Trung gọi một li sinh
+tố chuối và Nam gọi một li sinh tố dứa. Khi mang các li sinh tố ra, cô phục vụ đã đưa cho mối người một
+li sinh tố một cách ngẫu nhiên.
+
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Bạn Bắc nhận đúng li sinh tố mình đã gọi".
+
+BÀI 26. XÁC SUẤT CỦA BIẾN CỐ LIÊN QUAN TỚI PHÉP THỬ
+A. CÁC KIẾN THỨC CƠ BẢN CẦN NHỚ
+I. KẾT QUẢ THUẬN LỢI CHO MỘT BIẾN CỐ LIÊN QUAN TỚI PHÉP THỬ
+Cho phép thử T . Xét biến cố E , ở đó việc xảy ra hay không xảy ra của E tuỳ thuộc vào kết quả của
+phép thử T . Kết quả của phép thử T làm cho biến cố E xảy ra gọi là kết quả thuận lợi cho E .
+Ví dụ 1. Một tấm bìa cứng hình tròn được chia làm bốn hình quạt bằng nhau, đánh số 1 ; 2 ; 3 ; 4 và được
+gắn vào trục quay có mũi tên ở tâm (H.8.2). Bạn Tuấn quay tấm bìa hai lần, quan sát và ghi lại số của
+hình quạt mà mũi tên chỉ vào.
+
+a) Phép thử là gì? Hãy mô tả không gian mẫu của phép thử.
+b) Xét biến cố E: “Tổng hai số ghi trên hai hình quạt ở hai lần quay bằng 5”. Mô tả các kết quả thuận lợi
+cho biến cố E .
+c) Xét biến cố F : “Tích hai số ghi trên hai hình quạt ở hai lần quay bằng 4”. Mô tả các kết quả thuận lợi
+cho biến cố F .
+Lời giải
+a) Phép thử là quay tấm bìa hai lần. Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương
+ứng là số ghi trên các hình quạt mà mũi tên chỉ vào ở lần quay thứ nhất và thứ hai.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Lần 2
+
+Lần 1
+1
+2
+3
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+4
+Mỗi ô trong bảng là một kết quả có thể. Không gian mẫu là tập hợp 16 ô của bảng trên. Như vậy, không
+gian mẫu của phép thử là
+
+Ω ={(1,1);(1, 2);(1,3);(1, 4);(2,1);(2, 2);(2,3);(2, 4);(3,1);(3, 2);(3,3);(3, 4);(4,1);(4, 2);(4,3);(4, 4)} .
+b) Các kết quả thuận lợi cho biến cố E là (1, 4);(2,3);(3, 2);(4,1) .
+c) Các kết quả thuận lợi cho biến cố F là (1, 4);(2, 2);(4,1) .
+II. TÍNH XÁC SUẤT CỦA BIẾN CỐ LIÊN QUAN ĐẾN PHÉP THỬ KHI CÁC KẾT QUẢ CỦA
+PHÉP THỬ ĐỒNG KHẢ NĂNG
+
+Giả sử rằng các kết quả có thể của phép thử T là đồng khả năng. Khi đó xác suất P( E ) của biến cố E
+bằng tỉ số giữa số kết quả thuận lợi cho biến cố E và số phần tử của tập Ω : P ( E ) =
+
+n(E)
+
+n (Ω)
+
+, trong đó Ω
+
+là không gian mẫu của T ; n ( E ) là số kết quả thuận lợi cho biến cố E và n ( Ω ) là số phần tử của tập Ω .
+Cách tính xác suất của một biến cố
+Việc tính xác suất của một biến cố E gồm các bước sau:
+Bước 1. Mô tả không gian mẫu của phép thử. Từ đó xác định số phần tử của không gian mẫu Ω .
+Bước 2. Chứng tỏ các kết quả có thể của phép thử là đồng khả năng.
+Bước 3. Mô tả các kết quả thuận lợi cho biến cố E . Từ đó xác định số kết quả thuận lợi cho biến cố E .
+Bước 4. Lập tỉ số giữa số kết quả thuận lợi cho biến cố E với số phần tử của không gian mẫu Ω .
+Ví dụ 2. Ba bạn Bảo, Châu, Dương được xếp ngẫu nhiên ngồi trên một hàng ghế có ba chỗ ngồi. Tính xác
+suất của các biến cố sau:
+a) E: “Bảo không ngồi ngoài cùng bên phải”;
+b) F: “Châu và Dương không ngồi cạnh nhau”.
+Lời giải
+Kí hiệu ba bạn Bảo, Châu, Dương lần lượt là B, C , D . Ta liệt kê các kết quả có thể xảy ra:
+- Bảo ngồi ngoài cùng bên trái: có 2 cách xếp là BCD và BDC .
+- Bảo ngồi giữa: có 2 cách xếp là CBD và DBC .
+- Bảo ngổi ngoài cùng bên phải: có 2 cách xếp là CDB và DCB .
+Vậy không gian mẫu của phép thử là Ω ={ BCD; BDC ; CBD; DBC ; CDB; DCB} . Tập Ω có 6 phần tử. Vì
+việc xếp chỗ ngồi là ngẫu nhiên nên các kết quả có thể là đồng khả năng.
+a) Có 4 kết quả thuận lợi cho biến cố E là BCD, BDC , CBD và DBC . Vậy P ( E =
+)
+b) Có 2 kết quả thuận lợi cho biến cố F là CBD và DBC . Vậy P ( F =
+)
+
+4 2
+=
+.
+6 3
+
+2 1
+=
+.
+6 3
+
+Ví dụ 3. Để trả lời câu hỏi trong tình huống mở đầu ta cần biết kiểu gene của cây bố và cây mẹ. Giả sử
+cây bố có kiểu gene là ( AA, Bb ) , cây mẹ có kiểu gene là ( Aa, Bb ) . Khi đó yêu cầu bài toán trở thành tính
+xác suất để cây con có hạt vàng và trơn.
+Lời giải
+Ở Bài 25 , ta đã biết không gian mẫu là:
+Ω ={( AA, BB);( AA, Bb);( AA, bB);( AA, bb);( Aa, BB);( Aa, Bb);( Aa, bB);( Aa, bb)}
+
+Tập Ω có 8 phần tử. Phép thử có 8 kết quả có thể. Do cây con chọn ngẫu nhiên một gene từ cây bố và
+một gene từ cây mẹ nên các kết quả có thể trên là đổng khả năng.
+Gọi M là biến cố “Cây con có hạt vàng và trơn”. Cây con có hạt vàng và trơn nếu trong gene màu hạt có
+ít nhất một allele trội A và trong gene dạng hạt có ít nhất một allele trội B .
+
+Có 6 kết quả thuận lợi cho biến cố M là ( AA, BB) ; ( AA, Bb);( AA, bB) ; (Aa, BB) ; (Aa, Bb) ; ( Aa, bB) .
+Vậy P ( M =
+)
+
+6 3
+=
+.
+8 4
+
+B. CÁC DẠNG TOÁN
+Dạng 1. Kết quả thuận lợi cho một biến cố
+Ví dụ 1. Xét phép thử tung một con xúc xắc cân đối và đồng chất có 6 mặt. Gọi A là biến cố “Nhận được
+mặt có số chấm là số nguyên tố”. Hãy liệt kê những kết quả thuận lợi cho biến cố A .
+Hướng dẫn: Các kết quả thuận lợi cho biến cố là một tập con của không gian mẫu.
+Ví dụ 2. Bánh xe được chia thành 16 hình quạt bằng nhau, đánh số thứ tự từ 1 đến 16. Quay bánh xe và
+quan sát xem khi nó dừng thì mũi kim (được gắn cố định) chỉ vào hình quạt số mấy (ta nói ngắn gọn là
+“kim chỉ vào số mấy”). Hãy liệt kê các kết quả thuận lợi cho mỗi biến cố sau:
+A : “Kim chỉ vào số là bội số của 5”;
+
+B : “Kim chỉ vào số là ước của 14”.
+
+Ví dụ 3. Bảng thống kê tuổi các thành viên tham gia câu lạc bộ bơi lội của một nhà văn hoá thiếu nhi.
+Tuổi của các thành viên câu lạc bộ bơi lội
+10 tuổi
+12 tuổi
+13 tuổi
+14 tuổi
+Nam
+3
+5
+7
+15
+Nữ
+5
+6
+10
+6
+Tổng số
+8
+11
+17
+21
+Lấy ngẫu nhiên một bạn trong danh sách để kiểm tra sức khoẻ. Xét các biến cố:
+
+Tổng số
+30
+27
+57
+
+A : “Chọn được một bạn nữ 10 tuổi”;
+B : “Chọn được một bạn nữ”;
+
+C : “Chọn được một bạn nam 13 tuổi hoặc 14 tuổi”.
+
+Hãy xác định số kết quả thuận lợi cho mỗi biến cố A, B, C .
+Ví dụ 4. Bảng biểu diễn kết quả thống kê của một bệnh viện về cân nặng của một số trẻ sơ sinh.
+Cân nặng của một số trẻ sơ sinh
+Cân nặng
+(g)
+Tần số Bé gái
+
+[ 2800;3000 )
+
+[3000;3200 ) [3200;3400 ) [3400;3600 )
+
+Tổng số
+
+4
+
+17
+
+36
+
+10
+
+5
+
+Bé trai 3
+18
+8
+3
+32
+Chọn ngẫu nhiên một trẻ sơ sinh trong số này. Xác định số kết quả thuận lợi cho mỗi biến cố sau:
+M : “Chọn được một bé gái thuộc nhóm có cân nặng trong khoảng [3200;3400) ( g ) ”
+
+N : “Chọn được một bé cân nặng dưới 3000 g”;
+
+O : “Chọn được một bé trai cân nặng không dưới 3200 g”.
+
+Ví dụ 5. Viết ngẫu nhiên một số chẵn có hai chữ số. Hãy liệt kê các kết quả thuận lợi cho biến cố “Số tự
+nhiên được viết là bội của 4”.
+
+=
+Ω
+Hướng dẫn:
+
+{10;12;…;96;98} . Bội của 4: 12; 16; ...; 96.
+
+Ví dụ tương tự.
+Viết ngẫu nhiên một số lẻ không vượt quá 100. Hãy liệt kê các kết quả thuận lợi cho biến cố E : “Số tự
+nhiên được viết là bội của 9”.
+Dạng 2. Xác suất của biến cố
+Ví dụ 1. Màu hạt của đậu Hà Lan có hai kiểu hình là vàng và xanh. Có hai gene ứng với hai kiểu hình này
+allele trội A và allele lặn a. Hình dạng gạt của đậu Hà Lan có hai kiểu hình: hạt trơn và hạt nhăn. Có hai
+gene ứng với hai kiểu hình này allele trội B và allele lặn b . Khi cho lai hai cây đậu Hà Lan, cặp gene của
+cây con được lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ. Phép thử là cho lai hai cây đậu
+Hà Lan, trong đó cây bố và cây mẹ có kiểu hình là “hạt vàng nhăn”. Hỏi xác suất để cây con có kiểu hình
+như cây bố và cây mẹ là bao nhiêu?
+Ví dụ tương tự.
+Ví dụ 2. Tấm bìa cứng A hình tròn được chia thành 3 hình quạt có diện tích bằng nhau, đánh số 1; 2;3 và
+tấm bìa cứng B hình tròn được chia thành 5 hình quạt có diện tích bằng nhau, đánh số 1; 2;3; 4;5 . Trục
+quay của A và B được gắn mũi tên ở tâm. Bạn Nam quay tấm bìa A, bạn Bình quay tấm bìa B. Quan sát
+xem mũi tên dừng ở hình quạt nào trên hai tấm bìa. (Xem hình vẽ).
+
+Tính xác suất của các biến cố sau:
+E : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào bằng 6”;
+
+F : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào nhỏ hơn 5”;
+
+G : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào là số chẵn”.
+
+Hướng dẫn: Viết tập hợp Ω và các tập hợp E , F , G .
+
+Ví dụ 3. Cho hai túi I và II, mỗi túi chứa 3 tấm thẻ được ghi các số 2; 4 ; 9. Rút ngẫu nhiên từ mỗi túi ra
+một tấm thẻ và ghép thành số có hai chữ số với chũ số trên tấm thẻ rút từ túi I là chữ số hàng chục. Tính
+xác suất các biến cố sau:
+a) A : “Số tạo thành chia hết cho 4”;
+b) B : “Số tạo thành là số nguyên tố”.
+Ví dụ tương tự.
+Xét ba bạn An, Bình, Châu ngồi trên một dãy ghế có ba chỗ ngồi. Tính xác suất các biến cố sau:
+a) E : “An không ngồi ngoài cùng bên phải”;
+b) B : “Bình và Châu ngồi cạnh nhau”.
+Hướng dẫn: Viết tập hợp các phần tử của không gian mẫu bằng cách liệt kê các kết quả.
+Ví dụ 4. Tính xác suất của các biến cố sau:
+E : “Trong hai bạn được chọn, có một bạn nam và một bạn nữ”;
+F : “Trong hai bạn được chọn có bạn Dung”;
+
+Hướng dẫn: Xem Ví dụ 7. Số phần tử của tập hợp Ω là 6 .
+Ví dụ 5. Bạn Hoàng lấy ngẫu nhiên một quả cầu từ một túi đựng 2 quả cầu gồm một quả màu đen và một
+quả màu trắng, có cùng khối lượng và kích thước. Bạn Hải rút ngẫu nhiên một tấm thẻ từ một hộp đựng 3
+tấm thẻ A, B, C .
+a) Mô tả không gian mẫu của phép thử.
+b) Xét các biến cố sau:
+E : “Bạn Hoàng lấy được quả cầu màu đen”;
+F : “Hoàng lấy được quả cầu màu trắng và bạn Hải không rút được tấm thẻ A”.
+
+Tính P ( E ) ; P ( F ) .
+Ví dụ 6. Hộp thứ nhất đựng 1 quả bóng trắng, 1 quả bóng đỏ. Hộp thứ hai đựng 1 quả bóng đỏ, 1 quả
+bóng vàng. Lấy ra ngẫu nhiên từ mỗi hộp 1 quả bóng.
+a) Xác định không gian mẫu và số kết quả có thể cảy ra của phép thử.
+b) Biết rằng các quả bóng có cùng kích thước và khối lượng. Hãy tính xác suất của mỗi biến cố sau:
+A : “2 quả bóng lấy ra có cùng màu”;
+B : “Có đúng 1 quả bóng màu đỏ trong 2 quả bóng lấy ra”.
+
+Ví dụ 7. Một tấm bìa cứng hình tròn được chia làm bốn hình quạt bằng nhau, đánh số 1 ; 2 ; 3 ; 4 và được
+gắn vào trục quay có mũi tên ở tâm (hình vẽ).
+
+Bạn Tuấn quay tấm bìa hai lần, quan sát và ghi lại số hình quạt mà mũi tên chỉ vào. Tính xác suất của các
+biến cố:
+a) E : “Tổng hai số ghi trên hai hình quạt ở hai lần quay bằng 5”;
+b) F : “Tích hai số ghi trên hai hình quạt ở hai lần quay bằng 4”.
+Hướng dẫn: Liệt kê các phần tử của không gian mẫu và các phần tử của tập hợp E , tập hợp F .
+Ví dụ tương tự.
+Có hai túi I và II, mỗi túi chứa 4 tấm thẻ được đánh số 1 ; 2 ; 3 ; 4. Rút ngẫu nhiên từ mỗi túi ra một tấm
+thẻ và nhân hai số ghi trên tấm thẻ với nhau. Tính xác suất của các biến cố sau:
+a) A : “Kết quả là một số lẻ”;
+
+b) B : “Kết quả là 1 hoặc một số nguyên tố”.
+
+Ví dụ 8. Một bó hoa gồm 3 bông hoa màu đỏ và 1 bông hoa màu vàng. Bạn Linh chọn ngẫu nhiên 2 bông
+hoa từ bó hoa đó.
+a) Liệt kê các cách chọn mà bạn Linh có thể thực hiện.
+b) Tính xác suất của mỗi biến cố:
+
+R : “Trong 2 bông hoa được chọn ra, có đúng 1 bông hoa màu đỏ”;
+F : “Trong 2 bông hoa được chọn ra, có ít nhất 1 bông hoa màu đỏ”.
+
+Ví dụ 9. Một hộp chứa 5 quả bóng màu đỏ và một số quả bóng màu trắng. Các quả bóng có cùng kích
+thước và khối lượng. Lấy ra ngẫu nhiên một quả bóng từ hộp, xem màu rồi trả lại hộp. Biết xác suất của
+biến cố “Lấy được quả bóng màu đỏ” là 0,25 . Hỏi trong hộp có bao nhiêu quả bóng màu trắng.
+Ví dụ 10. Một hộp đựng 20 viên bi đỏ và xanh có cùng kích thước, khối lượng. Tìm số viên bi mỗi màu,
+biết rằng xác suất của biến cố A : “Lấy được bi đỏ” khi thực hiện phép thử lấy ngẫu nhiên một viên bi là
+
+P ( A ) = 0, 6 .
+
+Ví dụ 11. Hình vẽ là biểu đồ thống kê số học sinh tham gia câu lạc bộ cờ vua. Lấy ngẫu nhiên một học
+sinh trong số này.
+
+10
+
+Tần số
+
+8
+6
+4
+2
+0
+
+Lớp 6
+
+Lớp 7
+
+Lớp 8
+
+Lớp 9
+
+Lớp
+Nam
+
+Nữ
+
+Tính xác suất của các biến cố:
+a) Lấy được một học sinh nữ lớp 9 .
+b) Lấy được một học sinh lớp 6.
+c) Lấy được một học sinh nam lớp 7 hoặc lớp 8.
+C. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+8.5. Chọn ngẫu nhiên một gia đình có hai con. Giả thiết rằng biến cố “Sinh con trai” và biến cố “Sinh con
+gái” là đồng khả năng. Tính xác suất của các biến cố sau:
+
+A : “Gia đình đó có cả con trai và con gái”;
+B : “Gia đình đó có con trai”.
+8.6. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất các biến cố sau:
+E: “Có đúng một con xúc xắc xuất hiện mặt 6 chấm”;
+F: “Có ít nhất một con xúc xắc xuất hiện mặt 6 chấm”;
+G: “Tích của hai số chấm xuất hiện trên hai con xúc xắc nhỏ hơn hoặc bằng 6”.
+8.7. Bạn An gieo một đồng xu cân đối và bạn Bình rút ngẫu nhiên một tấm thẻ từ hộp chứa 5 tấm thẻ ghi
+các số 1 ; 2 ; 3 ; 4 ; 5. Tính xác suất của các biến cố sau:
+E: “Rút được tấm thẻ ghi số lẻ”;
+F: “Rút được tấm thẻ ghi số chẵn và đồng xu xuất hiện mặt sấp”;
+G: “Rút được tấm thẻ ghi số 5 hoặc đồng xu xuất hiện mặt ngửa”.
+8.8. Có hai túi I và II mỗi túi chứa 4 tấm thẻ được đánh số 1; 2 ; 3 ; 4. Rút ngẫu nhiên từ mỗi tưi ra một
+tấm thẻ và nhân hai số ghi trên hai tấm thẻ với nhau. Tính xác suất của các biến cố sau:
+A: “Kết quả là một số lẻ”;
+B: “Kết quả là 1 hoặc một số nguyên tố”.
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Bạn Hoà gieo một con xúc xắc cân đối và bạn Sơn gieo một đồng xu liên tiếp hai lần. Tính xác
+suất của các biến cố sau:
+a) A : “Số chấm xuất hiện trên con xúc xắc là 6 và hai lần đồng xu xuá́ t hiện mặt ngửa”;
+b) B : “Số chấm xuất hiện trên con xúc xắc là 1 hoặc 2 và một lần đồng xu xuất hiện mặt sấp, một lần
+đồng xu xuất hiện mặt ngửa”.
+
+Câu 2. Bạn An gieo một đồng xu. Bạn Tùng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 5 tấm thẻ có ghi
+chữ a, b, c, d , e . Tính xác suất của các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và không rút được tấm thẻ ghi chữ a hoặc b”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc rút được tấm thẻ ghi chữ b”.
+Câu 3. Gieo đồng thời một con xúc xắc và một đồng xu. Tính xác suất của các biến cố sau:
+a) E: “Số chấm xuất hiện trên con xúc xắc là số lẻ”;
+b) F: “Số chấm xuất hiện trên con xúc xắc là số chẵn và đồng xu xuất hiện mặt ngửa”.
+Câu 4. Gieo một con xúc xắc liên tiếp hai lần. Tính xác suất để tổng số chấm xuất hiện trên con xúc xắc
+trong hai lần gieo lớn hơn hoặc bằng 8.
+Câu 5. Bạn Hạnh gieo một con xúc xắc và bạn Hằng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 4 tấm
+thẻ ghi các chữ A, B, C , D . Tính xác suất của các biến cố sau:
+a) E: “Số chấm xuất hiện trên con xúc xắc là 6”;
+b) F: “Rút được tấm thẻ ghi chữ A hoặc số chấm xuất hiện trên con xúc xắc là 5”.
+Câu 6. Bạn Bình gieo một đồng xu cân đối và bạn Thịnh gieo một con xúc xắc cân đối. Tỉnh xác suất của
+các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và số chấm xuất hiện trên con xúc xắc lớn hơn 3”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc số chấm xuất hiện trên con xúc xắc lớn hơn 3”.
+Câu 7. Hai túi I và II chứa các viên bi có cùng kích thước. Túi I chứa 4 viên bi được ghi các số 1,2,3,4.
+Túi II chứa 5 viên bi được ghi các số 1,2,3,4,5. Bạn Mai lấy ngẫu nhiên một viên bi từ túi I và bạn Tuấn
+lấy ngẫu nhiên một viên bi từ túi II. Tỉnh xác suất của các biến cố sau:
+a) A: “Hai số ghi trên hai viên bi khác nhau”;
+b) B: “Hai số ghi trên hai viên bi chênh nhau 1 đơn vị”;
+c) C: “Hai số ghi trên hai viên bi chênh nhau 3 đơn vị”.
+Câu 8. Một tấm bìa hình tròn được chia làm bốn phần có diện tích bằng nhau; ghi các số 1,2,3,4 và được
+gắn vào trục quay có mũi tên cố định ở tâm. Bạn Nam quay tấm bia, bạn Bình gieo một con xúc xắc cân
+đối. Giả sử mũi tên dừng ở hình quạt ghi số m và số chấm xuất hiện trên con xúc xắc là n . Tính xác suất
+của các biến cố sau:
+a) E : “Trong hai số m và n , chỉ có một số nguyên tố”;
+b) F: “Tổng của hai số m và n lớn hơn 6”.
+Câu 9. Có ba chiếc hộp. Hộp A chứa 2 tấm thẻ ghi các số 1,2 . Hộp B chứa 3 tấm thẻ ghi các số 1,2,3.
+Hộp C chứa 4 quả cầu ghi các số 1,2,3,4. Bạn Lan rút ngẫu nhiên đồng thời một tấm thẻ từ mỗi hộp A và
+B . Bạn Linh lấy ngẫu nhiên một quả cầu từ hộp C . Tính xác suất của các biến cố sau:
+a) E : “Ba số ghi trên hai tấm thẻ và quả cầu là khác nhau”;
+b) F : “Tổng ba số ghi trên hai tấm thẻ và quả cầu bằng 5”.
+Câu 10. Bác Mạnh rút ngẫu nhiên 1 lá bài từ bộ bài tây 52 lá. Tính xác suất của mỗi biến cố sau:
+A: "Bác Mạnh rút được lá bài Át";
+
+B: "Bác Mạnh rút được lá bài chất cơ".
+Câu 11. Bạn Khuê viết ngẫu nhiên một số tự nhiên chẵn có 4 chữ số lên bảng.
+a) Có tất cả bao nhiểu kết quả có thể xảy ra của phép thử trên?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Số được viết có 4 chữ số giống nhau";
+B: "Số được viết lớn hơn hoặc bằng 5000".
+Câu 12. Cô giáo thống kê điểm kiểm tra môn Tin học của các học sinh lớp 9A ở bảng sau:
+Điểm số
+
+7
+
+8
+
+9
+
+10
+
+Tần số tương đối
+
+20%
+
+40%
+
+30%
+
+10%
+
+Chọn ngẫu nhiên 1 học sinh lớp 9 A . Biết rằng có 4 học sinh lớp 9 A được 10 điểm.
+a) Xác đạnh số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của biến cố A : "Học sinh được chọn đạt trên 8 điểm".
+Câu 13. Ở một trường Trung học cơ sở, tỉ lệ học sinh khối 6, 7,8,9 lần lượt là 28% , 25%, 25% và 22% .
+Chọn ngẫu nhiên 1 học sinh của trường. Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn thuộc khối 6";
+B: "Học sinh được chọn thuộc khối 7".
+Câu 14. Bảng sau ghi lại điểm thi môn Tiếng Anh của 10 học sinh Tổ 1 .
+8
+
+7
+
+9
+
+5
+
+10
+
+8
+
+7
+
+9
+
+9
+
+8
+
+Chọn ngẫu nhiên một học sinh của Tổ 1 . Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn được 9 điểm";
+B: "Học sinh được chọn được trên 7 điểm".
+Câu 15. Kết quả kiểm tra tình trạng cân nặng của các bạn học sinh lớp 9 B được thống kê lại ở bảng sau:
+Tình trạng cân
+nặng
+
+Thiếu cân
+
+Bình thường
+
+Thừa cân
+
+Nam
+
+1
+
+12
+
+3
+
+Nữ
+
+4
+
+15
+
+1
+
+Giới tính
+
+Chọn ngẫu nhiên 1 học sinh của lớp 9B. Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn là học sinh nữ và có cân nặng bình thường";
+B: "Học sinh được chọn bị thừa cân";
+C: "Học sinh được chọn là học sinh nam".
+
+Câu 16. Bạn Bách có 10 tấm thẻ cùng loại được đánh số lần lượt từ 1 đến 10 . Bách chọn ngẫu nhiên một
+
+0 (*)
+tấm thè, xem số trên thẻ và thay số đó vào vị trí của dấu ? trong phương trình sau: x 2 + 4 x + ? =
+Tính xác suất của biến cố A: "Phương trình (*) có nghiệm".
+Câu 17. Bác Dũng có một cái khoá số như hình bên. Bác Dũng chọn ngẫu nhiên một dãy gồm 4 chữ số
+để đặt làm mã số mở khoá. Tính xác suất của các biến cố:
+A: "4 chữ số được chọn giống nhau";
+B: "4 chữ số được chọn lập thành một số có 4 chữ số";
+C: "4 chữ số được chọn có tồng bằng 35 ".
+
+LUYỆN TẬP CHUNG
+PHẦN 1. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. Ví dụ
+Ví dụ. Tấm bìa cứng A hình tròn được chia thành 3 hình quạt có diện tích bằng nhau, đánh số 1 ; 2 ; 3 và
+tấm bìa cứng B hình tròn được chia thành 5 hình quạt có diện tích bằng nhau, đánh số 1; 2;3; 4;5(H.8.3) .
+Trục quay của A và B được gắn mũi tên ở tâm. Bạn Nam quay tấm bìa A , bạn Bình quay tấm bìa B .
+Quan sát xem mũi tên dừng ở hình quạt nào trên hai tấm bìa.
+
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+c) Tính xác suất của các biến cố sau:
+E: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào bằng 6”;
+F: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào nhỏ hơn 5”;
+G: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào là số chẵn”.
+Lời giải
+a) Phép thử là bạn Nam quay tấm bìa A , bạn Bình quay tấm bìa B .
+b) Ta lập bảng sau:
+Tấm bìa A
+
+Tấm bìa B
+1
+2
+3
+4
+
+1
+
+2
+
+3
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+
+5
+Mỗi ô trong bảng trên là một kết quả có thể. Các kết quả có thể này là đồng khả năng. Không gian mẫu là
+Ω ={(1,1);(1, 2);(1,3);(2,1);(2, 2);(2,3);(3,1);(3, 2);(3,3);(4,1);(4, 2);(4,3);(5,1);(5, 2);(5,3)} .
+Không gian mẫu có 15 phần tử.
+c) Có 2 kết quả thuận lợi cho biến cố E là (3, 2) và (2,3) . Vậy P ( E ) =
+
+2
+.
+15
+
+- Các kết quả thuận lợi cho biến cố F : Có một ô có tích hai số bằng 1 là (1,1) ; các ô có tích hai số bằng
+2 là (1, 2) ; (2,1) ; các ô có tích hai số bằng 3 là (1,3) ; (3,1) ; các ô có tích hai số bằng 4 là (2, 2);(4,1) . Do
+7
+đó, có 7 kết quả thuận lợi cho biến cố F là (1,1);(1, 2);(2,1);(1,3);(3,1);(2, 2);(4,1) . Vậy P ( F ) = .
+15
+- Tích ab là số chẵn khi và chỉ khi trong cặp ( a, b ) có ít nhất một số chẵn.
+Do đó, có 9 kết quả thuận lợi cho biến cố G là (1, 2);(2,1);(2, 2);(2,3);(3, 2);(4,1) ; (4, 2);(4,3);(5, 2)
+Vậy P ( G=
+)
+
+9 3
+=
+.
+15 5
+
+B. BÀI TẬP
+8.9. Có hai túi đựng các tấm thẻ. Túi I đựng 4 tấm thẻ ghi các chữ cái TT, TH, HT và HH. Túi Il đựng 2
+tấm thẻ ghi các chữ cái T và H . Từ mỗi túi rút ngẫu nhiên ra một tấm thẻ rồi ghép hai thẻ lại với nhau
+đẻ̉ được ba chữ cái, trong đó thẻ hai chữ cái đặt trước, chẳng hạn tấm thẻ TT ghép với tấm thẻ H được ba
+chữ cái TTH.
+
+Tính xác suất của các biến cố sau:
+a) E: “Trong ba chữ cái, có hai chữ H và một chữ T”;
+b) F: “Trong ba chữ cái, có nhiều nhất hai chữ T”.
+8.10. Gieo đồng thời hai con xúc xắc cân đối và đồng chất I và II. Tính xác suất của các biến cố sau:
+G: “Không có con xúc xắc nào xuất hiện mặt 6 chấm”;
+H: “Số chấm xuất hiện trên con xúc xắc I là số lẻ và số chấm xuất hiện trên con xúc xắc II Iớn hơn 4”;
+K: “Số chấm xuất hiện trên cả hai con xúc xắc lớn hơn 2”.
+8.11. Trên một dãy phố có ba quán ăn A, B, C . Hai bạn Văn và Hải mỗi người chọn ngẫu nhiên một quán
+ăn để ăn trưa.
+a) Mô tả không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+E: “Hai bạn cùng vào một quán”;
+F: “Cả hai bạn không chọn quán C”;
+G: “Có ít nhất một bạn chọn quán B”.
+PHẦN 2. BÀI TẬP THÊM
+Bài 1. Bạn Tùng gieo một con xúc xắc và bạn Sơn gieo một đồng xu liên tiếp hai lần.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Bài 2. Tổ 1 gồm 4 học sinh là Trung, Hậu, Đảm, Đang. Trong các hoạt động sau, hoạt động nào là phép
+thử ngẫu nhiên?
+
+a) Chọn ra đồng thời 4 học sinh từ Tổ 1 .
+b) Chọn ra 1 học sinh có tên bắt đầu bằng chữ cái T từ Tổ 1 .
+c) Chọn ra 1 học sinh có tên bắt đầu bằng chữ cái Đ từ Tổ 1 .
+Bài 3. Một hộp chứa 1 quả bóng màu xanh và 4 quả bóng màu đỏ.
+a) Hãy xác định không gian mẫu của phép thử chọn ngẫu nhiên 1 quả bóng từ hộp.
+b) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 quả bóng từ hộp.
+Bài 4. Đội bóng bàn lớp 9 C gồm 2 bạn nam là Long và Hoàng, 2 bạn nữ là Hà và Thanh. Huấn luyện
+viên chọn ra ngẫu nhiên một đôi nam nữ từ đội bóng để đi thi đấu.
+a) Liệt kê các cách chọn ngẫu nhiên một đôi nam nữ.
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Có ít nhất một trong hai bạn Hoàng và Thanh được
+chọn".
+Bài 5. Một hộp chứa 3 tấm thẻ cùng loại được đánh số lần lượt là 6;7;8 . Bạn Việt lấy lần lượt 3 tấm thẻ
+từ hộp một cách ngẫu nhiên. Tấm thẻ lấy ra không được trả lại hộp.
+a) Xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A: "Tấm thẻ đánh số 8 được lấy cuối cùng". Có bao nhiêu kết
+quả thuận lợi cho biến cố A ?
+Bài 6. Bạn Hoà gieo một con xúc xắc cân đối và bạn Sơn gieo một đồng xu liên tiếp hai lần. Tính xác suất
+của các biến cố sau:
+a) A : “Số chấm xuất hiện trên con xúc xắc là 6 và hai lần đồng xu xuá́ t hiện mặt ngửa”;
+b) B : “Số chấm xuất hiện trên con xúc xắc là 1 hoặc 2 và một lần đồng xu xuất hiện mặt sấp, một lần
+đồng xu xuất hiện mặt ngửa”.
+Bài 7. Bạn An gieo một đồng xu. Bạn Tùng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 5 tấm thẻ có ghi
+chữ a, b, c, d , e . Tính xác suất của các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và không rút được tấm thẻ ghi chữ a hoặc b”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc rút được tấm thẻ ghi chữ b”.
+b) Có 6 kết quả thuận lợi cho biến cố F là Na, Nb, Nc, Nd , Ne, Sb . Vậy P ( F=
+)
+
+6 3
+.
+=
+10 5
+
+Bài 8. Trên bàn có một tấm bìa hình tròn được chia thành 10 hình quạt bằng nhau và được đánh số từ 1
+đến 10 như Hình 1. Thanh quay mũi tên ở tâm và quan sát xem khi dừng lại mũi tên chỉ vào ô số mấy.
+
+a) Các kết quả của phép thử có đồng khả năng không? Tại sao?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Mũi tên chỉ vào ô ghi số chia hết cho 3";
+B: "Mũi tên chỉ vào ô ghi số lớn hơn 6".
+Bài 9. Trong tủ lạnh nhà bạn Minh có 6 hộp thịt gà, 4 hộp thịt heo và 10 hộp thịt bò. Các hộp này có kích
+thước và khối lượng bằng nhau. Vì tinh nghịch nên bạn Minh đã xé hết nhãn ghi trên các hộp. Mẹ Minh
+chọn ngẫu nhiên
+1 trong các hộp thịt trên.
+a) Các kết quả của phép thử có đồng khả năng không? Tại sao?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Hộp được chọn là hộp thịt gà";
+B: "Hộp được chọn không phải là hộp thịt heo".
+Bài 10. Một phân xưởng cơ khí có 40 công nhân. Tỉ lệ số công nhân là thợ bậc 6;7;8 lần lượt là
+
+50%,30% và 20% . Chọn ngẫu nhiên 1 công nhân của phân xưởng.
+a) Xác định số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của mỗi biến cố sau:
+A: "Công nhân được chọn là thợ bậc 8";
+B: "Công nhân được chọn không phải là thợ bậc 6".
+Bài 11. Lớp bạn Vân có 20 học sinh nam và một số học sinh nữ. Chọn ngẫu nhiên 1 học sinh trong lớp.
+Biết rằng xác suất để bạn đó là học sinh nư là 0,375 . Hỏi lớp bạn Vân có tổng số bao nhiêu học sinh?
+Bài 12. Bảng sau ghi lại kết quả khám mắt của các bạn học sinh lớp 9H .
+Giới tính
+
+Tình trang mắt
+
+Không bị tật khúc xạ
+
+Nam
+
+12
+
+Bi tật khúc xạ
+
+Nữ
+
+14
+
+9
+
+Chọn ngẫu nhiên 1 học sinh lớp 9 H . Tính xác suất của mỗi biến cố sau:
+
+A: "Học sinh được chọn là học sinh nam và khộng bị tật khúc xạ";
+B : "Học sinh được chọn là học sinh nư";
+C: "Học sinh được chọn bị tật khúc xạ".
+Bài 13. Bạn Minh có 5 tấm thẻ cùng loại được ghi số lần lượt từ 1 đến 5 . Minh chọn ngẫu nhiên 1 tấm
+thẻ, xem số trên thẻ và thay số đó vào vị trí của dấu ? trong phương trình sau: x 2 + 2 x + ? =
+0 (*)
+Tính xác suất của biến cố A : "Phương trình (*) có nghiệm".
+
+BÀI TẬP CUỐI CHƯƠNG VIII
+PHẦN 1: GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. TRẮC NGHIỆM
+8.12. Gieo đồng thời hai con xúc xắc cân đối, đồng chất. Xác suất để “Tổng số chấm xuất hiện trên hai
+con xúc xắc lớn hơn hoặc bằng 10” là
+A.
+
+7
+.
+36
+
+B.
+
+2
+.
+9
+
+C.
+
+1
+.
+6
+
+D.
+
+5
+.
+36
+
+8.13. Có hai túi I và II. Túi I chưa 4 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4. Túi II chứa 5 tấm thẻ, đánh số 1 ; 2 ; 3 ;
+4 ; 5. Rút ngẫu nhiên một tấm thẻ từ mỗi tứi I và II. Xác suất để cả hai tấm thẻ rút ra đểu ghi số chẵn là
+A.
+
+1
+.
+5
+
+B.
+
+3
+.
+20
+
+C.
+
+1
+.
+4
+
+D.
+
+4
+.
+21
+
+8.14. Một túi đựng 4 viên bi có cùng khối lượng và kích thước, được đánh số 1 ; 2 ; 3 ; 4. Lấy ngẩu nhiên
+hai viên bi từ trong túi. Xác suất để tích hai số ghi trên hai viên bi lớn hơn 3 là
+A.
+
+5
+.
+7
+
+B.
+
+2
+.
+3
+
+C.
+
+3
+.
+4
+
+D.
+
+5
+.
+6
+
+B. TỰ LUẬN
+8.15. Có hai túi I và II. Túi I chưa 3 tấm thẻ, đánh số 2 ; 3 ; 4. Túi II chửa 2 tấm thẻ, đánh số 5; 6. Từ mỗi
+túi I và II, rút ngẫu nhiên một tấm thẻ. Tính xác suất của các biến cố sau:
+A : “Hai số ghi trên hai tấm thẻ chênh nhau 2 đơn vị”;
+B: “Hai số ghi trên hai tấm thẻ chênh nhau lớn hơn 2 đơn vị”;
+C: “Tích hai số ghi trên hai tấm thẻ là một số chẵn”;
+D: “Tổng hai số ghi trên hai tấm thẻ là một số nguyên tố”.
+8.16. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất của các biến cố sau:
+E: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 11”;
+F: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 8 hoặc 9”;
+G: “Tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn 6”.
+8.17. Hai bạn Minh và Huy chơi một trò chơi như sau: Minh chọn ngẫu nhiên một số trong tập hợp
+{5;6;7;8;9;10} . Huy chọn ngẫu nhiên một số trong tập hợp {4;5;7;8;9;11} . Bạn nào chọn được số lớn
+hơn sẽ là người thắng cuộc. Nếu hai số chọn được bằng nhau thì kết quả là hoà. Tính xác suất của các
+biến cố sau:
+a) A: “Bạn Minh thắng”;
+b) B: “Bạn Huy thắng”.
+PHẦN 2. BÀI TẬP THÊM
+A. TRẮC NGHIỆM
+1. Gieo đồng thời hai con xúc xắc cân đối, đồng chất. Xác suất để “Tổng số chấm xuất hiện trên hai con
+xúc xắc lớn hơn hoặc bằng 10” là:
+A.
+
+7
+.
+36
+
+B.
+
+2
+.
+9
+
+C.
+
+1
+.
+6
+
+D.
+
+5
+.
+36
+
+2. Có hai túi I và II chứa 4 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4. Túi II chứa 5 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4 ; 5. Rút
+ngẫu nhiên một tấm thẻ từ mỗi túi I và II. Xác suất để hai tấm thẻ rút ra đều ghi số chẵn là:
+A.
+
+1
+.
+5
+
+B.
+
+3
+.
+20
+
+C.
+
+1
+.
+4
+
+D.
+
+4
+.
+21
+
+3. Một túi đựng 4 viên bi có cùng khối lượng và kích thước, được đánh số 1 ; 2 ; 3 ; 4. Lấy ngẫu nhiên hai
+viên bi trong túi. Xác suất để tích hai số ghi trên hai viên bi lớn hơn 3 là:
+A.
+
+5
+.
+7
+
+B.
+
+2
+.
+3
+
+C.
+
+3
+.
+4
+
+D.
+
+5
+.
+6
+
+4. Có hai túi I và II. Túi I chứa ba quả cầu ghi các số 1,2,3. Túi II chứa bốn tấm thẻ ghi các số 1,2,3,4.
+Lấy ngẫu nhiên một quả cầu và một tấm thẻ từ mỗi tưi I và II. Xảc suất của biến cố “Tích hai số ghi trên
+quả cầu và tấm thẻ bằng 6” là
+A.
+
+1
+.
+6
+
+B.
+
+1
+.
+7
+
+C.
+
+2
+.
+11
+
+D.
+
+1
+.
+4
+
+5. Hai bạn Minh và Dung mỗi người gieo ngẫu nhiên một con xúc xắc cân đối. Xác suất để số chấm xuất
+hiện trên hai con xúc xắc như nhau là
+A.
+
+2
+.
+11
+
+B.
+
+1
+.
+7
+
+C.
+
+1
+.
+6
+
+D.
+
+1
+.
+4
+
+6. Bạn Sơn gieo một đồng xu cân đối và bạn Hoà gieo đồng thời hai đồng xu cân đối. Xác suất để có hai
+đồng xu xuất hiện mặt sấp, một đồng xu xuất hiện mặt ngửa là
+A.
+
+3
+.
+8
+
+B.
+
+3
+.
+10
+
+C.
+
+2
+.
+7
+
+D.
+
+4
+.
+31
+
+B. TỰ LUẬN
+1. Có hai túi I và II. Túi I chứa 3 tấm thẻ, đánh số 2 ; 3 ; 4. Túi II chứa 32 tấm thẻ, đánh số 5 ; 6. Từ mỗi
+túi I và II, rút ngẫu nhiên một tấm thẻ. Tính xác suất của các biến cố sau:
+A: “Hai số ghi trên hai tấm thẻ chênh nhau 2 đơn vị”;
+B: “Hai số ghi trên hai tấm thẻ chênh nhau lớn hơn 2 đơn vị”;
+C: “Tích hai số ghi trên hai tấm thẻ là một số chẵn”;
+D: “Tổng hai số ghi trên hai tấm thẻ là một số nguyên tố”.
+2. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất của các biến cố sau:
+E: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 11”;
+F: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 8 hoặc 9”;
+G: “Tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn 6”.
+3. Hai bạn Minh và Huy chơi một trò chơi như sau: Minh chọn ngẫu nhiên một số trong tập hợp
+
+{5;6;7;8;9;11} Bạn nào chọn được số lớn hơn sẽ là người thắng cuộc. Nếu hai số chọn được bằng nhau
+
+thì kết quả là hoà. Tính xác suất của các biến cố sau:
+a) A: “Bạn Minh thắng”;
+
+b) B: “Bạn Huy thắng”.
+4. Một chiếc hộp có chứa 5 tấm thẻ cùng loại, được đánh số lần lượt là 3 ; 5; 6; 7; 9. Lấy ngẫu nhiên đồng
+thời 2 tấm thẻ từ hộp.
+a) Xác định không gian mẫu và số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của các biến cố sau:
+A: “Tích các số ghi trên 2 tấm thẻ chia hết cho 3”;
+B: “Tổng các số ghi trên 2 tấm thẻ lơn hơn 13”.
+5. Một chiếc hộp chứa 1 viên bi xanh, 1 viên bi đỏ và 1 viên bi trắng. Các viên bi có cùng kích thước và
+khối lượng. Dung lần lượt lấy ra ngẫu nhiên từng viên bi từ trong hộp cho đến khi hết bi.
+a) Xác định không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+A: “Viên bi màu xanh được lấy ra cuối cùng”;
+B: “Viên bi màu trắng được lấy ra trước viên bi màu đỏ”;
+C: “Viên bi lấy ra đầu tiên không phải là bi màu trắng”.
+6. Túi kẹo trái cây có 60 viên, trong đó có 20 viên kẹo vị sầu riêng, 15 viên kẹo vị cam, 7 viên kẹo vị dâu,
+10 viên kẹo vị chanh, 8 viên kẹo vị mít. Bạn Toàn lấy ngẫu nhiên một viên kẹo trong túi. Tính xác suất
+của các biến cố:
+a) E: “Bạn Toàn lấy được kẹo vị sầu riêng”;
+b) F: “Bạn Toàn lấy được kẹo vị cam hoặc chanh”;
+c) G: “Bạn Toàn không lấy được kẹo vị dâu”.
+7. Đài truyền hình điều tra ý kiến của một số khán giả về một chương trình giải trí. Kết quả điều tra được
+thống kê trong bảng dưới đây.
+Thích
+Không thích
+Nam
+523
+154
+Nữ
+147
+68
+Chọn ngẫu nhiên một trong số những người được điều tra. Tính xác suất của các biến cố:
+a) A: “Chọn được 1 khán giả nũ không thích chương trình”;
+b) B: “Chọn được 1 khán giả nam”;
+c) C: “Chọn được 1 khán giả thích chương trình”.
+8. Bạn An gieo một con xúc xắc cân đối và bạn Bình gieo một đồng xu cân đối. Tính xác suất của các biến
+cố sau:
+E: “Số chấm xuất hiện trên con xúc xắc là 6 và đồng xu xuất hiện mặt sấp”;
+F: “Số chấm xuất hiện trên con xúc xắc là số lẻ”;
+G: “Số chấm xuất hiện trên con xúc xắc là số chẵn và đồng xu xuất hiện mặt sấp”;
+
+H: “Số chấm xuất hiện trên con xúc xắc là 5 hoặc đồng xu xuất hiện mặt ngửa”.
+9. Trong một trò chơi, có hai bánh xe, mỗi bánh xe được gắn vào trục quay có mũi tên ở tâm. Bánh xe thứ
+nhất được chia làm bốn hình quạt như nhau và sơn các màu: trắng, đỏ, xanh, vàng. Bánh xe thứ hai được
+chia làm ba hinh quạt như nhau và sơn các màu: đỏ, xanh, vàng. Người chơi quay hai bánh xe. Người chơi
+đạt giải nhất nếu hai mũi tên dừng lại ở hai hình quạt màu đỏ, đạt giải nhì nếu hai mũi tên dừng lại ở hai
+hình quạt cùng màu và đạt giải ba nếu có đúng một mũi tên dừng ở hình quạt màu đỏ.
+
+Tính xác suất của các biến cố sau:
+a) E: “Người chơi đạt giải nhất”;
+b) F: “Người chơi đạt giải nhì”;
+c) G: “Người chơi đạt giải ba”.
+10. Bạn Tuấn viết ba bức thư cho ba người bạn là An, Bình, Cường và viết tên, địa chỉ của ba người bạn đó
+lên ba chiếc phong bì. Xếp ngẫu nhiên ba bức thư đó vào ba phong bì.
+a) Mô tả không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+E: “Có đúng một bức thư đúng địa chỉ”;
+F: “Cả ba bức thư đúng địa chỉ”;
+G: “Không có bức thư nào đúng địa chỉ”;
+H: “Có ít nhất một bức thư đúng địa chỉ”.
+11. Một tấm bìa hình tròn được chia làm sáu hình quạt tròn có diện tích bằng nhau; ghi các số 1,2,3,4,5,6
+và được gắn vào trục quay có mũi tên cố định ở tâm. Quay tấm bia hai lần. Tính xác suất để mũi tên chỉ
+vào hai hình quạt tròn không đối xứng nhau qua tâm.
+
+12. Màu hạt của đậu Hà Lan có hai kiểu hình là vàng và xanh. Có hai gene ứng với hai kiểu hình này
+allele trội A và allele lặn a. Hình dạng hạt của đậu Hà Lan có hai kiểu hình là hạt trơn và hạt nhăn. Có
+hai gene ứng với hai kiểu hình này allele trội B và allele lặn b. Khi cho lai hai cây đậu Hà Lan, cặp gene
+của cây con lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ. Giả sử cả cây bố và cây mẹ có
+kiểu hình “Hạt vàng và trơn”. Cây bố có kiểu gene là (Aa, Bb), cây mẹ có kiểu gene là (Aa, Bb). Tính xác
+suất để cây con có kiểu hình như cây bố và cây mẹ.
+Câu 13. Tổ 2 gồm 4 bạn học sinh là My, Châu, Trọng, Thuỷ. Trong các hoạt động sau, hoạt động nào là
+phép thử ngẫu nhiên?
+
+a) Chọn ra lần lượt 4 học sinh từ Tồ 2 .
+b) Chọn ra 1 học sinh có tên bắt đầu từ chữ cái M từ Tổ 2 .
+c) Chọn ra đồng thời 2 học sinh có tên bắt đầu từ chữ cái T từ Tổ 2 .
+Câu 14. Trong một nhóm 10 học sinh lớp 9 có 5 bạn học trường Quang Trung; 3 bạn học trường Nguyễn
+Huệ và 2 bạn học trường Tây Sơn.
+Chọn ngẫu nhiên 1 học sinh trong 10 học sinh đó.
+a) Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Bạn học sinh được chọn học trường Quang Trung";
+B: "Bạn học sinh được chọn không học trường Tây Sơn".
+Câu 15. Một doanh nghiệp nhận thấy tỉ lệ nhân viên có quê ở Tiền Giang, Hậu Giang và Cần Thơ lần
+lượt là 35%, 45% và 20% . Chọn ngẫu nhiên 1 nhân viên của doanh nghiệp.
+Tính xác suất của mỗi biến cố sau:
+A: "Nhân viên được chọn có quê ở Hậu Giang";
+B: "Nhân viên được chọn có quê không phải ở Cần Thơ";
+C: "Nhân viên được chọn có quê ở vùng Đồng bằng sông Cửu Long".
+Câu 16. Bạn Minh quan tâm đến mối liên hệ giữa giới tính và màu sắc yêu thích nhất của mỗi người. Sau
+khi phỏng vấn tất cả 40 học sinh lớp 9 A , Minh thu được kết quả sau:
+Giới tính Màu sá́ c
+
+Trắng
+
+Đen
+
+Đỏ
+
+Xanh
+
+Nam
+
+4
+
+8
+
+2
+
+7
+
+Nữ
+
+6
+
+3
+
+7
+
+3
+
+Chọn ngẫu nhiên 1 bạn trong lớp 9 A . Tính xác suất của các biến cố sau:
+A: "Bạn được chọn là nam và yêu thích nhất màu đen";
+B: "Bạn được chọn yêu thích nhất màu xanh";
+C: "Bạn được chọn yêu thích nhất màu xanh hoặc màu đơ";
+D: "Bạn được chọn là nư và có màu sắc yêu thích nhất không phải là màu đỏ".
+Câu 17. Trên giá sách có 3 quyển sách Toán, Ngữ văn và Mĩ thuật được sắp xếp theo thứ tự đó. Bạn
+Thành lấy ngấu nhiên đồng thời 2 quyển sách từ trên giá.
+a) Xác định không gian mẫu của phép thử.
+b) Xác định các kết quả thuận lợi và tính xác suất của mỗi biến cố sau:
+A: "Có 1 quyển sách Toán trong 2 quyển sách được lấy";
+B: "Không có quyển sách Mĩ thuật nào trong 2 quyển sách được lấy";
+
+C: "Hai quyển sách được lấy được xếp cạnh nhau trên giá";
+D: "Hai quyển sách được lấy đều là sách Ngữ văn".
+Câu 18. Hộp thứ nhất chứa 3 viên bi xanh và 6 viên bi đỏ. Hộp thứ hai chứa 5 viên bi xanh và một số
+viên bi đỏ. Các biên bi có cùng kích thước và khối lượng. Bạn An chọn ngẫu nhiên 1 viên bi từ hộp thứ
+nhất, bạn Thắng chọn ngẫu nhiên 1 viên bi từ hộp thứ hai.
+a) Tính xác suất của biến cố "Bạn An chọn được viên bi màu xanh".
+b) Biết rằng xác suất bạn Thắng chọn ngẫu nhiên được viên bi màu xanh bằng xác suất bạn An chọn được
+viên bi màu xanh. Trong hộp thứ hai có bao nhiêu viên bi đỏ?
+Câu 19. Bạn Hiền gieo hai con xúc xắc cân đối và đồng chất. Xét biến cố A : "Tích số chấm xuất hiện
+trên hai con xúc xắc là số nguyên tố".
+a) Liệt kê các kết quả thuận lợi cho biến cố A .
+b) Tính xác suất của biến cố A .
+
+CHƯƠNG VIII. XÁC SUẤT CỦA BIẾN CỐ TRONG MỘT SỐ MÔ HÌNH XÁC SUẤT ĐƠN
+GIẢN
+BÀI 25. PHÉP THỬ NGẪU NHIÊN VÀ KHÔNG GIAN MẪU
+A. CÁC KIẾN THỨC CƠ BẢN CẦN NHỚ
+1. Phép thử ngẫu nhiên và không gian mẫu
+•
+
+•
+
+Một hoặc một số hành động, thực nghiệm được tiến hành liên tiếp hay đồng thời mà kết quả của
+chúng không thể biết được trước khi thực hiện nhưng có thể liệt kê được tất cả các kết quả có thể
+xảy ra, được gọi là một phép thử ngẫu nhiên, gọi tắt là phép thử.
+Tập hợp tất cả các kết quả có thể xảy ra của phép thử (gọi tắt là tập tất cả các kết quả có thể của
+phép thử) được gọi là không gian mẫu của phép thử. Không gian mẫu của phép thử được kí hiệu là
+Ω.
+
+Ví dụ 1. Bạn Lan gieo một con xúc xắc và bạn Hoà gieo một đồng xu. Quan sát số chấm xuất hiện trên
+con xúc xắc và mặt xuất hiện của đồng xu.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là bạn Lan gieo một con xúc xắc và bạn Hoà gieo một đồng xu. Kết quả của phép thử là số
+chấm xuất hiện trên con xúc xắc và mặt xuất hiện của đồng xu (mặt sấp (S), mặt ngửa (N)).
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Xúc sắc
+Đồng xu
+
+S
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1; S )
+(1; N )
+
+( 2; S )
+( 2; N )
+
+( 3; S )
+( 3; N )
+
+( 4; S )
+( 4; N )
+
+( 5; S )
+( 5; N )
+
+( 6; S )
+( 6; N )
+
+N
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 12 ô của bảng trên. Do đó không gian mẫu của
+phép thử là Ω ={(1, S );(2, S );(3, S );(4, S )(5, S )(6, S );(1, N );(2, N );(3, N );(4, N );(5, N );(6, N )} .
+Vậy không gian mã̃u có 12 phần tử.
+Ví dụ 2. Một hộp kín đựng 4 quả bóng có cùng khối luợng và kích thước, được đánh số 1; 2; 3; 4. Lấy
+ngẫu nhiên lần lượt hai quả bóng từ hộp, quả bóng được lấy ra lần đầu không trả lại vào hộp. Quan sát hai
+số ghi trên hai quả bóng được lấy ra.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là lấy ngẫu nhiên lần lượt hai quả bóng từ hộp, quả bóng được lấy ra lần đầu không trả lại vào
+hộp.
+Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương ứng là số ghi trên quả bóng được lấy
+ra ở lần thứ nhất và lần thứ hai. Vì quả bóng được lấy ra lần đầu không trả lại vào hộp nên a ≠ b .
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+
+Lần 2
+
+Lần 1
+1
+2
+3
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+4
+Chú ý rằng a ≠ b nên cặp có hai phần tử trùng nhau không được tính, tức là trong bảng ta phải xoá 4 ô:
+(1,1), (2, 2), (3,3), (4, 4) .
+Do đó không gian mẫu của phép thử là
+Ω ={(1, 2);(1,3);(1, 4);(2,1);(2,3);(2, 4);(3,1);(3, 2);(3, 4);(4,1);(4, 2);(4,3)} .
+Vậy không gian mẫu có 12 phần tử.
+B. CÁC DẠNG TOÁN
+Dạng 1. Phép thử ngẫu nhiên
+Ví dụ 1. Trong các hoạt động sau, hoạt động nào là phép thử ngẫu nhiên? Tại sao?
+a) Gieo 2 khối gỗ hình lập phương, mỗi khối được sơn một màu, màu xanh và màu vàng. Quan sát màu
+sắc của mặt xuất hiện bên trên.
+b) Chọn bất kì 1 cây bút bi từ hộp có 4 cây bút bi.
+c) Chọn ra đồng thời 2 que gỗ từ hộp có 2 que gỗ màu xanh và que gỗ màu đỏ.
+Lời giải
+a) Hoạt động gieo 2 khối gỗ hình lập phương không là phép thử ngẫu nhiên vì ta biết trước chỉ có một kết
+quả xảy ra là xuất hiện 1 mặt màu xanh và 1 mặt màu vàng.
+b) Hoạt động lấy 1 cây bút bi là phép thử ngẫu nhiên vì ta không thể biết trước được kết quả của nó,
+nhưng biết tất cả 4 kết quả có thể xảy ra.
+c) Hoạt động lấy ra đồng thời 2 que gỗ không là phép thử ngẫu nhiên vì ta biết chỉ có một kết quả xảy ra
+là lấy được 1 que gỗ màu xanh và 1 que gỗ màu đỏ.
+Ví dụ 2. Mỗi hành động sau có phải là phép thử ngẫu nhiên? Giải thích vì sao?
+a) Trên bàn có 5 phiếu giống hệt nhau. Trên 2 phiếu có vẽ hoa mai. Trên 3 phiếu còn lại vẽ hoa đào. Bạn
+Hà Mi lấy một phiếu bất kì và quan sát hình vẽ trên đó.
+b) “Dế mèn phiêu lưu kí” là quyển sách duy nhất có trên bàn. Bạn Minh Khang lấy một quyển sách trên
+bàn để đọc.
+Lời giải
+a) Trước khi thực hiện hành động, bạn Hà Mi đã biết là có 2 kết quả có thể xảy ra: Lấy được phiếu vẽ hoa
+mai hoặc phiếu vẽ hoa đào. Tuy nhiên Hà Mi không đoán trước được là sẽ lấy trúng phiếu vẽ hoa gì. Vậy
+đây là một phép thử ngẫu nhiên.
+b) Khi bạn Minh Khang lấy một quyển sách trên bàn để đọc thì kết quả chắc chắn xảy ra là sẽ lấy được
+quyển “Dế mèn phiêu lưu kí” (vì trên bàn chỉ có quyển sách này). Như vậy ta đã biết được kết quả của
+
+hành động lấy sách trên bàn. Suy ra hành động lấy sách trên bàn trong trường hợp này không phải là một
+phép thử ngẫu nhiên.
+Ví dụ 3. Một tấm bìa cứng hình tròn được chia làm ba hình quạt bằng nhau, đánh số 1; 2;3 và được gắn
+vào trục quay cố định ở tâm (xem hình).
+
+Bạn Hiền quay tấm bìa liên tiếp hai lần và quan sát xem mũi tên chỉ vào hình quạt nào khi tấm bìa dừng
+lại. Phép thử và kết quả của phép thử là gì?
+Lời giải
+Phép thử là quay lần thứ nhất và kết quả nhận được một số trong ba số 1; 2; 3. Hai lần quay, ta nhận được
+kết quả ghi trong bảng sau:
+Lần 2
+Lần 1
+1
+2
+3
+
+1
+
+2
+
+3
+
+(1;1)
+( 2;1)
+( 3;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+
+Ví dụ 4. Gieo một con xúc xắc một lần. Phép thử và kết quả của phép thử là gì?
+Lời giải
+Gieo con xúc xắc, ta không biết trước kết quả. Vậy đó là phép thử. Kết quả nhận được là xuất hiện mặt
+1; 2;3; 4;5;6 chấm.
+Ví dụ 5. Một cửa hàng muốn tặng hai phần quà cho hai trong bốn khách hàng có lượng mua nhiều nhất
+trong tháng bằng cách rút thăm ngẫu nhiên. Việc rút thǎm tiến hành như sau: Nhân viên viết tên 4 khách
+hàng đó vào 4 lá phiếu để vào một chiếc hộp. Nhân viên rút ngẫu nhiên một lá phiếu trong hộp. Lá phiếu
+rút ra không trả lại vào hộp. Sau đó, nhân viên tiếp tục rút ngẫu nhiên một lá phiếu từ ba lá phiếu còn lại.
+Hai khách hàng có tên trong hai lá phiếu được rút ra là hai khách hàng được tặng quà. Phép thử và kết quả
+của phép thử là gì?
+Lời giải
+Phép thử là rút ngẫu nhiên hai lá phiếu, lá phiếu lấy ra lần một không trả lại vào hộp. Kết quả như bảng
+sau:
+Lần 2
+Lần 1
+A
+
+A
+
+B
+
+C
+
+D
+
+\
+
+( A; B )
+
+( A; C )
+
+( A; D )
+
+( B; A)
+( C; A)
+( D; A)
+
+B
+
+C
+D
+
+\
+
+( B; C )
+
+( C; B )
+( D; B )
+
+\
+
+( B; D )
+( C; D )
+
+( D; C )
+
+\
+
+Dạng 2. Không gian mẫu. Số phần tử của không gian mẫu
+Ví dụ 1. Xác định không gian mẫu của các phép thử ngẫu nhiên sau:
+a) Gieo 1 con xúc cắc cân đối và đồng chất hai lần.
+b) Lấy ra lần lượt 2 quả bóng từ một hộp chứa 3 quả bóng được đánh số 1 ; 2 ; 3.
+Lời giải
+a) Kí hiệu ( i; j ) là kết quả lần gieo thứ nhất xuất hiện mặt có i chấm, lần gieo thứ hai xuất hiện mặt có j
+chấm. Không gian mẫu của phép thử là:
+
+Ω ={(1;1) ; (1; 2 ) ; (1;3) ; (1; 4 ) ; (1;5 ) ; (1;6 ) ; ( 2;1) ; ( 2; 2 ) ; ( 2;3) ;
+
+( 2; 4 ) ; ( 2;5) ; ( 2;6 ) ; ( 3;1) ; ( 3; 2 ) ; ( 3;3) ; ( 3; 4 ) ; ( 3;5) ; ( 3;6 )
+(4;1);(4; 2);(4;3);(4; 4);(4;5);(4;6); (5;1) ;(;2);(5;3);(5;4);(5;5);(5;6) (6;1);(6; 2);(6;3);(6; 4);(6;5);(6;6) }
+1 ≤ i ≤ 6;1 ≤ j ≤ 6}
+Ta cũng có thể viết gọn không gian mẫu=
+là: Ω {(i; j )∣
+b) Kí hiệu ( i; j ) là kết quả bóng lấy ra lần thứ nhất được đánh số i , bóng lấy ra lần thứ hai được đánh số
+j . Không gian mẫu của phép thử là: Ω ={(1; 2 ) ; (1;3) ; ( 2;1) ; ( 2;3) ; ( 3;1) ; ( 3; 2 )}
+Nhận xét:
+a) Ta có thể lập bảng như sau
+Lần 1
+Lần 2
+1
+2
+3
+4
+5
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+Không gian mẫu có 36 phần tử.
+Ví dụ 2. Hai bạn nam Hùng, Dũng và hai bạn nữ Dung, Nguyệt tham gia đội văn ghệ của lớp 9A. Cô giáo
+phụ trách đội chọn ngẫu nhiên hai bạn để hát song ca. Liệt kê các cách chọn ngẫu nhiên hai bạn để hát
+song ca.
+Lời giải
+
+Có các cách chọn sau: Hùng - Dũng; Hùng - Dung; Hùng - Nguyệt; Dũng - Dung; Dũng - Nguyệt; Dung Nguyệt.
+Nhận xét: Có 6 cách chọn.
+Ví dụ 3. Viết ngẫu nhiên một số tự nhiên lẻ có hai chữ số. Tìm số phần tử của tập hợp Ω gồm các kết
+quả có thể xảy ra đối với số tự nhiên được viết ra.
+Lời giải
+Ta=
+có: Ω {11;13;15;…;97;99} .
+Nhận xét: Số phần tử của tập hợp Ω là:
+
+99 − 11
++ 1 =45 .
+2
+
+Ví dụ tương tự.
+Viết ngẫu nhiên một số tự nhiên lớn hơn 499 và nhỏ hơn 1000. Viết tập hợp các kết quả có thể xảy ra của
+phép thử. Có bao nhiêu kết quả có thể xảy ra:
+
+500 .
+Hướng dẫn: {500;501;…;998;999} . Số các số tự nhiên: ( 999 − 500 ) + 1 =
+Ví dụ 4. Một hộp có chứa 5 tấm thẻ cùng loại được đánh số lần lượt từ 1 đến 5. Lấy ra ngẫu nhiên cùng
+một lúc 2 tấm thẻ từ hộp. Hãy liệt kê các phần tử của không gian mẫu của phép thử.
+Lời giải
+Kí hiệu ( x; y ) là kết quả lấy được hai thẻ, trong đó một thẻ đánh số x và một thẻ đánh số y .
+Các phần tử của không gian mẫu của phép thử là:
+
+Ω ={(1; 2);(1;3);(1; 4);(1;5);(2;3);(2; 4);(2;5);(3; 4);(3;5);(4;5)}
+Ví dụ 5. Màu hạt của đậu Hà Lan có hai kiểu hình: màu vàng và màu xanh, có hai gene ứng với hai kiểu
+hình này allele trội A và allele lặn a. Hình dạng hạt của đậu Hà Lan có hai kiểu hình: hạt trơn và hạt nhăn,
+có hai gene ứng với hai kiểu hình này allele trội B và allele lặn b . Khi cho lai hai cây đậu Hà Lan, cây
+con lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ để hình thành một cặp gene. Phép thử là
+
+cho lai hai cây đậu Hà Lan, trong đó cây bố có kiểu gene là ( AA, Bb ) , cây mẹ có kiểu gene là ( Aa, Bb ) .
+Hãy mô tả không gian mẫu của phép thử trên. Không gian mẫu có bao nhiêu phần tử?
+Gợi ý: Về kiểu gene, có hai kiểu gene ứng với màu hạt của cây con là AA; Aa.
+Có bốn kiểu gene ứng với dạng hạt của cây con là BB; Bb; bB; bb .
+Lời giải
+Ta có bảng sau:
+Dạng hạt
+Màu hạt
+AA
+
+BB
+
+Bb
+
+bB
+
+bb
+
+( AA; BB )
+
+( AA; Bb )
+
+( AA; bB )
+
+( AA; bb )
+
+( Aa; BB )
+
+Aa
+
+( Aa; Bb )
+
+( Aa; bB )
+
+( Aa; bb )
+
+Không gian mẫu có 8 phần tử?
+Nhận xét: Người ta có thể viết: ( AA; BB ) là AABb;…
+Ví dụ 6. Trên giá sách có 4 quyển thuộc thể loại Văn học, 3 quyển thuộc thể loại Lịch sử, 2 quyển thuộc
+thể loại Khoa học viễn tưởng. Bạn Minh Anh rút ngẫu nhiên một quyển. Có bao nhiêu kết quả có thể xảy
+ra? Không gian mẫu của phép thử này gồm những phần tử nào?
+Lời giải
+Kí hiệu: 4 quyển thuộc thể loại Văn học là V1, V2, V3, V4; 3 quyển thuộc thể loại Lịch sử là L1, L2, L3;
+2 quyển thuộc thể loại Khoa học viễn tưởng là K1, K2.
+Trên giá có 9 quyển sách nên khi rút ngẫu nhiên một quyển thì có 9 kết quả có thể xảy ra. Như vậy không
+gian mẫu có 9 kết quả.
+Cụ thể, các kết quả của không gian mẫu được liệt kê như sau: Ω ={V1, V2, V3, V4, L1, L2, L3, K1, K2}
+Ví dụ 7. Trong hộp thứ nhất có 5 thẻ được đánh số 1,2,3,4,5. Trong hộp thứ hai có 4 chữ cái tạo thành từ
+TOÁN. Lấy ngẫu nhiên một thẻ trong hộp thứ nhất và một chữ cái trong hộp thứ hai. Hãy mô tả không
+gian mẫu của phép thử đó.
+Lời giải
+Ta có bảng sau:
+Chữ
+
+T
+
+O
+
+A
+
+N
+
+1
+1T
+2
+2T
+3
+3T
+4
+4T
+5
+5T
+Không gian mẫu có 20 phần tử.
+
+1O
+2O
+3O
+4O
+5O
+
+1A
+2A
+3A
+4A
+5A
+
+1N
+2N
+3N
+4N
+5N
+
+Thẻ số
+
+Ví dụ tương tự.
+Xét phép thử tung một đồng xu và một con xúc xắc 6 mặt. Hãy liệt kê các phần tử của không gian mẫu.
+Hướng dẫn: Kí hiệu: S , N là mặt sấp, mặt ngửa của đồng xu;1, 2,3, 4 , 5,6 là số chấm xuất hiện trên con
+xúc xắc. Ta có bảng sau:
+Xúc xắc
+Đồng xu
+1
+2
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+( S ;1)
+( N ;1)
+
+( S; 2)
+( N ; 2)
+
+( S ;3)
+( N ;3)
+
+( S; 4)
+( N ; 4)
+
+( S ;5)
+( N ;5)
+
+( S ;6 )
+( N ;6 )
+
+C. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+8.1. Chọn ngẫu nhiên một gia đình có hai con và quan sát giới tính của hai người con đó.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Lời giải
+a) Phép thử là chọn ngẫu nhiên một gia đình có hai con. Kết quả của phép thử là giới tính của hai người
+con đó: trai hoặc gái.
+b) Không gian mẫu của phép thử là: Ω ={(trai, trai); (trai; gái); (gái; trai); (gái; gái)}
+8.2. Một hộp đựng 5 tấm thẻ ghi các số 1 ; 2 ; 3 ; 4 ; 5. Rút ngẫu nhiên lần lượt hai tấm thẻ từ hộp, tấm thẻ
+rút ra lần đầu không trả lại vào hộp.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là rút ngẫu nhiên lần lượt hai tấm thẻ từ hộp, tấm thẻ được rút ra lần đầu không trả lại vào
+hộp. Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương ứng là số ghi trên tấm thẻ được
+lấy ra ở lần thứ nhất và lần thứ hai. Vì tấm thẻ được lấy ra lần đầu không trả lại vào hộp nên a ≠ b .
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng theo mẫu sau:
+Lần 2
+Lần 1
+1
+2
+3
+4
+
+1
+
+2
+
+3
+
+4
+
+5
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+
+5
+Vì a ≠ b nên cặp có hai phần tử trùng nhau không được tính, tức là trong bảng ta phải xóa 5 ô:
+(1,1);(2, 2);(3,3);(4, 4) . Do đó không gian mẫu của phép thử là
+Ω ={(1, 2);(1,3);(1, 4);(1,5);(2,1);(2,3);(2, 4);(2,5);(3,1);(3, 2);(3, 4);(4,5);(4,1);(4, 2);(4,3);(4,5);(5,1);
+
+(5, 2);(5,3);(5, 4)} . Vậy không gian mẫu có 20 phần tử.
+8.3. Có hai nhóm học sinh: Nhóm I có ba học sinh nam là Huy, Sơn, Tùng; nhóm II có ba học sinh nữ là
+Hồng, Phương, Linh. Giáo viên chọn ngẫu nhiên một học sinh từ mỗi nhóm.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là chọn ngẫu nhiên một học sinh từ mỗi nhóm. Kết quả của phép thử là một cặp tên ( a, b ) ,
+trong đó a và b tương ứng là tên của một học sinh nhóm I và một học sinh nhóm II.
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+
+Nhóm II
+Hồng
+
+Nhóm I
+
+Phương
+
+Linh
+
+Huy
+(Huy, Hồng)
+(Huy, Phương)
+(Huy; Linh)
+Sơn
+(Sơn, Hồng)
+(Sơn, Phương)
+(Sơn, Linh)
+Tùng
+(Tùng, Hồng)
+(Tùng, Phương)
+(Tùng, Linh)
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 9 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω ={(Sơn, Hồng); (Sơn, Phương); (Huy, Linh); (Sơn, Hồng); (Sơn, Phương); (Sơn, Linh);
+(Tùng, Hồng); (Tùng, Phương); (Tùng, Linh)}. Vậy không gian mẫu có 9 phần tử.
+8.4. Xếp ngẫu nhiên ba bạn Mai, Việt, Lan trên một chiếc ghế dài.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần tử?
+Lời giải
+a) Phép thử là xếp ngẫu nhiên ba bạn Mai, Việt, Lan trên một chiếc ghế dài. Kết quả của phép thử là một
+bộ ba tên ( a, b, c ) , trong đó a, b và c tương ứng là tên ba bạn được xếp theo vị trí trên chiếc ghế dài.
+b) Không gian mẫu của phép thử là: Ω ={(Mai, Việt, Lan); (Mai, Lan, Việt); (Việt, Mai, Lan); (Việt,
+Lan, Mai); (Lan, Mai, Việt); (Lan, Việt, Mai)}. Vậy không gian mẫu có 6 phần tử.
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Bạn Tùng gieo một con xúc xắc và bạn Sơn gieo một đồng xu liên tiếp hai lần.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Lời giải
+a) Phép thử ngẫu nhiên là gieo một con xúc xắc và gieo một đồng xu liên tiếp hai lần.
+b) Kết quả có thể của gieo một con xúc xắc là số chấm xuất hiện trên con xúc xắc: 1,2,3,4,5,6 chấm. Kết
+quả có thể của gieo một đồng xu liên tiếp hai lần là SS, SN, NS, NN (mặt sấp (S), mặt ngửa (N)). Ta lập
+bảng sau:
+Gieo đồng xu
+hai lần
+
+SS
+
+SN
+
+NS
+
+NN
+
+Gieo xúc sắc
+
+1SN
+1NS
+1SS
+1
+2SS
+2SN
+2NS
+2
+3SS
+3SN
+3NS
+3
+4NS
+4SS
+4SN
+4
+5SS
+5SN
+5NS
+5
+6SS
+6SN
+6NS
+6
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 24 ô của bảng trên.
+=
+Vậy Ω {1SS ; 2 SS ;3SS ;…;5 NN ;6 NN }
+
+1NN
+2NN
+3NN
+4NN
+5NN
+6NN
+
+Câu 2. Túi I có 2 viên bi màu đen, kí hiệu là B1 , B2 và 2 viên bi màu trắng, kí hiệu là T1 , T2 . Túi II có 3
+viên bi màu xanh, ki hiệu là X 1 , X 2 , X 3 và 2 viên bi màu đỏ, kí hiệu là D1 , D2 , các viên bi có cùng kich
+thước. Từ mỗi túi lấy ngẫu nhiên một viên bi.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Lời giải
+a) Phép thử là lấy ngẫu nhiên một viên bi từ hai túi.
+b) Ta lập bảng sau:
+Túi I
+
+Túi II
+
+B1
+B2
+T1
+T2
+
+X1
+
+X2
+
+X3
+
+D1
+
+D2
+
+( B1; X 1 )
+( B2 , X 1 )
+(T1 , X 1 )
+(T2 , X 1 )
+
+( B1; X 2 )
+( B2 , X 2 )
+(T1 , X 2 )
+(T2 , X 2 )
+
+( B1 , X 3 )
+( B2 , X 3 )
+(T1 , X 3 )
+(T2 , X 3 )
+
+( B1 , D1 )
+( B2 , D1 )
+(T1 , D1 )
+(T2 , D1 )
+
+( B1 , D2 )
+( B2 , D2 )
+(T1 , D2 )
+(T2 , D2 )
+
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 20 ô của bảng trên.
+Vậy Ω
+
+{( B , X ) ; ( B , X ) ; (T , X ) ; (T , X ) ;…; ( B , D ) ; ( B , D ) ; (T , D ) ; (T , D )} .
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+2
+
+2
+
+2
+
+1
+
+2
+
+2
+
+2
+
+Câu 3. Bạn Minh gieo một đồng xu và bạn Ngọc lấy ngẫu nhiên một quả bóng từ một hộp chứa 4 quả
+bóng với các màu xanh, đỏ, tím, vàng.
+a) Phép thử là gì?
+b) Có bao nhiêu kết quả có thể? Mô tả không gian mẫu của phép thử.
+Lời giải
+a) Phép thử là gieo một đồng xu đồng thời lấy ngẫu nhiên một quả bóng từ một hộp chứa 4 quả bóng với
+các màu xanh, đỏ, tím, vàng.
+b) Kí hiệu S , N tương ứng là đồng xu xuất hiện mặt sấp, mặt ngửa và kí hiệu 4 quả bóng màu xanh, đỏ,
+tím, vàng tương ứng là X , D, T , V . Ta lập bảng sau:
+Minh
+S
+
+Ngọc
+
+N
+
+X
+
+D
+
+T
+
+V
+
+(S, X )
+( N, X )
+
+(S, D)
+( N, D)
+
+( S,T )
+( N ,T )
+
+( S ,V )
+( N ,V )
+
+Mỗi ô là một kết quả có thể. Có 8 kết quả có thể. Không gian mẫu là tập hợp 8 ô của bảng trên.
+Vậy Ω ={(S, X);(S, D);(S, T);(S, V);(N, X);(N, D);(N, T);(N, V)} .
+Câu 4. Túi A chứa 4 tấm thẻ được đánh số 1,2,3,4. Túi B chứa 4 viên bi với các màu xanh, đỏ, tím, vàng.
+Từ túi A rút ngẫu nhiên một tấm thẻ đồng thời từ tưi B lấy ngẫu nhiên một viên bi.
+a) Phép thử là gi?
+b) Có bao nhiêu kết quả có thể? Mô tả không gian mẫu của phép thử.
+Lời giải
+
+a) Phép thử là từ túi A rút ngẫu nhiên một tấm thẻ đồng thời từ tưi B lấy ngẫu nhiên một viên bi.
+b) Kí hiệu 4 viên bi màu xanh, đỏ, tím, vàng tương ứng là X , D, T , V . Ta lập bảng sau:
+Túi B
+
+Túi A
+
+X
+D
+T
+
+V
+
+1
+
+2
+
+3
+
+4
+
+(1, X )
+(1, D )
+(1,T )
+(1,V )
+
+( 2, X )
+( 2, D )
+( 2,T )
+( 2,V )
+
+( 3, X )
+( 3, D )
+( 3,T )
+( 3,V )
+
+( 4, X )
+( 4, D )
+( 4,T )
+( 4,V )
+
+Mỗi ô là một kết quả có thể. Có 16 kết quả có thể. Không gian mẫu là tập hợp 16 ô của bảng trên. Vậy
+Ω {(1, X );(1, D);…;(4, T );(4, V )} .
+Câu 5. Một hộp đựng 6 chiếc kẹo với các nhãn hiệu A, B, C , D, E , F . Bạn Lan lấy ngẩu nhiên một chiếc
+kẹo cho vào cặp sách của mình. Tiếp đó bạn Hồng lấy ngẫu nhiên một chiếc kẹo từ hộp.
+a) Phép thử và kết quả của phép thử là gì?
+b) Mô tả không gian mẫu của phép thử. Không gian mẫu có bao nhiêu phần từ?
+Lời giải
+a) Phép thử là lấy ngẫu nhiên từ một hộp đựng 6 chiếc kẹo với các nhãn hiệu A, B, C, D, E, F lần lượt hai
+chiếc kẹo, chiếc kẹo được lấy ra lần đầu không trả lại vào hộp. Kết quả của phép thử là một cặp ( x, y ) ,
+trong đó x và y tương ứng là nhãn hiệu của chiếc kẹo mà hai bạn Lan và Hồng lấy trong hộp. Vì chiếc
+kẹo bạn Lan lấy ra không trả lại vào hộp nên x ≠ y .
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+( A, B )
+
+( A, C )
+
+( A, D )
+
+( A, E )
+
+( A, F )
+
+B
+
+( A, A)
+( B, A )
+
+( B, C )
+
+( B, D )
+
+( B, E )
+
+( B, F )
+
+C
+
+( C , A)
+
+( B, B )
+(C, B )
+
+(C, D )
+
+(C, E )
+
+(C, F )
+
+D
+
+( D, A )
+
+( D, B )
+
+(C, C )
+( D, C )
+
+( D, E )
+
+( D, F )
+
+E
+
+( E , A)
+
+( E, B )
+
+( E, C )
+
+( D, D )
+( E, D )
+
+( E, F )
+
+F
+
+( F , A)
+
+( F, B)
+
+(F,C)
+
+( F, D)
+
+( E, E )
+(F, E)
+
+Hồng
+Lan
+A
+
+(F, F )
+
+Chú ý rằng x ≠ y nên cặp có hai phần tử trùng nhau không được tính, tức là trong bảng ta phải xoá 6 ô
+(A, A); (B, B); (C, C); (D, D); (E, E); (F, F).
+
+30 (phần tử).
+Vậy Ω {( B, A);(C , A);…..;( D, F );( E , F )} . Không gian mẫu có 36 − 6 =
+=
+Câu 6. Một tấm bìa hình tròn được chia làm năm hình quạt tròn có diện tích bằng nhau, trên mỗi hình
+quạt lần lượt ghi các số 1,2,3,4,5 và được gắn vào trục quay có mũi tên cố định ở tâm. Bạn An quay tấm
+bia hai lần và quan sát xem mũi tên chỉ vào hình quạt nào khi tấm bia dừng lại.
+a) Phép thử và kết quả của phép thử là gi?
+b) Mô tả không gian mẫu của phép thử.
+
+Lời giải
+a) Phép thử là quay tấm bìa hai lần và quan sát xem mũi tên chỉ vào hình quạt nào khi tấm bia dừng lại.
+Kết quả phép thử là cặp ( x, y ) trong đó x, y là một trong các số 1, 2,3, 4,5 .
+b) Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Lần 1
+1
+2
+3
+4
+5
+
+Lần 2
+
+1
+
+2
+
+3
+
+4
+
+5
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+
+Mỗi ô trong bảng là một kết quả có thể. Có 25 kết quả có thể. Không gian mẫu là tập hợp 25 ô của bảng
+trên. Vậy Ω {(1,1);(2,1);(3,1) …;(4,5) ; (5,5)} .
+=
+Câu 7. Một hộp chứa 3 quả bóng bàn và 2 quả bóng gôn. Trong các hoạt động sau, hoạt động nào là phép
+thử ngẫu nhiên?
+a) Chọn ra đồng thời 5 quả bóng từ hộp.
+b) Chọn ra lần lượt 5 quả bóng từ hộp, bóng lấy ra không được trả lại hộp.
+c) Chọn ra đồng thời 2 quả bóng gôn từ hộp.
+d) Chọn ra đồng thời 2 quả bóng bàn từ hộp.
+Lời giải
+Hoạt động a) và c) không là phép thử ngẫu nhiên vì mỗi hoật động chỉ có một kết quả có thể xảy ra.
+Hoạt động b) và d) là phép thử ngẫu nhiên vì mỗi hoạt động có nhiều hơn một kết quả có thể xảy ra và ta
+không thể biết trước được kết quả của chúng.
+Câu 8. Một hộp đựng 4 tấm thẻ ghi các số 5;6;8;9 . Lấy ngẫu nhiên lần lượt 2 tấm thẻ từ hộp. Tấm thẻ
+lấy ra lần đầu không được trả lại hộp.
+a) Xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Tích các số ghi trên hai tấm thẻ là số lẻ".
+Lời giải
+a) Kí hiệu (i; j ) là kết quả thẻ lấy ra lần đầu ghi số i và thẻ lấy ra lần sau ghi số j .
+Không gian mẫu của phép thử là
+
+Ω ={(5;6);(5;8);(5;9);(6;5);(6;8);(6;9);(8;5);(8;6);(8;9);(9;5);(9;6);(9;8)}.
+
+Không gian mẫu của phép thử có 12 phần tử.
+b) Các kết quả thuận lợi cho biến cố A là (5;9) và (9;5) .
+Câu 9. Một hộp chứa 2 cây bút xanh và 1 cây bút tím.
+
+a) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 cây bút từ hộp.
+b) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây
+bút lấy ra lần thứ nhất không được trả lại hộp trước khi lấy cây bút thứ hai.
+c) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây
+bút lấy ra lần thứ nhất được trả lại hộp trước khi lấy cây bút thứ hai.
+Lời giải
+Kí hiệu hai cây bút xanh là X1, X2 và cây bút tím là T .
+a) Các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 cây bút từ hộp là:
+
+{X1; X2} ;{X1;T} ;{X2;T} .
+
+b) Các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây bút lấy ra
+lần thứ nhất không được trả lại hộp trước khi lấy cây bút thứ hai là:
+(X1;X2);(X1;T);(X2;X1);(X2;T);(T;X1);(T;X2) .
+c) Các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên lần lượt 2 cây bút từ hộp, cây bút lấy ra
+lần thứ nhất được trả lại hộp trước khi lấy cây bút thứ hai là
+(X1;X1);(X1;X2);(X1;T);(X2;X1);(X2;X2);(X2;T);(T;X1);(T;X2);(T;T) .
+Câu 10. Hộp thứ nhất chứa 2 tấm thẻ cùng loại được đánh số 1; 2 . Hộp thứ hai chứa 3 tấm thẻ cùng loại
+được đánh số 3; 4;5 . Bạn Hà lấy ngẫu nhiên 1 tấm thẻ từ hộp thứ nhất và 1 tấm thẻ từ hộp thứ hai.
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Các số trên hai thẻ lấy ra đều là số lẻ". Có bao nhiêu kết
+quả thuận lợi cho biến cố A?
+Lời giải
+a) Kí hiệu (i; j ) là kết quả thẻ lấy ra từ hộp thứ nhất được đánh số i , thẻ lấy ra từ hộp thứ hai được đánh
+số j .
+Không gian mẫu của phép thử là Ω ={(1;3);(1; 4);(1;5);(2;3);(2; 4);(2;5)} .
+Không gian mẫu của phép thử có 6 phần tử.
+b) Các kết quả thuận lợi cho biến cố A là (1;3) và (1;5) .
+Có 2 kết quả thuận lợi cho biến cố A .
+Câu 11. Một nhóm học sinh gồm 2 bạn lớp 9 A là Đăng, Phước và 3 bạn lớp 9 B là Dung, Thọ và Thuý.
+Thầy giáo chọn ngẫu nhiên 1 học sinh lớp 9 A và 1 học sinh lớp 9B từ nhóm trên.
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần từ?
+b) Liệt kê các kết quả thuận lợi cho biến cố A: "Tên của hai bạn được chọn đều có chữ cái n ". Có bao
+nhiêu kết quả thuận lợi cho biến cố A ?
+Lời giải
+
+a) Không gian mẫu của phép thử gồm các kết quả là: Đăng và Dung; Đăng và Thọ; Đăng và Thuý; Phước
+và Dung; Phước và Thọ; Phước và Thuý.
+Không gian mẫu của phép thử có 6 phần tử.
+b) Kết quả thuận lợi cho biến cố A là: Đăng và Dung.
+Có đúng 1 kết quả thuận lợi cho biến cố A .
+Câu 12. Peter sẽ đến thăm Thủ đô Hà Nội, Thành phố Huế và Thành phố Hồ Chí Minh trong chuyến du
+lịch Việt Nam của mình. Peter dự định thăm ba thành phố trên theo một thứ tự ngẫu nhiên. Hãy mô tả
+không gian mẫu của phép thử.
+Lời giải
+Kí hiệu Thủ đô Hà Nội, Thành phố Huế và Thành phố Hồ Chí Minh lần lượt là A, B, C . Kí hiệu XYZ là
+kết quả Peter thăm lần lượt ba thành phố X, Y và Z .
+Không gian mẫu của phép thử là Ω ={ABC; ACB; BAC; BCA;CAB;CBA}.
+Câu 13. Ba bạn Bắc, Trung, Nam vào một quán giải khát. Bắc gọi một li sinh tố bơ, Trung gọi một li sinh
+tố chuối và Nam gọi một li sinh tố dứa. Khi mang các li sinh tố ra, cô phục vụ đã đưa cho mối người một
+li sinh tố một cách ngẫu nhiên.
+a) Hãy xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Bạn Bắc nhận đúng li sinh tố mình đã gọi".
+Lời giải
+a) Kí hiệu li sinh tố bo, li sinh tố chuối và li sinh tố dứa lần lượt là B, C và D .
+Kí hiệu XYZ là kết quả li sinh tố theo thứ tự mà ba bạn Bắc, Trung, Nam lần lượt nhận được là X, Y, Z .
+Không gian mẫu của phép thử là: Ω ={BCD; BDC, CBD;CDB; DBC; DCB} .
+Không gian mẫu của phép thử có 6 phần tử.
+b) Các kết quả thuận lợi cho biến cố A là: BCD; BDC .
+
+BÀI 26. XÁC SUẤT CỦA BIẾN CỐ LIÊN QUAN TỚI PHÉP THỬ
+A. CÁC KIẾN THỨC CƠ BẢN CẦN NHỚ
+I. KẾT QUẢ THUẬN LỢI CHO MỘT BIẾN CỐ LIÊN QUAN TỚI PHÉP THỬ
+Cho phép thử T . Xét biến cố E , ở đó việc xảy ra hay không xảy ra của E tuỳ thuộc vào kết quả của
+phép thử T . Kết quả của phép thử T làm cho biến cố E xảy ra gọi là kết quả thuận lợi cho E .
+Ví dụ 1. Một tấm bìa cứng hình tròn được chia làm bốn hình quạt bằng nhau, đánh số 1 ; 2 ; 3 ; 4 và được
+gắn vào trục quay có mũi tên ở tâm (H.8.2). Bạn Tuấn quay tấm bìa hai lần, quan sát và ghi lại số của
+hình quạt mà mũi tên chỉ vào.
+
+a) Phép thử là gì? Hãy mô tả không gian mẫu của phép thử.
+b) Xét biến cố E: “Tổng hai số ghi trên hai hình quạt ở hai lần quay bằng 5”. Mô tả các kết quả thuận lợi
+cho biến cố E .
+c) Xét biến cố F : “Tích hai số ghi trên hai hình quạt ở hai lần quay bằng 4”. Mô tả các kết quả thuận lợi
+cho biến cố F .
+Lời giải
+a) Phép thử là quay tấm bìa hai lần. Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương
+ứng là số ghi trên các hình quạt mà mũi tên chỉ vào ở lần quay thứ nhất và thứ hai.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Lần 2
+
+Lần 1
+1
+2
+3
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+4
+Mỗi ô trong bảng là một kết quả có thể. Không gian mẫu là tập hợp 16 ô của bảng trên. Như vậy, không
+gian mẫu của phép thử là
+
+Ω ={(1,1);(1, 2);(1,3);(1, 4);(2,1);(2, 2);(2,3);(2, 4);(3,1);(3, 2);(3,3);(3, 4);(4,1);(4, 2);(4,3);(4, 4)} .
+b) Các kết quả thuận lợi cho biến cố E là (1, 4);(2,3);(3, 2);(4,1) .
+c) Các kết quả thuận lợi cho biến cố F là (1, 4);(2, 2);(4,1) .
+II. TÍNH XÁC SUẤT CỦA BIẾN CỐ LIÊN QUAN ĐẾN PHÉP THỬ KHI CÁC KẾT QUẢ CỦA
+PHÉP THỬ ĐỒNG KHẢ NĂNG
+
+Giả sử rằng các kết quả có thể của phép thử T là đồng khả năng. Khi đó xác suất P( E ) của biến cố E
+bằng tỉ số giữa số kết quả thuận lợi cho biến cố E và số phần tử của tập Ω : P ( E ) =
+
+n(E)
+
+n (Ω)
+
+, trong đó Ω
+
+là không gian mẫu của T ; n ( E ) là số kết quả thuận lợi cho biến cố E và n ( Ω ) là số phần tử của tập Ω .
+Cách tính xác suất của một biến cố
+Việc tính xác suất của một biến cố E gồm các bước sau:
+Bước 1. Mô tả không gian mẫu của phép thử. Từ đó xác định số phần tử của không gian mẫu Ω .
+Bước 2. Chứng tỏ các kết quả có thể của phép thử là đồng khả năng.
+Bước 3. Mô tả các kết quả thuận lợi cho biến cố E . Từ đó xác định số kết quả thuận lợi cho biến cố E .
+Bước 4. Lập tỉ số giữa số kết quả thuận lợi cho biến cố E với số phần tử của không gian mẫu Ω .
+Ví dụ 2. Ba bạn Bảo, Châu, Dương được xếp ngẫu nhiên ngồi trên một hàng ghế có ba chỗ ngồi. Tính xác
+suất của các biến cố sau:
+a) E: “Bảo không ngồi ngoài cùng bên phải”;
+b) F: “Châu và Dương không ngồi cạnh nhau”.
+Lời giải
+Kí hiệu ba bạn Bảo, Châu, Dương lần lượt là B, C , D . Ta liệt kê các kết quả có thể xảy ra:
+- Bảo ngồi ngoài cùng bên trái: có 2 cách xếp là BCD và BDC .
+- Bảo ngồi giữa: có 2 cách xếp là CBD và DBC .
+- Bảo ngổi ngoài cùng bên phải: có 2 cách xếp là CDB và DCB .
+Vậy không gian mẫu của phép thử là Ω ={ BCD; BDC ; CBD; DBC ; CDB; DCB} . Tập Ω có 6 phần tử. Vì
+việc xếp chỗ ngồi là ngẫu nhiên nên các kết quả có thể là đồng khả năng.
+a) Có 4 kết quả thuận lợi cho biến cố E là BCD, BDC , CBD và DBC . Vậy P ( E =
+)
+b) Có 2 kết quả thuận lợi cho biến cố F là CBD và DBC . Vậy P ( F =
+)
+
+4 2
+=
+.
+6 3
+
+2 1
+=
+.
+6 3
+
+Ví dụ 3. Để trả lời câu hỏi trong tình huống mở đầu ta cần biết kiểu gene của cây bố và cây mẹ. Giả sử
+cây bố có kiểu gene là ( AA, Bb ) , cây mẹ có kiểu gene là ( Aa, Bb ) . Khi đó yêu cầu bài toán trở thành tính
+xác suất để cây con có hạt vàng và trơn.
+Lời giải
+Ở Bài 25 , ta đã biết không gian mẫu là:
+Ω ={( AA, BB);( AA, Bb);( AA, bB);( AA, bb);( Aa, BB);( Aa, Bb);( Aa, bB);( Aa, bb)}
+
+Tập Ω có 8 phần tử. Phép thử có 8 kết quả có thể. Do cây con chọn ngẫu nhiên một gene từ cây bố và
+một gene từ cây mẹ nên các kết quả có thể trên là đổng khả năng.
+Gọi M là biến cố “Cây con có hạt vàng và trơn”. Cây con có hạt vàng và trơn nếu trong gene màu hạt có
+ít nhất một allele trội A và trong gene dạng hạt có ít nhất một allele trội B .
+
+Có 6 kết quả thuận lợi cho biến cố M là ( AA, BB) ; ( AA, Bb);( AA, bB) ; (Aa, BB) ; (Aa, Bb) ; ( Aa, bB) .
+Vậy P ( M =
+)
+
+6 3
+=
+.
+8 4
+
+B. CÁC DẠNG TOÁN
+Dạng 1. Kết quả thuận lợi cho một biến cố
+Ví dụ 1. Xét phép thử tung một con xúc xắc cân đối và đồng chất có 6 mặt. Gọi A là biến cố “Nhận được
+mặt có số chấm là số nguyên tố”. Hãy liệt kê những kết quả thuận lợi cho biến cố A .
+Hướng dẫn: Các kết quả thuận lợi cho biến cố là một tập con của không gian mẫu.
+Lời giải
+Ta có: Ω ={1; 2;3; 4;5;6} . Đó là kết quả khi tung xúc xắc 6 mặt. Trong các số từ 1 đến 6 có ba số nguyên
+tố 2;3;5 . Vậy kết quả thuận lợi cho biến cố A là 2;3;5 . Có thể viết: A = {2;3;5} .
+Nhận xét: A là tập con của Ω .
+Ví dụ 2. Bánh xe được chia thành 16 hình quạt bằng nhau, đánh số thứ tự từ 1 đến 16. Quay bánh xe và
+quan sát xem khi nó dừng thì mũi kim (được gắn cố định) chỉ vào hình quạt số mấy (ta nói ngắn gọn là
+“kim chỉ vào số mấy”). Hãy liệt kê các kết quả thuận lợi cho mỗi biến cố sau:
+A : “Kim chỉ vào số là bội số của 5”;
+B : “Kim chỉ vào số là ước của 14”.
+
+Lời giải
+
+=
+Ω
+Ta có:
+
+5;10;15} ; B {1; 2;7;14}
+. Khi đó A {=
+{1; 2;3;…;14;15;16}=
+
+Nhận xét: Ta ghi tập hợp A là các bội của 5 , không vượt quá 16; tập hợp B là tập hợp các ước của 14.
+A và B là tập hợp con của tập Ω .
+
+Ví dụ 3. Bảng thống kê tuổi các thành viên tham gia câu lạc bộ bơi lội của một nhà văn hoá thiếu nhi.
+Tuổi của các thành viên câu lạc bộ bơi lội
+10 tuổi
+12 tuổi
+13 tuổi
+14 tuổi
+Nam
+3
+5
+7
+15
+Nữ
+5
+6
+10
+6
+Tổng số
+8
+11
+17
+21
+Lấy ngẫu nhiên một bạn trong danh sách để kiểm tra sức khoẻ. Xét các biến cố:
+
+Tổng số
+30
+27
+57
+
+A : “Chọn được một bạn nữ 10 tuổi”;
+B : “Chọn được một bạn nữ”;
+
+C : “Chọn được một bạn nam 13 tuổi hoặc 14 tuổi”.
+
+Hãy xác định số kết quả thuận lợi cho mỗi biến cố A, B, C .
+Lời giải
+- Kết quả thuận lợi cho biến cố A là 5.
+- Tổng số thành viên nữ là 27 nên có 27 kết quả thuận lợi cho biến cố B .
+- Tổng số bạn nam 13 tuổi hoặc 14 tuổi là: 7 + 15 =
+22
+Vậy có 22 kết quả thuận lợi cho biến cố C .
+Ví dụ 4. Bảng biểu diễn kết quả thống kê của một bệnh viện về cân nặng của một số trẻ sơ sinh.
+Cân nặng của một số trẻ sơ sinh
+Cân nặng
+[ 2800;3000 )
+[3000;3200 ) [3200;3400 ) [3400;3600 ) Tổng số
+(g)
+Tần số Bé gái
+4
+17
+10
+5
+36
+Bé trai 3
+18
+8
+3
+32
+Chọn ngẫu nhiên một trẻ sơ sinh trong số này. Xác định số kết quả thuận lợi cho mỗi biến cố sau:
+M : “Chọn được một bé gái thuộc nhóm có cân nặng trong khoảng [3200;3400) ( g ) ”
+
+N : “Chọn được một bé cân nặng dưới 3000 g”;
+O : “Chọn được một bé trai cân nặng không dưới 3200 g”.
+
+Lời giải
+Ta có kết quả thuận lợi cho biến cố M là 10 ; số kết quả thuận lợi cho biến cố N là 3 + 4 =
+7 ; số kết quả
+thuận lợi cho biến cố O là 8 + 3 =
+11 .
+Ví dụ 5. Viết ngẫu nhiên một số chẵn có hai chữ số. Hãy liệt kê các kết quả thuận lợi cho biến cố “Số tự
+nhiên được viết là bội của 4”.
+
+=
+Ω
+Hướng dẫn:
+
+{10;12;…;96;98} . Bội của 4: 12; 16; ...; 96.
+Lời giải
+
+Các bội của 4 có hai chữ số có dạng 4k ; k ∈ {3; 4;…; 23; 24} .
+Vậy các kết quả thuận lợi cho biến cố trên là: {12;16; 20;…;88;92;96} .
+Nhận xét: Số kết quả thuận lợi là 22.
+Ví dụ tương tự.
+Viết ngẫu nhiên một số lẻ không vượt quá 100. Hãy liệt kê các kết quả thuận lợi cho biến cố E : “Số tự
+nhiên được viết là bội của 9”.
+
+Đáp số: E = {9;18; 27;36; 45;54;63;72;81;90;99} . E có 11 phần tử.
+Dạng 2. Xác suất của biến cố
+Ví dụ 1. Màu hạt của đậu Hà Lan có hai kiểu hình là vàng và xanh. Có hai gene ứng với hai kiểu hình này
+allele trội A và allele lặn a. Hình dạng gạt của đậu Hà Lan có hai kiểu hình: hạt trơn và hạt nhăn. Có hai
+gene ứng với hai kiểu hình này allele trội B và allele lặn b . Khi cho lai hai cây đậu Hà Lan, cặp gene của
+cây con được lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ. Phép thử là cho lai hai cây đậu
+Hà Lan, trong đó cây bố và cây mẹ có kiểu hình là “hạt vàng nhăn”. Hỏi xác suất để cây con có kiểu hình
+như cây bố và cây mẹ là bao nhiêu?
+Lời giải
+Ta có bảng sau:
+Dạng hạt
+Màu hạt
+AA
+
+Aa
+
+BB
+
+Bb
+
+bB
+
+bb
+
+( AA; BB )
+( Aa; BB )
+
+( AA; Bb )
+( Aa; Bb )
+
+( AA; bB )
+( Aa; bB )
+
+( AA; bb )
+( Aa; bb )
+
+Gọi E là biến cố “cây con có hạt vàng nhăn”. Ta có: E = {( AA, bb ) ; ( Aa; bb )} .
+Có hai kết quả thuận lợi cho biến cố E .
+Ω ={( AA, BB ) ; ( AA, Bb ) ; ( AA; bB ) ; ( AA, bb ) ; ( Aa, BB ) ; ( Aa, Bb ) ; ( Aa; bB ) ; ( Aa, bb )}
+
+Vậy P ( E =
+)
+
+n(E) 2 1
+.
+= =
+n (Ω) 8 4
+
+Ví dụ tương tự.
+Tính xác suất của biến cố F : “Cây con có hạt vàng và trơn”.
+Đáp số P ( F ) = 0, 75.
+Ví dụ 2. Tấm bìa cứng A hình tròn được chia thành 3 hình quạt có diện tích bằng nhau, đánh số 1; 2;3 và
+tấm bìa cứng B hình tròn được chia thành 5 hình quạt có diện tích bằng nhau, đánh số 1; 2;3; 4;5 . Trục
+quay của A và B được gắn mũi tên ở tâm. Bạn Nam quay tấm bìa A, bạn Bình quay tấm bìa B. Quan sát
+xem mũi tên dừng ở hình quạt nào trên hai tấm bìa. (Xem hình vẽ).
+
+Tính xác suất của các biến cố sau:
+
+E : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào bằng 6”;
+F : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào nhỏ hơn 5”;
+
+G : “Tích hai số ở hình quạt mà hai mũi tên chỉ vào là số chẵn”.
+
+Hướng dẫn: Viết tập hợp Ω và các tập hợp E , F , G .
+Lời giải
+Ta có bảng sau:
+A
+B
+
+1
+
+2
+
+3
+
+(1;1)
+(1;3)
+(1; 2 )
+( 2;3)
+( 2;1)
+( 2; 2 )
+2
+( 3;1)
+( 3; 2 )
+( 3;3)
+3
+( 4;1)
+( 4; 2 )
+( 4;3)
+4
+( 5;1)
+( 5; 2 )
+( 5;3)
+5
+Ω ={(1;1) ; (1; 2 ) ; (1;3) ; ( 2;1) ; ( 2; 2 ) ; ( 2;3) ; ( 3;1) ; ( 3; 2 ) ; ( 3;3) ; ( 4;1) ; ( 4; 2 ) ; ( 4;3) ; ( 5;1) ; ( 5; 2 ) ; ( 5;3)}
+1
+
+Số phần tử của Ω là 15; n ( Ω ) =15
+Số kết quả thuận lợi cho biến cố E là: E = {( 3; 2 ) ; ( 2;3)} ⇒ P ( E ) =
+
+n(E)
+
+n (Ω)
+
+=
+
+2
+15
+
+7
+Ta có: F = {{(1;1);(1; 2);(2;1);(1;3);(3;1);(2; 2);(4;1)}} ⇒ P ( F ) =
+15
+Ta có: G = {(1; 2);(2;1);(2; 2);(2;3);(3; 2);(4;1);(4; 2);(4;3);(5; 2)} .
+Tập hợp G có 9 phần tử. Vậy P ( G=
+)
+
+9 3
+= .
+15 5
+
+Ví dụ 3. Cho hai túi I và II, mỗi túi chứa 3 tấm thẻ được ghi các số 2; 4 ; 9. Rút ngẫu nhiên từ mỗi túi ra
+một tấm thẻ và ghép thành số có hai chữ số với chũ số trên tấm thẻ rút từ túi I là chữ số hàng chục. Tính
+xác suất các biến cố sau:
+a) A : “Số tạo thành chia hết cho 4”;
+b) B : “Số tạo thành là số nguyên tố”.
+Lời giải
+Ta có: Ω ={22; 24; 29; 42; 44; 49;92;94;99} . Số phần tử của Ω là 9.
+a) Ta có: A = {24; 44;92} . Tập hợp A có 3 phần tử. Vậy P ( A )=
+
+3 1
+=
+.
+9 3
+
+1
+b) Ta có: B = {29} . Tập hợp B có 1 phần tử. Vậy P ( B ) = .
+9
+Ví dụ tương tự.
+Xét ba bạn An, Bình, Châu ngồi trên một dãy ghế có ba chỗ ngồi. Tính xác suất các biến cố sau:
+a) E : “An không ngồi ngoài cùng bên phải”;
+b) B : “Bình và Châu ngồi cạnh nhau”.
+Hướng dẫn: Viết tập hợp các phần tử của không gian mẫu bằng cách liệt kê các kết quả.
+Lời giải
+Kí hiệu ba bạn An, Bình, Châu là A, B, C . Có các cách xếp ba bạn vào dãy ghế:
+
+( A, B, C ) ; ( A, C , B ) ; ( B, A, C ) ; ( B, C , A) ; ( C , A, B ) ; ( C , B, A) .
+Vậy Ω ={( A, B, C ) ; ( A, C , B ) ; ( B, A, C ) ; ( B, C , A ) ; ( C , A, B ) ; ( C , B, A )} . Số phần tử của Ω là 6.
+a) Ta có: E = {( B, A, C ) ; ( B, C , A ) ; ( C , A, B ) ; ( C , B, A )} . Vậy P ( E =
+)
+b) Ta có: F = {( B, A, C ) ; ( C , A, B )} . Vậy P ( F =
+)
+
+n(E) 4 2
+.
+= =
+n (Ω) 6 3
+
+2 1
+=
+.
+6 3
+
+Ví dụ 4. Tính xác suất của các biến cố sau:
+E : “Trong hai bạn được chọn, có một bạn nam và một bạn nữ”;
+F : “Trong hai bạn được chọn có bạn Dung”;
+
+Hướng dẫn: Xem Ví dụ 7. Số phần tử của tập hợp Ω là 6 .
+Lời giải
+Ta có: Ω ={Hùng - Dũng; Hùng - Dung; Hùng - Nguyệt; Dũng - Dung; Dũng - Nguyệt; Dung - Nguyệt}.
+E = {Hùng - Dung; Hùng - Nguyệt; Dũng - Dung; Dũng - Nguyệt } . Vậy P ( E =
+)
+
+Ta có: F = {Hùng - Dung; Dũng - Dung; Dung - Nguyệt } . Vậy P ( F =
+)
+
+4 2
+=
+.
+6 3
+
+3 1
+=
+.
+6 2
+
+Ví dụ 5. Bạn Hoàng lấy ngẫu nhiên một quả cầu từ một túi đựng 2 quả cầu gồm một quả màu đen và một
+quả màu trắng, có cùng khối lượng và kích thước. Bạn Hải rút ngẫu nhiên một tấm thẻ từ một hộp đựng 3
+tấm thẻ A, B, C .
+a) Mô tả không gian mẫu của phép thử.
+b) Xét các biến cố sau:
+E : “Bạn Hoàng lấy được quả cầu màu đen”;
+F : “Hoàng lấy được quả cầu màu trắng và bạn Hải không rút được tấm thẻ A”.
+
+Tính P ( E ) ; P ( F ) .
+Lời giải
+a) Kí hiệu quả cầu đen, trắng thứ tự là Đ, T.
+Ta có bảng sau:
+Tấm thẻ
+Qủa cầu
+1
+2
+
+A
+
+B
+
+C
+
+( Ð; A)
+(T ; A )
+
+( Ð; B )
+(T ; B )
+
+( Ð; C )
+(T ; C )
+
+Không gian mẫu có 6 phần tử.
+b) Ta có: E = {( Ð; A ) ; ( Ð; B ) ; ( Ð; C )} . Vậy P ( E )=
+F = {( T; B ) ; ( T;C )} . Vậy P ( F =
+)
+
+n(E) 3 1
+= =
+n (Ω) 6 2
+
+2 1
+= .
+6 3
+
+Ví dụ 6. Hộp thứ nhất đựng 1 quả bóng trắng, 1 quả bóng đỏ. Hộp thứ hai đựng 1 quả bóng đỏ, 1 quả
+bóng vàng. Lấy ra ngẫu nhiên từ mỗi hộp 1 quả bóng.
+a) Xác định không gian mẫu và số kết quả có thể cảy ra của phép thử.
+b) Biết rằng các quả bóng có cùng kích thước và khối lượng. Hãy tính xác suất của mỗi biến cố sau:
+A : “2 quả bóng lấy ra có cùng màu”;
+B : “Có đúng 1 quả bóng màu đỏ trong 2 quả bóng lấy ra”.
+
+Lời giải
+a) Kí hiệu T là màu trắng, Ð là màu đỏ và V là màu vàng.
+Không gian mẫu Ω ={(T ; Ð ) ; (T ;V ) ; ( Ð; Ð ) ; ( Ð, V )} . Số kết quả có thể xảy ra là n ( Ω ) =4
+b) Vì các quả bóng có cùng kích thước và khối lượng nên 4 kết quả trên có cùng khả năng xảy ra.
+Chỉ có một kết quả thuận lợi cho biến cố A là ( B; Ð ) nên n ( A ) = 1 .
+Xác suất của biến cố A là P=
+( A)
+
+n ( A) 1
+.
+=
+n (Ω) 4
+
+Các kết quả thuận lợi cho biến cố B là ( T, B ) và ( B, V ) nên n ( B ) = 2 .
+Xác suất của biến cố B là P ( B =
+)
+
+n ( B) 2 1
+.
+= =
+n (Ω) 4 2
+
+Ví dụ 7. Một tấm bìa cứng hình tròn được chia làm bốn hình quạt bằng nhau, đánh số 1 ; 2 ; 3 ; 4 và được
+gắn vào trục quay có mũi tên ở tâm (hình vẽ).
+
+Bạn Tuấn quay tấm bìa hai lần, quan sát và ghi lại số hình quạt mà mũi tên chỉ vào. Tính xác suất của các
+biến cố:
+a) E : “Tổng hai số ghi trên hai hình quạt ở hai lần quay bằng 5”;
+b) F : “Tích hai số ghi trên hai hình quạt ở hai lần quay bằng 4”.
+Hướng dẫn: Liệt kê các phần tử của không gian mẫu và các phần tử của tập hợp E , tập hợp F .
+Lời giải
+a) Ta có bảng sau:
+Lần
+1
+Lần 2
+1
+2
+3
+4
+
+1
+
+2
+
+3
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+Ω ={(1;1);(1; 2);(1;3);(1; 4);(2;1);(2; 2);(2;3);(2; 4);(3;1);(3; 2);(3;3);(3; 4);(4;1);(4; 2);(4;3);(4; 4)}.
+Số phần tử của Ω là 16; n ( Ω ) =16
+
+4 1
+4 ⇒ P ( E ) ==
+Ta có E =
+{(1; 4 ) ; ( 2;3) ; ( 3; 2 ) ; ( 4;1)} ⇒ n ( E ) =
+16 4
+3
+3 ⇒ P ( F ) =.
+b) Ta có: F =
+{(1; 4);(2; 2);(4;1)} ⇒ n ( F ) =
+16
+Ví dụ tương tự.
+Có hai túi I và II, mỗi túi chứa 4 tấm thẻ được đánh số 1 ; 2 ; 3 ; 4. Rút ngẫu nhiên từ mỗi túi ra một tấm
+thẻ và nhân hai số ghi trên tấm thẻ với nhau. Tính xác suất của các biến cố sau:
+a) A : “Kết quả là một số lẻ”;
+
+b) B : “Kết quả là 1 hoặc một số nguyên tố”.
+Hướng dẫn:
+
+Ta có bảng sau:
+Túi I
+Túi II
+
+1
+
+2
+
+3
+
+1
+2
+3
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+Ta có: n ( Ω ) =16 .
+Lời giải
+
+=
+=
+a) Ta có: A {(1;1);(1;3);(3;1);(3;3)
+} ⇒ n ( A) 4 . Vậy P ( A=)
+b) Ta có: B
+
+n ( A) 4 1
+.
+= =
+n ( Ω ) 16 4
+
+=
+{(1;1);(1; 2);(1;3);(2;1);(3;1)
+} ⇒ n ( B ) 5 . Vậy P=
+( B)
+
+n ( B) 5
+.
+=
+n ( Ω ) 16
+
+Nhận xét: Em hãy tính P ( C ) , với C là biến cố: “Kết quả là một số chẵn”.
+Đáp số: P ( C ) =
+
+3
+.
+4
+
+Ví dụ 8. Một bó hoa gồm 3 bông hoa màu đỏ và 1 bông hoa màu vàng. Bạn Linh chọn ngẫu nhiên 2 bông
+hoa từ bó hoa đó.
+a) Liệt kê các cách chọn mà bạn Linh có thể thực hiện.
+b) Tính xác suất của mỗi biến cố:
+
+R : “Trong 2 bông hoa được chọn ra, có đúng 1 bông hoa màu đỏ”;
+F : “Trong 2 bông hoa được chọn ra, có ít nhất 1 bông hoa màu đỏ”.
+
+Hướng dẫn: Chọn hai bông không phân biệt thứ tự như Ví dụ 12 , ta lập một tập con của tập hợp 4 phần
+tử.
+Kí hiệu các phần tử đã cho là Ð1, Ð 2, Ð3 và V thứ tự là ba bông hoa màu đỏ và một bông hoa màu
+vàng.
+Lời giải
+a) Kí hiệu Đ1, Đ 2, Đ3 và V thứ tự là ba bông hoa màu đỏ và một bông hoa màu vàng.
+Chọn ngẫu nhiên hai bông, ta có tập hợp A gồm các phần tử sau:
+Ω ={( Ð1; Ð 2 ) ; ( Ð1; Ð3) ; ( Ð 2; Ð3) ; ( Ð1;V ) ; ( Ð 2;V ) ; ( Ð3;V )}
+
+b) Ta có: R
+=
+
+) ; ( Ð3;V )} ⇒ n ( R ) 3 .
+{( Ð1;V ) ; ( Ð2;V=
+
+Theo câu a), ta có: n ( Ω ) =6 . Vậy P ( R =
+)
+
+n ( R) 3 1
+= =
+.
+n (Ω) 6 2
+
+Tập hợp T = Ω . Vậy P (T ) = 1 .
+Ví dụ 9. Một hộp chứa 5 quả bóng màu đỏ và một số quả bóng màu trắng. Các quả bóng có cùng kích
+thước và khối lượng. Lấy ra ngẫu nhiên một quả bóng từ hộp, xem màu rồi trả lại hộp. Biết xác suất của
+biến cố “Lấy được quả bóng màu đỏ” là 0,25 . Hỏi trong hộp có bao nhiêu quả bóng màu trắng.
+Lời giải
+Gọi n là số quả bóng màu trắng có trong hộp. Số cách chọn ra ngẫu nhiên 1 quả bóng từ hộp là n + 5 .
+Do các quả bóng có cùng kích thước và khối lượng nên các quả bóng có cùng khả năng được chọn.
+Số kết quả thuận lợi cho biến cố “Lấy được quả bóng màu đỏ” là 5 nên xác suất của biến cố này là
+Theo giả thiết, ta có:
+
+5
+.
+n+5
+
+5
+= 0, 25 hay n + 5 =
+20 , ta được n = 15 . Vậy có 15 quả bóng màu trắng trong
+n+5
+
+hộp.
+Ví dụ 10. Một hộp đựng 20 viên bi đỏ và xanh có cùng kích thước, khối lượng. Tìm số viên bi mỗi màu,
+biết rằng xác suất của biến cố A : “Lấy được bi đỏ” khi thực hiện phép thử lấy ngẫu nhiên một viên bi là
+
+P ( A ) = 0, 6 .
+
+Lời giải
+n ( A) n
+Gọi n là số viên bi đỏ trong hộp. Ta có: n ( A ) =
+n ⇒ P ( A ) = =.
+n ( Ω ) 20
+
+Theo giả thiết, ta có:
+
+n
+= 0, 6 ⇒ n= 12 . Vậy có 12 viên bi màu đỏ và 8 viên bi màu xanh.
+20
+
+Ví dụ 11. Hình vẽ là biểu đồ thống kê số học sinh tham gia câu lạc bộ cờ vua. Lấy ngẫu nhiên một học
+sinh trong số này.
+10
+
+Tần số
+
+8
+6
+4
+2
+0
+
+Lớp 6
+
+Lớp 7
+
+Lớp 8
+
+Lớp
+Nam
+
+Tính xác suất của các biến cố:
+a) Lấy được một học sinh nữ lớp 9 .
+b) Lấy được một học sinh lớp 6.
+c) Lấy được một học sinh nam lớp 7 hoặc lớp 8.
+
+Nữ
+
+Lớp 9
+
+Lời giải
+
+46 . Ta có: n ( Ω ) =46 .
+Tổng số học sinh: ( 3 + 4 ) + ( 8 + 5 ) + ( 6 + 4 ) + ( 9 + 7 ) =
+n ( A) 7
+a) A : “Lấy được một học sinh nữ lớp 9” ⇒ n ( A ) =
+7 ⇒ P ( A ) = =.
+n ( Ω ) 46
+
+b) B : “Lấy được một học sinh lớp 6” ⇒ n ( B ) = 3 + 4 = 7 ⇒ P ( B ) =
+
+n ( B)
+
+n (Ω)
+
+=
+
+7
+46
+
+c) C : “Lấy được môt học sinh nam lóp 7 hoặc lớp 8”
+⇒ n (C ) =
+8 + 6 = 14 ⇒ P ( C ) =
+
+n ( C ) 14 7
+=
+=
+n ( Ω ) 46 23
+
+C. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+8.5. Chọn ngẫu nhiên một gia đình có hai con. Giả thiết rằng biến cố “Sinh con trai” và biến cố “Sinh con
+gái” là đồng khả năng. Tính xác suất của các biến cố sau:
+
+A : “Gia đình đó có cả con trai và con gái”;
+B : “Gia đình đó có con trai”.
+Lời giải
+Phép thử là chọn ngẫu nhiên một gia đình có hai con. Kết quả của phép thử là ( a, b ) , trong đó a và b
+tương ứng là giới tính của người con thứ nhất và người con thứ hai.
+Không gian mẫu của phép thử là Ω ={(Trai, Trai); (Trai, Gái); (Gái, Trai); (Gái, Gái)}. Tập Ω có 4 phần
+tử.
+a) Có 2 kết quả thuận lợi cho biến cố A là: (Trai, Gái); (Gái, Trai). Vậy P ( A=
+)
+
+2 1
+=
+.
+4 2
+
+b) Có 3 kết quả thuận lợi cho biến cố B là: (Trai, Trai); (Trai, Gái); (Gái, Trai). Vậy P ( B ) =
+
+3
+.
+3
+
+8.6. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất các biến cố sau:
+E: “Có đúng một con xúc xắc xuất hiện mặt 6 chấm”;
+F: “Có ít nhất một con xúc xắc xuất hiện mặt 6 chấm”;
+G: “Tích của hai số chấm xuất hiện trên hai con xúc xắc nhỏ hơn hoặc bằng 6”.
+Lời giải
+Phép thử là gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Kết quả của phép thử là ( a, b ) ,
+trong đó a và b tương ứng là số chấm xuất hiện trên con xúc xắc I và con xúc xắc II.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+
+Xúc xắc II
+
+Xúc xắc I
+1
+2
+3
+4
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+6
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 36 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω {(1,1);(1, 2);(1,3);…;(5, 6);(6, 6)} .
+=
+Tập Ω có 36 phần tử.
+- Có 10 kết quả thuận lợi cho biến cố E là: (1, 6);(2, 6);(3, 6);(4, 6);(5, 6);(6,1) ; (6, 2);(6,3);(6, 4);(6,5) . Do
+10 5
+đó P ( E=
+) = .
+36 18
+- Có 11 kết quả thuận lợi cho biến cố F là: (1, 6);(2, 6);(3, 6);(4, 6);(5, 6);(6,1) ;
+11
+(6, 2);(6,3);(6, 4);(6,5);(6, 6) . Do đó P ( F ) =
+.
+36
+- Có 14 kết quả thuận lợi cho biến cố G là: (1,1);(1, 2);(1,3);(1, 4);(1,5);(1, 6);(2,1);(2, 2);(2,3);(3,1);(3, 2); ;
+14 7
+(4,1);(5,1);(6,1) . Do đó P ( G=
+) = .
+36 18
+8.7. Bạn An gieo một đồng xu cân đối và bạn Bình rút ngẫu nhiên một tấm thẻ từ hộp chứa 5 tấm thẻ ghi
+các số 1 ; 2 ; 3 ; 4 ; 5. Tính xác suất của các biến cố sau:
+E: “Rút được tấm thẻ ghi số lẻ”;
+F: “Rút được tấm thẻ ghi số chẵn và đồng xu xuất hiện mặt sấp”;
+G: “Rút được tấm thẻ ghi số 5 hoặc đồng xu xuất hiện mặt ngửa”.
+Lời giải
+Phép thử là bạn An gieo một đồng xu cân đối và bạn Bình rút ngẫu nhiên một tấm thẻ từ hộp chứa 5 tấm
+thẻ ghi các số 1 ; 2 ; 3 ; 4 ; 5. Kết quả của phép thử là ( a, b ) , trong đó a và b tương ứng là mặt xuất hiện
+của đồng xu (mặt sấp ( S ) , mặt ngửa (N)) và số ghi trên tấm thẻ.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Tấm thẻ
+Đồng xu
+
+S
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1; S )
+
+( 2; S )
+
+( 3; S )
+
+( 4; S )
+
+( 5; S )
+
+( 6; S )
+
+( 2; N )
+( 4; N )
+( 5; N )
+( 6; N )
+(1; N )
+( 3; N )
+N
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 10 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω ={( S ,1);( S , 2);( S ,3);( S , 4);( S ,5);( N ,1);(N, 2);(N,3);(N, 4);(N,5)} . Tập Ω có 10 phần tử.
+- Có 6 kết quả thuận lợi cho biến cố E là: ( S ,1) ; ( S ,3) ; ( S ,5) ; ( N ,1) ; ( N ,3) ; ( N ,5) . Do đó
+6 3
+P ( E=
+) = .
+10 5
+- Có 2 kết quả thuận lợi cho biến cố F là ( S ; 2 ) ; (S, 4) . Do đó P ( F=
+)
+
+2 1
+=
+.
+10 5
+
+- Có 6 kết quả thuận lợi cho biến cố G là: (S,5) ; (N,1) ; (N, 2);(N,3) ; (N, 4) ; (N,5) . Do đó
+6 3
+P ( G=
+) = .
+10 5
+8.8. Có hai túi I và II mỗi túi chứa 4 tấm thẻ được đánh số 1; 2 ; 3 ; 4. Rút ngẫu nhiên từ mỗi tưi ra một
+tấm thẻ và nhân hai số ghi trên hai tấm thẻ với nhau. Tính xác suất của các biến cố sau:
+A: “Kết quả là một số lẻ”;
+B: “Kết quả là 1 hoặc một số nguyên tố”.
+Lời giải
+Phép thử là rút ngẫu nhiên từ mỗi túi ra một tấm thẻ. Kết quả của phép thử là một cặp số ( a, b ) , trong đó
+a và b tương ứng là số ghi trên thẻ được rút ra ở túi I và túi II.
+
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Túi II
+
+Túi I
+1
+2
+3
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+4
+Mỗi ô trong bảng là một kết quả có thể. Không gian mẫu là tập hợp 16 ô của bảng trên. Do đó, không
+gian mẫu của phép thử là
+Ω ={(1,1);(1, 2);(1,3);(1, 4);(2,1);(2, 2);(2,3);(2, 4);(3,1);(3, 2);(3,3);(3, 4);(4,1);(4, 2);(4,3);(4, 4)} .
+Tập Ω có 16 phần tử.
+- Xét biến cố A: “Tích hai số ghi trên hai tấm thẻ là một số lẻ”.
+Có 4 kết quả thuận lợi cho biến cố A là: (1,1);(1,3);(3,1);(3,3) . Do đó P ( E=
+)
+
+4 1
+=
+.
+16 4
+
+Xét biến cố B: “Tích hai số ghi trên hai tấm thẻ là 1 hoặc một số nguyên tố”.
+Có 6 kết quả thuận lợi cho biến cố B là: (1,1);(1, 2);(1,3);(1,5);(2,1);(3,1) . Do đó P ( F=
+)
+
+6 3
+=
+.
+16 8
+
+D. BÀI TẬP TỰ LUYỆN
+Câu 1. Bạn Hoà gieo một con xúc xắc cân đối và bạn Sơn gieo một đồng xu liên tiếp hai lần. Tính xác
+suất của các biến cố sau:
+a) A : “Số chấm xuất hiện trên con xúc xắc là 6 và hai lần đồng xu xuá́ t hiện mặt ngửa”;
+b) B : “Số chấm xuất hiện trên con xúc xắc là 1 hoặc 2 và một lần đồng xu xuất hiện mặt sấp, một lần
+đồng xu xuất hiện mặt ngửa”.
+Lời giải
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Sơn
+SS
+SN
+NS
+Hòa
+1
+1SN
+1NS
+1SS
+2
+2SS
+2SN
+2NS
+3
+3SS
+3SN
+3NS
+4
+4SS
+4SN
+4NS
+5
+5SS
+5SN
+5NS
+6
+6SS
+6SN
+6NS
+Mỗi ô trong bảng là một kết quả có thể. Có 24 kết quả có thể là đồng khả năng.
+a) Có 1 kết quả thuận lợi cho biến cố A là 6NN . Vậy P ( A ) =
+
+NN
+1NN
+2NN
+3NN
+4NN
+5NN
+6NN
+
+1
+.
+24
+
+b) Có 4 kết quả thuận lợi cho biến cố B là 1SN ,1NS , 2 SN , 2 NS . Vậy P ( B=
+)
+
+4 1
+.
+=
+24 6
+
+Câu 2. Bạn An gieo một đồng xu. Bạn Tùng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 5 tấm thẻ có ghi
+chữ a, b, c, d , e . Tính xác suất của các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và không rút được tấm thẻ ghi chữ a hoặc b”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc rút được tấm thẻ ghi chữ b”.
+Lời giải
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+
+a
+
+b
+
+c
+
+e
+
+d
+
+Tùng
+An
+S
+Sa
+Sb
+Sc
+Sd
+Na
+N
+Nb
+Nd
+Nc
+Mỗi ô trong bảng là một kết quả có thể. Có 10 kết quả có thể là đồng khả năng.
+a) Có 3 kết quả thuận lợi cho biến cố E là Sc, Sd , Se . Vậy P ( E ) =
+
+Se
+Ne
+
+3
+.
+10
+
+b) Có 6 kết quả thuận lợi cho biến cố F là Na, Nb, Nc, Nd , Ne, Sb . Vậy P ( F=
+)
+
+6 3
+.
+=
+10 5
+
+Câu 3. Gieo đồng thời một con xúc xắc và một đồng xu. Tính xác suất của các biến cố sau:
+a) E: “Số chấm xuất hiện trên con xúc xắc là số lẻ”;
+b) F: “Số chấm xuất hiện trên con xúc xắc là số chẵn và đồng xu xuất hiện mặt ngửa”.
+
+Lời giải
+Không gian mẫu Ω ={1 S ;1 N ; 2 S ; 2 N ;3 S ;3 N ; 4 S ; 4 N ;5 S ;5 N ;6 S ;6 N } ; n ( Ω ) =12 .
+a) Có 6 kết quả thuận lợi cho biến cố E là 1 S ,1 N ,3 S ,3 N ,5 S ,5 N . Vậy P ( E=
+)
+b) Có 3 kết quả thuận lợi cho biến cố F là 2 N , 4 N , 6 N . Vậy P ( F=
+)
+
+6 1
+.
+=
+12 2
+
+3 1
+.
+=
+12 4
+
+Câu 4. Gieo một con xúc xắc liên tiếp hai lần. Tính xác suất để tổng số chấm xuất hiện trên con xúc xắc
+trong hai lần gieo lớn hơn hoặc bằng 8.
+Lời giải
+Không gian mẫu
+=
+Ω
+
+{( a, b ) ;1 ≤ a, b ≤ 6} , trong đó a, b tương ứng là số chấm xuất hiện trên con xúc xắc
+
+ở lần gieo thứ nhất và thứ hai; n ( Ω ) =36 .
+Gọi A là biến cố “Tổng số chấm xuất hiện trên con xúc xắc trong hai lần gieo lớn hơn hoặc bằng 8”.
+Có 15 kết quả thuận lợi cho biến cố A là (2, 6);(3,5);(3, 6);(4, 4);(4,5) ;
+(4, 6);(5,3);(5, 4);(5,5);(5, 6);(6, 2); (6,3);(6, 4);(6,5);(6, 6) . Vậy P ( A=
+)
+
+15 5
+.
+=
+36 12
+
+Câu 5. Bạn Hạnh gieo một con xúc xắc và bạn Hằng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 4 tấm
+thẻ ghi các chữ A, B, C , D . Tính xác suất của các biến cố sau:
+a) E: “Số chấm xuất hiện trên con xúc xắc là 6”;
+b) F: “Rút được tấm thẻ ghi chữ A hoặc số chấm xuất hiện trên con xúc xắc là 5”.
+Lời giải
+Không gian mẫu Ω ={(1, A);(2, A);(3, A);(4, A);(5, A);(6, A);(1, B) ; (2, B); (3, B); (4, B), (5, B); (6, B);
+(1, C); (2, C); (3, C); (4, C); (5, C); (6, C); (1, D);(2, D);(3, D), (4, D);(5, D);(6, D)}; n ( Ω ) =24 .
+a) Có 4 kết quả thuận lợi cho biến cố C là (6, A);(6, B);(6, C );(6, D) . Vậy P ( C=
+)
+
+4 1
+.
+=
+36 9
+
+b) Có 9 kết quả thuận lợi cho biến cố D là (5, A) ; (5, B); (5, C); (5, D); (1, A); (2, A);(3, A);(4, A);(6, A)
+.
+Vậy P ( D=
+)
+
+9 1
+.
+=
+36 4
+
+Câu 6. Bạn Bình gieo một đồng xu cân đối và bạn Thịnh gieo một con xúc xắc cân đối. Tỉnh xác suất của
+các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và số chấm xuất hiện trên con xúc xắc lớn hơn 3”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc số chấm xuất hiện trên con xúc xắc lớn hơn 3”.
+Lời giải
+Mô tả không gian mẫu:
+
+Bình
+
+Thịnh
+
+S
+N
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+( S ;1)
+( N ;1)
+
+( S; 2)
+( N ; 2)
+
+( S ;3)
+( N ;3)
+
+( S; 4)
+( N ; 4)
+
+( S ;5)
+( N ;5)
+
+( S ;6 )
+( N ;6 )
+
+Có 12 kết quả có thể là đồng khả năng. n(Ω) =12 .
+a) Có 3 kết quả thuận lợi cho biến cố E là (S, 4); (S, 5); (S, 6). Vậy P ( E=
+)
+
+3 1
+.
+=
+12 4
+
+b) Có 9 kết quả thuận lợi cho biến cố F là (N, 1); (N, 2); (N, 3); (N, 4); (N, 5); ( N , 6);( S , 4);( S ,5);( S , 6) .
+Vậy P ( F=
+)
+
+9 3
+.
+=
+12 4
+
+Câu 7. Hai túi I và II chứa các viên bi có cùng kích thước. Túi I chứa 4 viên bi được ghi các số 1,2,3,4.
+Túi II chứa 5 viên bi được ghi các số 1,2,3,4,5. Bạn Mai lấy ngẫu nhiên một viên bi từ túi I và bạn Tuấn
+lấy ngẫu nhiên một viên bi từ túi II. Tỉnh xác suất của các biến cố sau:
+a) A: “Hai số ghi trên hai viên bi khác nhau”;
+b) B: “Hai số ghi trên hai viên bi chênh nhau 1 đơn vị”;
+c) C: “Hai số ghi trên hai viên bi chênh nhau 3 đơn vị”.
+Lời giải
+Mô tả không gian mẫu:
+Tuấn
+1
+2
+3
+4
+5
+
+Mai
+
+1
+
+2
+
+3
+
+4
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+
+Có 20 kết quả có thể là đồng khả năng n ( Ω ) =20 .
+
+16 kết quả thuận lợi cho biến cố A . Vậy
+a) Bỏ đi 4 ô (1,1);(2, 2);(3,3);(4, 4) , ta có 20 − 4 =
+16 4
+P ( A=
+) = .
+20 5
+b) Có 7 kết quả thuận lợi cho biến cố B là (1, 2);(2,1);(2,3);(3, 2);(3, 4) ; (4,3); (5, 4) . Vậy P ( B ) =
+c) Có 3 kết quả thuận lợi cho biến cố C là (1, 4);(4,1);(5, 2) . Vậy P ( C ) =
+
+7
+.
+20
+
+3
+.
+20
+
+Câu 8. Một tấm bìa hình tròn được chia làm bốn phần có diện tích bằng nhau; ghi các số 1,2,3,4 và được
+gắn vào trục quay có mũi tên cố định ở tâm. Bạn Nam quay tấm bia, bạn Bình gieo một con xúc xắc cân
+đối. Giả sử mũi tên dừng ở hình quạt ghi số m và số chấm xuất hiện trên con xúc xắc là n . Tính xác suất
+của các biến cố sau:
+a) E : “Trong hai số m và n , chỉ có một số nguyên tố”;
+
+b) F: “Tổng của hai số m và n lớn hơn 6”.
+Lời giải
+Nam
+1
+
+Bình
+
+2
+3
+4
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+
+Có 24 kết quả có thể là đồng khả năng n ( Ω ) =24 .
+a) Có 12 kết quả thuận lợi cho biến cố E là (1, 2);(1,3);(1,5);(2,1);(2, 4) ; (2, 6);(3,1);(3, 4);(3, 6);(4, 2);
+12 1
+(4,3); (4,5) . Vậy P ( E=
+) = .
+24 2
+b) Có 10 kết quả thuận lợi cho biến cố F là (1, 6);(2,5);(2, 6);(3, 4);(3,5) ; (3, 6);(4,3);(4, 4);(4,5);(4, 6) .
+Vậy P ( F=
+)
+
+10 5
+.
+=
+24 12
+
+Câu 9. Có ba chiếc hộp. Hộp A chứa 2 tấm thẻ ghi các số 1,2 . Hộp B chứa 3 tấm thẻ ghi các số 1,2,3.
+Hộp C chứa 4 quả cầu ghi các số 1,2,3,4. Bạn Lan rút ngẫu nhiên đồng thời một tấm thẻ từ mỗi hộp A và
+B . Bạn Linh lấy ngẫu nhiên một quả cầu từ hộp C . Tính xác suất của các biến cố sau:
+a) E : “Ba số ghi trên hai tấm thẻ và quả cầu là khác nhau”;
+b) F : “Tổng ba số ghi trên hai tấm thẻ và quả cầu bằng 5”.
+Lời giải
+Kết quả có thể khi bạn Lan rút ngẫu nhiên một tấm thẻ từ mỗi hộp A và B:
+A
+
+B
+1
+2
+
+1
+
+2
+
+3
+
+(1;1)
+( 2;1)
+
+(1; 2 )
+( 2; 2 )
+
+(1;3)
+( 2;3)
+
+Kết quả có thể của phép thử:
+Linh
+1
+
+Lan
+
+2
+3
+4
+
+(1;1)
+
+(1; 2 )
+
+(1;3)
+
+( 2;1)
+
+( 2; 2 )
+
+( 2;3)
+
+(1;1;1)
+(1;1; 2 )
+(1;1;3)
+(1;1; 4 )
+
+(1; 2;1)
+(1; 2; 2 )
+(1; 2;3)
+(1; 2; 4 )
+
+(1;3;1)
+(1;3; 2 )
+(1;3;3)
+(1;3; 4 )
+
+( 2;1;1)
+( 2;1; 2 )
+( 2;1;3)
+( 2;1; 4 )
+
+( 2; 2;1)
+( 2; 2; 2 )
+( 2; 2;3)
+( 2; 2; 4 )
+
+( 2;3;1)
+( 2;3; 2 )
+( 2;3;3)
+( 2;3; 4 )
+
+Có 24 kết quả có thể là đồng khả năng n ( Ω ) =24 .
+a) Có 8 kết quả thuận lợi cho biến cố E là (2,3,1);(1,3, 2);(1, 2,3);(2,1,3) ; (1, 2, 4);(1,3, 4);(2,1, 4);(2,3, 4) .
+Vậy P ( E=
+)
+
+8 1
+.
+=
+24 3
+
+b) Có 5 kết quả thuận lợi cho biến cố F là (1,3,1);(2, 2,1);(1, 2, 2);(2,1, 2) ; (1,1,3) . Vậy P ( F ) =
+
+5
+.
+24
+
+Câu 10. Bác Mạnh rút ngẫu nhiên 1 lá bài từ bộ bài tây 52 lá. Tính xác suất của mỗi biến cố sau:
+A: "Bác Mạnh rút được lá bài Át";
+B: "Bác Mạnh rút được lá bài chất cơ".
+Lời giải
+Do bộ bài có 52 lá nên số các kết quả có thể xảy ra là n(Ω) =52 . Do các lá bài giống nhau nên các kết
+quả của phép thử có cùng khả năng xảy ra.
+a) Do có 4 lá Át trong bộ bài nên số kết quả thuận lợi cho biến cố A là n( A) = 4 .
+
+=
+Xác suất của biến cố A là P(A)
+
+4
+1
+=
+.
+52 13
+
+b) Do có 13 lá bài chất cơ trong bộ bài nên số các kết quả thuận lợi cho biến cố B là n( B ) = 13 .
+
+)
+Xác suất của biến cố B là P ( B=
+
+13
+= 0, 25 .
+52
+
+Câu 11. Bạn Khuê viết ngẫu nhiên một số tự nhiên chẵn có 4 chữ số lên bảng.
+a) Có tất cả bao nhiểu kết quả có thể xảy ra của phép thử trên?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Số được viết có 4 chữ số giống nhau";
+B: "Số được viết lớn hơn hoặc bằng 5000".
+Lời giải
+a) Số các số tự nhiên chẵn có 4 chũ số là (9998 − 1000) : 2 + 1 =4500 .
+Do đó số kết quả có thể xảy ra của phép thử trên là n(Ω) =4500 .
+b) Số các số chẵn có 4 chữ số giống nhau là 4 .
+Số kết quả thuận lợi cho biến cố A là n(A) = 4 .
+
+=
+Xác suất của biến cố A là P(A)
+
+4
+1
+=
+.
+4500 1125
+
+Số các số chẵn có 4 chữ số và lớn hơn hoặc bằng 5000 là (9998 − 5000) : 2 + 1 =2500.
+Số kết quả thuận lợi cho biến cố B là n( B ) = 2500 .
+
+=
+Xác suất của biến cố B là P(B)
+
+2500 5
+=
+.
+4500 9
+
+Câu 12. Cô giáo thống kê điểm kiểm tra môn Tin học của các học sinh lớp 9A ở bảng sau:
+
+Điểm số
+
+7
+
+8
+
+9
+
+10
+
+Tần số tương đối
+
+20%
+
+40%
+
+30%
+
+10%
+
+Chọn ngẫu nhiên 1 học sinh lớp 9 A . Biết rằng có 4 học sinh lớp 9 A được 10 điểm.
+a) Xác đạnh số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của biến cố A : "Học sinh được chọn đạt trên 8 điểm".
+Lời giải
+a) Số học sinh của lớp 9 A là (4 :10).100 = 40 (học sinh). Số kết quả có thể xảy ra là n(Ω) =40 .
+
+16 (học sinh).
+b) Số học sinh đạt trên 8 điểm là (40 :100) ⋅ (30 + 10) =
+Số kết quả thuận lợi cho biến cố A là n(A) = 16 .
+
+=
+Xác suất của biến cố A là P(A)
+
+16
+= 0, 4 .
+40
+
+Câu 13. Ở một trường Trung học cơ sở, tỉ lệ học sinh khối 6, 7,8,9 lần lượt là 28% , 25%, 25% và 22% .
+Chọn ngẫu nhiên 1 học sinh của trường. Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn thuộc khối 6";
+B: "Học sinh được chọn thuộc khối 7".
+Lời giải
+Gọi N là tổng số học sinh của trường.
+Số học sinh khối 6 của trường là 0, 28 N . Số học sinh khối 7 của trường là 0, 25 N .
+Khi thực hiện phép thử chọn ngẫu nhiên 1 học sinh của trường, số kết quả có thể xảy ra là n(Ω) =N .
+Số kết quả thuận lợi cho biến cố A là n(A) = 0, 28 N .
+
+P(A)
+Xác suất của biến cố A là=
+
+0, 28 N
+= 0, 28 .
+N
+
+Số kết quả thuận lợi cho biến cố B là n(B) = 0, 25 N .
+
+P(B)
+Xác suất của biến cố B là=
+
+0, 25 N
+= 0, 25 .
+N
+
+Câu 14. Bảng sau ghi lại điểm thi môn Tiếng Anh của 10 học sinh Tổ 1 .
+8
+
+7
+
+9
+
+5
+
+10
+
+8
+
+7
+
+9
+
+Chọn ngẫu nhiên một học sinh của Tổ 1 . Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn được 9 điểm";
+B: "Học sinh được chọn được trên 7 điểm".
+Lời giải
+
+9
+
+8
+
+Số kết quả có thể xảy ra là n(Ω) =10 .
+Có 3 học sinh được điểm 9 nên số kết quả thuận lợi cho biến cố A là n(A) = 3 .
+
+=
+Xác suất của biến cố A là P(A)
+
+3
+= 0,3 .
+10
+
+Có 7 học sinh được trên 7 điểm nên số các kết quả thuận lợi cho biến cố B là n(B) = 7 .
+
+=
+Xác suất của biến cố B là P(B)
+
+7
+= 0, 7 .
+10
+
+Câu 15. Kết quả kiểm tra tình trạng cân nặng của các bạn học sinh lớp 9 B được thống kê lại ở bảng sau:
+Tình trạng cân
+nặng
+
+Thiếu cân
+
+Bình thường
+
+Thừa cân
+
+Nam
+
+1
+
+12
+
+3
+
+Nữ
+
+4
+
+15
+
+1
+
+Giới tính
+
+Chọn ngẫu nhiên 1 học sinh của lớp 9B. Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn là học sinh nữ và có cân nặng bình thường";
+B: "Học sinh được chọn bị thừa cân";
+C: "Học sinh được chọn là học sinh nam".
+Lời giải
+Tổng số học sinh là 1 + 12 + 3 + 4 + 15 + 1 =
+36 (học sinh).
+Số các kết quả có thể xảy ra là n(Ω) =36 .
+Số học sinh nữ có cân nặng bình thường là 15 nên số kết quả thuận lợi cho biến cố A là n(A) = 15 .
+
+=
+Xác suất của biến cố A là P(A)
+
+15 5
+=
+.
+36 12
+
+Số học sinh bị thừa cân là 3 + 1 =4 (học sinh). Số kết quả thuận lợi cho biến cố B là n( B) = 4 .
+
+=
+Xác suất của biến cố B là P(B)
+
+4 1
+=
+.
+36 9
+
+Số học sinh nam là 1 + 12 + 3 =
+16 (học sinh).
+Số kết quả thuận lợi cho biến cố C là n(C) = 16 .
+
+=
+Xác suất của biến cố C là P(C)
+
+16 4
+=
+.
+36 9
+
+Câu 16. Bạn Bách có 10 tấm thẻ cùng loại được đánh số lần lượt từ 1 đến 10 . Bách chọn ngẫu nhiên một
+
+0 (*)
+tấm thè, xem số trên thẻ và thay số đó vào vị trí của dấu ? trong phương trình sau: x 2 + 4 x + ? =
+
+Tính xác suất của biến cố A: "Phương trình (*) có nghiệm".
+Lời giải
+Số kết quả có thể xảy ra là n(Ω) =10 . Do các thẻ cùng loại nên các kết quả có cùng khả năng xảy ra.
+Gọi số được viết vào vị trí dấu ? là m. Phương trình (*) có nghiệm khi ∆= 42 − 4 m ≥ 0 hay m ≤ 4 .
+Do đó khi thay dấu ? bằng các giá trị từ 1 đến 10 ta thấy chỉ có các giá trị 1,2 , 3,4 làm cho phương trình
+(*)
+có nghiệm.
+
+=
+Vậy số kết quả thuận lợi cho biến cố A là n(A) = 4 . Xác suất của biến cố A là P(A)
+
+4
+= 0, 4 .
+10
+
+Câu 17. Bác Dũng có một cái khoá số như hình bên. Bác Dũng chọn ngẫu nhiên một dãy gồm 4 chữ số
+để đặt làm mã số mở khoá. Tính xác suất của các biến cố:
+A: "4 chữ số được chọn giống nhau";
+B: "4 chữ số được chọn lập thành một số có 4 chữ số";
+C: "4 chữ số được chọn có tồng bằng 35 ".
+
+Lời giải
+Dãy số dùng để đặt mã số là các số từ 0000 đến 9999 . Số kết quả có thể xảy ra là n(Ω) =10000 kết quả.
+Các kết quả thuận lợi cho biến cố A là 0000,1111, …,9999 . Số kết quả thuận lợi cho biến cố A là
+
+n(A) = 10 .
+P(A)
+Xác suất của biến cố A là =
+
+10
+= 0, 001 .
+10000
+
+Các kết quả thuận lợi cho biến cố B là 1000,1001, …,9999 .
+Số kết quả thuận lợi cho biến cố B là n(B) = 9000 .
+
+P(B)
+Xác suất của biến cố B là =
+
+9000
+= 0,9 .
+10000
+
+Tổng của 4 chữ số bằng 35 khi trong 4 chữ số đó có 3 chữ số 9 và 1 chữ số 8 .
+Các kết quả thuận lợi cho biến cố C là 8999, 9899, 9989, 9998.
+
+P(C)
+Số kết quả thuận lợi cho biến cố C là n(C) = 4 . Xác suất của biến cố C là =
+
+4
+= 0, 0004 .
+10000
+
+LUYỆN TẬP CHUNG
+PHẦN 1. GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. Ví dụ
+Ví dụ. Tấm bìa cứng A hình tròn được chia thành 3 hình quạt có diện tích bằng nhau, đánh số 1 ; 2 ; 3 và
+tấm bìa cứng B hình tròn được chia thành 5 hình quạt có diện tích bằng nhau, đánh số 1; 2;3; 4;5(H.8.3) .
+Trục quay của A và B được gắn mũi tên ở tâm. Bạn Nam quay tấm bìa A , bạn Bình quay tấm bìa B .
+Quan sát xem mũi tên dừng ở hình quạt nào trên hai tấm bìa.
+
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+c) Tính xác suất của các biến cố sau:
+E: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào bằng 6”;
+F: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào nhỏ hơn 5”;
+G: “Tích hai số ở hình quạt mà hai mũi tên chỉ vào là số chẵn”.
+Lời giải
+a) Phép thử là bạn Nam quay tấm bìa A , bạn Bình quay tấm bìa B .
+b) Ta lập bảng sau:
+Tấm bìa A
+
+Tấm bìa B
+1
+2
+3
+4
+
+1
+
+2
+
+3
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+
+5
+Mỗi ô trong bảng trên là một kết quả có thể. Các kết quả có thể này là đồng khả năng. Không gian mẫu là
+Ω ={(1,1);(1, 2);(1,3);(2,1);(2, 2);(2,3);(3,1);(3, 2);(3,3);(4,1);(4, 2);(4,3);(5,1);(5, 2);(5,3)} .
+Không gian mẫu có 15 phần tử.
+c) Có 2 kết quả thuận lợi cho biến cố E là (3, 2) và (2,3) . Vậy P ( E ) =
+
+2
+.
+15
+
+- Các kết quả thuận lợi cho biến cố F : Có một ô có tích hai số bằng 1 là (1,1) ; các ô có tích hai số bằng
+2 là (1, 2) ; (2,1) ; các ô có tích hai số bằng 3 là (1,3) ; (3,1) ; các ô có tích hai số bằng 4 là (2, 2);(4,1) . Do
+7
+đó, có 7 kết quả thuận lợi cho biến cố F là (1,1);(1, 2);(2,1);(1,3);(3,1);(2, 2);(4,1) . Vậy P ( F ) = .
+15
+- Tích ab là số chẵn khi và chỉ khi trong cặp ( a, b ) có ít nhất một số chẵn.
+Do đó, có 9 kết quả thuận lợi cho biến cố G là (1, 2);(2,1);(2, 2);(2,3);(3, 2);(4,1) ; (4, 2);(4,3);(5, 2)
+Vậy P ( G=
+)
+
+9 3
+=
+.
+15 5
+
+B. BÀI TẬP
+8.9. Có hai túi đựng các tấm thẻ. Túi I đựng 4 tấm thẻ ghi các chữ cái TT, TH, HT và HH. Túi Il đựng 2
+tấm thẻ ghi các chữ cái T và H . Từ mỗi túi rút ngẫu nhiên ra một tấm thẻ rồi ghép hai thẻ lại với nhau
+đẻ̉ được ba chữ cái, trong đó thẻ hai chữ cái đặt trước, chẳng hạn tấm thẻ TT ghép với tấm thẻ H được ba
+chữ cái TTH.
+
+Tính xác suất của các biến cố sau:
+a) E: “Trong ba chữ cái, có hai chữ H và một chữ T”;
+b) F: “Trong ba chữ cái, có nhiều nhất hai chữ T”.
+Lời giải
+Phép thử là rút ngẫu nhiên từ mỗi túi một tấm thẻ rồi ghép hai thẻ lại với nhau để được ba chữ cái, trong
+đó thẻ hai chữ cái đặt trước. Kết quả của phép thử là abc với ab là hai chữ cái từ túi I và c là chữ cái từ túi
+II.
+Ta liệt kê tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Túi I
+
+Túi II
+
+T
+
+H
+
+TT
+TTT
+TTH
+TH
+THT
+THH
+HT
+HTT
+HTH
+HH
+HHT
+HHH
+Mỗi ô trong bảng trên là một kết quả có thể. Các kết quả có thể này là đồng khả năng. Không gian mẫu là
+
+Ω ={TTT ; TTH ; THT ; THH ; HTT ; HTH ; HHT ; HHH } . Không gian mẫu có 8 phần tử.
+3
+a) Có 3 kết quả thuận lợi cho biến cố E là THH ; HTH ; HHT . Vậy P ( E ) = .
+8
+b) Có 7 kết quả thuận lợi cho biến cố F là THH ; TTH ; THT ; HTT ; HTH ; HHT ; HHH . Vậy P ( F ) =
+8.10. Gieo đồng thời hai con xúc xắc cân đối và đồng chất I và II. Tính xác suất của các biến cố sau:
+G: “Không có con xúc xắc nào xuất hiện mặt 6 chấm”;
+
+7
+8
+
+H: “Số chấm xuất hiện trên con xúc xắc I là số lẻ và số chấm xuất hiện trên con xúc xắc II Iớn hơn 4”;
+K: “Số chấm xuất hiện trên cả hai con xúc xắc lớn hơn 2”.
+Lời giải
+Phép thử là gieo đồng thời hai con xúc xắc cân đối và đồng chất I và II. Kết quả của phép thử là ( a, b ) ,
+trong đó a và b tương ứng là số chấm xuất hiện trên con xúc xắc I và con xúc xắc II.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Xúc xắc II
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+Xúc xắc I
+1
+2
+3
+4
+5
+
+6
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 36 ô của bảng trên. Do đó, không gian mẫu của
+=
+phép thử là Ω {(1,1);(1, 2);(1,3);…;(5, 6);(6, 6)} . Tập Ω có 36 phần tử.
+Vì gieo đồng thời hai con xúc xắc cân đối, đồng chất nên các kết quả có thể xảy ra là đồng khả năng.
+- Có 25 kết quả thuận lợi của biến cố G là: (1, 1); (1, 2); (1,3) ; (1, 4) ; (1,5) ; (2,1) ;
+(2, 2);(2,3);(2, 4);(2,5);(3,1);(3, 2);(3,3);(3, 4);(3,5);(4,1);(4, 2);(4,3);(4, 4); (4,5) ; (5,1) ; (5, 2) ; (5,3) ;
+25
+.
+(5, 4) ; (5,5) . Do đó, P ( G ) =
+36
+- Có 6 kết quả thuận lợi của biến cố H là: (1,5);(1, 6);(3,5);(3, 6);(5,5);(5, 6) . Do đó P ( H=
+)
+
+6 1
+=
+.
+36 6
+
+- Có 16 kết quả thuận lợi của biến cố K là: (3,3);(3, 4);(3,5);(3, 6);(4,3);(4, 4);(4,5);(4, 6);(5,3);(5, 4) ;
+16 4
+(5,5);(5, 6);(6,3);(6, 4);(6,5);(6, 6) . Do đó, P ( K=
+) = .
+36 9
+8.11. Trên một dãy phố có ba quán ăn A, B, C . Hai bạn Văn và Hải mỗi người chọn ngẫu nhiên một quán
+ăn để ăn trưa.
+a) Mô tả không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+E: “Hai bạn cùng vào một quán”;
+F: “Cả hai bạn không chọn quán C”;
+G: “Có ít nhất một bạn chọn quán B”.
+Lời giải
+
+a) Phép thử là hai bạn Văn và Hải mỗi người chọn ngẫu nhiên một quán ăn trong ba quán ăn A, B, C để
+ăn trưa. Kết quả của phép thử là ( a, b ) , trong đó a và b tương ứng là quán ăn mà bạn Văn và Hải lựa
+chọn. Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Hải
+
+Văn
+
+A
+B
+
+A
+
+B
+
+C
+
+( A; A)
+( B; A)
+( C; A)
+
+( A; B )
+( B; B )
+( C; B )
+
+( A; C )
+( B; C )
+( C; C )
+
+C
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 9 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω ={( A, A);( A, B);( A, C );( B, A);( B, B);( B, C );(C , A);(C , B);(C , C )} . Tập Ω có 9 phần tử.
+b) Vì hai bạn Văn và Hải mỗi người chọn ngẫu nhiên một quán ăn để ăn trưa nên các kết quả có thể của
+phép thử là đồng khả năng.
+- Có 3 kết quả thuận lợi của biến cố E là: ( A, A);( B, B);(C , C ) . Do đó, P ( E )=
+
+3 1
+=
+9 3
+
+- Có 4 kết quả thuận lợi của biến cố F là: ( A, A) ; ( A, B );( B, A) ; ( B, B ) . Do đó, P ( F ) =
+
+4
+.
+9
+
+- Có 5 kết quả thuận lợi của biến cố G là: ( A, B ) ; ( B, A) ; ( B, B ) ; ( B, C ) ; (C , B) . Do đó, P ( G ) =
+
+5
+9
+
+PHẦN 2. BÀI TẬP THÊM
+Bài 1. Bạn Tùng gieo một con xúc xắc và bạn Sơn gieo một đồng xu liên tiếp hai lần.
+a) Phép thử là gì?
+b) Mô tả không gian mẫu của phép thử.
+Lời giải
+a) Phép thử ngẫu nhiên là gieo một con xúc xắc và gieo một đồng xu liên tiếp hai lần.
+b) Kết quả có thể của gieo một con xúc xắc là số chấm xuất hiện trên con xúc xắc: 1,2,3,4,5,6 chấm. Kết
+quả có thể của gieo một đồng xu liên tiếp hai lần là SS, SN, NS, NN (mặt sấp (S), mặt ngửa (N)). Ta lập
+bảng sau:
+Gieo đồng xu
+hai lần
+
+SS
+
+SN
+
+NS
+
+NN
+
+Gieo xúc sắc
+
+1SN
+1NS
+1SS
+1
+2SS
+2SN
+2NS
+2
+3SS
+3SN
+3NS
+3
+4SS
+4SN
+4NS
+4
+5SS
+5SN
+5NS
+5
+6SS
+6SN
+6NS
+6
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 24 ô của bảng trên.
+=
+Vậy Ω {1SS ; 2 SS ;3SS ;…;5 NN ;6 NN }
+
+1NN
+2NN
+3NN
+4NN
+5NN
+6NN
+
+Bài 2. Tổ 1 gồm 4 học sinh là Trung, Hậu, Đảm, Đang. Trong các hoạt động sau, hoạt động nào là phép
+thử ngẫu nhiên?
+a) Chọn ra đồng thời 4 học sinh từ Tổ 1 .
+b) Chọn ra 1 học sinh có tên bắt đầu bằng chữ cái T từ Tổ 1 .
+c) Chọn ra 1 học sinh có tên bắt đầu bằng chữ cái Đ từ Tổ 1 .
+Lời giải
+Hoạt động a) và b) không là phép thử ngẫu nhiên vì mỗi hoạt động chỉ có một kết quả có thể xảy ra.
+Hoạt động c) có hai kết quả có thể xảy ra là chọn được bạn Đảm hoặc bạn Đang nên ta không thể biết
+trước được kết quả của nó. Vì vậy hoạt động c) là phép thử ngẫu nhiên.
+Bài 3. Một hộp chứa 1 quả bóng màu xanh và 4 quả bóng màu đỏ.
+a) Hãy xác định không gian mẫu của phép thử chọn ngẫu nhiên 1 quả bóng từ hộp.
+b) Liệt kê các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 quả bóng từ hộp.
+Lời giải
+Kí hiệu X là quả bóng màu xanh và Ð1,Ð2,Ð3,Ð4 là 4 quả bóng màu đỏ.
+a) Không gian mẫu của phép thử chọn ngẫu nhiên 1 quả bóng từ hộp là Ω ={X; Ð1; Ð2; Ð3; Ð4}.
+b) Kí hiệu {x; y} là kết quả lấy được hai quả bóng x và y .
+Các phần tử của không gian mẫu của phép thử chọn ngẫu nhiên đồng thời 2 quả bóng từ hộp là
+
+{X; Ð1};{X; Ð2};{X; Ð3};{X; Ð4};{Ð1; Ð2};{Ð1;3};{Ð1; Ð4}; {Ð2; Ð3};{Ð2; Ð4};{Ð3; Ð4}.
+Bài 4. Đội bóng bàn lớp 9 C gồm 2 bạn nam là Long và Hoàng, 2 bạn nữ là Hà và Thanh. Huấn luyện
+viên chọn ra ngẫu nhiên một đôi nam nữ từ đội bóng để đi thi đấu.
+a) Liệt kê các cách chọn ngẫu nhiên một đôi nam nữ.
+b) Liệt kê các kết quả thuận lợi cho biến cố A : "Có ít nhất một trong hai bạn Hoàng và Thanh được
+chọn".
+Lời giải
+a) Các cách chọn ngẫu nhiên một đôi nam nữ là: Long và Hà; Long và Thanh; Hoàng và Hà; Hoàng và
+Thanh.
+b) Các kết quả thuận lợi cho biến cố A là: Long và Thanh; Hoàng và Hà; Hoàng và Thanh.
+Bài 5. Một hộp chứa 3 tấm thẻ cùng loại được đánh số lần lượt là 6;7;8 . Bạn Việt lấy lần lượt 3 tấm thẻ
+từ hộp một cách ngẫu nhiên. Tấm thẻ lấy ra không được trả lại hộp.
+a) Xác định không gian mẫu của phép thử. Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Liệt kê các kết quả thuận lợi cho biến cố A: "Tấm thẻ đánh số 8 được lấy cuối cùng". Có bao nhiêu kết
+quả thuận lợi cho biến cố A ?
+
+Lời giải
+a) Kí hiệu (x; y; z) là kết quả bạn Việt lần lượt lấy được tấm thẻ đánh số x, y và z .
+Không gian mẫu của phép thử là Ω ={(6;7;8);(6;8;7);(7;6;8);(7;8;6);(8;6;7);(8;7;6)}.
+Không gian mẫu của phép thử có 6 phần tử.
+b) Các kết quả thuận lợi cho biến cố A là (6;7;8) và (7;6;8) . Có 2 kết quả thuận lợi cho biến cố A .
+Bài 6. Bạn Hoà gieo một con xúc xắc cân đối và bạn Sơn gieo một đồng xu liên tiếp hai lần. Tính xác suất
+của các biến cố sau:
+a) A : “Số chấm xuất hiện trên con xúc xắc là 6 và hai lần đồng xu xuá́ t hiện mặt ngửa”;
+b) B : “Số chấm xuất hiện trên con xúc xắc là 1 hoặc 2 và một lần đồng xu xuất hiện mặt sấp, một lần
+đồng xu xuất hiện mặt ngửa”.
+Lời giải
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Sơn
+SS
+SN
+NS
+Hòa
+1
+1SN
+1NS
+1SS
+2
+2SS
+2SN
+2NS
+3
+3SS
+3SN
+3NS
+4
+4SS
+4SN
+4NS
+5
+5SS
+5SN
+5NS
+6
+6SS
+6SN
+6NS
+Mỗi ô trong bảng là một kết quả có thể. Có 24 kết quả có thể là đồng khả năng.
+a) Có 1 kết quả thuận lợi cho biến cố A là 6NN . Vậy P ( A ) =
+
+NN
+1NN
+2NN
+3NN
+4NN
+5NN
+6NN
+
+1
+.
+24
+
+b) Có 4 kết quả thuận lợi cho biến cố B là 1SN ,1NS , 2 SN , 2 NS . Vậy P ( B=
+)
+
+4 1
+.
+=
+24 6
+
+Bài 7. Bạn An gieo một đồng xu. Bạn Tùng rút ngẫu nhiên một tấm thẻ từ một hộp chứa 5 tấm thẻ có ghi
+chữ a, b, c, d , e . Tính xác suất của các biến cố sau:
+a) E: “Đồng xu xuất hiện mặt sấp và không rút được tấm thẻ ghi chữ a hoặc b”;
+b) F: “Đồng xu xuất hiện mặt ngửa hoặc rút được tấm thẻ ghi chữ b”.
+Lời giải
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+
+a
+
+b
+
+c
+
+d
+
+Tùng
+An
+S
+Sa
+Sb
+Sc
+Sd
+N
+Nc
+Nd
+Na
+Nb
+Mỗi ô trong bảng là một kết quả có thể. Có 10 kết quả có thể là đồng khả năng.
+
+e
+Se
+Ne
+
+a) Có 3 kết quả thuận lợi cho biến cố E là Sc, Sd , Se . Vậy P ( E ) =
+
+3
+.
+10
+
+b) Có 6 kết quả thuận lợi cho biến cố F là Na, Nb, Nc, Nd , Ne, Sb . Vậy P ( F=
+)
+
+6 3
+.
+=
+10 5
+
+Bài 8. Trên bàn có một tấm bìa hình tròn được chia thành 10 hình quạt bằng nhau và được đánh số từ 1
+đến 10 như Hình 1. Thanh quay mũi tên ở tâm và quan sát xem khi dừng lại mũi tên chỉ vào ô số mấy.
+
+a) Các kết quả của phép thử có đồng khả năng không? Tại sao?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Mũi tên chỉ vào ô ghi số chia hết cho 3";
+B: "Mũi tên chỉ vào ô ghi số lớn hơn 6".
+Lời giải
+a) Các kết quả của phép thử là đồng khả năng vì các hình quạt tròn có kích thước bằng nhau.
+b) Không gian mẫu của phép thử là Ω ={1; 2;3; 4;5;6;7;8;9;10} .
+Số kết quả có thể xảy ra là n(Ω) =10 .
+Vì các kết quả thuận lợi cho biến cố A là 3;6;9 nên n(A) = 3 .
+Xác suất của biến cố A là P(A)
+=
+
+n(A) 3
+= = 0,3 .
+n(Ω) 10
+
+Vì các kết quả thuận lợi cho biến cố B là 7;8;9;10 nên n( B) = 4 .
+=
+Xác suất của biến cố B là P(B)
+
+n(B) 4
+= = 0, 4 .
+n(Ω) 10
+
+Bài 9. Trong tủ lạnh nhà bạn Minh có 6 hộp thịt gà, 4 hộp thịt heo và 10 hộp thịt bò. Các hộp này có kích
+thước và khối lượng bằng nhau. Vì tinh nghịch nên bạn Minh đã xé hết nhãn ghi trên các hộp. Mẹ Minh
+chọn ngẫu nhiên
+1 trong các hộp thịt trên.
+a) Các kết quả của phép thử có đồng khả năng không? Tại sao?
+b) Tính xác suất của mỗi biến cố sau:
+
+A: "Hộp được chọn là hộp thịt gà";
+B: "Hộp được chọn không phải là hộp thịt heo".
+Lời giải
+a) Do các hộp thịt có cùng kích thước và khối lượng nên chúng có cùng khả năng được chọn. Các kết quả
+của phép
+thử là đồng khả năng.
+b) Số kết quả có thể xảy ra là n(Ω) = 6 + 4 + 10 = 20 .
+Vì có 6 hộp thịt gà nên số kết quả thuận lợi cho biến cố A là n(A) = 6 .
+=
+Xác suất của biến cố A là P(A)
+
+n(A) 6
+= = 0,3 . Số hộp thịt không phải là hộp thịt heo là 6 + 10 =
+16 .
+n(Ω) 20
+
+Vậy số kết quả thuận lợi cho biến cố B là n(B) = 16 .
+Xác suất của biến cố B là P( B=
+)
+
+n( B ) 16
+= = 0,8 .
+n(Ω) 20
+
+Bài 10. Một phân xưởng cơ khí có 40 công nhân. Tỉ lệ số công nhân là thợ bậc 6;7;8 lần lượt là
+
+50%,30% và 20% . Chọn ngẫu nhiên 1 công nhân của phân xưởng.
+a) Xác định số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của mỗi biến cố sau:
+A: "Công nhân được chọn là thợ bậc 8";
+B: "Công nhân được chọn không phải là thợ bậc 6".
+Lời giải
+a) Số kết quả có thể xảy ra là n(Ω) =40 .
+b) Số công nhân là thợ bậc 8 của phân xưởng là (40 :100).20 = 8 (công nhân).
+Số kết quả thuận lợi cho biến cố A là n(A) = 8 .
+Xác suất của biến cố A là P(A)
+=
+
+n(A) 8
+= = 0, 2 .
+n(Ω) 40
+
+20 (công nhân).
+Số công nhân không phải là thợ bậc 6 của phân xưởng là (40 :100) ⋅ (30 + 20) =
+Số kết quả thuận lợi cho biến cố B là n( B) = 20 .
+Xác suất của biến cố B là P(B)
+=
+
+n(B) 20
+= = 0,5 .
+n(Ω) 40
+
+Bài 11. Lớp bạn Vân có 20 học sinh nam và một số học sinh nữ. Chọn ngẫu nhiên 1 học sinh trong lớp.
+Biết rằng xác suất để bạn đó là học sinh nư là 0,375 . Hỏi lớp bạn Vân có tổng số bao nhiêu học sinh?
+Lời giải
+
+Gọi N là số học sinh nữ của lớp bạn Vân. Xét phép thử chọn ngẫu nhiên 1 học sinh trong lớp. Gọi A là
+biến cố "Học sinh được chọn là nữ".
+Số kết quả có thể xảy ra là n(Ω) = N + 20 .
+Số kết quả thuận lợi cho biến cố A là n(A) = N .
+Do đó xác suất xảy ra biến cố A là P(A) =
+Theo giả thiết, ta có P(A) = 0,375 nên
+
+N
+.
+N + 20
+
+N
+= 0,375 .
+N + 20
+
+Giải phương trình trên, ta được N = 12 .
+Vậy tổng số học sinh của lớp bạn Vân là 12 + 20 =
+32 (học sinh).
+Bài 12. Bảng sau ghi lại kết quả khám mắt của các bạn học sinh lớp 9H .
+Giới tính
+
+Tình trang mắt
+
+Không bị tật khúc xạ
+
+Nam
+
+12
+
+Bi tật khúc xạ
+
+Nữ
+
+14
+
+9
+
+Chọn ngẫu nhiên 1 học sinh lớp 9 H . Tính xác suất của mỗi biến cố sau:
+A: "Học sinh được chọn là học sinh nam và khộng bị tật khúc xạ";
+B : "Học sinh được chọn là học sinh nư";
+C: "Học sinh được chọn bị tật khúc xạ".
+Lời giải
+Số kết quả có thể xảy ra là n(Ω) = 12 + 9 + 14 + 5 = 40 .
+Số kết quả thuận lợi cho biến cố A là n(A) = 12 .
+=
+Xác suất của biến cố A là P(A)
+
+n(A) 12
+= = 0,3 .
+n(Ω) 40
+
+Số kết quả thuận lợi cho biến cố B là n(B) = 14 + 5 = 19 .
+Xác suất của biến cố B là P(B)
+=
+
+n(B) 19
+= = 0, 475 .
+n(Ω) 40
+
+Số kết quả thuận lợi cho biến cố C là n(C) = 9 + 5 = 14 .
+Xác suất của biến cố C là P(C=
+)
+
+n(C ) 14
+= = 0,35 .
+n(Ω) 40
+
+Bài 13. Bạn Minh có 5 tấm thẻ cùng loại được ghi số lần lượt từ 1 đến 5 . Minh chọn ngẫu nhiên 1 tấm
+thẻ, xem số trên thẻ và thay số đó vào vị trí của dấu ? trong phương trình sau: x 2 + 2 x + ? =
+0 (*)
+
+Tính xác suất của biến cố A : "Phương trình (*) có nghiệm".
+Lời giải
+Số kết quả có thể xảy ra là n(Ω) =5 . Do các thẻ cùng loại nên các kết quả có cùng khả năng xảy ra.
+Khi thay dấu ? bằng các giá trị 1; 2;3; 4;5 ta thấy chỉ có giá trị 1 làm cho phương trình (*) có nghiệm.
+Vậy số kết quả thuận lợi cho biến cố A là n(A) = 1 . Xác suất của biến cố A là P(A)=
+
+n(A) 1
+= = 0, 2 .
+n(Ω) 5
+
+BÀI TẬP CUỐI CHƯƠNG VIII
+PHẦN 1: GIẢI BÀI TẬP SÁCH GIÁO KHOA
+A. TRẮC NGHIỆM
+8.12. Gieo đồng thời hai con xúc xắc cân đối, đồng chất. Xác suất để “Tổng số chấm xuất hiện trên hai
+con xúc xắc lớn hơn hoặc bằng 10” là
+A.
+
+7
+.
+36
+
+B.
+
+2
+.
+9
+
+C.
+
+1
+.
+6
+
+D.
+
+5
+.
+36
+
+Lời giải
+Chọn C
+Phép thử là gieo đồng thời hai con xúc xắc cân đối và đồng chất. Kết quả của phép thử là (a, b) , trong đó
+a và b tương ứng là số chấm xuất hiện trên con xúc xắc thứ nhất và thứ hai.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Xúc xắc thứ hai
+
+Xúc xắc thứ nhất
+1
+2
+3
+4
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+6
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 36 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω {(1,1);(1, 2);(1,3);…;(5, 6);(6, 6)} . Tập Ω có 36 phần tử. Vì gieo đồng thời hai con xúc
+=
+xắc cân đối, đồng chất nên các kết quả có thể xảy ra là đồng khả năng.
+Có 6 kết quả thuận lợi của biến cố A : “Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn hoặc bằng
+6 1
+10” là: (4, 6) ; (5,5) ; (5, 6);(6, 4);(6,5);(6, 6) . Do đó, P ( A=
+) = .
+36 6
+8.13. Có hai túi I và II. Túi I chưa 4 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4. Túi II chứa 5 tấm thẻ, đánh số 1 ; 2 ; 3 ;
+4 ; 5. Rút ngẫu nhiên một tấm thẻ từ mỗi tứi I và II. Xác suất để cả hai tấm thẻ rút ra đểu ghi số chẵn là
+A.
+
+1
+.
+5
+
+B.
+
+3
+.
+20
+
+C.
+
+1
+.
+4
+
+D.
+
+4
+.
+21
+
+Lời giải
+Phép thử là rút ngẫu nhiên một tấm thẻ từ mỗi túi I và II. Kết quả của phép thử là ( a, b ) , trong đó a và b
+tương ứng là số ghi trên tấm thẻ rút từ túi I và túi II. Ta liệt kê được tất cả các kết quả có thể của phép thử
+bằng cách lập bảng như sau:
+
+Túi II
+1
+
+2
+
+3
+
+4
+
+5
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+
+Túi I
+1
+2
+3
+
+4
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 20 ô của bảng trên. Do đó, không gian mẫu của
+=
+phép thử là Ω {(1,1);(1, 2);(1,3);…;(4, 4);(4,5)} . Tập Ω Có 20 phần tử. Vì rút ngẫu nhiên một tấm thẻ
+từ mỗi túi I và II nên các kết quả có thể xảy ra ở trên là đồng khả năng.
+Có 4 kết quả thuận lợi của biến cố A : “Cả hai tấm thẻ rút ra đều ghi số chẵn” là: (2, 2);(2, 4);(4, 2);(4, 4) .
+4 1
+Do đó, P ( A=
+) = .
+20 5
+8.14. Một túi đựng 4 viên bi có cùng khối lượng và kích thước, được đánh số 1 ; 2 ; 3 ; 4. Lấy ngẩu nhiên
+hai viên bi từ trong túi. Xác suất để tích hai số ghi trên hai viên bi lớn hơn 3 là
+A.
+
+5
+.
+7
+
+B.
+
+2
+.
+3
+
+C.
+
+3
+.
+4
+
+D.
+
+5
+.
+6
+
+Lời giải
+Phép thử là lấy ngẫu nhiên hai viên bi từ trong túi. Kết quả của phép thử là ( a, b ) , trong đó a và b tương
+ứng là các số trên hai viên bi trong túi. Vì lấy đồng thời 2 viên bi nên a ≠ b .
+Do đó, không gian mẫu là: Ω ={(1, 2);(1,3);(1, 4);(2,3);(2, 4);(3, 4)} . Không gian mẫu Ω có 6 phần tử.
+Vì lấy ngẫu nhiên hai viên bi từ trong túi nên các kết quả có thể xảy ra ở trên là đồng khả năng.
+Có 4 kết quả thuận lợi của biến cố A : “Tích hai số ghi trên hai viên bi lớn hơn 3” là:
+4 2
+(1, 4);(2,3);(2, 4);(3, 4) . Do đó, P ( A=
+) = .
+6 3
+B. TỰ LUẬN
+8.15. Có hai túi I và II. Túi I chưa 3 tấm thẻ, đánh số 2 ; 3 ; 4. Túi II chửa 2 tấm thẻ, đánh số 5; 6. Từ mỗi
+túi I và II, rút ngẫu nhiên một tấm thẻ. Tính xác suất của các biến cố sau:
+A : “Hai số ghi trên hai tấm thẻ chênh nhau 2 đơn vị”;
+B: “Hai số ghi trên hai tấm thẻ chênh nhau lớn hơn 2 đơn vị”;
+C: “Tích hai số ghi trên hai tấm thẻ là một số chẵn”;
+D: “Tổng hai số ghi trên hai tấm thẻ là một số nguyên tố”.
+Lời giải
+Phép thử là rút ngẫu nhiên một thẻ từ mỗi túi I và II. Kết quả của phép thử là một cặp số ( a, b ) , trong đó
+a và b tương ứng là số ghi trên tấm thẻ được lấy từ túi I và túi II.
+
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+
+Túi II
+
+5
+
+6
+
+( 2;5)
+( 3;5)
+( 4;5)
+
+( 2;6 )
+( 3;6 )
+( 4;6 )
+
+Túi I
+2
+3
+4
+
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 6 ô của bảng trên. Do đó, không gian mẫu của
+phép thử là Ω ={(2,5);(2, 6);(3,5);(3, 6);(4,5);(4, 6)} . Tập Ω có 6 phần tử.
+Vì rút ngẫu nhiên một tấm thẻ từ mỗi túi I và II nên các kết quả có thể xảy ra ở trên là đồng khả năng.
+- Có 2 kết quả thuận lợi của biến cố A là: (3,5) ; (4, 6) . Do đó, P ( A=
+)
+
+2 1
+=
+.
+6 3
+
+- Có 3 kết quả thuận lợi của biến cố B là: (2,5) ; (2, 6) ; (3, 6) . Do đó, P ( B =
+)
+
+3 1
+=
+.
+6 2
+
+- Có 5 kết quả thuận lợi của biến cố C là: (2,5) ; (2, 6) ; (3, 6);(4,5);(4, 6) . Do đó, P ( C ) =
+- Có 1 kết quả thuận lợi của biến cố D là: (2,5) . Do đó, P ( D ) =
+
+5
+.
+6
+
+1
+.
+6
+
+8.16. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất của các biến cố sau:
+E: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 11”;
+F: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 8 hoặc 9”;
+G: “Tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn 6”.
+Lời giải
+Phép thử là gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Kết quả của phép thử là ( a, b ) ,
+trong đó a và b tương ứng là số chấm xuất hiện trên con xúc xắc I và con xúc xắc II.
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Xúc xắc II
+
+Xúc xắc I
+1
+2
+3
+4
+5
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 36 ô của bảng trên. Do đó, không gian mẫu của
+=
+phép thử là Ω {(1,1);(1, 2);(1,3);…;(6,5);(6, 6)} . Tập Ω có 36 phần tử.
+
+Vi gieo đồng thời hai con xúc xắc cân đối, đồng chất nên các kết quả có thể xảy ra là đồng khả năng.
+- Có 2 kết quả thuận lợi của biến cố E là: (5, 6) ; (6,5) . Do đó, P ( E=
+)
+
+2
+1
+=
+.
+36 18
+
+- Có 9 kết quả thuận lợi của biến cố F là: (2, 6); (3,5) ; (3, 6) ; (4, 4);(4,5);(5,3);(5 , 4); (6, 2) ; (6,3) .
+
+9 1
+=
+.
+36 4
+
+Do đó, P ( F=
+)
+
+- Có 10 kết quả thuận lợi của biến cố G là: (1,1) ; (1, 2) ; (1,3) ; (1, 4) ; (2,1) ; (2, 2) ; (2,3);(3,1);(3, 2);(4,1)
+.
+Do đó, P ( G=
+)
+
+10 5
+=
+.
+36 18
+
+8.17. Hai bạn Minh và Huy chơi một trò chơi như sau: Minh chọn ngẫu nhiên một số trong tập hợp
+{5;6;7;8;9;10} . Huy chọn ngẫu nhiên một số trong tập hợp {4;5;7;8;9;11} . Bạn nào chọn được số lớn
+hơn sẽ là người thắng cuộc. Nếu hai số chọn được bằng nhau thì kết quả là hoà. Tính xác suất của các
+biến cố sau:
+a) A: “Bạn Minh thắng”;
+b) B: “Bạn Huy thắng”.
+Lời giải
+Phép thử là Minh chọn ngã̃u nhiên một số trong tập hợp {5;6;7;8;9;10} ; Huy chọn ngẫu nhiên một số
+trong tập hợp {4;5;7;8;9;11} . Kết quả của phép thử là một cặp số ( a, b ) , trong đó a và b tương ứng là
+số Minh và Huy chọn. Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng như sau:
+Huy
+Minh
+5
+6
+7
+8
+9
+10
+
+4
+
+5
+
+7
+
+8
+
+9
+
+11
+
+( 5; 4 )
+( 6; 4 )
+( 7; 4 )
+(8; 4 )
+( 9; 4 )
+(10; 4 )
+
+( 5;5)
+( 6;5)
+( 7;5)
+(8;5)
+( 9;5)
+(10;5)
+
+( 5;7 )
+( 6;7 )
+( 7;7 )
+(8;7 )
+( 9;7 )
+(10;7 )
+
+( 5;8)
+( 6;8)
+( 7;8)
+(8;8)
+( 9;8)
+(10;8)
+
+( 5;9 )
+( 6;9 )
+( 7;9 )
+(8;9 )
+( 9;9 )
+(10;9 )
+
+( 5;11)
+( 6;11)
+( 7;11)
+(8;11)
+( 9;11)
+(10;11)
+
+Mỗi ô là một kết quả có thể. Không gian mẫu là tập hợp 36 ô của bảng trên. Do đó, không gian mẫu của
+=
+phép thử là Ω {(5, 4);(5,5);(5, 7);…;(10,9);(10,11)} . Tập Ω có 36 phần tử.
+Vì Minh và Huy chọn ngẫu nhiên một số nên các kết quả có thể xảy ra ở trên là đồng khả năng.
+a) Có 17 kết quả thuận lợi của biến cố A là: (5, 4);(6, 4);(6,5);(7, 4);(7,5);(8, 4) ; (8,5) ; (8, 7) ;
+17
+.
+(9, 4);(9,5);(9, 7);(9,8);(10, 4);(10,5);(10, 7);(10,8);(10,9) . Do đó, P ( A ) =
+36
+
+b) Có 15 kết quả thuận lợi của biến cố B là: (5, 7);(5,8);(5,9);(5,11);(6, 7);(6,8) ;
+15
+.
+(6,9);(6,11);(7,8);(7,9);(7,11);(8,9);(8,11);(9,11);(10,11) . Do đó, P ( B ) =
+36
+PHẦN 2. BÀI TẬP THÊM
+A. TRẮC NGHIỆM
+1. Gieo đồng thời hai con xúc xắc cân đối, đồng chất. Xác suất để “Tổng số chấm xuất hiện trên hai con
+xúc xắc lớn hơn hoặc bằng 10” là:
+A.
+
+7
+.
+36
+
+B.
+
+2
+.
+9
+
+C.
+
+1
+.
+6
+
+D.
+
+5
+.
+36
+
+Lời giải
+Chọn C
+Ta có: n ( Ω ) =36 . Gọi A là biến cố đã cho.
+
+6 1
+6 ⇒ P ( A ) ==
+Ta có: A = {( 4;6 ) ; ( 5;5 ) ; ( 5;6 ) ; ( 6; 4 ) ; ( 6;5 ) ; ( 6;6 )} ⇒ n ( A ) =
+36 6
+2. Có hai túi I và II chứa 4 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4. Túi II chứa 5 tấm thẻ, đánh số 1 ; 2 ; 3 ; 4 ; 5. Rút
+ngẫu nhiên một tấm thẻ từ mỗi túi I và II. Xác suất để hai tấm thẻ rút ra đều ghi số chẵn là:
+A.
+
+1
+.
+5
+
+B.
+
+3
+.
+20
+
+C.
+
+1
+.
+4
+
+D.
+
+4
+.
+21
+
+Lời giải
+Chọn A
+
+=
+⇒ n ( Ω ) 20
+Ta có Ω {(1;1);(1; 2);…;(1;5);(2;1);…;(2;5);…;(4;1);…;(4;5)}=
+Gọi E là biến cố “Hai tấm thẻ đều ghi số chẵn”.
+Ta có: E
+
+2);(4; 4)} ⇒ n ( E ) 4 . Vậy P ( E ) =
+{(2; 2);(2; 4);(4; =
+
+1
+.
+5
+
+3. Một túi đựng 4 viên bi có cùng khối lượng và kích thước, được đánh số 1 ; 2 ; 3 ; 4. Lấy ngẫu nhiên hai
+viên bi trong túi. Xác suất để tích hai số ghi trên hai viên bi lớn hơn 3 là:
+A.
+
+5
+.
+7
+
+B.
+
+2
+.
+3
+
+C.
+
+3
+.
+4
+
+D.
+Lời giải
+
+Chọn B
+- Ta viết các tập hợp con có hai phần tử của tập hợp {1; 2;3; 4} .
+Ω
+
+) ; (1; 4 ) ; ( 2;3) ; ( 2; 4 ) ; ( 3; 4 )} ⇒ n ( Ω ) 6.
+{(1; 2 ) ; (1;3=
+
+Xét biến cố E : “Tích hai số ghi trên hai viên bi lớn hơn 3”.
+
+5
+.
+6
+
+Ta có: E
+
+2
+
+4 ) ; ( 3; 4 )} ⇒ n ( E ) 4 . Vậy P ( E ) = .
+{(1; 4 ) ; ( 2;3) ; ( 2;=
+3
+
+4. Có hai túi I và II. Túi I chứa ba quả cầu ghi các số 1,2,3. Túi II chứa bốn tấm thẻ ghi các số 1,2,3,4.
+Lấy ngẫu nhiên một quả cầu và một tấm thẻ từ mỗi tưi I và II. Xảc suất của biến cố “Tích hai số ghi trên
+quả cầu và tấm thẻ bằng 6” là
+A.
+
+1
+.
+6
+
+B.
+
+1
+.
+7
+
+C.
+
+2
+.
+11
+
+D.
+
+1
+.
+4
+
+Lời giải
+Chọn A
+5. Hai bạn Minh và Dung mỗi người gieo ngẫu nhiên một con xúc xắc cân đối. Xác suất để số chấm xuất
+hiện trên hai con xúc xắc như nhau là
+A.
+
+2
+.
+11
+
+B.
+
+1
+.
+7
+
+C.
+
+1
+.
+6
+
+D.
+
+1
+.
+4
+
+Lời giải
+Chọn C
+6. Bạn Sơn gieo một đồng xu cân đối và bạn Hoà gieo đồng thời hai đồng xu cân đối. Xác suất để có hai
+đồng xu xuất hiện mặt sấp, một đồng xu xuất hiện mặt ngửa là
+A.
+
+3
+.
+8
+
+B.
+
+3
+.
+10
+
+C.
+
+2
+.
+7
+
+D.
+
+4
+.
+31
+
+Lời giải
+Chọn A
+B. TỰ LUẬN
+1. Có hai túi I và II. Túi I chứa 3 tấm thẻ, đánh số 2 ; 3 ; 4. Túi II chứa 32 tấm thẻ, đánh số 5 ; 6. Từ mỗi
+túi I và II, rút ngẫu nhiên một tấm thẻ. Tính xác suất của các biến cố sau:
+A: “Hai số ghi trên hai tấm thẻ chênh nhau 2 đơn vị”;
+B: “Hai số ghi trên hai tấm thẻ chênh nhau lớn hơn 2 đơn vị”;
+C: “Tích hai số ghi trên hai tấm thẻ là một số chẵn”;
+D: “Tổng hai số ghi trên hai tấm thẻ là một số nguyên tố”.
+Lời giải
+Túi I
+Túi II
+2
+3
+4
+Ta có: Ω
+
+5
+
+6
+
+( 2;5)
+( 3;5)
+( 4;5)
+
+( 2;6 )
+( 3;6 )
+( 4;6 )
+
+; ( 2;6 ) ; ( 3;5 ) ; ( 3;6 ) ; ( 4;5 ) ; ( 4;6 )} ⇒ n 6 .
+{( 2;5)=
+
+=
+A
+
+2
+
+1
+
+n ( A ) 2 . Vậy P ( A=
+) = .
+{( 3;5) ; ( 4;6 )} ⇒=
+6 3
+
+3
+
+1
+
+B
+
+=
+)} ⇒ n ( B ) 3 . Vậy P ( B =) = .
+{( 2;5) ; ( 2;6 ) ; ( 3;6
+6 2
+
+C
+
+=
+) ; ( 4;5) ; ( 4;6 )} ⇒ n ( C ) 5 . Vậy P ( C ) = .
+{( 2;5) ; ( 2;6 ) ; ( 3;6
+6
+
+D=
+
+{( 2;5)} ⇒ n ( D ) = 1 . Vậy P ( D ) = 6 .
+
+5
+
+1
+
+2. Gieo đồng thời hai con xúc xắc cân đối, đồng chất I và II. Tính xác suất của các biến cố sau:
+E: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 11”;
+F: “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 8 hoặc 9”;
+G: “Tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn 6”.
+Lời giải
+Xúc xắc II
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+(1;1)
+( 2;1)
+( 3;1)
+( 4;1)
+( 5;1)
+( 6;1)
+
+(1; 2 )
+( 2; 2 )
+( 3; 2 )
+( 4; 2 )
+( 5; 2 )
+( 6; 2 )
+
+(1;3)
+( 2;3)
+( 3;3)
+( 4;3)
+( 5;3)
+( 6;3)
+
+(1; 4 )
+( 2; 4 )
+( 3; 4 )
+( 4; 4 )
+( 5; 4 )
+( 6; 4 )
+
+(1;5)
+( 2;5)
+( 3;5)
+( 4;5)
+( 5;5)
+( 6;5)
+
+(1;6 )
+( 2;6 )
+( 3;6 )
+( 4;6 )
+( 5;6 )
+( 6;6 )
+
+Xúc xắc I
+1
+2
+3
+4
+5
+6
+Ta có: n ( Ω ) =36 .
+=
+E
+
+2
+
+1
+
+n ( E ) 2 . Vậy P ( E=
+) = .
+{( 5;6 ) ; ( 6;5)} ⇒=
+36 18
+
+7
+
+F
+
+=
+) ; ( 4; 4 ) ; ( 4;5) ; ( 5;3) ; ( 5; 4 )} ⇒ n ( F ) 7 . Vậy P ( F ) = .
+{( 2;6 ) ; ( 3;5) ; ( 3;6
+36
+
+G
+
+.
+) ; (1; 4 ) ; ( 2;1) ; ( 2; 2 ) ; ( 2;3) ; ( 3;1) ; ( 3; 2 ) ; ( 4;1)} ⇒ n ( G ) 10 . Vậy P ( G=) =
+{(1;1) ; (1; 2 ) ; (1;3=
+36 18
+
+10
+
+3. Hai bạn Minh và Huy chơi một trò chơi như sau: Minh chọn ngẫu nhiên một số trong tập hợp
+
+5
+
+{5;6;7;8;9;11} Bạn nào chọn được số lớn hơn sẽ là người thắng cuộc. Nếu hai số chọn được bằng nhau
+
+thì kết quả là hoà. Tính xác suất của các biến cố sau:
+a) A: “Bạn Minh thắng”;
+
+b) B: “Bạn Huy thắng”.
+Lời giải
+Ta có: n ( Ω ) =36 .
+a) P ( A ) =
+
+15
+.
+36
+
+b) P ( B ) =
+
+15
+.
+36
+
+4. Một chiếc hộp có chứa 5 tấm thẻ cùng loại, được đánh số lần lượt là 3 ; 5; 6; 7; 9. Lấy ngẫu nhiên đồng
+thời 2 tấm thẻ từ hộp.
+a) Xác định không gian mẫu và số kết quả có thể xảy ra của phép thử.
+b) Tính xác suất của các biến cố sau:
+A: “Tích các số ghi trên 2 tấm thẻ chia hết cho 3”;
+B: “Tổng các số ghi trên 2 tấm thẻ lơn hơn 13”.
+Lời giải
+Xác định số tập con có hai phần tử của tập X = {3;5;6;7;9} , ta có tập hợp các phần tử của không gian
+mẫu.
+a) Ta có: Ω = {( 3;5 ) ; ( 3;6 ) ; ( 3;7 ) ; ( 3;9 ) ; ( 5;6 ) ; ( 5; 7 ) ; ( 5;9 ) ; ( 6;7 ) ; ( 6;9 ) ; ( 7;9 )} ⇒ n ( Ω ) =10
+b) Ta có A
+B
+
+) ; ( 3;9 ) ; ( 5;6 ) ; ( 5;9 ) ; ( 6;7 ) ; ( 6;9 ) ; ( 7;9 )} ⇒ n ( A ) 9 . Vậy P ( A) = 9 .
+{( 3;5) ; ( 3;6 ) ; ( 3;7=
+10
+
+=
+)} ⇒ n ( B ) 3 . Vậy P ( B ) = 3 .
+{( 5;9 ) ; ( 6;9 ) ; ( 7;9
+10
+
+5. Một chiếc hộp chứa 1 viên bi xanh, 1 viên bi đỏ và 1 viên bi trắng. Các viên bi có cùng kích thước và
+khối lượng. Dung lần lượt lấy ra ngẫu nhiên từng viên bi từ trong hộp cho đến khi hết bi.
+a) Xác định không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+A: “Viên bi màu xanh được lấy ra cuối cùng”;
+B: “Viên bi màu trắng được lấy ra trước viên bi màu đỏ”;
+C: “Viên bi lấy ra đầu tiên không phải là bi màu trắng”.
+Lời giải
+a) Kí hiệu X , Ð, T lần lượt là viên xanh, đỏ, trắng. Ta viết ( X , T , Ð ) có nghĩa là lấy viên xanh, đến viên
+đỏ và cuối cùng là lấy viên trắng.
+Ω
+
+; ( X , T , Ð ) ; ( Ð, X , T ) ; ( Ð,T , X ) ; (T , X , Ð ) ; (T , Ð, X )} ⇒ n ( Ω ) 6
+{( X , Ð,T )=
+
+b) Ta có: A
+=
+
+2 1
+, X )} ⇒ n ( A ) 2 . Vậy P ( A=
+{( Ð; T , X ) ; (T , Ð=
+) = .
+6 3
+
+B
+
+3 1
+X , Ð ) ; (T , Ð, X )} ⇒ n ( B ) 2 . Vậy P ( B =
+{( X , T , Ð ) ; (T , =
+) = .
+6 2
+
+C
+
+4 2
+T , Ð ) ; ( Ð, X ,T ) ; ( Ð,T , X )} ⇒ n ( C ) 4 . Vậy P ( C =
+{( X , Ð,T ) ; ( X , =
+) = .
+6 3
+
+6. Túi kẹo trái cây có 60 viên, trong đó có 20 viên kẹo vị sầu riêng, 15 viên kẹo vị cam, 7 viên kẹo vị dâu,
+10 viên kẹo vị chanh, 8 viên kẹo vị mít. Bạn Toàn lấy ngẫu nhiên một viên kẹo trong túi. Tính xác suất
+của các biến cố:
+a) E: “Bạn Toàn lấy được kẹo vị sầu riêng”;
+b) F: “Bạn Toàn lấy được kẹo vị cam hoặc chanh”;
+c) G: “Bạn Toàn không lấy được kẹo vị dâu”.
+Lời giải
+1
+3
+
+a) P ( E ) = ;
+
+b) P ( F ) =
+
+5
+;
+12
+
+c) P ( G ) =
+
+53
+.
+60
+
+7. Đài truyền hình điều tra ý kiến của một số khán giả về một chương trình giải trí. Kết quả điều tra được
+thống kê trong bảng dưới đây.
+Thích
+Không thích
+Nam
+523
+154
+Nữ
+147
+68
+Chọn ngẫu nhiên một trong số những người được điều tra. Tính xác suất của các biến cố:
+a) A: “Chọn được 1 khán giả nũ không thích chương trình”;
+b) B: “Chọn được 1 khán giả nam”;
+c) C: “Chọn được 1 khán giả thích chương trình”.
+Lời giải
+a) P ( A ) =
+
+17
+;
+223
+
+b) P ( B ) =
+
+677
+;
+892
+
+c) P ( C ) =
+
+335
+.
+446
+
+8. Bạn An gieo một con xúc xắc cân đối và bạn Bình gieo một đồng xu cân đối. Tính xác suất của các biến
+cố sau:
+E: “Số chấm xuất hiện trên con xúc xắc là 6 và đồng xu xuất hiện mặt sấp”;
+F: “Số chấm xuất hiện trên con xúc xắc là số lẻ”;
+G: “Số chấm xuất hiện trên con xúc xắc là số chẵn và đồng xu xuất hiện mặt sấp”;
+H: “Số chấm xuất hiện trên con xúc xắc là 5 hoặc đồng xu xuất hiện mặt ngửa”.
+Lời giải
+Mô tả không gian mẫu:
+Xúc xắc
+
+Đồng xu
+
+S
+
+N
+
+1
+2
+3
+4
+5
+6
+
+(1, S )
+( 2; S )
+( 3; S )
+( 4; S )
+( 5; S )
+( 6; S )
+
+(1; N )
+( 2; N )
+( 3; N )
+( 4; N )
+( 5; N )
+( 6; N )
+
+Có 12 kết quả có thể là đồng khả năng. n(Ω) =12 .
+- Có 1 kết quả thuận lợi cho biến cố E là (6, S ) . Vậy P ( E ) =
+
+1
+.
+12
+
+- Có 6 kết quả thuận lợi cho biến cố F là (1, S );(1, N );(3, S );(3, N );(5, S ) ; (5, N ) . Vậy P ( F=
+)
+- Có 3 kết quả thuận lợi cho biến cố G là (2, S );(4, S );(6, S ) . Vậy P ( G=
+)
+
+6 1
+.
+=
+12 2
+
+3 1
+.
+=
+12 4
+
+- Có 7 kết quả thuận lợi cho biến cố H là (5, S );(5, N );(1, N );(2, N );(3, N ); (4, N ); (6, N ) . Vậy
+7
+P(H ) = .
+12
+9. Trong một trò chơi, có hai bánh xe, mỗi bánh xe được gắn vào trục quay có mũi tên ở tâm. Bánh xe thứ
+nhất được chia làm bốn hình quạt như nhau và sơn các màu: trắng, đỏ, xanh, vàng. Bánh xe thứ hai được
+chia làm ba hinh quạt như nhau và sơn các màu: đỏ, xanh, vàng. Người chơi quay hai bánh xe. Người chơi
+đạt giải nhất nếu hai mũi tên dừng lại ở hai hình quạt màu đỏ, đạt giải nhì nếu hai mũi tên dừng lại ở hai
+hình quạt cùng màu và đạt giải ba nếu có đúng một mũi tên dừng ở hình quạt màu đỏ.
+
+Tính xác suất của các biến cố sau:
+a) E: “Người chơi đạt giải nhất”;
+b) F: “Người chơi đạt giải nhì”;
+c) G: “Người chơi đạt giải ba”.
+Lời giải
+a) Kí hiệu các màu trắng, đỏ, xanh, vàng lần lượt là T , Ð, X , V .
+Không gian mẫu Ω ={T Ð; TX ; TV ; ÐÐ; ÐX ; ÐV ; XÐ; XX ; XV ;VÐ;VX ;VV } .
+Có 12 kết quả có thể là đồng khả năng.
+a) Có 1 kết quả thuận lợi cho biến cố E là ĐĐ. Vậy P ( E ) =
+
+1
+.
+12
+
+b) Có 3 kết quả thuận lợi cho biến cố F là ÐÐ, XX , WV . Vậy P ( F=
+)
+
+3 1
+.
+=
+12 4
+
+c) Có 5 kết quả thuận lợi cho biến cố G là TÐ, ÐX , ÐV , XÐ, VÐ . Vậy P ( G ) =
+
+5
+.
+12
+
+10. Bạn Tuấn viết ba bức thư cho ba người bạn là An, Bình, Cường và viết tên, địa chỉ của ba người bạn đó
+lên ba chiếc phong bì. Xếp ngẫu nhiên ba bức thư đó vào ba phong bì.
+a) Mô tả không gian mẫu của phép thử.
+b) Tính xác suất của các biến cố sau:
+E: “Có đúng một bức thư đúng địa chỉ”;
+F: “Cả ba bức thư đúng địa chỉ”;
+G: “Không có bức thư nào đúng địa chỉ”;
+H: “Có ít nhất một bức thư đúng địa chỉ”.
+Lời giải
+Thư gửi cho
+Địa chỉ trên
+phong bì
+
+An
+1
+An
+2
+An
+3
+Bình
+4
+Cường
+5
+Cường
+6
+Bình
+Không gian mẫu có 6 kết quả có thể là 6 dòng ở bảng trên.
+
+Bình
+Bình
+Cường
+An
+An
+Bình
+Cường
+
+Cường
+Cường
+Bình
+Cường
+Bình
+An
+An
+
+b) Có 3 kết quả thuận lợi cho biến cố E là kết quả 2 (chỉ có An đúng), kết quả 3 (chỉ có Cường đúng) và
+3 1
+kết quả 5 (chỉ có Bình đúng). Vậy P ( E =
+) = .
+6 2
+Có 1 kết quả thuận lợi cho biến cố F là kết quả 1 . Vậy P ( F ) =
+
+1
+.
+6
+
+Có 2 kết quả thuận lợi cho biến cố G là kết quả 4 , kết quả 6 . Vậy P ( G =
+)
+
+2 1
+.
+=
+6 3
+
+Có 4 kết quả thuận lợi cho biến cố H là kết quả 1, kết quả 2, kết quả 3, kết quả 5. Vậy P ( H =
+)
+
+4 2
+.
+=
+6 3
+
+11. Một tấm bìa hình tròn được chia làm sáu hình quạt tròn có diện tích bằng nhau; ghi các số 1,2,3,4,5,6
+và được gắn vào trục quay có mũi tên cố định ở tâm. Quay tấm bia hai lần. Tính xác suất để mũi tên chỉ
+vào hai hình quạt tròn không đối xứng nhau qua tâm.
+
+Lời giải
+Mỗi kết quả có thể là một cặp số (a, b) , trong đó a, b tương ứng là số ghi trên hình quạt mà mũi tên chỉ
+vào khi tấm bìa dừng lại ở lần quay thứ nhất và thứ hai.
+
+=
+Không gian mẫu
+là Ω
+
+{(1,1);(1, 2);…;(6, 6)} . Có 36 kết quả có thể là đồng khả năng.
+
+Có 6 vị trí mà hai hình quạt tròn đối xứng nhau qua tâm là (1, 4); (4, 1); (3, 6);(6,3);(2,5);(5, 2) . Do đó có
+30 5
+36 − 6 =
+30 vị trí mà hai hình quạt tròn không đối xứng nhau qua tâm. Vậy =
+.
+P =
+36 6
+12. Màu hạt của đậu Hà Lan có hai kiểu hình là vàng và xanh. Có hai gene ứng với hai kiểu hình này
+allele trội A và allele lặn a. Hình dạng hạt của đậu Hà Lan có hai kiểu hình là hạt trơn và hạt nhăn. Có
+hai gene ứng với hai kiểu hình này allele trội B và allele lặn b. Khi cho lai hai cây đậu Hà Lan, cặp gene
+của cây con lấy ngẫu nhiên một gene từ cây bố và một gene từ cây mẹ. Giả sử cả cây bố và cây mẹ có
+kiểu hình “Hạt vàng và trơn”. Cây bố có kiểu gene là (Aa, Bb), cây mẹ có kiểu gene là (Aa, Bb). Tính xác
+suất để cây con có kiểu hình như cây bố và cây mẹ.
+Lời giải
+Có 4 kiểu gene ứng với màu hạt của cây con là AA; Aa;aA ;aa.
+Có 4 kiểu gene ứng với hình dạng hạt của cây con là BB; Bb; bB; bb .
+Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau:
+Dạng hạt
+Màu hạt
+AA
+
+Aa
+aA
+
+aa
+
+BB
+
+Bb
+
+bB
+
+bb
+
+( AA; BB )
+( Aa, BB )
+( aA; BB )
+( aa, BB )
+
+( AA; Bb )
+( Aa, Bb )
+( aA, Bb )
+( aa, Bb )
+
+( AA, bB )
+( Aa, bB )
+( aA, bB )
+( aa, bB )
+
+( AA; bb )
+( Aa; bb )
+( aA, bb )
+( aa, bb )
+
+Mỗi ô là một kết quả có thể. Không gian mấu là tập hợp 16 ô của bảng trên. Như vậy, không gian mẫu của
+phép thử là
+Ω ={(AA, BB);( AA, Bb);( AA, bB );( AA, bb);( Aa, BB);( Aa, Bb);( Aa, bB);( Aa, bb);(aA, BB);( AA, Bb);(aA, bB );
+(aA, bb);(aa, BB );(aa, Bb);(aa, bB );(aa, bb)} . Có 16 kết quả có thể là đồng xảy ra.
+
+Gọi E là biến cố “Cây con có hạt vàng và trơn”.
+Cây con có hạt vàng và trơn nếu trong gene màu hạt có ît nhất một allele trội A và trong gene dạng hạt có ít
+nhất một allele trội B .
+Có 9 kết quả thuận lợi cho biến cố E là (AA, BB); (AA, Bb); (AA, bB); (Aa, B B); (Aa, Bb); (Aa, bB);
+9
+(aA, BB); (aA, Bb); (aA, bB). Vậy P ( E ) = .
+16
+Câu 13. Tổ 2 gồm 4 bạn học sinh là My, Châu, Trọng, Thuỷ. Trong các hoạt động sau, hoạt động nào là
+phép thử ngẫu nhiên?
+a) Chọn ra lần lượt 4 học sinh từ Tồ 2 .
+b) Chọn ra 1 học sinh có tên bắt đầu từ chữ cái M từ Tổ 2 .
+c) Chọn ra đồng thời 2 học sinh có tên bắt đầu từ chữ cái T từ Tổ 2 .
+Lời giải
+Hoạt động a) là phép thử ngẫu nhiên; Hoạt động b) và c) không phải là phép thử ngẫu nhiên.
+
+Câu 14. Trong một nhóm 10 học sinh lớp 9 có 5 bạn học trường Quang Trung; 3 bạn học trường Nguyễn
+Huệ và 2 bạn học trường Tây Sơn.
+Chọn ngẫu nhiên 1 học sinh trong 10 học sinh đó.
+a) Không gian mẫu của phép thử có bao nhiêu phần tử?
+b) Tính xác suất của mỗi biến cố sau:
+A: "Bạn học sinh được chọn học trường Quang Trung";
+B: "Bạn học sinh được chọn không học trường Tây Sơn".
+Lời giải
+a) Số phần tử của không gian mẫu là n(Ω) =10 .
+b) Do có 5 bạn học trường Quang Trung nên số kết quả thuận lợi cho biến cố A là n(A) = 5 .
+
+=
+Xác suất của biến cố A là P(A)
+
+5
+= 0,5 .
+10
+
+Số học sinh không học trường Tây Sơn là 5 + 3 =
+8 (học sinh).
+
+=
+Số kết quả thuận lợi cho biến cố B là n(B) = 8 . Xác suất của biến cố B là P(B)
+
+8
+= 0,8 .
+10
+
+Câu 15. Một doanh nghiệp nhận thấy tỉ lệ nhân viên có quê ở Tiền Giang, Hậu Giang và Cần Thơ lần
+lượt là 35%, 45% và 20% . Chọn ngẫu nhiên 1 nhân viên của doanh nghiệp.
+Tính xác suất của mỗi biến cố sau:
+A: "Nhân viên được chọn có quê ở Hậu Giang";
+B: "Nhân viên được chọn có quê không phải ở Cần Thơ";
+C: "Nhân viên được chọn có quê ở vùng Đồng bằng sông Cửu Long".
+Lời giải
+Gọi N là số nhân viên của doanh nghiệp. Số lượng nhân viên có quê ở Tiền Giang, Hậu Giang và Cần
+Thơ lần lượt là 0,35 N;0, 45 N và 0, 2 N .
+Số kết quả có thể xảy ra là n(Ω) =N . Số nhân viên có quê ở Hậu Giang là 0, 45 N .
+
+P(A)
+Số kết quả thuận lợi cho biến cố A là n(A) = 0, 45 N . Xác suất của biến cố A là=
+
+0, 45 N
+= 0, 45 .
+N
+
+Số nhân viên có quê không phải ở Cần Thơ là 0,8 N . Số kết quả thuận lợi cho biến cố B là n(B) = 0,8 N .
+
+P(B)
+Xác suất của biến cố B là =
+
+0,8 N
+= 0,8 .
+N
+
+Do Tiền Giang, Hậu Giang và Cần Thơ đều ở khu vực Đồng bằng sông Cửu Long nên C là biến cố chắc
+chắn.
+Vậy P(C) = 1 .
+
+Câu 16. Bạn Minh quan tâm đến mối liên hệ giữa giới tính và màu sắc yêu thích nhất của mỗi người. Sau
+khi phỏng vấn tất cả 40 học sinh lớp 9 A , Minh thu được kết quả sau:
+Giới tính Màu sá́ c
+
+Trắng
+
+Đen
+
+Đỏ
+
+Xanh
+
+Nam
+
+4
+
+8
+
+2
+
+7
+
+Nữ
+
+6
+
+3
+
+7
+
+3
+
+Chọn ngẫu nhiên 1 bạn trong lớp 9 A . Tính xác suất của các biến cố sau:
+A: "Bạn được chọn là nam và yêu thích nhất màu đen";
+B: "Bạn được chọn yêu thích nhất màu xanh";
+C: "Bạn được chọn yêu thích nhất màu xanh hoặc màu đơ";
+D: "Bạn được chọn là nư và có màu sắc yêu thích nhất không phải là màu đỏ".
+Lời giải
+Do lớp 9 A có 40 học sinh nên số kết quả có thể xảy ra của phép thử là n(Ω) =40 .
+
+=
+Số kết quả thuận lợi cho biến cố A là n(A) = 8 . Xác suất của biến cố A là P(A)
+
+8
+= 0, 2 .
+40
+
+Số học sinh yêu thích nhất màu xanh là 7 + 3 =
+10 (học sinh). Số kết quả thuận lợi cho biến cố B là
+n(B) = 10 .
+
+=
+Xác suất của biến cố B là P(B)
+
+10
+= 0, 25 .
+40
+
+Số học sinh yêu thích nhất màu xanh hoặc màu đỏ là 7 + 3 + 2 + 7 =
+19 (học sinh).
+
+=
+Số kết quả thuận lợi cho biến cố C là n(C) = 19 . Xác suất của biến cố C là P(C)
+
+19
+= 0, 475 .
+40
+
+Số học sinh nữ có màu sắc yêu thích nhất không phải màu đỏ là 6 + 3 + 3 =
+12 (học sinh). Số kết quả
+12
+= = 0,3 .
+thuận lợi cho biến cố D là n(D) = 12 . Xác suất của biến cố D là P(D)
+40
+Câu 17. Trên giá sách có 3 quyển sách Toán, Ngữ văn và Mĩ thuật được sắp xếp theo thứ tự đó. Bạn
+Thành lấy ngấu nhiên đồng thời 2 quyển sách từ trên giá.
+a) Xác định không gian mẫu của phép thử.
+b) Xác định các kết quả thuận lợi và tính xác suất của mỗi biến cố sau:
+A: "Có 1 quyển sách Toán trong 2 quyển sách được lấy";
+B: "Không có quyển sách Mĩ thuật nào trong 2 quyển sách được lấy";
+C: "Hai quyển sách được lấy được xếp cạnh nhau trên giá";
+D: "Hai quyển sách được lấy đều là sách Ngữ văn".
+Lời giải
+
+a) Không gian mẫu của phép thử gồm các phần tử là {Toán; Ngữ văn},{Toán; Mĩ thuật} và {Ngữ văn; Mĩ
+thuật}.
+b) Số kết quả có thể xảy ra là n(Ω) =3 .
+Các kết quả thuận lợi cho biến cố A là {Toán; Ngữ văn}, {Toán; Mĩ thuật}.
+Số kết quả thuận lợi cho biến cố A là n(A) = 2 . Xác suất của biến cố A là P(A) =
+
+2
+.
+3
+
+Kết quả thuận lợi cho biến cố B là {Toán; Ngữ văn}.
+
+1
+Số kết quả thuận lợi cho biến cố B là n(B) = 1 . Xác suất của biến cố B là P(B) = .
+3
+Các kết quả thuận lợi cho biến cố C là {Toán; Ngữ văn}, {Ngữ văn; Mĩ thuật}.
+
+2
+Số kết quả thuận lợi cho biến cố C là n(C) = 2 . Xác suất của biến cố C là P(C) = .
+3
+Không có kết quả nào thuận lợi cho biến cố D , do đó P(D) = 0 .
+Câu 18. Hộp thứ nhất chứa 3 viên bi xanh và 6 viên bi đỏ. Hộp thứ hai chứa 5 viên bi xanh và một số
+viên bi đỏ. Các biên bi có cùng kích thước và khối lượng. Bạn An chọn ngẫu nhiên 1 viên bi từ hộp thứ
+nhất, bạn Thắng chọn ngẫu nhiên 1 viên bi từ hộp thứ hai.
+a) Tính xác suất của biến cố "Bạn An chọn được viên bi màu xanh".
+b) Biết rằng xác suất bạn Thắng chọn ngẫu nhiên được viên bi màu xanh bằng xác suất bạn An chọn được
+viên bi màu xanh. Trong hộp thứ hai có bao nhiêu viên bi đỏ?
+Lời giải
+a) Số kết quả có thề xảy ra khi bạn An chọn 1 viên bi từ hộp thứ nhất là 9.
+Số kết quả thuận lợi cho biến cố A: "Bạn An chọn được viên bi màu xanh" là 3 .
+Xác suất của biến cố A là P(A)=
+
+3 1
+=
+.
+9 3
+
+b) Gọi x là số viên bi đỏ trong hộp thứ hai. Số kết quả có thể xảy ra khi Thắng chọn 1 viên bi từ hộp thứ
+hai là x + 5 . Số kết quả thuận lợi cho biến cố B: "Bạn Thắng chọn được viên bi màu xanh" là 5 .
+Xác suất của biến cố B là P( B) =
+
+5
+1
+5
+= .
+. Do P( A) = P( B) nên
+x+5 3
+x+5
+
+Giải phương trình này, ta được x = 10 .
+Vậy trong hộp thứ hai có 10 viên bi đỏ.
+Câu 19. Bạn Hiền gieo hai con xúc xắc cân đối và đồng chất. Xét biến cố A : "Tích số chấm xuất hiện
+trên hai con xúc xắc là số nguyên tố".
+a) Liệt kê các kết quả thuận lợi cho biến cố A .
+b) Tính xác suất của biến cố A .
+
+Lời giải
+a) Kí hiệu (i; j ) là kết quả con xúc xắc thứ nhất xuất hiện i chấm, con xúc xắc thứ hai xuất hiện j chấm.
+Các kết quả thuận lợi cho biến cố A là (1; 2);(1;3) ; (1;5);(2;1);(3;1);(5;1) .
+b) Số kết quả thuận lợi cho biến cố A là n(A) = 6 .
+
+=
+Số kết quả có thể xảy ra là n(Ω) =36 . Xác suất của biến cố A là P(A)
+
+6 1
+=
+.
+36 6
+
+

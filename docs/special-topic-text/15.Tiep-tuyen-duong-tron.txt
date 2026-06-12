@@ -1,0 +1,1640 @@
+DẤU HIỆU NHẬN BIỂT-TIẾP TUYẾN CỦA ĐƯỜNG TRÒN
+A.TÓM TẮT LÝ THUYẾT
+Dấu hiệu 1. Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi
+qua điểm đó thì đường thẳng âỳ là một tiếp tuyến của đường tròn.
+Dấu hiệu 2. Theo định nghĩa tiếp tuyến.
+B.BÀI TẬP VÀ CÁC DẠNG TOÁN
+Dạng 1. Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
+Phương pháp giải: Để chứng minh đường thẳng a là tiếp tuyến của đường tròn (O; R) tại tiếp điểm
+C, ta có thể làm theo một trong các cách sau:
+Cách 1. Chứng minh C nằm trên (O) và OC vuông góc vói a tại C.
+Cách 2. Kẻ OH vuông góc a tại H và chứng minh OH = OC = R.
+Cách 3. Vẽ tiếp tuyến a' của (O) và chứng minh a  a'.
+Bài 1. Cho tam giác ABC có AB = 6 cm, AC = 8 cm, BC = 10 crn. Vẽ đường tròn (B; BA). Chứng
+minh AC là tiếp tuyến của đường tròn (B).
+Bài 2. Cho đường thẳng d và A là điểm nằm trên d; B là điểm nằm ngoài d. Hãy dựng đường tròn
+(O) đi qua điểm B và tiếp xúc với d tại A.
+Bài 3. Cho tam giác ABC cân tại A có các đường cao AH và BK cắt nhau tại I. Chứng minh:
+a) Đường tròn đường kính AI đi qua K;
+b) HK là tiếp tuyến của đường tròn đường kính AI.
+Bài 4. Cho tam giác ABC có hai đường cao BD va CE căt nhau tại H.
+a) Chứng minh bốn điểm A, D, H, E cùng nằm trên một đường tròn.
+b) Gọi (O) là đường tròn đi qua bốn điểm A, D, H, E và M là trung điểm của BC. Chứng minh ME là
+tiếp tuyên của (O).
+Dạng 2. Tính độ dài
+Phương pháp giải: Nối tâm với tiếp điểm để vận dụng định lý về tính chất của tiếp tuyên và sử dụng
+các công thức về hệ thức lượng trong tam giác vuông để tính độ dài các đoạn thẳng.
+Bài 5. Cho đường tròn (O) có dây AB khác đường kính. Qua O kẻ đường vuông góc với AB, cắt tiếp
+tuyến tại A của (O) ở điểm C.
+a) Chứng minh CB là tiếp tuyến của đường tròn.
+b) Cho bán kính của (O) bằng 15 cm và dây AB = 24 cm.
+Tính độ dài đoạn thẳng OC.
+
+  30 . Trên tia đối của tia
+Bài 6. Cho đường tròn (O; R) đường kính AB. Vẽ dây AC sao cho CAB
+BA lấy điểm M sao cho BM = R. Chứng minh:
+a) MC là tiếp tuyến của (O);
+b) M C  R 3 .
+Bài 7. Cho đường tròn tâm O có bán kính OA = R, dây BC vuông góc vói OA tại trung điểm M của
+OA.
+
+a) Tứ giác OCAB là hình gì? Vì sao?
+b) Kẻ tiếp tuyến với đường tròn tại B, cắt đường thẳng OA tại E.
+Tính độ dài BE theo R.
+Bài 8. Cho tam giác ABC vuông ở A, AH là đường cao, AB = 8 cm,BC = 16 cm. Gọi D là điểm đôi
+xứng với B qua H. Vẽ đường tròn đường kính CD cắt AC ớ E.
+a) Chứng minh HE là tiếp tuyến của đường tròn.
+b) Tính độ dài đoạn thẳng HE.
+Dạng 3.Tổng hợp
+Bài 9.Cho tam giác ABC cân tại A, nội tiếp đường tròn tâm O. Vẽ hình bình hành ABCD. Tiếp tuyến
+tại C của đường tròn cắt đường thẳng AD tại N. Chứng minh:
+a) Đường thẳng AD là tiếp tuyến của (O);
+b) Ba đường thẳng AC, BD và ON đồng quy.
+Bài 10.Cho nửa đường tròn tâm O đường kính AB và M là điểm nằm trên (O). Tiếp tuyến tại M cắt
+tiếp tuyến tại A và B của (O) lần lượt ở C và D. Đường thẳng AM cắt OC tại E, đường thẳng BM cắt
+OD tại F.
+
+  90 .
+a) Chứng minh COD
+b) Tứ giác MEOF là hình gì?
+c) Chứng minh AB là tiếp tuyến của đường tròn đường kính CD.
+Bài 11.Cho tam giác ABC vuông tại A có AH là đường cao. Gọi BD, CE là các tiếp tuyến của đường
+tròn (A; AH) với D, E là các tiếp diêm. Chứng minh:
+a) Ba điểm D, A, E thẳng hàng;
+b) DE tiếp xúc với đường tròn đường kính BC.
+Bài 12.Cho điểm M nằm trên nửa đường tròn tâm o đường kính AB. Qua M vẽ tiếp tuyến xy và gọi
+C, D lần lượt là hình chiếu vuông góc của A, B trên xy. Xác định vị trí của điểm M trên (O) sao diện
+tích tứ giác ABCD đạt giá trị lớn nhất.
+Bài 13.Cho đường tròn (O) đường kính AB = 10 cm và Bx là tiếp tuyến của (O). Gọi C là một điểm
+  30 và E là giao điểm của các tia AC, Bx.
+trên (O) sao cho CAB
+a) Tính độ dài các đoạn thẳng AC, CE vả BC.
+b) Tính độ dài đoạn thẳng BE.
+Bài 14.Cho đường tròn (O) đường kính AB. Lâỳ điểm M thuộc (O) sao cho
+MA < MB. Vẽ dây MN vuông góc với AB tại H. Đường thẳng AN cắt BM tại C. Đường thẳng qua C
+vuông góc với AB tại K và cắt BN tại D.
+a) Chứng minh A, M, C, K cùng thuộc đường tròn.
+b) Chứng minh BK là tia phân giác của góc MBN.
+c) Chứng minh  KMC cân và KM là tiếp tuyến của (O).
+d) Tìm vị trí của M trên (O) để tứ giác MNKC trở thành hình thoi.
+HƯỚNG DẪN
+Bài 1. Ta có
+
+BC 2  AB 2  AC 2
+  90 0  BA  AC
+ BAC
+
+Bài 2. Trung trực AB cắt đường thẳng
+vuông góc với d ở A tại O. Đường tròn
+(O;OA) là đường tròn cần dựng.
+Bài 3.
+
+  90 0
+a) Chứng minh được BKA
+b) Gọi O là trung điểm AI.
+Ta có:
+
+  OAK
+
++ OK = OA  OKA
+  HBK
+ (cïng phô ACB)
+
++ OAK
+
+
++ HB = HK  H
+BK  H
+KB
+
+  HKB
+  HKO
+  90 0 .
++  OKA
+Bài 4.
+a) Gọi O là trung điểm của AH thì
+OE = OA = OH = OD
+b) Tương tự 2A
+Bài 5.
+a)
+
+ OAC   OBC (c.g.c)
+  OAB
+  90 0
+ OBC
+
+ ĐPCM
+b) Sử dụng hệ thức lượng trong tam giác vuông
+OBC tính được OC=25cm
+Bài 6.
+a) Vì OCB là tam giác đều nên BC=BO=BM=R
+
+  900  MC là tiếp tuyến (O;R)
+ OCM
+b) Ta có
+
+OM 2  OC 2  M C 2
+ M C 2  3R 2
+Bài 7.
+a) OA vuông góc với BC tại M
+
+ M là trung điểm của BC
+
+ OCAB là hình thoi
+b) Tính được BE=R 3
+Bài 8.
+a) Gọi O là trung điểm CD.
+Từ giả thiết suy ra tam giác ABD và tam giác ODE đều
+
+ DE = DH = DO = BC
+4
+
+
+H
+EO  90 0
+
+ HE là tiếp tuyến của đường tròn đường kính CD
+b) HE = 4 3
+Bài 9.
+a) Tam giác ABC cân tại A nội tiếp (O)
+
+ OA  BC
+ OA  AD (v× AD  BC)
+
+ AD là tiếp tuyến của (O)
+b) Chứng minh được ON là tia phân giác
+
+ mà OAC cân tại O nên ON cũng
+của AOD
+là đường trung tuyến  ON cắt AC tại trung
+điểm I của AC  ON,AC,BD cùng đi qua trung
+điểm I của AC.
+Bài 10.
+
+  90 0 hay EMF
+  90 0 tiếp tuyến CM,CA
+a) Dễ thấy AMB
+
+  90 0
+  90 0 Tương tự  OFM
+ OC  AM  OEM
+M
+
+Chứng minh được  CAO   CMO  AOC
+OC  OC
+
+
+là tia phân giác của AMO
+ suy ra
+Tương tự OD là tia phân giác của BOM
+
+  90 0
+OC  OD  COD
+b) Do  AOM cân tại O nên OE là đường phân
+
+giác đồng thời là đường cao
+
+  90 0 .
+
+O
+EM  90 0 chứng minh tương tự OFM
+Vậy MEOF là hình chữ nhật
+c) Gọi I là trung điểm CD thì I là tâm đường tròn
+đường kính CD và IO=IC=ID. Có ABDC là hình
+thang vuông tại A và B nên IO  AC  BD và IO
+vuông góc với AB. Do đó AB là tiếp tuyến của
+đường tròn đường kính CD.
+Bài 11.
+a) Vì BH, BD là tiếp tuyến của (A;AH)
+
+
+
+ H
+AD  2H
+AB
+Vì CH,CE là tiếp tuyến của (A;AH)
+
+  2HAC
+
+ HAE
+
+
+
+
+ H
+AD  H
+A E  2(H
+AB  H
+A C )  180 0
+
+ D,A,E thẳng hàng
+b) Tương tự 8.
+Bài 12. Ta có ABCD là hình thang vuông tại C và D
+Mà O Là trung điểm AB và OM vuông góc với
+CD( tiếp tuyến của (O)
+
+ AD+BC=2OM=2R. Chú ý rằng CD  AB
+( hình chiếu đường xiên)
+1
+(A D  BC ).C D
+2
+ R.C D  R.A B  2 R 2
+
+ S A BC D 
+
+Do đó S ABCD lớn nhất khi CD=AB hay M là điểm chính giữa nửa đường tròn đường kính AB
+Bài 13.
+a) Tính được BC=5cm
+
+AC  5 3cm , CE =
+
+5 3
+cm
+3
+
+b) Tính được BE  10 3 cm
+3
+Bài 14.
+
+
+a) C
+KA  C
+M A  90 0  C , K , A , M thuộc đường tròn đường kính AC
+b)  MBN cân tại B có BA là đường cao, trung tuyến và phân giác .
+c)  BCD cã BK  CD vμ CN  BN nên A là trực tâm của  BC D
+
+ D,A,M thảng hàng
+Ta có  DMC vuông tại M có MK là trung tuyến nên  K M C cân tại
+
+
+
+K  K
+CM  K
+MC
+
+
+l¹ i cã K
+BC  O
+M B n ªn
+
+
+
+
+K
+MC  O
+MB  K
+CB  K
+BC  900
+
+  90 mà OM là bán kính
+Vậy KMO
+0
+
+nên KM là tiếp tuyến của (O)
+d) MNKC là hình thoi
+
+ M N  C K vμ C M =C K
+  K C M ®Òu
+
+ K
+BC  300  A M  R
+C.TRẮC NGHIỆM RÈN PHẢN XẠ.
+Câu 1: Cho (O; R) . Đường thẳng d là tiếp tuyến của đường tròn (O; R) tại tiếp điểm A khi
+A. d ^ OA tại A và A Î (O ) .
+
+B. d ^ OA .
+
+C. A Î (O ) .
+
+D. d //OA .
+
+Câu 2: “Nếu một đường thẳng đi qua một điểm của đường tròn và … thì đường thẳng ấy là một tiếp
+tuyến của đường tròn”. Cụm từ thích hợp điền vào chỗ trống là
+A. Song song với bán kính khi qua điểm đó. B. Vuông góc với bán kính đi qua điểm đó.
+C. Song song với bán kính đường tròn.
+
+D. Vuông góc với bán kính bất kì.
+
+Câu 3: Cho (O ; 5cm ) . Đường thẳng d là tiếp tuyến của đường tròn (O ; 5cm ) , khi đó:
+A. Khoảng cách từ O đến đường thẳng d nhỏ hơn 5cm .
+B. Khoảng cách từ O đến đường thẳng d lớn hơn 5cm .
+C. Khoảng cách từ O đến đường thẳng d bằng 5cm .
+D. Khoảng cách từ O đến đường thẳng d bằng 6cm .
+Câu 4: Cho (O; 4cm ) . Đường thẳng d là tiếp tuyến của đường tròn (O; 4cm ) , khi đó:
+
+A. Khoảng cách từ O đến đường thẳng d nhỏ hơn 4cm .
+B. Khoảng cách từ O đến đường thẳng d bằng 4cm .
+C. Khoảng cách từ O đến đường thẳng d lớn hơn 4cm .
+D. Khoảng cách từ O đến đường thẳng d bằng 5cm .
+Câu 5: Cho tam giác MNP có MN = 5cm, NP = 12cm, MP = 13cm . Vẽ đường tròn (M ; NM ) .
+Khẳng định nào sau đây là đúng?
+A. NP là tiếp tuyến của (M ; MN ) .
+
+B. MP là tiếp tuyến của (M ; MN ) .
+
+C. D MNP vuông tại M .
+
+D. D MNP vuông tại P .
+
+Câu 6: Cho tam giác ABC có AC = 3cm, AB = 4cm, BC = 5cm . Vẽ đường tròn (C ;CA) . Khẳng
+định nào sau đây là đúng?
+A. Đường thẳng BC cắt đường tròn (C ;CA) tại một điểm.
+B. AB là cát tuyến của đường tròn (C ;CA) .
+C. AB là tiếp tuyến của (C ;CA) .
+D. BC là tiếp tuyến của (C ;CA) .
+Câu 7: Cho tam giác ABC cân tại A ; đường cao AH và BK cắt nhau tại I . Khi đó đường thẳng
+nào sau đây là tiếp tuyến của đường tròn đường kính AI .
+A. HK .
+
+B. IB .
+
+C. IC .
+
+D. AC .
+
+Câu 8: Hình chữ nhật ABCD , H là hình chiếu của A lên BD . M , N lần lượt là trung điểm của
+BH ,CD . Đường nào sau đây là tiếp tuyến của đường tròn tâm A , bán kính AM .
+
+A. BN .
+
+B. MN .
+
+C. AB .
+
+D. CD .
+
+Câu 9: Cho tam giác ABC vuông tại A , đường cao AH . Đường tròn đường kính BH cắt AB tại
+D , đường tròn đường kính CH cắt AC tại E . Chọn khẳng định sai trong các khẳng định sau.
+A. DE là cát tuyến của đường tròn đường kính BH .
+B. DE là tiếp tuyến của đường tròn đường kính BH .
+C. Tứ giác AEHD là hình chữ nhật.
+D. DE ^ DI (với I là trung điểm BH ).
+ = 30 . Trên tia đối của tia
+Cho đường tròn (O; R) đường kính AB . Vẽ dây AC sao cho ABC
+AB lấy điểm M sao cho AM = R .
+
+Câu 10: Chọn khẳng định đúng?
+A. MC là tiếp tuyến của (O; R) . B. MC là cát tuyến của (O; R) . C. MC ^ BC . D. MC ^ AC .
+
+Câu 11: Tính độ dài MC theo R .
+A. MC = 2R .
+
+B. MC = 3R .
+
+C. MC = 3R .
+
+D. MC = 2R .
+
+ = 60 . Trên tia
+Cho đường tròn (O ; 2cm ) đường kính AB . Vẽ dây AC sao cho OBC
+OB lấy điểm
+M sao cho BM = 2cm .
+
+Câu 12: Chọn khẳng định đúng?
+ = 45 .
+D. MCB
+
+A. MC là tiếp tuyến của (O ) . B. MC là cát tuyến của (O ) . C. MC ^ BC .
+Câu 13: Tính độ dài MC .
+A. MC = 2 2cm .
+
+B. MC = 3cm .
+
+C. MC = 2 3cm .
+
+D. MC = 4cm .
+
+Từ một điểm A ở bên ngoài đường tròn (O; R) , vẽ hai tiếp tuyến AB, AC với (O ) . Đường thẳng
+vuông góc với OB tại O cắt tia AC tại N . Đường thẳng vuông góc với OC cắt tia AB tại M .
+Câu 14: Tứ giác AMON là hình gì?
+A. Hình bình hành.
+
+B. Hình thoi.
+
+C. Hình thang.
+
+D. Hình chữ nhật.
+
+Câu 15: Điểm A phải cách O một khoảng là bao nhiêu để cho MN là tiếp tuyến của (O ) ?
+A. OA = 2R .
+
+3
+2
+
+B. OA = R .
+
+C. OA = 3R .
+
+4
+3
+
+D. OA = R .
+
+Cho đường tròn (O ) , dây AB khác đường kính. Qua O kẻ đường vuông góc với AB , cắt tiếp tuyến
+tại A của đường tròn ở điểm C .
+Câu 16: Chọn khẳng định đúng?
+A. BC là cát tuyến của (O ) .
+
+B. BC là tiếp tuyến của (O ) .
+
+C. BC ^ AB .
+
+D. BC //AB .
+
+Câu 17: Cho bán kính của đường tròn bằng 15cm; AB = 24cm . Tính OC .
+A. OC = 35cm .
+
+B. OC = 20cm .
+
+C. OC = 25cm .
+
+D. OC = 15cm .
+
+Cho đường tròn (O ) , dây MN khác đường kính. Qua O kẻ đường vuông góc với MN , cắt tiếp
+tuyến tại M của đường tròn ở điểm P .
+Câu 18: Chọn khẳng định đúng?
+A. PN là tiếp tuyến của (O ) tại P . B. D MOP = D PON .
+ = 80 .
+C. PN là tiếp tuyến của (O ) tại N . D. ONP
+
+Câu 19: Cho bán kính của đường tròn bằng 10cm; MN = 12cm . Tính OP .
+
+A. OP = 12, 5cm .
+
+B. OP = 17, 5cm .
+
+C. OP = 25cm .
+
+D. OP = 15cm .
+
+Cho tam giác ABC có hai đường cao BD,CE cắt nhau tại H .
+Câu 20: Xác định tâm F của đường tròn đi qua bốn điểm A, D, H , E .
+A. F º B .
+
+B. F là trung điểm đoạn AD .
+
+C. F là trung điểm đoạn AH .
+
+D. F là trung điểm đoạn AE .
+
+Câu 21: Gọi M là trung điểm BC . Đường tròn (F ) ở trên nhận các đường thẳng nào dưới đây là
+tiếp tuyến.
+A. ME ; MF .
+
+B. ME .
+
+C. MF .
+
+D. EC .
+
+Cho nửa đường tròn đường kính AB . C là một điểm thuộc nửa đường tròn. Vẽ dây BD là phân
+giác của góc ABC . BD cắt AC tại E . AD cắt BC tại G . H là điểm đối xứng với E qua D .
+Câu 22: Chọn đáp án đúng nhất. Tứ giác AHGE là hình gì?
+A. Hình bình hành.
+
+B. Hình thoi.
+
+C. Hình vuông.
+
+D. Hình chữ nhật.
+
+Câu 23: Chọn câu đúng:
+A. AH là tiếp tuyến của đường tròn đường kính AB .
+B. HG là tiếp tuyến của đường tròn đường kính AB .
+ = 90 .
+C. ADB
+
+D. Cả A và C đều đúng.
+ = 60 ;
+Cho hình vẽ dưới đây: Biết BAC
+AO = 10cm . Chọn đáp án đúng:
+B
+
+A
+O
+
+C
+
+Câu 25: Độ dài bán kính OB là:
+A. 4 3 .
+
+B. 5 .
+
+C. 5 3 .
+
+D. 10 3 .
+
+C. 5 3 .
+
+D. 10 3 .
+
+Câu 26: Độ dài tiếp tuyến AB là:
+A. 4 3 .
+
+B. 5 .
+
+ = 120, AO = 8cm
+Cho hình vẽ dưới đây. Biết AB và AC là hai tiếp tuyến của (O ), BAC
+. Chọn
+
+đáp án đúng.
+B
+A
+
+C
+
+O
+
+Câu 27: Độ dài bán kính OB là:
+A. 4 3 .
+
+B. 5 .
+
+C. 4 .
+
+D. 8 3 .
+
+C. 5 3 .
+
+D. 4 .
+
+Câu 28: Độ dài đoạn AB là:
+A. 4 3 .
+
+B. 5 .
+
+Câu 29: Cho nửa đường tròn (O; R), AB là đường kính. Dây BC có độ dài R . Trên tia đối của tia
+CB lấy điểm D sao cho CD = 3R . Chọn câu đúng.
+
+A. AD là tiếp tuyến của đường tròn.
+
+ = 90 .
+B. ACB
+
+C. AD cắt đường tròn (O; R) tại hai điểm phân biệt.
+
+D. Cả A, B đều đúng.
+
+
+Câu 30: Cho xOy
+, trên Ox lấy P , trên Oy lấy Q sao cho chu vi DPOQ bằng 2a không đổi. Chọn
+
+câu đúng.
+A. PQ luôn tiếp xúc với một đường tròn cố định.
+B. PQ không tiếp xúc với một đường tròn cố định nào.
+C. PQ = a .
+D. PQ = OP .
+HƯỚNG DẪN
+1. Lời giải:
+Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi qua điểm đó thì
+đường thẳng ấy là một tiếp tuyến của đường tròn.
+Đáp án cần chọn là A.
+2. Lời giải:
+
+Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi qua điểm đó thì
+đường thẳng ấy là một tiếp tuyến của đường tròn.
+Đáp án cần chọn là B.
+3. Lời giải:
+Khoảng cách từ tâm của một đường tròn đến tiếp tuyến bằng bán kính của đường tròn đó.
+Đáp án cần chọn là C.
+4. Lời giải:
+Khoảng cách từ tâm của một đường tròn đến tiếp tuyến bằng bán kính của đường tròn đó.
+Đáp án cần chọn là B.
+5. Lời giải:
+
+M
+
+P
+
+N
+
+Xét tam giác MNP có MP 2 = 132 = 169; NM 2 + NP 2 = 52 + 122 = 169
+ MP 2 = NM 2 + NP 2
+ DMNP vuông tại N (định lý Pytago đảo)
+ MN ^ NP mà N Î (M ; MN ) nên NP là tiếp tuyến của (M ; NM ) .
+
+Đáp án cần chọn là A.
+6. Lời giải:
+
+C
+
+A
+
+B
+
+Xét tam giác ABC có BC 2 = 52 = 25; AB 2 + AC 2 = 42 + 32 = 25  BC 2 = AB 2 + AC 2
+ DABC vuông tại A (định lý Pytago đảo)
+ AB ^ AC mà A Î (C ;CA) nên AB là tiếp tuyến của (C ;CA) .
+
+Đáp án cần chọn là C.
+
+7. Lời giải:
+A
+
+O
+K
+I
+
+C
+
+H
+
+B
+
+æ
+
+Gọi O là trung điểm AI . Xét tam giác vuông AIK có OK = OI = OA  K Î çççO;
+çè
+
+AI ö÷
+÷÷ (*)
+2 ÷ø
+
+Ta đi chứng minh OK ^ KH tại K .
+ = OKA
+
+Xét tam giác OKA cân tại O ta có: OKA
+(1)
+
+Vì tam giác ABC cân tại A có đường cao AH nên H là trung điểm của BC . Xét tam giác vuông
+BKC có HK = HB = HC =
+
+BC
+.
+2
+
+ = HBK
+
+Suy ra tam giác KHB cân tại H nên HKB
+(2)
+ = KAH
+
+
+Mà HBK
+(cùng phụ với ACB
+) (3)
+ = AKO
+
+ + OKI
+ = 90  HKB
+ + OKI
+ = 90  OKH
+ = 90
+Từ (1); (2); (3) suy ra HKB
+mà AKO
+hay OK ^ KH tại K (**)
+
+Từ (*) và (**) thì HK là tiếp tuyến của đường tròn đường kính AI .
+Đáp án cần chọn là A.
+8. Lời giải:
+
+A
+
+B
+E
+M
+H
+
+D
+
+N
+
+C
+
+Lấy E là trung điểm của AH . Do M là trung điểm của BH (gt) nên EM là đường trung bình của
+D AHB  EM / /AB và EM =
+
+1
+AB .
+2
+
+Hình chữ nhật ABCD có CD//AB và CD = AB mà N là trung điểm của DC , suy ra:
+DN //AB và DN =
+
+1
+AB .
+2
+
+Từ (1) và (2) ta có EM //DN và EM = DN .
+Suy ra tứ giác EMND là hình bình hành, do đó DI //MN .
+Do EM / /AB mà AB ^ AD (tính chất hình chữ nhật)
+AH ^ DM (gt) nên E là trực tâm của D ADM
+
+Suy ra DE ^ AM , mà DE //MN (cmt)  MN ^ AM tại M .
+Vì vậy MN là tiếp tuyến của đường tròn (A; AM ) .
+Đáp án cần chọn là B.
+9. Lời giải:
+A
+E
+O
+D
+
+B
+
+I
+
+H
+
+J
+
+C
+
+Gọi I , J lần lượt là trung điểm của BH và CH .
+Để chứng minh DE là tiếp tuyến của đường tròn tâm I đường kính BH ta chứng minh ID ^ DE
+ = 90
+hay ODI
+.
+ = CEH
+ = 90
+Vì D, E lần lượt thuộc đường tròn đường kính BH và HC nên ta có: BDH
+
+Suy ra tứ giác ADHE là hình chữ nhật.
+Gọi O là giao điểm của AH và DE , khi đó ta có OD = OH = OE = OA .
+ = OHD
+
+Suy ra D ODH cân tại O  ODH
+ = IHD
+
+Ta cũng có D IDH cân tại I  IDH
+ + HDO
+ = IHD
+ + DHO
+  IDO
+ = 90  ID ^ DE
+Từ đó  IDH
+
+Ta có ID ^ DE, D Î (I ) nên DE là tiếp tuyến của đường tròn đường kính BH .
+Từ chứng minh trên suy ra các phương án B, C, D đúng.
+Đáp án cần chọn là A.
+10. Lời giải:
+
+M
+
+O
+
+A
+
+B
+
+C
+
+ = 30
+ = 60
+suy ra AOC
+(góc ngoài tại một đỉnh bằng tổng hai
+Tam giác OBC cân tại O có ABC
+góc trong không kề với nó).
+ = 90  MC
+Nên tam giác OCA là tam giác đều suy ra AC = AO = AM = R  OCM
+là tiếp
+tuyến của (O; R) .
+
+Đáp án cần chọn là A.
+11. Lời giải:
+
+M
+
+O
+
+A
+
+B
+
+C
+
+Áp dụng định lý Pytago cho tam giác vuông OCM , ta có OM 2 = OC 2 + MC 2
+ MC 2 = OM 2 -OC 2 = 3R2  MC = 3R .
+
+Đáp án cần chọn là B.
+12. Lời giải:
+
+O
+
+B
+
+M
+
+C
+
+ = 60
+Tam giác OBC cân tại O có OBC
+
+Nên tam giác OCB là tam giác đều suy ra BC = OB = OC = 2
+Xét tam giác OCM có BC = OB = BM = 2 =
+
+OM
+nên DOCM vuông tại C
+2
+
+ OC ^ CM  MC là tiếp tuyến của (O;2cm) .
+
+Đáp án cần chọn là A.
+13. Lời giải:
+
+O
+
+B
+
+M
+
+C
+
+Theo câu trước ta có DOCM vuông tại C
+Áp dụng định lý Pytago cho tam giác vuông OCM , ta có OM 2 = OC 2 + MC 2
+ MC 2 = OM 2 -OC 2 = 42 - 22 = 12  MC = 2 3cm .
+
+Đáp án cần chọn là C.
+14. Lời giải:
+
+O
+
+C
+
+B
+
+N
+M
+
+A
+
+Dễ có AMON là hình bình hành (Vì ON //AM ;OM //AN )
+Ta chứng minh OM = ON
+Xét tam giác OBM và tam giác OCN có:
+ = OCN
+ = 90
+OBM
+;
+OB = OC = R ,
+
+ = ONC
+ =A
+
+Và OMB
+ DOBM = DOCN  OM = ON  AMON là hình thoi.
+
+Đáp án cần chọn là B.
+15. Lời giải:
+
+C
+
+O
+
+N
+B
+M
+A
+
+Tứ giác AMON là hình thoi nên OA ^ MN và
+Mà độ dài OA bằng 2 lần khoảng cách từ O đến MN .
+
+Do đó MN là tiếp tuyến đường tròn (O; R)  khoảng cách từ O đến MN bằng R  OA = 2R .
+Đáp án cần chọn là A.
+16. Lời giải:
+
+A
+
+O
+I
+B
+
+C
+
+Ta có OC ^ AB  OC đi qua trung điểm của AB .
+ OC là đường cao đồng thời là trung tuyến của D ABC .
+
+ì
+ 
+ï
+ïACO = BCO
+ DAOC = DBOC (c – g – c)
+ DABC cân tại C  ï
+í
+ï
+AC = CB
+ï
+ï
+î
+ OB ^ BC  BC là tiếp tuyến của (O )
+
+Đáp án cần chọn là B.
+17. Lời giải:
+Gọi I là giao điểm của OC và AB  AI = BI =
+
+AB
+= 12cm .
+2
+
+Xét tam giác vuông OAI có OI = OA2 - AI 2 = 9cm
+Xét tam giác vuông AOC có AO 2 = OI .OC  OC =
+Vậy OC = 25cm .
+Đáp án cần chọn là C.
+18. Lời giải:
+
+152
+AO 2
+=
+= 25cm .
+9
+OI
+
+M
+
+O
+I
+N
+
+P
+
+Gọi I là giao điểm của MN và OP
+Ta có OP ^ MN tại I  I là trung điểm của MN .
+ PI là đường cao đồng thời là trung tuyến của D MNP  DMNP cân tại P
+
+ìï  
+ïMPO = NPO
+ ïí
+ DPMO = DPNO (c – g – c)
+ïï PM = PN
+ïî
+
+ = PNO
+ = 90  ON ^ NP
+ PMO
+ PN là tiếp tuyến của (O )
+
+Đáp án cần chọn là C.
+19. Lời giải:
+
+M
+
+O
+I
+N
+
+P
+
+Gọi I là giao điểm của MN và OP
+Ta có OP ^ MN tại I  I là trung điểm của MN , nên IM =
+
+12
+MN
+=
+= 6cm
+2
+2
+
+xét tam giác vuông OMI có OI = OM 2 - MI 2 = 102 - 62 = 8cm
+xét tam giác vuông MPO theo hệ thức lượng trong tam giác vuông ta có:
+
+MO 2 = OI .OP  OP =
+
+MO 2
+102
+=
+= 12, 5cm
+OI
+8
+
+Vậy OP = 12, 5cm .
+Đáp án cần chọn là A.
+20. Lời giải:
+A
+
+F
+
+D
+
+E
+H
+
+B
+
+C
+
+Gọi F là trung điểm của AH
+Xét hai tam giác vuông AEH và ADH ta có FA = FH = FE = FD =
+Nên bốn đỉnh A, D, H , E cùng thuộc đường tròn tâm F bán kính
+
+AH
+.
+2
+
+Đáp án cần chọn là C.
+21. Lời giải:
+A
+
+F
+
+D
+
+E
+H
+M
+B
+
+K
+
+C
+
+AH cắt BC tại K  AK ^ BC vì H là trực tâm tam giác ABC
+
+Ta chứng minh ME ^ EF tại E .
+
+
+
+
+D FAE cân tại F (vì FA = FE ) nên FEA = FAE
+
+AH
+2
+
+D MEC cân tại M (vì ME = MC = MB =
+
+BC
+ = MCE
+
+ = ECB
+
+) nên MEC
+mà BAK
+(cùng phụ
+2
+
+
+với ABC
+)
+ = FEA
+  MEC
+ + FEC
+ = FEA
+ + FEC
+  MEF
+ = 90  ME ^ EF
+Nên MEC
+tại E .
+æ
+
+Từ đó ME là tiếp tuyến của çççF ;
+çè
+
+AH ö÷
+÷÷ .
+2 ø÷
+æ
+
+Tương tự ta cũng có MF là tiếp tuyến của çççF ;
+çè
+
+AH ö÷
+÷÷ .
+2 ÷ø
+
+Đáp án cần chọn là A.
+22. Lời giải:
+G
+C
+H
+D
+
+E
+
+A
+
+B
+
+Vì D thuộc đường tròn đường kính AB nên BD ^ AD  BD là đường cao của D ABG , mà BD là
+đường phân giác của ABG (gt) nên BD vừa là đường cao vừa là đường phân giác của D ABG .
+Do đó D ABG cân tại B suy ra BD là trung trực của AG (1).
+Vì H đối xứng với E qua D (gt) nên D là trung điểm của HE (2)
+Từ (1) và (2) suy ra D là trung điểm của HE và AG
+Do đó tứ giác AHGE là hình bình hành (dấu hiệu nhận biết hình bình hành)
+Mà HE ^ AG nên D HGE là hình thoi (dấu hiệu nhận biết hình thoi).
+Đáp án cần chọn là B.
+23. Lời giải:
+
+G
+C
+H
+D
+
+E
+
+A
+
+B
+
+Vì tứ giác AHGE là hình thoi (theo câu trước) nên AH //GE (1)
+ = 90
+và HE ^ AG (tính chất) nên ADB
+(do đó C đúng).
+Xét D ABC có BD và AC là đường cao, mà BD cắt AD tại E
+Suy ra E là trực tâm cua D ABG , do đó GE ^ AB (2).
+Từ (1) và (2) suy ra AH ^ AB
+Do đó AH là tiếp tuyến của đường tròn đường kính AB .
+Đáp án cần chọn là D.
+25. Lời giải:
+B
+
+A
+O
+
+C
+
+Từ hình vẽ ta có AB; AC là tiếp tuyến của (O ) tại B , C suy ra OC ^ AC tại C .
+ = CAO
+=
+Suy ra D ABO = D ACO (c – g – c) nên BAO
+
+
+BAC
+= 30
+2
+
+Xét D ABO có OB = AO. sin A = 10. sin 30 = 5cm .
+Đáp án cần chọn là B.
+26. Lời giải:
+Từ hình vẽ ta có AB; AC là tiếp tuyến của (O ) tại B , C suy ra OC ^ AC tại C .
+ = CAO
+=
+Suy ra D ABO = D ACO (c – g – c) nên BAO
+
+Xét D ABO có AB = AO.cos A = 10. cos 30 = 5 3cm .
+
+
+BAC
+= 30
+2
+
+Đáp án cần chọn là C.
+27. Lời giải:
+Từ hình vẽ ta có AB; AC là tiếp tuyến của (O ) tại B , C suy ra OC ^ AC tại C .
+ = CAO
+=
+Suy ra D ABO = D ACO (c – g – c) nên BAO
+
+
+BAC
+= 60
+2
+
+Xét D ABO có OB = AO.sin A = 10.sin 60 = 4 3cm .
+Đáp án cần chọn là A.
+28. Lời giải:
+Từ hình vẽ ta có AB; AC là tiếp tuyến của (O ) tại B , C suy ra OB ^ AB tại B và OC ^ AC tại
+C.
+
+ = CAO
+=
+Suy ra D ABO = D ACO (c – g – c) nên BAO
+
+
+BAC
+= 60
+2
+
+Xét D ABO có AB = AO. cos A = 8. cos 60 = 4cm .
+Đáp án cần chọn là D.
+29. Lời giải:
+D
+
+C
+
+A
+
+O
+
+B
+
+Vì AB là đường kính của (O; R) nên AB = 2R .
+Vì D thuộc tia đối của tia CB nên BD = CD + BC = 3R + R = 4R
+Suy ra
+
+2R
+1 BC
+1
+AB
+R
+=
+= ;
+=
+=
+BD
+4R
+2 AB
+2R
+2
+
+BC
+AB
+1
+
+Xét D ABD và D CBA có B
+chung và
+=
+= (cmt)
+AB
+
+BD
+
+ = ACB
+
+Vì vậy D ABD ∽ D CBA (c.g.c)  DAB
+
+2
+
+Mà C thuộc (O; R) và AB là đường kính nên OC = OA = OB =
+
+AB
+suy ra D ACB vuông tại C
+2
+
+ = 90
+hay ACB
+ = ACB
+ = 90
+Do đó DAB
+hay AD ^ AB
+
+Suy ra AD là tiếp tuyến của (O; R) .
+Đáp án cần chọn là D.
+30. Lời giải:
+x
+
+A
+
+I
+
+P
+
+B
+O
+
+Q
+
+C
+
+y
+
+; yQP
+
+Gọi I là giao điểm các tia phân giác của xPQ
+và A, B,C
+
+lần lượt là hình chiếu của I lên Ox , PQ và Oy .
+Vì I thuộc phân giac của góc xPQ nên IA = IB .
+Xét D PAI và D PBI có:
+IA = IB (cmt)
+
+Chung PI
+ = PBI
+ = 90
+PAI
+
+Nên DPAI = D PBI (cạnh huyền – cạnh góc vuông)
+Suy ra PA = PB
+Lí luận tương tự, ta có QB = QC .
+OA + OC = OP + PA + OQ + QC = OP + PB + OQ + QB = OP + PQ + QO = 2a (do chu vi
+DOPQ bằng 2a )
+
+Vì IA = IB và IB = IC (cmt) nên IA = IC .
+Xét D OAI và D OCI có:
+IA = IC (cmt)
+
+ = OCI
+ = 90
+OAI
+
+Cạnh chung OI
+Nên D OAI = D OCI (cạnh huyền – cạnh góc vuông)  OA = OC =
+
+2a
+=a.
+2
+
+Vì a không đổi và A,C thuộc tia Ox,Oy cố định nên A và C cố định.
+Do A và C lần lượt là hình chiếu của I lên Ox,Oy nên hai đường thẳng AI và CI cố định hay I
+cố định.
+Do I và A cố định nên độ dài đoạn thẳng AI không đổi.
+Do IA = IB (cmt) nên IB là bán kính của đường tròn (I ; IA) , mà IB ^ PQ tại B nên PQ tiếp xúc
+với đường tròn (I ; IA) cố định.
+Đáp án cần chọn là A.
+D.TỰ LUYỆN
+Bài 1: Cho tam giác ABC có AB - 6, AC = 6, BC = 10 . Vẽ đường tròn (B; BA) , đường tròn
+(C ;CA)
+
+Chứng minh rằng:
+AB là tiếp tuyến của đường tròn (C ;CA)
+CA là tiếp tuyến của đường tròn (B ; BA) .
+
+Bài 2: Từ điểm A ở ngoài đường tròn (O; R) vẽ tiếp tuyến AB ( B là tiếp điểm), C là điểm trên
+đường tròn (O ) sao cho AC = AB
+a)
+
+Chứng minh rằng AC là tiếp điểm của đường tròn (O )
+
+b)
+
+D là điểm trên AC . Đường thẳng qua C vuông góc với OD tại M cắt đường tròn (O ) tại
+
+E ( E khác C ). Chứng minh rằng DE là tiếp tuyến của đường tròn (O ) .
+
+Bài 3: Cho đường tròn (O; R) , đường kính AB , M là điểm trên (O ) , AM cắt tiếp tuyến của đường
+tròn (O ) tại B và C
+a)
+Tính AM .AC theo R
+b)
+Xác định vị trí M để 2AM + AC đạt giá trị nhỏ nhất.
+Bài 4: Cho nửa đường tròn (O; R) đường kính AB . M là điểm di động trên nửa đường tròn. Qua
+M vẽ tiếp tuyến với nửa đường tròn. Gọi D,C lần lượt là hình chiếu của A, B trên tiếp tuyến ấy.
+
+a)
+Chứng minh rằng AD + BC không đổi
+b)
+Xác định vị trí điểm M để diện tích tứ giác ABCD lớn nhất.
+Bài 5: Cho đường tròn (O; R) có AB là dây cung cố định không qua tâm O , C là điểm di động trên
+cung lớn AB (C không trùng với A và B )
+Gọi (d ) là tiếp tuyến tại C của đường tròn (O; R) và M , N lần lượt là chân các đường vuông góc vẽ
+từ A và B đến (d ) . Tìm vị trí của C sao cho khoảng cách MN dài nhất, ngắn nhất.
+
+Bài 6: Cho nửa đường tròn (O; R) đường kính AB . Điểm M trên đường tròn (O ) . H là hình chiếu
+của M trên AB .
+Xác định vị trí của M để AH + HM lớn nhất.
+A
+
+HƯỚNG DẪN
+Bài 1:
+
+C
+
+B
+
+AB 2 + AC 2 = 82 + 62 = 100
+
+BC = 102 = 100
+DABC có: AB 2 + AC 2 = BC 2 , theo định lí Py-ta-go
+
+đảo ta có tam giác ABC vuông tại A .
+ AB ^ CA
+
+Do đó AB là tiếp tuyến của đường tròn (C ;CA) , CA là tiếp tuyến của đường tròn (B; BA)
+Bài 2:
+a)
+Có
+
+Xét DOAC và DOAB
+OC = OB(= R)
+
+B
+
+OA (cạnh chung)
+
+E
+
+AC = AB (gt)
+
+A
+
+O
+
+M
+
+Do đó: DOAC = DOAB (c.c.c)
+ = OBA
+ = 900
+ OCA
+
+D
+
+C
+
+ AC là tiếp tuyến của đường tròn (O )
+
+b)
+
+OD ^ EC (gt)
+ M là trung điểm EC
+
+(Định lí đường kính vuông góc dây cung)
+OD là đường trung trực của đoạn thẳng EC .
+ DE = DC
+
+ = OCD
+ = 900 (tính chất đối xứng trục)
+Do đó: OED
+
+Vậy DE là tiếp tuyến của đường tròn (O )
+C
+
+Bài 3:
+
+M
+
+a)
+
+DMAB nội tiếp đường tròn đường kính AB
+ DMAB vuông tại M
+
+CB là tiếp tuyến của đường tròn (O )
+
+A
+
+O
+
+B
+
+ = 900
+ ABC
+DABC vuông tại B, BM là đường cao
+
+Nên: AM .AC = AB 2 = 4R 2
+b)
+
+Theo bất đẳng thức Cô si cho hai số dương có:
+
+2AM + AC ³ 2 2AM .AC
+2AM + AC ³ 4 2R , không đổi
+
+Dấu “=” xảy ra
+
+ 2AM = AC
+
+ M là trung điểm AC
+ DABC vuông cân tại B
+
+
+ M trên (O ) sao cho MAB = 450
+
+Vậy khi M trên đường tròn (O ) sao cho
+ = 450 thì
+MAB
+2AM + AC đạt giá trị nhỏ nhất.
+
+Bài 4:
+
+C
+
+a)
+
+AD ^ CD (gt), BC ^ CD (gt)
+OM ^ CD (CD là tiếp tuyến của đường tròn (O ) )
+
+M
+D
+E
+
+Suy ra AD  BC  OM
+Hình thang ABCD (AD  BC ) có:
+
+A
+
+OM  AD  BC
+
+O là trung điểm của AB
+ M là trung điểm của CD
+
+Ta có OM là đường trung bình của hình thang ABCD
+
+
+AD + BC
+= OM
+2
+
+ AD + BC = 2R , không đổi
+
+b)
+
+Vẽ AE ^ BC tại E
+
+ = DCE
+ = CEA
+ = 900 nên là hình chữ nhật
+Tứ giác ADCE có ADC
+CD = AE
+
+AE ^ BC  AE £ AB = 2R
+
+O
+
+B
+
+Do đó: S ABCD =
+
+AD + BC
+£ R.2R
+.CD = RCD
+.
+2
+
+S ABCD £ 2R 2 , không đổi
+
+Dấu “=” xảy ra
+
+E ºB
+
+ DC  AB
+ M là giao điểm của đường thẳng vuông góc AB vẽ từ O và đường tròn (O ) .
+
+Vậy khi M là giao điểm của đường thẳng vuông góc với AB vẽ từ O và đường tròn (O ) thì diện
+tích vẽ từ O và đường tròn ABCD lớn nhất.
+Bài 5:
+
+
+N
+C
+
+Vẽ AK ^ BN , K Î BN
+
+Tứ giác AMNK có:
+
+K
+M
+O
+
+ =N
+ =K
+ = 900
+M
+
+A
+
+B
+
+Nên là hình chữ nhật
+ MN = AK
+
+Mà AK ^ KB  AK £ AB
+Do đó MN £ AB không đổi
+Dấu “=” xảy ra
+
+K ºB
+
+ MN  AB
+ C là giao điểm của đường trung trực AB với cung lớn AB .
+
+Vậy khoảng cách MN dài nhất khi C là điểm của đường trung trực AB với cung lớn AB .
+
+Ta có: MN ³ 0
+Dấu “=” xảy ra
+M ºN
+ M , N , A, B thẳng hàng
+ d ^ AB
+ C là một đầu mút của đường kính song song AB
+
+Vậy khoảng cách ngắn nhất C là một đầu mút của đường kính của đường tròn (O ) song song với
+AB .
+
+Bài 6:
+Vẽ N ở trên đường tròn (O; R) sao cho
+
+M
+
+A
+
+H
+
+N
+
+O
+
+K
+
+B C
+
+ = 450 . Tiếp tuyến của nửa đường
+BON
+
+tròn (O ) tại N cắt AB tại C . Ta có N ,C cố định:
+
+DNOC vuông cân tại N
+
+Xét M º N
+Ta có: M º N nên H º K
+Do đó: AH + HM = AK + KN = AK + KC = AC
+
+Xét M ¹ N
+Tia CM nằm giữa hai tia CA,CN
+ < ACN
+ = 450
+Do đó: ACM
+
+
+DMHC có MHC = 900
+ + HCM
+ = 900
+Nên HMC
+ < 450 nên HMC
+ > 450  HCM
+ < HMC
+
+Mà HCM
+ < HMC
+  HM < HC
+DHMC có HCM
+
+Do đó: AH + HM < AH + HC = AC
+ = 450 thì tổng
+Vậy khi M ở trên đường tròn (O; R) sao cho BOM
+AH + HM lớn nhất.
+
+-------------------- HẾT --------------------
+
+

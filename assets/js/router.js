@@ -81,7 +81,14 @@ export function configureRouter(appData) {
   specialTopics = createSpecialTopicsModule({
     data,
     notFound,
-    escapeHtml
+    escapeHtml,
+    renderFlashcardPanel,
+    renderQuizCard,
+    renderRoute,
+    setRoute,
+    showModal,
+    getState,
+    updateState
   });
   mindMap = createMindMapModule({
     data,
@@ -195,12 +202,12 @@ export function renderRoute() {
     if (id === "overview" && sub) {
       content = specialTopics.renderOverview(sub);
       after = () => specialTopics.bindViewer();
-    } else if (id && (sub === "pdf" || sub === "image")) {
-      content = specialTopics.renderTopicViewer(id, sub);
-      after = () => specialTopics.bindViewer();
+    } else if (id && (sub === "flash" || sub === "workbook" || sub === "pdf" || sub === "image")) {
+      content = specialTopics.renderTopicViewer(id, sub, state);
+      after = () => specialTopics.bindViewer(id, sub);
     } else if (id) {
-      content = specialTopics.renderTopicViewer(id, "pdf");
-      after = () => specialTopics.bindViewer();
+      content = specialTopics.renderTopicViewer(id, "flash", state);
+      after = () => specialTopics.bindViewer(id, "flash");
     } else {
       content = specialTopics.renderCatalog();
     }
@@ -325,9 +332,9 @@ function renderHome(state) {
     </section>
     <section class="summer-banner st-home-banner">
       <div>
-        <span class="tag">Chuyên đề · ${data.specialTopics?.meta?.topicCount || 18} chủ đề</span>
-        <h2>Tài liệu chuyên đề Toán — xem PDF & sơ đồ</h2>
-        <p>Hằng đẳng thức, phân thức, phương trình, hình học… xem trực tiếp trên trình duyệt.</p>
+        <span class="tag">Chuyên đề · ${data.specialTopics?.meta?.topicCount || 18} chủ đề · Flash Study</span>
+        <h2>Ôn chuyên đề Toán — Flash Study & bài tập</h2>
+        <p>Lý thuyết dạng thẻ flash, bài tập trắc nghiệm & tự luận, kèm PDF và sơ đồ.</p>
       </div>
       <a class="btn secondary" href="#/special-topic">Mở thư viện 📚</a>
     </section>
