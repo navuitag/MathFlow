@@ -16,6 +16,7 @@ import { setRoute, escapeHtml } from "./utils.js";
 import { formatMathHtml } from "./mathFormat.js";
 import { renderNavbar, renderBottomNav } from "../../components/navbar.js";
 import { bindLearnerSwitcher, renderAddLearnerForm, renderLearnerList } from "../../components/learnerSwitcher.js";
+import { bindEdtechHub, renderEdtechHubGrid } from "../../components/edtechHub.js";
 import { renderLessonCard } from "../../components/lessonCard.js";
 import { renderQuizCard } from "../../components/quizCard.js";
 import { renderFlashcardPanel } from "../../components/flashcardPanel.js";
@@ -227,6 +228,7 @@ export function renderRoute() {
 }
 
 function bindNavbar() {
+  bindEdtechHub();
   bindLearnerSwitcher({
     onSwitch: (profileId) => {
       switchProfile(profileId);
@@ -365,6 +367,7 @@ function renderHome(state) {
       <article><strong>${getOverallAccuracy(state)}%</strong><span>Độ chính xác</span></article>
       <article><strong>${summary.level}</strong><span>Cấp độ</span></article>
     </section>
+    ${renderEdtechHubGrid()}
     <section class="section-head">
       <h2>Kỹ năng tiếp theo · Lớp ${activeGrade}</h2>
       <a href="#/mindmap">Sơ đồ tư duy</a> · <a href="#/skills">Cây kỹ năng</a>
