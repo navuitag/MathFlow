@@ -195,10 +195,16 @@ function sanitizeExercise(exercise) {
 
 function buildMcFromTheory(theoryItems, topicId) {
   const mc = [];
-  const pool = theoryItems.filter((t) => t.body.length > 20 && t.body.length < 200);
+  const pool = theoryItems
+    .filter((t) => t.kind === "theory")
+    .map((t) => {
+      const split = splitColonContent(t.body);
+      return split ? { ...t, front: split.front, back: split.back } : null;
+    })
+    .filter((t) => t && t.back.length > 20 && t.back.length < 200);
   pool.slice(0, 8).forEach((item, i) => {
-    const correct = item.body.slice(0, 100);
-    const others = pool.filter((x) => x !== item).map((x) => x.body.slice(0, 100));
+    const correct = item.back.slice(0, 120);
+    const others = pool.filter((x) => x !== item).map((x) => x.back.slice(0, 120));
     const distractors = shuffle(others).slice(0, 3);
     while (distractors.length < 3) distractors.push("Không áp dụng được");
     const choices = shuffle([correct, ...distractors]);
@@ -208,14 +214,24 @@ function buildMcFromTheory(theoryItems, topicId) {
       source: "special_topic",
       section: `Lý thuyết — ${item.title}`,
       type: "multiple_choice",
-      question: `Chọn phát biểu/công thức đúng (${item.title}):`,
+      question: `${item.front} — chọn công thức/phát biểu đúng:`,
       choices,
       answer: correct,
-      hint: item.body,
-      solution: item.body
+      hint: item.back,
+      solution: item.back
     });
   });
   return mc;
+}
+
+function splitColonContent(text) {
+  const cleaned = fixPdfMath(text);
+  const idx = cleaned.indexOf(":");
+  if (idx < 0) return null;
+  const front = cleaned.slice(0, idx).trim();
+  const back = cleaned.slice(idx + 1).trim();
+  if (front.length < 3 || back.length < 3) return null;
+  return { front, back };
 }
 
 function buildFlashCards(theoryItems, topic) {
@@ -227,12 +243,17 @@ function buildFlashCards(theoryItems, topic) {
     tag: "Giới thiệu"
   });
 
-  theoryItems.forEach((item, i) => {
+  const theoryOnly = theoryItems.filter((item) => item.kind === "theory");
+  let cardIndex = 0;
+  theoryOnly.forEach((item) => {
+    const split = splitColonContent(item.body);
+    if (!split) return;
+    cardIndex += 1;
     cards.push({
-      id: `${topic.id}_fc_${i + 1}`,
-      front: item.kind === "form" ? `${item.title} — Phương pháp?` : `${item.title} — Nội dung?`,
-      back: fixPdfMath(item.body),
-      tag: item.kind === "form" ? "Dạng bài" : "Lý thuyết"
+      id: `${topic.id}_fc_${cardIndex}`,
+      front: split.front,
+      back: split.back,
+      tag: "Lý thuyết"
     });
   });
 
@@ -279,7 +300,7 @@ async function main() {
       title: topic.title,
       categoryTitle: topic.categoryTitle,
       cardCount: cards.length,
-      theoryCount: theoryItems.length
+      theoryCount: theoryItems.filter((item) => item.kind === "theory").length
     });
 
     const baiExercises = parseExercises(text, topic.id).map(sanitizeExercise);
