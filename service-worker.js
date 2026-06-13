@@ -1,4 +1,4 @@
-const CACHE_NAME = "mathflow-vn-v$(( $(echo 25) + 1 ))";
+const CACHE_NAME = "mathflow-vn-v26";
 const APP_SHELL = [
   "./",
   "./index.html",
